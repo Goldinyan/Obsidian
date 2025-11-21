@@ -11,13 +11,124 @@
             "id": "9fa0d2429d7870c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Grund des Willen nach Kant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Grund des Willen nach Kant"
+            }
+          },
+          {
+            "id": "16c7727a32a2c1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grund des Willen nach Kant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grund des Willen nach Kant"
+            }
+          },
+          {
+            "id": "b209b2d8c927d26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grund des Willen nach Kant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grund des Willen nach Kant"
+            }
+          },
+          {
+            "id": "a3022ecda97a16d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grund des Willen nach Kant.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Grund des Willen nach Kant"
+            }
+          },
+          {
+            "id": "474a9ea3206b0d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Projects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C Projects"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +205,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "200 CS/Coding Things/Go/Basics.md",
+            "file": "300 School/Learning Techniques/The 1-Minute Trick to Remember any Logic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,6 +262,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -162,8 +274,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eccd39326575024f",
+  "active": "474a9ea3206b0d4f",
   "lastOpenFiles": [
+    "Grund des Willen nach Kant.md",
+    "C Projects.md",
+    "300 School/Learning Techniques/The 1-Minute Trick to Remember any Logic.md",
     "000 Index/Tags/%Verbieten.md",
     "000 Index/Tags/%Verbote.md",
     "600 Debate/Politics/The Grooming of Young Children by Trump & Musk.md",
@@ -194,9 +309,6 @@
     "999 Templates/Academic Note.md",
     "999 Templates/General Note.md",
     "500 Philosophie/Analysieren Philosophischer Texte.md",
-    "000 Index/Tags/%kritisches Denken.md",
-    "200 CS/TS/As const ! Most underrated TS Feature.md",
-    "The Horror of the Eternal Life.md",
     "200 CS/TS",
     "750 Writing/English/Short Story",
     "How to write a Short Story",

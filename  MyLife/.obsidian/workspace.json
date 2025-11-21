@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Gleichförmige Bewegungen"
             }
+          },
+          {
+            "id": "8bc1d2874445e302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 School/Physik/Terms Physik.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Terms Physik"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +219,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97bbe4237b39a1f5",
+  "active": "23551fd757c41ab1",
   "lastOpenFiles": [
     "300 School/Physik/Terms Physik.md",
     "300 School/Physik/Gleichförmige Bewegungen.md",
+    "Gleichmäßige beschleunigte Bewegung.md",
+    "000 Index/Tags/%Gleichförmige Bewegung.md",
+    "000 Index/Tags/%Bewegung.md",
+    "000 Index/Tags/%Physik.md",
     "300 School/Chemie/Organische Chemie/Carbonsäuren.md",
     "300 School/Math",
     "300 School/Physik",
@@ -227,10 +256,6 @@
     "500 Philosophie/Quotes/Quotes Overall.md",
     "200 CS/Java 2D-Game/Main.java.md",
     "600 Debate/Politics/Die Art des Verbietens.md",
-    "600 Debate/Politics/The Grooming of Young Children by Trump & Musk.md",
-    "000 Index/Tags/%Verbieten.md",
-    "000 Index/Tags/%Verbote.md",
-    "000 Index/Tags/%MathFunctions.md",
     "Pasted image 20251113203103.png",
     "001 Raw Material/Surrounded",
     "001 Raw Material/Skadi",

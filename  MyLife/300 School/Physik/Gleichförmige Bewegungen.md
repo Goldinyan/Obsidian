@@ -1,11 +1,11 @@
 Date: 2025-11-18
-Cours: {}
-Tags: {}
-
-
-# Terms
-
-
+Cours: {
+[[%Physik]]
+}
+Tags: {
+[[%Bewegung]]
+[[%Gleichförmige Bewegung]]
+}
 
 # Notes
 
@@ -18,5 +18,7 @@ Eine Bewegung heißt gleichförmig, wenn ihre Geschwindigkeit v konstant ist.
 	-der Herzschlag
 
 
-![[Terms Physik]]
+![[Terms Physik#Gleichförmige Bewegung]]
+
+
 # Summary
