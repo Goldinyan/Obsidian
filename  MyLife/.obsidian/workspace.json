@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Usefull Websites"
             }
+          },
+          {
+            "id": "6a3a502acb8e76ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "changes of portfolio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "changes of portfolio"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,8 +271,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e953da80e8ab7b38",
+  "active": "6a3a502acb8e76ff",
   "lastOpenFiles": [
+    "200 CS/Usefull Stuff/Usefull Websites.md",
+    "changes of portfolio.md",
     "Vim Keybinds.md",
     "300 School/Physik/Terms Physik.md",
     "300 School/Physik/Gleichförmige Bewegungen.md",
@@ -278,8 +304,6 @@
     "200 CS/Java Data Types.md",
     "750 Writing/Java Data Types.md",
     "Java Data Types.md",
-    "500 Philosophie/Quotes/Quotes Overall.md",
-    "200 CS/Java 2D-Game/Main.java.md",
     "Pasted image 20251113203103.png",
     "001 Raw Material/Surrounded",
     "001 Raw Material/Skadi",
