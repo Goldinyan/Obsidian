@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "changes of portfolio"
             }
+          },
+          {
+            "id": "ef59878956d1359c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Film Liste Julia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Film Liste Julia"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,10 +295,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a3a502acb8e76ff",
+  "active": "ef59878956d1359c",
   "lastOpenFiles": [
-    "200 CS/Usefull Stuff/Usefull Websites.md",
     "changes of portfolio.md",
+    "Film Liste Julia.md",
+    "200 CS/Usefull Stuff/Usefull Websites.md",
     "Vim Keybinds.md",
     "300 School/Physik/Terms Physik.md",
     "300 School/Physik/Gleichförmige Bewegungen.md",
@@ -303,7 +328,6 @@
     "200 CS/TS",
     "200 CS/Java Data Types.md",
     "750 Writing/Java Data Types.md",
-    "Java Data Types.md",
     "Pasted image 20251113203103.png",
     "001 Raw Material/Surrounded",
     "001 Raw Material/Skadi",
