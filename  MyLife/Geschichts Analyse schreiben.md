@@ -105,3 +105,84 @@ So kannst du deine Sätze bauen – neutral, textnah, ohne Interpretation:
 - **Neutral bleiben**: keine Absichten oder Bewertungen nennen.
     
 - **Textnah arbeiten**: Zeilenangaben oder kurze Zitate einbauen.
+
+
+## 📝 Vorgehen bei der Quellenanalyse
+
+### 1. Sinnabschnitte bilden + kurze Inhaltsangabe
+
+- **Methode:** Den Text in Abschnitte einteilen (z. B. Zeilen 1–15, 16–30 …).
+    
+- **Ziel:** Neutral zusammenfassen, was in jedem Abschnitt steht.
+    
+- **Formulierungen:**
+    
+    - „In Z. 1–15 schildert der Autor zunächst …“
+        
+    - „Im folgenden Abschnitt (Z. 16–30) beschreibt er …“
+        
+    - „Ab Z. 31 richtet er seinen Blick auf …“
+        
+    - „Zum Schluss (Z. …) geht er auf … ein.“
+        
+
+👉 Wichtig: **Keine Interpretation**, nur Inhalt und Aufbau.
+
+### 2. Textbelege für Deutung herausarbeiten
+
+- **Methode:** Einzelne Stellen/Zitate auswählen, die eine bestimmte Haltung oder Absicht zeigen.
+    
+- **Ziel:** Erklären, wie der Autor durch Sprache und Darstellung seine Intention deutlich macht.
+    
+- **Formulierungen:**
+    
+    - „In Z. … bezeichnet er die Einheimischen als ‚…‘. Damit stellt er sie als … dar.“
+        
+    - „Die Wortwahl ‚…‘ (Z. …) verdeutlicht, dass …“
+        
+    - „Durch die Beschreibung ‚…‘ (Z. …) wird die Unterlegenheit der Bevölkerung betont.“
+        
+    - „Der Autor hebt mit der Formulierung ‚…‘ hervor, dass …“
+        
+
+👉 Hier darfst du interpretieren: Absicht, Wirkung, ideologische Botschaft.
+
+### 3. Historischer Kontext
+
+- **Methode:** Quelle in die Zeit einordnen, politische und gesellschaftliche Hintergründe nennen.
+    
+- **Ziel:** Zeigen, warum der Text so geschrieben ist und welche Interessen dahinterstehen.
+    
+- **Formulierungen:**
+    
+    - „Die Quelle entstand im Jahr … im Zusammenhang mit …“
+        
+    - „Sie spiegelt die Epoche der … wider, die geprägt war von …“
+        
+    - „Die Darstellung der Indigenen als … ist typisch für die koloniale Perspektive dieser Zeit.“
+        
+    - „Der Text ist Teil einer größeren Strategie, nämlich …“
+        
+    - „Die Quelle wurde durch … überliefert und ist daher … zu betrachten.“
+        
+
+### 4. Fazit
+
+- **Methode:** Kurze Zusammenfassung der Bedeutung der Quelle.
+    
+- **Formulierungen:**
+    
+    - „Die Quelle ist keine neutrale Beschreibung, sondern …“
+        
+    - „Sie verdeutlicht die Interessen von … und legitimiert …“
+        
+    - „Damit ist sie ein Schlüsseltext für das Verständnis von …“
+        
+
+## 🎯 Merke
+
+- **Schrittfolge:** Inhaltsangabe → Textbelege/Deutung → Historischer Kontext → Fazit.
+    
+- **Textnähe:** Immer mit Zeilenangaben oder Zitaten arbeiten.
+    
+- **Trennung:** Äußere Analyse = neutral, Innere Analyse = interpretativ.
