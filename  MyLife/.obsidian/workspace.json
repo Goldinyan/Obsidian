@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "TIKTOK RICH"
             }
+          },
+          {
+            "id": "0923a3c4552f20ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichts Analyse schreiben.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Geschichts Analyse schreiben"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -319,10 +343,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "281564a7e46c95aa",
+  "active": "0923a3c4552f20ed",
   "lastOpenFiles": [
-    "Film Liste Julia.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
+    "Geschichts Analyse schreiben.md",
+    "Film Liste Julia.md",
     "changes of portfolio.md",
     "200 CS/Usefull Stuff/Usefull Websites.md",
     "Vim Keybinds.md",
@@ -351,7 +376,6 @@
     "000 Index/Tags/%Practice.md",
     "850 Reading/TODO - Books/Books.md",
     "200 CS/TS",
-    "200 CS/Java Data Types.md",
     "Pasted image 20251113203103.png",
     "001 Raw Material/Surrounded",
     "001 Raw Material/Skadi",
