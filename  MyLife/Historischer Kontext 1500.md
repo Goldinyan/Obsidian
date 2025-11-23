@@ -1,4 +1,4 @@
-## 🌍 Historischer Kontext um 1500
+## Historischer Kontext um 1500
 
 ### 1. Politische Lage
 
@@ -7,7 +7,7 @@
 - **Aufstieg Spaniens:** Spanien entwickelt sich zur europäischen Großmacht, sucht neue Handelswege und Einflussgebiete.
     
 - **Konkurrenz:** Portugal ist ebenfalls aktiv in der Seefahrt (Afrika, Indien), Spanien will mithalten.
-    
+
 
 ### 2. Religiöse Dimension
 
@@ -16,7 +16,7 @@
 - **Ziel:** Missionierung der neu entdeckten Völker → Ausbreitung des Christentums.
     
 - **Legitimation:** Darstellung der Indigenen als „naiv“ oder „unterlegen“ rechtfertigt Bekehrung und Unterwerfung.
-    
+
 
 ### 3. Wirtschaftliche Interessen
 
@@ -25,7 +25,7 @@
 - **Handelswege:** Umgehung des Osmanischen Reiches, direkter Zugang zu Asien erhofft.
     
 - **Kolonialismus beginnt:** Besitznahme neuer Gebiete für Rohstoffe und Macht.
-    
+
 
 ### 4. Ideologische Muster
 
@@ -34,16 +34,16 @@
 - **Legitimation der Expansion:** Quellen wie Kolumbus’ Tagebuch sind Teil einer politischen Strategie, die Eroberung als „natürlich“ und „gerechtfertigt“ darzustellen.
     
 - **Frühe Neuzeit:** Beginn der globalen Verflechtungen, Entdeckungsfahrten, Kolonialreiche.
-    
+
 
 ### 5. Quellenkritik
 
 - **Überlieferung:** Kolumbus’ Bordtagebuch ist nicht im Original erhalten, sondern durch Bartolomé de las Casas überliefert → mögliche Veränderungen.
     
 - **Perspektive:** Text ist nicht neutral, sondern bewusst auf die Interessen der Krone zugeschnitten.
-    
 
-## ✍️ Formulierungsbausteine für den Kontext
+
+## Formulierungsbausteine für den Kontext
 
 - „Die Quelle entstand im Jahr …, kurz nach der Reconquista, als Spanien politisch und religiös gefestigt war.“
     
@@ -52,4 +52,3 @@
 - „Die Darstellung der Indigenen als … ist typisch für die koloniale Ideologie dieser Zeit.“
     
 - „Der Text ist Teil einer größeren Strategie, die Besitznahme und Missionierung zu legitimieren.“
-- 

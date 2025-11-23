@@ -79,7 +79,7 @@ Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu inter
     
 - „Der Verfasser beschreibt …“
     
-- „Thematisch gliedert sich der Text in …“
+- „Thematisch gliedert sich der Text in … gefolgt von ...“
 
 
 ### 5. Aufbau / Form
@@ -87,21 +87,10 @@ Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu inter
 - „Der Text ist in mehrere Abschnitte gegliedert: zunächst …, anschließend …, schließlich …“
     
 - „Zunächst schildert der Autor …, danach …“
-    
-- „Die Quelle folgt einem klaren Aufbau: …“
-
-
-### 6. Überlieferung (falls relevant)
-
-- „Die Quelle ist nicht im Original erhalten, sondern wurde durch … überliefert.“
-    
-- „Es handelt sich um eine Abschrift / eine spätere Edition.“
 
 
 
-
-
-## 📝 Vorgehen bei der Quellenanalyse
+## Vorgehen bei der Quellenanalyse
 
 ### 1. Sinnabschnitte bilden + kurze Inhaltsangabe
 
@@ -120,7 +109,7 @@ Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu inter
     - „Zum Schluss (Z. …) geht er auf … ein.“
         
 
-👉 Wichtig: **Keine Interpretation**, nur Inhalt und Aufbau.
+**Keine Interpretation**, nur Inhalt und Aufbau.
 
 ### 2. Textbelege für Deutung herausarbeiten
 
@@ -139,7 +128,7 @@ Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu inter
     - „Der Autor hebt mit der Formulierung ‚…‘ hervor, dass …“
         
 
-👉 Hier darfst du interpretieren: Absicht, Wirkung, ideologische Botschaft.
+**Interpretieren:** Absicht, Wirkung, ideologische Botschaft.
 
 ### 3. Historischer Kontext
 
@@ -173,7 +162,7 @@ Das sind die klassischen **W‑Fragen**, die du beantworten musst, ohne zu inter
     - „Damit ist sie ein Schlüsseltext für das Verständnis von …“
         
 
-## 🎯 Merke
+## Merke
 
 - **Schrittfolge:** Inhaltsangabe → Textbelege/Deutung → Historischer Kontext → Fazit.
     

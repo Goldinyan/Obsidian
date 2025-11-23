@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichts Analyse schreiben.md",
+                "file": "Historischer Kontext 1500.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Geschichts Analyse schreiben"
+              "title": "Historischer Kontext 1500"
             }
           },
           {
@@ -369,8 +369,8 @@
   },
   "active": "0923a3c4552f20ed",
   "lastOpenFiles": [
-    "Historischer Kontext 1500.md",
     "Geschichts Analyse schreiben.md",
+    "Historischer Kontext 1500.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
     "Film Liste Julia.md",
     "changes of portfolio.md",
