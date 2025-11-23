@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historischer Kontext 1500.md",
+                "file": "Geschichts Analyse schreiben.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Historischer Kontext 1500"
+              "title": "Geschichts Analyse schreiben"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -258,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 605.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -367,10 +367,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c63f373bdce62b0",
+  "active": "0923a3c4552f20ed",
   "lastOpenFiles": [
-    "Geschichts Analyse schreiben.md",
     "Historischer Kontext 1500.md",
+    "Geschichts Analyse schreiben.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
     "Film Liste Julia.md",
     "changes of portfolio.md",
