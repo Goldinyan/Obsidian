@@ -224,6 +224,42 @@
             }
           },
           {
+            "id": "7c8de1dc4f1b713c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ester.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ester"
+            }
+          },
+          {
+            "id": "e7652d879a0eb1f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "3c63f373bdce62b0",
             "type": "leaf",
             "state": {
@@ -248,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -415,10 +451,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2bff813c7b53b97",
+  "active": "e7652d879a0eb1f8",
   "lastOpenFiles": [
-    "500 Philosophie/The Horror of the Eternal Life.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
+    "Ester.md",
+    "500 Philosophie/The Horror of the Eternal Life.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
     "001 Raw Material/Videos/How to Trick Monkey Brain To Like Doing Hard Things (Dopamine Detox).md",
     "001 Raw Material/Videos/The Irony of the Dunning-Kruger Effect.md",
@@ -445,7 +482,6 @@
     "300 School/Chemie/Organische Chemie/Aldehyde.md",
     "000 Index/Tags/%Organische Chemie.md",
     "000 Index/Tags/%Aldehyde.md",
-    "200 CS/TS/As const ! Most underrated TS Feature.md",
     "300 School/Chemie",
     "200 CS/TS",
     "Pasted image 20251113203103.png",
