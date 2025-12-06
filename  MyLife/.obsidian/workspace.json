@@ -294,9 +294,33 @@
               "icon": "lucide-file",
               "title": "Key to Reading & Learning"
             }
+          },
+          {
+            "id": "4aa3193720810355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why Writing matters.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Why Writing matters"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -463,10 +487,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01f552192bcd241a",
+  "active": "4aa3193720810355",
   "lastOpenFiles": [
-    "Geschichts Analyse schreiben.md",
     "Key to Reading & Learning.md",
+    "Why Writing matters.md",
+    "Geschichts Analyse schreiben.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
     "Ester.md",
     "500 Philosophie/The Horror of the Eternal Life.md",
@@ -493,7 +518,6 @@
     "000 Index/Tags/%Carbonsäuren.md",
     "000 Index/Tags/%Chemie.md",
     "300 School/Chemie/Organische Chemie/Aldehyde.md",
-    "000 Index/Tags/%Organische Chemie.md",
     "300 School/Chemie",
     "200 CS/TS",
     "Pasted image 20251113203103.png",

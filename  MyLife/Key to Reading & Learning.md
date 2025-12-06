@@ -48,6 +48,25 @@ processing what you learned:
 reading is 20%
 
 the rest of learning is writing notes 
+most inpact ideas and 
+lot of work 
+
+
+Why the effort
+
+makes reading slow 
+isnt that bad 
+no learning is slow 
+wisdom is a slow process 
+sabotating is fast 
+undestand ideas 
+better than scimming 
+
+remember more 
+
+practices wirting 
+wont get better when watiching learning videos
+if you write a lot you will improve 
 
 
 
