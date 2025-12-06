@@ -95,6 +95,19 @@ Note taking
 one note for one book 
 every idea noted with page number and some stuff 
 
+firsdt layer is within context, with chars etc
+but 
+so what 
+find the acutal meaning 
+ideas, points
+turn them into atomic notes
+
+they are indepent
+freed from the context doenst have to know the context to understand it 
+then you can connect them to other notes 
+when findign distant ideas that intelink you create smth beatuiful 
+you don‘t jusit go abozut author ideas but about your own 
+
 
 
 
