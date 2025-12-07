@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Katniss.md",
+                "file": "Katniss Fragmentation after Everything.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -340,7 +340,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Katniss"
+              "title": "Katniss Fragmentation after Everything"
             }
           }
         ],
@@ -513,8 +513,8 @@
   },
   "active": "544a682329722418",
   "lastOpenFiles": [
+    "Katniss Fragmentation after Everything.md",
     "Geschichts Analyse schreiben.md",
-    "Katniss.md",
     "750 Writing/German/William Wahl.md",
     "Vim Keybinds.md",
     "Setup Web Application.md",
