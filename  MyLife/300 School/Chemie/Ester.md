@@ -1,3 +1,19 @@
+Date: 2025-12-07
+Cours: {
+[[%Chemie]]
+}
+Tags: {
+[[%Organische Chemie]]
+[[%Carbonsäuren]]
+}
+
+
+# Terms
+
+
+
+# Notes
+
 
 ## Definition
 
@@ -73,5 +89,11 @@ CH₃COOH + CH₃CH₂OH → CH₃COOCH₂CH₃ + H₂O
 | Buttersäure | ranzig, übel | Buttersäureethylester | Ananas |
 | Propionsäure | schweißartig | Propionsäuremethylester | fruchtig |
 | Salicylsäure | kaum Geruch | Salicylsäuremethylester | Wintergrün, medizinisch |
+
+
+
+# Summary
+
+
 
 ---

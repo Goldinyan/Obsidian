@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ester.md",
+                "file": "300 School/Chemie/Ester.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C Projects.md",
+                "file": "999 Templates/New Academic Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,11 +316,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C Projects"
+              "title": "New Academic Note"
+            }
+          },
+          {
+            "id": "62ae73df2c99605e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Templates/New Remember Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "New Remember Note"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -487,16 +511,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aa3193720810355",
+  "active": "7ff640d71c0bd486",
   "lastOpenFiles": [
-    "C Projects.md",
-    "750 Writing/Why Writing matters.md",
+    "999 Templates/New Academic Note.md",
+    "999 Templates/New Remember Note.md",
+    "999 Templates/New Philosophical Views.md",
+    "999 Templates/New Philosopher.md",
+    "999 Templates/New History Relevant Person.md",
+    "999 Templates/New General Note.md",
     "Film Liste Julia.md",
-    "William Wahl.md",
+    "200 CS/CS Projects/Changes of portfolio.md",
+    "000 Index/Tags/%Projects.md",
+    "300 School/Chemie/Ester.md",
+    "200 CS/CS Projects/C Projects.md",
+    "000 Index/Tags/%C.md",
     "Key to Reading & Learning.md",
+    "750 Writing/Why Writing matters.md",
+    "William Wahl.md",
     "Geschichts Analyse schreiben.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
-    "Ester.md",
     "500 Philosophie/The Horror of the Eternal Life.md",
     "001 Raw Material/Videos/TIKTOK RICH.md",
     "001 Raw Material/Videos/How to Trick Monkey Brain To Like Doing Hard Things (Dopamine Detox).md",
@@ -505,19 +538,10 @@
     "600 Debate/Politics/Die Art des Verbietens.md",
     "Setup Web Application.md",
     "Historischer Kontext 1500.md",
-    "changes of portfolio.md",
     "200 CS/Usefull Stuff/Usefull Websites.md",
-    "300 School/Physik/Terms Physik.md",
-    "300 School/Physik/Gleichförmige Bewegungen.md",
-    "Gleichmäßige beschleunigte Bewegung.md",
-    "000 Index/Tags/%Gleichförmige Bewegung.md",
-    "000 Index/Tags/%Bewegung.md",
-    "000 Index/Tags/%Physik.md",
-    "300 School/Chemie/Organische Chemie/Carbonsäuren.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
-    "000 Index/Tags/%Carbonsäuren.md",
     "300 School/Chemie",
     "200 CS/TS",
     "Pasted image 20251113203103.png",
