@@ -32,6 +32,7 @@ Pafolios
 Pageflows
 Politische
 Portugal
+Port
 IHDR
 IDATx
 IC
@@ -80,6 +81,7 @@ Immer
 Interpretieren
 Isaacs
 Ideas
+IP
 rD
 rVS
 rZ
@@ -190,6 +192,7 @@ Verflechtungen
 Veränderungen
 Verfasser
 Vorgehen
+Verbindungen
 KPgM
 KO
 Krbm
@@ -481,6 +484,7 @@ kruger
 knowledge
 knowledga
 key
+konfigurieren
 Zw
 Zy
 ZL
@@ -508,6 +512,7 @@ Zum
 Zeigen
 Zusammenfassung
 Zitaten
+Zurück
 Nn
 Nk
 No
@@ -633,6 +638,8 @@ Working
 Wait
 Work
 Writing
+Wall
+Whiplash
 Cbc
 Cr
 Ck
@@ -678,6 +685,7 @@ Choosting
 Consensus
 Created
 Criteria
+Client
 LI
 LF
 LLN
@@ -704,6 +712,8 @@ Last
 Life
 Learning
 List
+Lauschen
+Loop
 qV
 qT
 qH
@@ -816,6 +826,10 @@ Schrittfolge
 Stupid
 Start
 Slowly
+Season
+Strukturplan
+Server
+Socket
 zS
 zX
 zR
@@ -839,6 +853,8 @@ zz
 zt
 zb
 zero
+zurückgibt
+zurücksenden
 OU
 OL
 Oq
@@ -864,6 +880,8 @@ Omagic
 Osmanischen
 Original
 Ort
+Over
+Oceans
 am
 ad
 afj
@@ -963,6 +981,9 @@ asking
 absornimg
 annotationg
 arg
+akzeptieren
+angenommen
+auslesen
 JV
 Jv
 JN
@@ -1021,6 +1042,8 @@ Formulierung
 Fx
 False
 Fastest
+Filme
+Film
 vHwc
 vE
 vA
@@ -1067,6 +1090,7 @@ vim
 vbut
 voice
 videos
+verbinden
 Aw
 ArX
 Ar
@@ -1136,6 +1160,10 @@ Asimov
 Answer
 Alexander
 After
+Anfragen
+Antwort
+Adresse
+Anfrage
 MV
 MM
 Ms
@@ -1185,6 +1213,8 @@ Mittelpunkt
 Movements
 Mount
 Metacognition
+Marsianer
+Minimaler
 hv
 hz
 have
@@ -1303,6 +1333,7 @@ leranding
 langauge
 learned
 lot
+lesen
 bM
 bS
 bs
@@ -1389,6 +1420,7 @@ body
 believer
 begins
 bone
+binden
 mm
 ms
 mO
@@ -1462,6 +1494,7 @@ moment
 misteriousvoices
 million
 mind
+moves
 do
 dK
 dQ
@@ -1776,6 +1809,8 @@ self
 slow
 sabotating
 scimming
+schreiben
+schließen
 XZ
 Xs
 XI
@@ -1865,6 +1900,7 @@ wirting
 wont
 watiching
 write
+wartet
 gv
 gu
 gP
@@ -1975,6 +2011,7 @@ nobel
 nowhere
 numbering
 notes
+nächsten
 jt
 jW
 jz
@@ -2094,6 +2131,8 @@ Glaubens
 Gewürzen
 Gebiete
 Great
+Garden
+Ghibli
 fW
 fvB
 fnrA
@@ -2161,6 +2200,7 @@ funny
 future
 finding
 fast
+festlegen
 Hn
 HnZ
 HV
@@ -2195,6 +2235,7 @@ Hintergründe
 Hos
 Homeostasis
 He
+Header
 xe
 xJ
 xys
@@ -2430,6 +2471,9 @@ explains
 enough
 explaining
 effort
+emotions
+entgegennimmt
+eingehende
 BP
 Bz
 BVb
@@ -2470,6 +2514,8 @@ Basic
 Bukowski
 But
 Back
+Bausteine
+Body
 TN
 Tn
 TV
@@ -2517,6 +2563,7 @@ Tx
 Tolerance
 Tradition
 Today
+TCP
 üb
 über
 überführt
@@ -2567,8 +2614,11 @@ Rahmen
 Rat
 Reading
 Relevant
+Request
+Response
 Überblick
 Überlieferung
 Äußere
 ökonomische
+öffnen
 ändern

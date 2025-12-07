@@ -296,36 +296,12 @@
             }
           },
           {
-            "id": "47eb161185f0c618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Film Liste Julia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Film Liste Julia"
-            }
-          },
-          {
             "id": "4aa3193720810355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why Writing matters.md",
+                "file": "C Projects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -340,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Why Writing matters"
+              "title": "C Projects"
             }
           }
         ],
@@ -511,12 +487,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23551fd757c41ab1",
+  "active": "4aa3193720810355",
   "lastOpenFiles": [
+    "C Projects.md",
+    "750 Writing/Why Writing matters.md",
     "Film Liste Julia.md",
     "William Wahl.md",
     "Key to Reading & Learning.md",
-    "Why Writing matters.md",
     "Geschichts Analyse schreiben.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
     "Ester.md",
@@ -541,7 +518,6 @@
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
     "000 Index/Tags/%Carbonsäuren.md",
-    "000 Index/Tags/%Chemie.md",
     "300 School/Chemie",
     "200 CS/TS",
     "Pasted image 20251113203103.png",

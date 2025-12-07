@@ -1,6 +1,10 @@
 
 Date: 2025-12-06
-Tags: {}
+Tags: {
+#W 
+[[%Writing]]
+[[%Creativity]]
+}
 
 
 # Why Writing matters
