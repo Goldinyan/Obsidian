@@ -16,11 +16,11 @@ Weeks into this isolation, she start loosing herself, singing to herself constan
 
 To get her into the hovercraft and back to District 12, she had to undergo medical hydration and feeding after being carried out of the room. She is getting the situation explained by Haymitch and Plutarch, while flying to District 12, that she was on trial, while she was staying in the room and that the outcome resolved in her not being guilty, because the psychiatric described her as a "hopeless shell-shocked lunatic", leading to her being not punished, but having psychiatric appointments over the phone, which she doesn't really engage in.
 
-The first month being home, she isn't taking care of herself, sitting in one chair all day, scared to leave the kitchen/room area and not showering or changing clothes. Haymitch and her mother aren't visiting, she doesn't because she, knowing what state she is in, can‘t face coming back to District 12 herself, abond
+The first month being home, she isn't taking care of herself, sitting in one chair all day, scared to leave the kitchen/room area and not showering or changing clothes. Haymitch and her mother aren't visiting, she doesn't because she, knowing what state she is in, can‘t face coming back to District 12 herself, abandoning Katniss. If it wasn't Greasy Sae, a friend she used to trade with, coming twice a day to make meals and making sure she would eat, it probability wouldn't have ended like this.
 
-She's dropped back home with Haymitch, still completely wrecked. Her mother, knowing Katniss is in that state, still can't face being in District 12 herself, so she abandons Katniss and goes to work elsewhere. The first month Katniss is home she doesn't take care of herself at all. She sits in a chair all day, won't leave her living room/kitchen area, is afraid to go in other parts of the house, not showering, not changing clothes. Haymitch isn't visiting. Greasy Sae, a friend she used to trade with in the Hob, comes twice a day to make meals and make sure Katniss eats.
+She continues like this until Peeta comes home. Katniss seeing him planting the primroses, she starts becoming self aware of her ongoing bad shape, leading to her immediately showering and changing clothes, burning the clothes she had been wearing.
 
-She goes on like this until Peeta comes home. She sees him planting the primroses, and at that moment she becomes aware and self‑conscious of how bad she looks. Immediately after talking to him she showers, gets all the mats out of her hair, puts on new clothes, and burns the old clothes she'd been wearing for a month in the fire. Then we get into the rest of the story.
+
 
 
 
