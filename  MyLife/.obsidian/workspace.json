@@ -318,9 +318,33 @@
               "icon": "lucide-file",
               "title": "Geschichts Analyse schreiben"
             }
+          },
+          {
+            "id": "544a682329722418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katniss.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Katniss"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -487,8 +511,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aa3193720810355",
+  "active": "544a682329722418",
   "lastOpenFiles": [
+    "Geschichts Analyse schreiben.md",
+    "Katniss.md",
     "750 Writing/German/William Wahl.md",
     "Vim Keybinds.md",
     "Setup Web Application.md",
@@ -497,7 +523,6 @@
     "600 Debate/Veganism/Contra.md",
     "Historischer Kontext 1500.md",
     "Grund des Willen nach Kant.md",
-    "Geschichts Analyse schreiben.md",
     "000 Index/Tags/%Veganismus.md",
     "000 Index/Tags/%Kapitalismus.md",
     "000 Index/Tags/%Kritik.md",
@@ -514,7 +539,6 @@
     "999 Templates/New Philosophical Views.md",
     "999 Templates/New Philosopher.md",
     "999 Templates/New History Relevant Person.md",
-    "999 Templates/New General Note.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
