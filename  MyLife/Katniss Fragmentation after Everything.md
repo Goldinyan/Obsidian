@@ -4,7 +4,10 @@ Tags: {}
 
 # Katniss Fragmentation after Everything
 
-Katniss killing Coin resolves the ongoing Climax, which some might expected, Katniss then going back to District 12, meeting Peeta and resolving in a rather "Happy End". Two movies, and still one important event is completely omitted.
+Katniss killing Coin resolves the ongoing Climax, which some might expected, Katniss then going back to District 12, meeting Peeta and resolving in a rather "Happy End". Two movies, and still one important event is completely omitted. Katniss losing her mind. 
+
+
+After Katniss shoot Coin, she is thinking to herself: "Yes, I will get executed for this". To not get tortured and get robbed of her one thing she still has in her own hands: Taking her own life. She realizes her only way out. The Nightlock pill. So she tries taking it, but Peeta, seeing this, takes the pill away removing her only chance. She gets dragged 
 
 
 
@@ -12,7 +15,6 @@ Katniss killing Coin resolves the ongoing Climax, which some might expected, Kat
 
 
 
-I'm still mad that they split Mockingjay into two movies and still did not include the way Katniss lost her mind. I need to tell you what actually happened. Weeks go by after she shot Coin before she goes back to District 12. In the movie, the same day they're like “okay you can go home.” Not what happened, not what happened compared to the book.
 
 So after Katniss shoots Coin she's thinking like: I know I'm going to be executed for this, I don't want to be tortured and all that, I'm just going to take my nightlock pill myself. She's going to bite it out of her uniform, but then Peeta sees her. She bites his hand so hard his hand is bleeding, and then the pill gets crushed. She's taken away by the guards, trying to get free and losing it, calling for Gale hoping that he will shoot her. Ultimately she's handcuffed, blindfolded, and dragged into her old room at the training center. Everything's been removed, there's just a bare mattress. They uncuff her, lock the door, and she's just in there alone.
 
