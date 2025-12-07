@@ -356,7 +356,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 73.76093294460642,
+        "dimension": 81.59749412685983,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -386,7 +386,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 26.239067055393583,
+        "dimension": 18.402505873140175,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -402,7 +402,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 365.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -511,8 +511,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47eb161185f0c618",
+  "active": "23551fd757c41ab1",
   "lastOpenFiles": [
+    "Film Liste Julia.md",
     "William Wahl.md",
     "Key to Reading & Learning.md",
     "Why Writing matters.md",
@@ -524,7 +525,6 @@
     "001 Raw Material/Videos/How to Trick Monkey Brain To Like Doing Hard Things (Dopamine Detox).md",
     "001 Raw Material/Videos/The Irony of the Dunning-Kruger Effect.md",
     "Vim Keybinds.md",
-    "Film Liste Julia.md",
     "600 Debate/Politics/Die Art des Verbietens.md",
     "Setup Web Application.md",
     "Historischer Kontext 1500.md",
