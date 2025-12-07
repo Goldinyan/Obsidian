@@ -1209,6 +1209,7 @@ She
 Sae
 Showing
 Stories
+Sonderfall
 zS
 zX
 zR
@@ -1518,6 +1519,8 @@ Frauenunterdrückung
 Fleischersatz
 Fragmentation
 Forcing
+Freier
+Fall
 vHwc
 vE
 vA
@@ -3093,6 +3096,7 @@ Gemüse
 Geld
 Gemälde
 Greasy
+Gravitation
 fW
 fvB
 fnrA
