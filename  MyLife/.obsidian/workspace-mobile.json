@@ -174,9 +174,33 @@
               "icon": "lucide-file",
               "title": "William Wahl"
             }
+          },
+          {
+            "id": "b0dc8401b4185cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -322,8 +346,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44fb7a6b81764a72",
+  "active": "b0dc8401b4185cb9",
   "lastOpenFiles": [
+    "750 Writing/German/William Wahl.md",
+    "Untitled.md",
     "Philo.md",
     "500 Philosophie/Analysieren Philosophischer Texte.md",
     "Veganismus.md",
@@ -348,8 +374,6 @@
     "Fallbeispiele für den Tag der offenen Tür.md",
     "300 School/The Cursed Graph.md",
     "750 Writing/How to write good Characters.md",
-    "001 Raw Material/Videos/How to Trick Monkey Brain To Like Doing Hard Things (Dopamine Detox).md",
-    "001 Raw Material/Videos/The Irony of the Dunning-Kruger Effect.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",
