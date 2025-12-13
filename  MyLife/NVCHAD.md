@@ -125,6 +125,12 @@ space f m -> LSP formatting
 - <leader>td → Toggle Deleted
 
 
+- :Telescope diagnostics zeigt alle Fehler in einer Liste.
+
+
+
+
+
 
 
 
