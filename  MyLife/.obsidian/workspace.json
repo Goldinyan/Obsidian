@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Skadi Geschenke"
             }
+          },
+          {
+            "id": "b4bfa5e672d34f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kurzgeschichte Deutsch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kurzgeschichte Deutsch"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,10 +271,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e05d94bcde6ab278",
+  "active": "b4bfa5e672d34f89",
   "lastOpenFiles": [
-    "NVCHAD.md",
     "Skadi Geschenke.md",
+    "Kurzgeschichte Deutsch.md",
+    "NVCHAD.md",
     "Setup Web Application.md",
     "Democracy is imperfect.md",
     "Democracy.md",
@@ -274,7 +299,6 @@
     "000 Index/Tags/%Fragmentation.md",
     "000 Index/Tags/%Consequences.md",
     "750 Writing/German/William Wahl.md",
-    "Vim Keybinds.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
