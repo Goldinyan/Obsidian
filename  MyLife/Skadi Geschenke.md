@@ -14,3 +14,8 @@
 
 - Buch: [If Cats Disappeared From The World](https://www.amazon.de/Cats-Disappeared-World-Genki-Kawamura/dp/1509889175/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.v6hsMBaR-ilB65bI7phJU6LFTRFn5FnnNEN74pJ9fj8ljPJG5V7LVaVNDdMOcXvXktGu2c9Je7Yd3sJo4uf4OBF3zb3vS7TWcp1CEgMgISE.DAS6MZ-eHWj14cMHmIbhcbCcvTeCIIUvPhft4r19Bys&qid=1765702350&sr=8-1 "If Cats Disappeared From The World
     (https://www.amazon.de/Cats-Disappeared-World-Genki-Kawamura/dp/1509889175/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.v6hsMBaR-ilB65bI7phJU6LFTRFn5FnnNEN74pJ9fj8ljPJG5V7LVaVNDdMOcXvXktGu2c9Je7Yd3sJo4uf4OBF3zb3vS7TWcp1CEgMgISE.DAS6MZ-eHWj14cMHmIbhcbCcvTeCIIUvPhft4r19Bys&qid=1765702350&sr=8-1)") (9,19€) (_englisch_)
+
+
+
+- Buch: [Tiger, Tiger: A Memoir](https://www.amazon.de/Tiger-Memoir-Margaux-Fragoso/dp/0241950155?ref_=ast_author_dp "Tiger, Tiger: A Memoir
+    (https://www.amazon.de/Tiger-Memoir-Margaux-Fragoso/dp/0241950155?ref_=ast_author_dp)") (14,50€) (_englisch_)
