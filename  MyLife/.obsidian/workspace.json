@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "NVCHAD"
             }
+          },
+          {
+            "id": "e05d94bcde6ab278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skadi Geschenke.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Skadi Geschenke"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,10 +247,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b2218b1b8d4ef05",
+  "active": "e05d94bcde6ab278",
   "lastOpenFiles": [
-    "Setup Web Application.md",
     "NVCHAD.md",
+    "Skadi Geschenke.md",
+    "Setup Web Application.md",
     "Democracy is imperfect.md",
     "Democracy.md",
     "Untitled.md",
@@ -250,7 +275,6 @@
     "000 Index/Tags/%Consequences.md",
     "750 Writing/German/William Wahl.md",
     "Vim Keybinds.md",
-    "Philo.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
