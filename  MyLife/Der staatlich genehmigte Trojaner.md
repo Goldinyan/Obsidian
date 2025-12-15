@@ -2,7 +2,7 @@ Date: 2025-12-15
 Tags: {}
 
 
-# Untitled
+# Der staatlich genehmigte Trojaner
 
 Stell dir vor eines Tages kommst du nach Hause und bemerkst bei dir wurde eingebrochen. Ein Schock, natürlich, keine Frage, aber dann siehst du dich um: Es wurde nicht geklaut. Dann fällt es dir auf, sie waren an deinem Laptop und das war *staatlich genehmigt*.
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Der staatlich genehmigte Trojaner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Der staatlich genehmigte Trojaner"
             }
           }
         ],
@@ -224,9 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23551fd757c41ab1",
+  "active": "ebc71c540a02fa65",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Der staatlich genehmigte Trojaner.md",
     "Skadi Geschenke.md",
     "Democracy is imperfect.md",
     "000 Index/Tags/%School.md",
