@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kurzgeschichte Deutsch.md",
+                "file": "200 CS/Usefull Stuff/NVIM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kurzgeschichte Deutsch"
+              "title": "NVIM"
+            }
+          },
+          {
+            "id": "2a26b32deecf9b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal extensions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Terminal extensions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,10 +295,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4bfa5e672d34f89",
+  "active": "2a26b32deecf9b6c",
   "lastOpenFiles": [
-    "Skadi Geschenke.md",
+    "200 CS/Usefull Stuff/NVIM.md",
+    "Terminal extensions.md",
     "Kurzgeschichte Deutsch.md",
+    "Skadi Geschenke.md",
     "NVCHAD.md",
     "Setup Web Application.md",
     "Democracy is imperfect.md",
@@ -297,8 +323,6 @@
     "400 History/Kolumbus Text Analyse.md",
     "000 Index/Tags/%Suffering.md",
     "000 Index/Tags/%Fragmentation.md",
-    "000 Index/Tags/%Consequences.md",
-    "750 Writing/German/William Wahl.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
