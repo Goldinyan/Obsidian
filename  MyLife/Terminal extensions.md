@@ -2,3 +2,8 @@
 
 
 zoxide
+
+rg (ripgrep)
+
+fd
+
