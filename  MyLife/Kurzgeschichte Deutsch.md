@@ -29,6 +29,11 @@ Checkliste Kurzgeschichte – Erklärung
 
 - Abschließendes Fazit: Zusammenfassung der Analyse, evtl. Lehre oder Bezug zum eigenen Leben.
 
+---
+Einleitung
+
+
+
 Einleitung
 
 - Die Kurzgeschichte „…“ von …, erschienen im Jahr …, behandelt das Thema …
