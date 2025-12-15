@@ -20,7 +20,6 @@ Checkliste Kurzgeschichte – Erklärung
 
 - Raum und Zeit: Ort und Zeitverhältnisse (z. B. Zeitdeckung) beschreiben und ihre Wirkung erklären.
 
-- Absätze: Sinnabschnitte klar erkennbar machen.
 
 - Leitmotiv: Wiederkehrendes Motiv nennen und seine Bedeutung erklären.
 
@@ -47,7 +46,7 @@ Wichtiger Moment
 
 - Äußerlich geschieht …, während die Figur innerlich … erlebt.
 
-Einstieg und Schluss
+Einstieg und Schluss als typische Eigenschaften
 
 - Die Geschichte beginnt unvermittelt mit …
 - Der Schluss bleibt offen und ermöglicht verschiedene Deutungen.

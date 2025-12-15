@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kurzgeschichte Deutsch.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +220,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Kurzgeschichte Deutsch"
+            }
+          },
+          {
+            "id": "9b001cd937f46dd4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -370,10 +380,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b00ad366bee3047f",
+  "active": "9b001cd937f46dd4",
   "lastOpenFiles": [
-    "200 CS/CS Projects/C Projects.md",
+    "Kurzgeschichte Deutsch.md",
     "Untitled.md",
+    "200 CS/CS Projects/C Projects.md",
     "Democracy is imperfect.md",
     "750 Writing/German/William Wahl.md",
     "Philo.md",
@@ -397,7 +408,6 @@
     "600 Debate/Politics/Die Art des Verbietens.md",
     "000 Index/Tags/%SocialMedia.md",
     "000 Index/Tags/%Practice.md",
-    "Fallbeispiele für den Tag der offenen Tür.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",
