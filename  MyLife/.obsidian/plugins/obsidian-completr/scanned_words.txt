@@ -3206,6 +3206,7 @@ genehmigt
 glaubt
 getan
 guckt
+genehmigte
 nf
 nnvi
 nC
@@ -3396,6 +3397,7 @@ isEmpty
 irgendein
 identisch
 informed
+imperfect
 Gn
 Go
 Gs
@@ -3904,6 +3906,7 @@ Duplikate
 Direkt
 Dafür
 Durchsuchung
+Democracy
 eC
 eD
 eL
@@ -4207,6 +4210,7 @@ Telescope
 Tages
 TUK
 Tastatureingaben
+Trojaner
 üb
 über
 überführt

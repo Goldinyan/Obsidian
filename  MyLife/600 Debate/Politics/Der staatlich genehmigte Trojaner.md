@@ -1,5 +1,10 @@
 Date: 2025-12-15
-Tags: {}
+Tags: {
+#F 
+[[%Cyber Security]]
+[[%Germany]]
+[[%Politik]]
+}
 
 
 # Der staatlich genehmigte Trojaner

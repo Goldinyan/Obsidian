@@ -1,3 +1,16 @@
+Date: 2025-12-16
+Tags: {
+#W 
+[[%Politik]]
+[[%Democracy]]
+[[%Socrates]]
+}
+
+
+# Democracy is imperfect
+
+
+
 Values every vote same 
 Popularity over compentence
 Uninformed same value as informed
@@ -18,3 +31,7 @@ They want simple answers on hard question
 
 Plato wurde hingerichtet duecj die demokratie die er hasste
 By Socrates
+
+
+
+# References

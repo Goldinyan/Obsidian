@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46b42fe90998546c",
+        "id": "7d6b49f6cc1844ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b4bfa5e672d34f89",
+            "id": "d0cbe3dfef08745e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Democracy is imperfect.md",
+                "file": "Grund des Willen nach Kant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Democracy is imperfect"
-            }
-          },
-          {
-            "id": "ebc71c540a02fa65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Der staatlich genehmigte Trojaner.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Der staatlich genehmigte Trojaner"
+              "title": "Grund des Willen nach Kant"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,11 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebc71c540a02fa65",
+  "active": "d0cbe3dfef08745e",
   "lastOpenFiles": [
-    "Der staatlich genehmigte Trojaner.md",
+    "600 Debate/Politics/Democracy is imperfect.md",
+    "000 Index/Tags/%Democracy.md",
+    "000 Index/Tags/%Socrates.md",
+    "900 Movies/Katniss Everdenn's Fragmentation after Everything.md",
+    "900 Movies",
+    "000 Index/Tags/%Consequences.md",
+    "Grund des Willen nach Kant.md",
+    "Historischer Kontext 1500.md",
+    "600 Debate/Politics/Der staatlich genehmigte Trojaner.md",
+    "000 Index/Tags/%Germany.md",
     "Skadi Geschenke.md",
-    "Democracy is imperfect.md",
     "000 Index/Tags/%School.md",
     "400 History/Geschichts Analyse schreiben.md",
     "NVCHAD.md",
@@ -245,14 +228,7 @@
     "200 CS/Coding Things/What to do to deploy website.md",
     "200 CS/Java Data Types.md",
     "Key to Reading & Learning.md",
-    "Katniss Fragmentation after Everything.md",
     "marcatn video \"Auslöschung der Deutschen2.md",
-    "300 School/Chemie/Ester.md",
-    "500 Philosophie/The Horror of the Eternal Life.md",
-    "Historischer Kontext 1500.md",
-    "001 Raw Material/Videos/TIKTOK RICH.md",
-    "200 CS/Usefull Stuff/Usefull Websites.md",
-    "300 School/Physik/Terms Physik.md",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
@@ -262,7 +238,6 @@
     "001 Raw Material/Surrounded",
     "001 Raw Material/Skadi",
     "001 Raw Material/Conversation",
-    "001 Raw Material/Videos",
     "Untitled.canvas"
   ]
 }
