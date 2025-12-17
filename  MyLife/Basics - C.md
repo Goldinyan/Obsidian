@@ -102,6 +102,16 @@ int arr[3] = {1, 2, 3};
 float add(int a, int b) {
     return (float)(a + b); //cast to float
 }
+
+//there can also be one line Functions
+
+if(x > 10) return ERROR;
+
+//is the same as
+
+if(x > 10){
+	return ERROR;
+}
 ```
 
 ---
