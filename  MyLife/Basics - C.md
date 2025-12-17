@@ -87,7 +87,7 @@ printf("Address of x = %p\n", (void*)&x);
 ---
 
 ## Arrays
-Collections of elements of the same type.  
+
 ```c
 int arr[3] = {1, 2, 3};
 ```
@@ -97,13 +97,18 @@ int arr[3] = {1, 2, 3};
 ---
 
 ## Functions
-Functions encapsulate reusable code.  
+
 ```c
-int add(int a, int b) {
-    return a + b;
+float add(int a, int b) {
+    return (float)(a + b); //cast to float
 }
 ```
 
+---
+
+## Void
+
+```c
 
 ## Format Specifiers
 
@@ -116,6 +121,22 @@ int add(int a, int b) {
 
 ```c
 printf("Hello, %s. You're %d years old. \n", name, age)
+```
+
+### constants
+
+```c 
+int main(){
+	int x = 5;
+	x = 10; // this is OK
+}
+```
+
+```c
+int main(){
+	const int x = 5;
+	x = 10; // ERROR
+}
 ```
 
 # References
