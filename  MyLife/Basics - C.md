@@ -10,6 +10,9 @@ Tags: {
 
 ### Basic Types
 
+
+>The actual size of these can vary between different system, but can be determinted using *sizeof()* in C
+
 - **int**  
   Integer type. Size depends on the platform (commonly 4 bytes).
   ```c
@@ -33,6 +36,13 @@ Tags: {
   ```c
   char *str = "Hello";
   ```
+
+- **double**
+	Double-Precision floating point number (8 bytes)
+	```c
+	double d = 2.31233;
+```
+
 
 ---
 
