@@ -54,9 +54,129 @@
               "icon": "lucide-file",
               "title": "Toralizer - C"
             }
+          },
+          {
+            "id": "0cb19a15c6eb42d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toralizer - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Toralizer - C"
+            }
+          },
+          {
+            "id": "4a1daf2392a6d034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How is data stored in memory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How is data stored in memory"
+            }
+          },
+          {
+            "id": "911cf26aaadb49d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programm efficiently.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programm efficiently"
+            }
+          },
+          {
+            "id": "695bc7ee2c09759d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming in lower level langauge.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programming in lower level langauge"
+            }
+          },
+          {
+            "id": "b815591ad4f6ae15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How is data stored in memory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How is data stored in memory"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -224,10 +344,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e640e7676edd9f1",
+  "active": "b815591ad4f6ae15",
   "lastOpenFiles": [
-    "200 CS/CS Projects/C Projects.md",
+    "Building own Garbage Collector.md",
+    "Programming in lower level langauge.md",
+    "Programm efficiently.md",
+    "How is data stored in memory.md",
     "Toralizer - C.md",
+    "Memory Managment - C",
+    "200 CS/CS Projects/C Projects.md",
     "000 Index/Tags/%WebDev.md",
     "200 CS/Setup Web Application.md",
     "001 Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2.md",
@@ -248,10 +373,6 @@
     "000 Index/Tags/%Reading.md",
     "000 Index/Tags/%Creativity.md",
     "500 Philosophie/Grund des Willen nach Kant.md",
-    "000 Index/Tags/%Willen.md",
-    "000 Index/Tags/%Philosophie.md",
-    "000 Index/Tags/%Kant.md",
-    "600 Debate/Politics/Democracy is imperfect.md",
     "900 Movies",
     "600 Debate/Religion",
     "300 School/Math",
@@ -262,7 +383,6 @@
     "Pasted image 20251113203103.png",
     "001 Raw Material/Surrounded",
     "001 Raw Material/Skadi",
-    "001 Raw Material/Conversation",
     "Untitled.canvas"
   ]
 }
