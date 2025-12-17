@@ -109,6 +109,17 @@ float add(int a, int b) {
 ## Void
 
 ```c
+int getInteger(void){
+	return 42; 
+	//takes nothing, no value 
+	//btw null is a value
+}
+
+void printIntenger(int x){
+	printf("this is an int %d", x)
+	//returnes no value
+}
+```
 
 ## Format Specifiers
 
