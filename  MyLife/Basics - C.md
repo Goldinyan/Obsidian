@@ -111,24 +111,43 @@ int main(void) {
 int main(void){
 	struct City c = {
 		.name = "Berlin",
+		.lat = 73,
+		.lot = -122
 	}
 	return 0;
 }
 ```
 
+My preferred way, because its easy to understand and if they fields change you don‘t have to worry about the ordering.
+
+
+### Accessing Fields 
+
+Normal way
+
+```c
+struct City c;
+c.lat = 73; //Setting value
+printf("%d\n", c.lat);
+```
+
+If it is a pointer then:
 
 
 
+### Example Code for Structs 
 
+```c
+struct Coordinate {
+	int x;
+	int y;
+	int z;
+}
 
-
-
-
-
-
-
-
-
+struct Coordinate newCoord(int x, int y, int z) {
+	struct C
+}
+```
 
 
 
