@@ -135,6 +135,28 @@ If it is a pointer then:
 
 
 
+
+
+
+### Updating Structs
+
+```c
+struct Coordinate {
+	int x;
+	int y;
+	int z;
+}
+
+struct Coordinate scaleCoord(struct Coordinate c, int scale) {
+	struct Coordinate scaled = {
+	.x = c.x * scale,
+	.y = c.y * scale,
+	.z = c.z * scale,
+	}
+	return scaled;
+}
+```
+
 ### Example Code for Structs 
 
 ```c
@@ -145,8 +167,13 @@ struct Coordinate {
 }
 
 struct Coordinate newCoord(int x, int y, int z) {
-	struct C
-}
+	struct Coordinate c = {
+	.x = x,
+	.y = y,
+	.z = z,
+	}
+	return c;
+} // returns a new Coordinate
 ```
 
 
