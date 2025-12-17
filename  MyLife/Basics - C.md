@@ -199,6 +199,8 @@ typedef struct Human {
 ```
 
 A char is 1 Byte, int is 4 Bytes and double is 8 Bytes, and because its faster for the computer to access age when its on a 4 Byte aligned address than it would be on the 1 of char, so it gives char 3 Bytes of padding to be faster. So sizeof(struct) involves the padding so it isn't always exactly the sum of sizeof all his values.
+It alway wants a multiple of the highest Byte value.
+
 
 Without padding this:     (every v is 1 Byte)
 
@@ -214,6 +216,7 @@ then with padding:
 #### Struct Padding
 
 A easy go to role is from largest to smallest, but thinking about it is best for perfomance.
+It alway wants a multiple of the highest Byte value.
 
 ```c
 typedef struct x {
@@ -222,8 +225,17 @@ typedef struct x {
 	char c // 1 B
 	char d // 1 B
 	long e // 4 B
-	char f // 1B
-} poorlyAssigned
+	char f // 1 B
+} poorlyAssigned_t;
+
+typedef struct y {
+	double b; // 8 B
+	long e // 4 B
+	char a; // 1 B
+	char c // 1 B
+	char d // 1 B
+	char f // 1 B
+}
 ```
 
 ### Example Code for Structs 
