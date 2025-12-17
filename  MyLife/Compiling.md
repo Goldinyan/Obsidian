@@ -9,7 +9,7 @@ Tags: {
 
 # Compiling
 
-# C 
+## C 
 
 ```bash
 gcc main.c -o main
