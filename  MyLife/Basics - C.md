@@ -75,6 +75,8 @@ Pointers store memory addresses.
 ```c
 int x = 5;
 int *ptr = &x;   // ptr points to x
+
+printf("Address of x = %p\n", (void*)&x); 
 ```
 - `*ptr` dereferences the pointer to get the value.  
 - Central for memory management and arrays.

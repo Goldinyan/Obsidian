@@ -298,6 +298,7 @@ reset
 ruins
 run
 redirected
+reicht
 Vs
 VO
 VJ
@@ -442,6 +443,7 @@ Konjunktiv
 Keep
 Komponente
 Konfigurationsdatei
+Kompiliert
 EG
 ER
 Ek
@@ -1611,6 +1613,7 @@ Online
 Orientierung
 Obsidian
 OK
+Or
 am
 ad
 afj
@@ -1792,6 +1795,8 @@ aufsetzen
 ausgeführt
 absoluten
 abhaken
+aktueller
+aktuelle
 JV
 Jv
 JN
@@ -2128,6 +2133,7 @@ Alles
 Authentifizierung
 Ausführen
 Angriffen
+ASM
 MV
 MM
 Ms
@@ -2561,6 +2567,7 @@ bewirken
 blickt
 beautiful
 black
+bekommen
 mm
 ms
 mO
@@ -2848,6 +2855,7 @@ drama
 daughter
 detail
 destination
+diesen
 QS
 Qn
 QGu
@@ -3600,6 +3608,7 @@ nähe
 nd
 nice
 network
+nvim
 jt
 jW
 jz
@@ -4287,6 +4296,7 @@ Direkte
 Do
 DELETE
 Dateien
+Dateiname
 eC
 eD
 eL
