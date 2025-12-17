@@ -1,10 +1,17 @@
-Got it — here’s the same compact documentation in **English**:
+Date: 2025-12-17
+Tags: {
+#W 
+[[%C]]
+[[%Basics]]
+[[%Computer Science]]
+}
 
----
+# Basics - C
 
-## Basic Types
+### Basic Types
+
 - **int**  
-  Integer type. Size depends on the platform (commonly 4 bytes).  
+  Integer type. Size depends on the platform (commonly 4 bytes).
   ```c
   int a = 42;
   ```
@@ -92,3 +99,7 @@ int add(int a, int b) {
 }
 ```
 
+
+
+
+# References
