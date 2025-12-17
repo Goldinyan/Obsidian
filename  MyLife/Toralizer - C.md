@@ -1,16 +1,21 @@
-command line client for connecting to the tor privacy network, when you run a cli command for running a network call
+#W 
+
+A command‑line client for connecting to the Tor privacy network. When you run a CLI command that makes a network call:
 
 ```bash
 bash$ curl http://12.34.45.67
 ```
 
-The connect function, where the programm establishes a tcp connection and then the communaction begins is invoked to connect the client to the server 
+The `connect()` function, where the program establishes a TCP connection and then the communication begins, is invoked to connect the client to the server.  
 
-with this tool you will write *toralize* in front of every function that makes a network call
+With this tool, you will write *toralize* in front of every function that makes a network call:
 
 ```bash
 bash$ toralize curl http://12.34.45.67
 ```
 
-it will intercept any function and will run our function instead, like *my_connect()*, the traffic will be redireced to a local proxy server which is a part of the tor network
-so first connected to the tor network and then to the destination server , masking you identity, helping you to stay privat 
+It will intercept any function and run our function instead, such as *my_connect()*. The traffic will be redirected to a local proxy server that is part of the Tor network.  
+So the client first connects to the Tor network and then to the destination server, masking your identity and helping you stay private.
+
+
+https://www.youtube.com/watch?v=E63YLp_qzkg
