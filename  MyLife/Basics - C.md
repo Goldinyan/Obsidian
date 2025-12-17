@@ -153,6 +153,20 @@ int *p = arr
 ```
 A pointer in C knows the address it points to and lets you read or write the value there, but it does not store the length of the memory block. Arrays in their own scope carry size information through `sizeof`, but once passed to a function they decay into pointers, and `sizeof` then only returns the size of the pointer itself. That’s why the array length must always be tracked or passed separately.
 
+## Math Operators
+
+```c
+x + y
+x - y
+x * y
+x / y
+
+x++; // x += 1
+x--; // x -=1
+
+int x = 5
+y = x++ // y is as
+```
 ## Format Specifiers
 
 %d - int (digit)
