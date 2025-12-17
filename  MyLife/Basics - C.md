@@ -71,6 +71,9 @@ We tell C to make this data and place it next to each other in Memory and operat
 
 name | age | isAlive
 
+Like a block, and this can be bigger or smaller depending on the order.
+Everything is stored in Bytes, 0's and 1's and in C we tell the computer which data we want to save where in memory and what we want to do with them. C doesn't know about Capsulation or Methods or any other stuff.
+
 ---
 
 ## Enums
