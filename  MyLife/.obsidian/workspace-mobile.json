@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skadi Geschenke.md",
+                "file": "Basics - C.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Skadi Geschenke"
+              "title": "Basics - C"
             }
           }
         ],
@@ -325,7 +325,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kurzgeschichte Deutsch.md",
+            "file": "Basics - C.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
