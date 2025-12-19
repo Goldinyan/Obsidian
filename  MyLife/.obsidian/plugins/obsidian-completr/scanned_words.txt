@@ -4152,7 +4152,6 @@ things
 temptation
 truth
 try
-type
 top
 takes
 treue
@@ -4211,8 +4210,6 @@ trade
 twice
 two
 traumatized
-types
-typed
 tag
 td
 terminal
@@ -4646,7 +4643,6 @@ This
 To
 Theorie
 Tugenden
-Type
 Trick
 Text
 Teil
@@ -4692,7 +4688,6 @@ Tierhaltung
 Tur
 Two
 Taking
-Types
 Toggle
 Terminal
 Tabufline
@@ -4700,7 +4695,6 @@ Tab
 Tree
 Tiger
 Tag
-TypeScript
 Trennzeichen
 Tipp
 Telescope
@@ -4711,7 +4705,6 @@ Trojaner
 Thema
 Tasks
 Templates
-Typewriter
 Timeouts
 Tor
 üb
