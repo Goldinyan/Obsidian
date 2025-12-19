@@ -277,7 +277,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics - Cpu.md",
+                "file": "Basics - ASM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -292,7 +292,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basics - Cpu"
+              "title": "Basics - ASM"
             }
           }
         ],
@@ -466,8 +466,8 @@
   },
   "active": "727848a6ba6ae97a",
   "lastOpenFiles": [
-    "Basics - ASM.md",
     "Basics - Cpu.md",
+    "Basics - ASM.md",
     "Basics - C.md",
     "Compiling.md",
     "How is data stored in memory.md",
