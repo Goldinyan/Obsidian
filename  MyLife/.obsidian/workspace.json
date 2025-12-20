@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
+                "file": "200 CS/Languages/C/Basics - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Morse Code Translator and binare maybe seperate"
+              "title": "Basics - C"
+            }
+          },
+          {
+            "id": "2fba911c89d3adfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Types - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basic Types - C"
+            }
+          },
+          {
+            "id": "baee346fe09a1d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Types - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basic Types - C"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +248,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4a21a8e5322483f",
+  "active": "7ff640d71c0bd486",
   "lastOpenFiles": [
+    "Structs - C.md",
+    "Structs - C",
+    "200 CS/Languages/C/Basics - C.md",
+    "Basic Types - C.md",
+    "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
     "200 CS/CS Projects/Multiplayer game chess?.md",
     "200 CS/CS Projects/Phase 6 learner with firebase auth.md",
     "200 CS/CS Projects/Sudoku and Solver web.md",
     "200 CS/CS Projects/Password Geberator.md",
-    "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
     "200 CS/CS Projects/Low Level/First little ASM Project.md",
     "200 CS/CS Projects/Web/Spotify Playlist Rating & more.md",
     "200 CS/CS Projects/Web/Memory Game.md",
@@ -215,7 +268,6 @@
     "200 CS/CS Projects/Hardware",
     "200 CS/CS Projects/Web/Book Rating Website.md",
     "200 CS/CS Projects/Web",
-    "200 CS/Languages/C/Basics - C.md",
     "000 Index/Tags/%Web.md",
     "200 CS/CS Projects/Ai porkects.md",
     "Programm efficiently.md",
@@ -228,15 +280,11 @@
     "000 Index/Tags/%TS.md",
     "000 Index/Tags/%Cpu.md",
     "000 Index/Tags/%Hardware.md",
-    "200 CS/Hardware/Basics - Cpu.md",
-    "200 CS/Languages/ASM/Basics - ASM.md",
-    "200 CS/Usefull Stuff/NVCHAD.md",
     "200 CS/Languages",
     "200 CS/Languages/ASM",
     "200 CS/Languages/C",
     "200 CS/Languages/C/Memory Managment - C",
     "900 Movies",
-    "600 Debate/Religion",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
