@@ -1,16 +1,14 @@
 Date: 2025-12-20
 Tags: {
 #W 
+[[%Computer Science]]
+[[%C]]
+[[%Projects]]
 }
 
 
 # Toralizer - C
 
-
-
-
-
-# References
 
 A command‑line client for connecting to the Tor privacy network. When you run a CLI command that makes a network call:
 
@@ -28,6 +26,11 @@ bash$ toralize curl http://12.34.45.67
 
 It will intercept any function and run our function instead, such as *my_connect()*. The traffic will be redirected to a local proxy server that is part of the Tor network.  
 So the client first connects to the Tor network and then to the destination server, masking your identity and helping you stay private.
+
+
+
+# References
+
 
 
 https://www.youtube.com/watch?v=E63YLp_qzkg
