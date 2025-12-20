@@ -93,6 +93,7 @@ Pfade
 Pointer
 Pointers
 Precision
+Project
 IHDR
 IDATx
 IC
@@ -306,6 +307,9 @@ reicht
 reusable
 returns
 registers
+register
+rdi
+rsi
 Vs
 VO
 VJ
@@ -712,6 +716,7 @@ custom
 computers
 count
 compiler
+constant
 pt
 pD
 ph
@@ -838,6 +843,7 @@ ptr
 passed
 pointers
 prints
+put
 kF
 kXl
 kXlm
@@ -1373,6 +1379,7 @@ question
 quintessence
 questions
 quite
+qword
 Yw
 Ys
 Yl
@@ -1646,6 +1653,7 @@ Obsidian
 OK
 Or
 Operators
+Operations
 am
 ad
 afj
@@ -2266,6 +2274,8 @@ Modularisierung
 Middleware
 Management
 Math
+Memory
+Move
 hv
 hz
 have
@@ -2472,6 +2482,7 @@ ll
 link
 logical
 longer
+little
 bM
 bS
 bs
@@ -2748,6 +2759,8 @@ masking
 modeling
 management
 must
+means
+memoy
 do
 dK
 dQ
@@ -3002,6 +3015,7 @@ often
 original
 operator
 operations
+operation
 ss
 sq
 sE
@@ -4239,6 +4253,8 @@ tiefere
 toralize
 traffic
 tracked
+thats
+took
 UU
 Uo
 Uc

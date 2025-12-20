@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First little ASM Project.md",
+                "file": "Basics - ASM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -316,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "First little ASM Project"
+              "title": "Basics - ASM"
             }
           }
         ],
@@ -490,8 +490,10 @@
   },
   "active": "b0d5fa7ebe4b9407",
   "lastOpenFiles": [
-    "Basics - ASM.md",
+    "000 Index/Tags/%LowLevel.md",
+    "000 Index/Tags/%ASM.md",
     "First little ASM Project.md",
+    "Basics - ASM.md",
     "Basics - Cpu.md",
     "Basics - C.md",
     "Compiling.md",
@@ -516,8 +518,6 @@
     "000 Index/Tags/%Basics.md",
     "000 Index/Tags/%Nvim.md",
     "000 Index/Tags/%Config.md",
-    "000 Index/Tags/%Commands.md",
-    "000 Index/Current State Tag.md",
     "900 Movies",
     "600 Debate/Religion",
     "300 School/Math",

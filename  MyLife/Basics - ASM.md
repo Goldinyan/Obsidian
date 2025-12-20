@@ -1,35 +1,47 @@
+Date: 2025-12-20
+Tags: {
+#W 
+[[%ASM]]
+[[]]
+}
 
-Before we need to understand basics on how the Cpu works
 
+# Basics - ASM
 
-With the registers explained in [[Basics - Cpu]], we can do some operations like moving:
+Before we can work with assembly, we need a basic understanding of how the CPU operates.
+
+With the registers explained in [[Basics - Cpu]], we can perform simple operations such as moving values.
 
 ```nasm
-mov rdi, 8 
+mov rdi, 8
 ```
 
-moves the number 8 the constant value into the register rdi.
+This moves the constant value 8 into the register rdi.
 
 ```nasm
 mov rdi, rsi
 ```
 
-move into rdi the value rsi.
+This moves the value currently stored in rsi into rdi.
 
-Also important are Memory-Operations
+Memory operations are equally important.
+
 ```nasm
-move rdi, qword ptr [rsi]
+mov rdi, qword ptr [rsi]
 ```
-this is called a qword pointer of rsi, that means treat the value in rsi as a pointer and then remove the qword length thats 8 bytes and put it into rdi
 
-We can also do this in reverse:
+Here, the value in rsi is treated as a pointer. The instruction reads a qword (8 bytes) from the memory address stored in rsi and places that value into rdi.
+
+The reverse operation is also possible.
 
 ```nasm
 mov qword ptr [rsi], rdi
 ```
 
+This stores the value in rdi into the memory location pointed to by rsi.
 
-Move to the qword ptr in rsi, the value in rdi
+The first example loads data from memory into a register, which is a load operation. The second example writes data from a register into memory, which is a store operation.
 
 
-First one was, we took values from memoy and put it into registers, now we took values that are in registers into memoy, thats a store operation.
+# References
+

@@ -1,3 +1,15 @@
+Date: 2025-12-20
+Tags: {
+#W
+[[%ASM]]
+[[%LowLevel]]
+[[%Projects]]
+}
+
+
+# First little ASM Project
+
+
 ```nasm
 .global _start 
 //tells the Linker where the
@@ -12,3 +24,6 @@ _start:
 //That is where our code should start
 
 ```
+
+
+# References
