@@ -13,15 +13,11 @@ Ein Mann kommt nach einem anstrengenden Tag nach Hause, macht sich etwas zu esse
 
 
 
-Eine Heldengeschichte, die nicht noch besser hätte seien können, doch zwei Wochen später war der "einzige" Dank ein paar kleine Geschenke, was einleuchtend ist, da die Familie ihr gesamtes Haus verloren hat und andere Probleme hat. Doch dies scheint der Mann nicht zu begreifen und er denkt noch einmal über die Situation nach und kommt zu dem, für ihn eindeutigen Ents
+Eine Heldengeschichte, die nicht noch besser hätte seien können, doch zwei Wochen später war der "einzige" Dank ein paar kleine Geschenke, was einleuchtend ist, da die Familie ihr gesamtes Haus verloren hat und andere Probleme hat. Doch dies scheint der Mann nicht zu begreifen und er denkt noch einmal über die Situation nach und kommt zu dem, für ihn eindeutigen Entschluss. Das Helfen war falsch, da es ihm nichts gebracht hat, er hat daraus keinen Profit geschlagen und das scheint für ihn ziemlich wichtig.
 
 
+Natürlich denkt jeder normale Mensch jetzt, was ist das denn für eine Meinung, die Menschen haben alles verloren und trotzdem noch was geschenkt was sie hatten, und selbst wenn nicht. Das Retten von Menschen leben sollte nicht nur gemacht werden, wenn es dadurch Profit gibt. Ich stimme da komplett zu. Jetzt zoomen wir mal etwas raus und wir realisieren, dass dies häufiger geschieht als gedacht, und zwar in Deutschland, es wird Menschen, die keine Profit für Deutschland erbringen mit Abschiebung gedroht. Doch wir, als Land, haben die Aufgabe, Menschen zu beschützen und zu retten, obgleich sie Gewinn generieren oder nicht!
 
-
-Ich hab letztens mitbekommen, dass das Haus meines Nachbarn gebrannt hat und ich hab zum Glück die ganzen Menschen rausgeholt und konnte sie damit retten. Aber dann ist mir aufgefallen, dass die mir gar keinen Wert bringen, weil die also die sind nicht bei mir angestellt und die zahlen keine zahlen kein Geld für mich deswegen bringen Sie mir eigentlich nichts und deswegen hab ich mich jetzt so entschieden, dass im Nachhinein das eigentlich voll ne Scheiß Entscheidung gewesen ist weil die bringen ja nichts
-
-
-Das ist ungefähr, wie wir das gerade machen in Deutschland, da uns die Menschen nur an wert sind wenn sie auch für uns etwas generieren und dann ist das nicht tun. Haben wir so sieht Deutschland zumindest so dass wir nicht die Aufgabe haben die Menschen zu beschützen und zu retten, was generell von Empathielosigkeit nicht doch mehr zu geprägt sein können.
 
 # References
 
