@@ -294,9 +294,33 @@
               "icon": "lucide-file",
               "title": "Basics - ASM"
             }
+          },
+          {
+            "id": "b0d5fa7ebe4b9407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First little ASM Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "First little ASM Project"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -464,10 +488,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "727848a6ba6ae97a",
+  "active": "b0d5fa7ebe4b9407",
   "lastOpenFiles": [
-    "Basics - Cpu.md",
     "Basics - ASM.md",
+    "First little ASM Project.md",
+    "Basics - Cpu.md",
     "Basics - C.md",
     "Compiling.md",
     "How is data stored in memory.md",
@@ -493,7 +518,6 @@
     "000 Index/Tags/%Config.md",
     "000 Index/Tags/%Commands.md",
     "000 Index/Current State Tag.md",
-    "850 Reading & Learning/Key to Reading & Learning.md",
     "900 Movies",
     "600 Debate/Religion",
     "300 School/Math",
