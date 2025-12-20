@@ -2,7 +2,6 @@
 
 
 
-
 > **„Wer aber einen schönen Traum geträumt hat, mag in der Realität nicht mehr leben.“** – Wilhelm Schmid (_Schönes Leben_, S. 13)
 
 Ein normaler Alltag zweier Menschen – doch man spürt die Spannung zwischen ihnen. Er sitzt am Rand der Liege, sie liegt von ihm abgewandt auf dem Bett. Ihr Verhältnis bleibt unklar, aber auch keineswegs wichtig. Es geht um die dargestellte Ratlosigkeit, den Stillstand im eigenen Leben, das Infrage stellen aller je getroffenen Entscheidungen. Das Bild zeigt den Augenblick der Einführung in die Philosophie – das Danach, **die Reflexion**, tritt ein. Die schreckliche Wirklichkeit breitet sich aus, nachdem sich der Nebel legt, der zuvor von der entstehenden Lust erzeugt wurde. Der Sinn des Lebens ist nicht mehr auffindbar, und ob er jemals wieder entdeckt werden kann, bleibt ungewiss. Man ist allein – in den Trümmern der eigenen Vorstellungen, in denen das Zusammensein mit anderen einst die größte aller Bedeutungen hatte.
