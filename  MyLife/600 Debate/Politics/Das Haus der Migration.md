@@ -5,7 +5,6 @@ Tags: {
 [[%Migration]]
 }
 
-
 # Das Haus der Migration
 
 
@@ -17,6 +16,7 @@ Eine Heldengeschichte, die nicht noch besser hätte seien können, doch zwei Woc
 
 
 Natürlich denkt jeder normale Mensch jetzt, was ist das denn für eine Meinung, die Menschen haben alles verloren und trotzdem noch was geschenkt was sie hatten, und selbst wenn nicht. Das Retten von Menschen leben sollte nicht nur gemacht werden, wenn es dadurch Profit gibt. Ich stimme da komplett zu. Jetzt zoomen wir mal etwas raus und wir realisieren, dass dies häufiger geschieht als gedacht, und zwar in Deutschland, es wird Menschen, die keine Profit für Deutschland erbringen mit Abschiebung gedroht. Doch wir, als Land, haben die Aufgabe, Menschen zu beschützen und zu retten, obgleich sie Gewinn generieren oder nicht!
+
 
 
 # References

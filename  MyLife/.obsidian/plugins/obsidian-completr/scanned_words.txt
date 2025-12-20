@@ -322,6 +322,10 @@ role
 rating
 rausgeholt
 retten
+reveals
+repetitive
+reveal
+reflect
 Vs
 VO
 VJ
@@ -590,6 +594,7 @@ Endpunkte
 Erweiterungen
 Enums
 Empathielosigkeit
+Efficient
 cj
 cK
 cz
@@ -738,6 +743,12 @@ classes
 computer
 coordinate
 clarifications
+concise
+central
+conflict
+creating
+contribute
+config
 pt
 pD
 ph
@@ -874,6 +885,12 @@ perfomance
 performing
 pages
 playlist
+plot
+preferably
+precise
+plugings
+plugin
+plugins
 kF
 kXl
 kXlm
@@ -1147,6 +1164,7 @@ uses
 unlike
 upload
 ungefähr
+unnecessary
 WGN
 Wm
 Wl
@@ -1406,6 +1424,7 @@ Logging
 Limits
 Loops
 Leaderboards
+Let
 qV
 qT
 qH
@@ -1622,6 +1641,8 @@ Spielers
 Spieler
 Spotify
 Scheiß
+Show
+Story
 zS
 zX
 zR
@@ -1908,6 +1929,8 @@ auth
 available
 aufgefallen
 angestellt
+advances
+avoid
 JV
 Jv
 JN
@@ -2030,6 +2053,7 @@ Fehlern
 Functions
 Format
 Fields
+Flowbite
 vHwc
 vE
 vA
@@ -2120,6 +2144,7 @@ void
 via
 variables
 voll
+verbs
 Aw
 ArX
 Ar
@@ -2257,6 +2282,7 @@ Accessing
 Auth
 Allow
 Aufgabe
+Avoid
 MV
 MM
 Ms
@@ -2353,6 +2379,7 @@ Move
 Methods
 Matchmaking
 Migration
+Maintain
 hv
 hz
 have
@@ -2719,6 +2746,8 @@ break
 basic
 bits
 beschützen
+brevity
+behavior
 mm
 ms
 mO
@@ -2859,6 +2888,9 @@ memoy
 mid
 multiple
 mitbekommen
+memorable
+major
+metaphors
 do
 dK
 dQ
@@ -3024,6 +3056,9 @@ digit
 dauer
 depending
 directly
+descriptions
+dialogue
+daisyui
 QS
 Qn
 QGu
@@ -3123,6 +3158,7 @@ operates
 order
 operate
 ordering
+overwhelmed
 ss
 sq
 sE
@@ -3435,6 +3471,12 @@ struct
 smaller
 smallest
 storage
+sentence
+serve
+satisfying
+stating
+setting
+switching
 XZ
 Xs
 XI
@@ -3590,6 +3632,7 @@ wait
 width
 wide
 website
+whether
 gv
 gu
 gP
@@ -3730,6 +3773,7 @@ ganzen
 gewesen
 generieren
 generell
+gaps
 nf
 nnvi
 nC
@@ -3822,6 +3866,7 @@ named
 negativ
 nanoTime
 ns
+nouns
 jt
 jW
 jz
@@ -3842,6 +3887,7 @@ join
 jederzeit
 je
 jetzt
+js
 id
 in
 iB
@@ -3950,6 +3996,9 @@ instruction
 isAlive
 ints
 involves
+impact
+internal
+import
 Gn
 Go
 Gs
@@ -4178,6 +4227,7 @@ fields
 forget
 faster
 fixed
+feelings
 Hn
 HnZ
 HV
@@ -4403,6 +4453,11 @@ tell
 typedef
 talk
 tun
+thrive
+tension
+threads
+trough
+tailwindcss
 UU
 Uo
 Uc
@@ -4714,6 +4769,8 @@ everytime
 easier
 eigentlich
 entschieden
+erase
+emotion
 BP
 Bz
 BVb
@@ -4898,6 +4955,9 @@ Tor
 Typedef
 Tasteneingaben
 TypeDef
+Trust
+Tie
+Tailwind
 üb
 über
 überführt

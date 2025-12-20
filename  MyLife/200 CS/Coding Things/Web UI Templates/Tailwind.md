@@ -1,8 +1,12 @@
+Date: 2025-12-20
+Tags: {
+#W
+[[%WebDev]]
+[[%Computer Science]]
+[[%Config]]
+}
 
-
-
-
-
+# Tailwind
 
 ## How to import Plugins:
 
@@ -25,4 +29,10 @@ But after switching to Tailwind v4, its now required to import Plugins in the  *
 ```css
 @import "tailwindcss";
 @plugin "daisyui"; /* To add plugins  */
+```
+
+
+
+# References
+
 

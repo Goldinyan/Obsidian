@@ -1,3 +1,13 @@
+Date: 2025-12-20
+Tags: {
+#F 
+[[%ShortStory]]
+[[%English]]
+[[%Writing]]
+}
+
+
+# What makes a good Short Story?
 
 ## Be concise
 
@@ -15,4 +25,8 @@ Tie up all major threads by the end. A clear and intentional conclusion gives th
 ## Show, don‘t tell
 
 Instead of stating emotions, reveal them trough dialogue, behavior and details. Use metaphors, setting and body language to reflect feelings. Let the reader experience the emotion rather than just read about it.
+
+
+# References
+
 

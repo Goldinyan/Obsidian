@@ -11,24 +11,10 @@
             "id": "6bbffb987acfee49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "600 Debate/Politics/Das Haus der Migration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Das Haus der Migration"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -201,8 +187,17 @@
   },
   "active": "6bbffb987acfee49",
   "lastOpenFiles": [
-    "000 Index/Tags/%Migration.md",
+    "200 CS/Coding Things/Web UI Templates/Daisy.md",
+    "200 CS/Coding Things/Web UI Templates/Flowbite.md",
+    "200 CS/Coding Things/Web UI Templates/Shadcn.md",
+    "200 CS/Coding Things/Web UI Templates/Tailwind.md",
+    "%UI.md",
+    "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
+    "000 Index/Tags/%ShortStory.md",
+    "750 Writing/English/Short Story/What makes a good Short Story?.md",
+    "000 Index/Tags/%English.md",
     "600 Debate/Politics/Das Haus der Migration.md",
+    "000 Index/Tags/%Migration.md",
     "999 Templates/New Philosophical Views.md",
     "000 Index/Tags/%heliozentrische Weltbild.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
@@ -220,16 +215,7 @@
     "Structs - C.md",
     "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
-    "200 CS/Languages/C/Structs - C/Struct Padding - C.md",
-    "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
-    "000 Index/Tags/%Structs.md",
     "200 CS/Languages/C/Structs - C",
-    "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
-    "200 CS/CS Projects/Multiplayer game chess?.md",
-    "200 CS/CS Projects/Phase 6 learner with firebase auth.md",
-    "200 CS/CS Projects/Sudoku and Solver web.md",
-    "200 CS/CS Projects/Password Geberator.md",
-    "200 CS/CS Projects/Low Level/First little ASM Project.md",
     "200 CS/CS Projects/Low Level",
     "200 CS/CS Projects/Hardware",
     "200 CS/CS Projects/Web",
