@@ -11,24 +11,10 @@
             "id": "c4a21a8e5322483f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Index/Tags/%Cpu.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "%Cpu"
+              "title": "New tab"
             }
           }
         ]
@@ -199,44 +185,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23551fd757c41ab1",
+  "active": "7ff640d71c0bd486",
   "lastOpenFiles": [
+    "How is data stored in memory.md",
+    "Building own Garbage Collector.md",
+    "Programming in lower level langauge.md",
+    "200 CS/CS Projects/Toralizer - C.md",
+    "200 CS/Compiling.md",
+    "Programm efficiently.md",
+    "200 CS/Languages/C/Basics - C.md",
+    "200 CS/Hardware",
+    "600 Debate/Politics/The Grooming of Young Children by Trump & Musk.md",
+    "000 Index/Tags/%TS.md",
     "000 Index/Tags/%Cpu.md",
     "000 Index/Tags/%Hardware.md",
-    "Basics - Cpu.md",
-    "Basics - C.md",
+    "200 CS/Hardware/Basics - Cpu.md",
     "200 CS/Languages/ASM/Basics - ASM.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
     "200 CS/Java Data Types.md",
     "200 CS/CS Projects/Java 2D-Game/Player.java.md",
     "200 CS/CS Projects/Java 2D-Game/Main.java.md",
     "200 CS/Languages",
-    "Compiling.md",
     "200 CS/Coding Things/React cases in maps.md",
     "200 CS/Coding Things/What to do to deploy website.md",
     "200 CS/Coding Things/BinarySearchSqrt.md",
-    "First little ASM Project.md",
+    "200 CS/CS Projects/First little ASM Project.md",
     "200 CS/Languages/ASM",
     "000 Index/Tags/%LowLevel.md",
     "000 Index/Tags/%ASM.md",
-    "How is data stored in memory.md",
-    "C",
-    "Programm efficiently.md",
-    "Building own Garbage Collector.md",
-    "Programming in lower level langauge.md",
-    "Toralizer - C.md",
-    "C/Memory Managment - C",
+    "200 CS/Languages/C",
+    "200 CS/Languages/C/Memory Managment - C",
     "200 CS/CS Projects/C Projects.md",
     "000 Index/Tags/%WebDev.md",
-    "200 CS/Usefull Stuff/Setup Web Application.md",
-    "001 Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2.md",
-    "800 Other/Skadi Geschenke.md",
     "900 Movies",
     "600 Debate/Religion",
     "300 School/Math",
     "300 School/Physik",
     "300 School/Chemie/Organische Chemie",
-    "300 School/Chemie",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
