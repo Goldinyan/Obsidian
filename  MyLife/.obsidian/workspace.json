@@ -11,10 +11,24 @@
             "id": "c4a21a8e5322483f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "200 CS/CS Projects/Book rating website auth and all.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Book rating website auth and all"
             }
           }
         ]
@@ -75,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 486.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -185,14 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "c4a21a8e5322483f",
   "lastOpenFiles": [
+    "200 CS/CS Projects/Toralizer - C.md",
+    "200 CS/CS Projects/Ai porkects.md",
+    "Programm efficiently.md",
     "How is data stored in memory.md",
     "Building own Garbage Collector.md",
     "Programming in lower level langauge.md",
-    "200 CS/CS Projects/Toralizer - C.md",
     "200 CS/Compiling.md",
-    "Programm efficiently.md",
     "200 CS/Languages/C/Basics - C.md",
     "200 CS/Hardware",
     "600 Debate/Politics/The Grooming of Young Children by Trump & Musk.md",
