@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/CS Projects/Web/HTTP-Server C.md",
+                "file": "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HTTP-Server C"
+              "title": "Morse Code Translator and binare maybe seperate"
             }
           }
         ]
@@ -199,18 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "c4a21a8e5322483f",
   "lastOpenFiles": [
-    "Untitled",
-    "200 CS/CS Projects/Web/Spotify Playlist Rating & more.md",
+    "200 CS/CS Projects/Multiplayer game chess?.md",
     "200 CS/CS Projects/Phase 6 learner with firebase auth.md",
+    "200 CS/CS Projects/Sudoku and Solver web.md",
+    "200 CS/CS Projects/Password Geberator.md",
+    "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
+    "200 CS/CS Projects/Low Level/First little ASM Project.md",
+    "200 CS/CS Projects/Web/Spotify Playlist Rating & more.md",
+    "200 CS/CS Projects/Web/Memory Game.md",
+    "200 CS/CS Projects/Low Level/HTTP-Server C.md",
+    "200 CS/CS Projects/Low Level",
     "200 CS/CS Projects/Hardware/Toralizer - C.md",
     "200 CS/CS Projects/Hardware",
-    "200 CS/CS Projects/Web/Memory Game.md",
-    "200 CS/CS Projects/Web/HTTP-Server C.md",
     "200 CS/CS Projects/Web/Book Rating Website.md",
-    "200 CS/CS Projects/First little ASM Project.md",
-    "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
     "200 CS/CS Projects/Web",
     "200 CS/Languages/C/Basics - C.md",
     "000 Index/Tags/%Web.md",
@@ -228,15 +231,12 @@
     "200 CS/Hardware/Basics - Cpu.md",
     "200 CS/Languages/ASM/Basics - ASM.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
-    "200 CS/Java Data Types.md",
-    "200 CS/CS Projects/Java 2D-Game/Player.java.md",
     "200 CS/Languages",
     "200 CS/Languages/ASM",
     "200 CS/Languages/C",
     "200 CS/Languages/C/Memory Managment - C",
     "900 Movies",
     "600 Debate/Religion",
-    "300 School/Math",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]

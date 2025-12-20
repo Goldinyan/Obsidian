@@ -95,6 +95,7 @@ Pointers
 Precision
 Project
 Padding
+Playlist
 IHDR
 IDATx
 IC
@@ -868,6 +869,7 @@ padding
 perfomance
 performing
 pages
+playlist
 kF
 kXl
 kXlm
@@ -1136,6 +1138,7 @@ unbekannte
 understanding
 uses
 unlike
+upload
 WGN
 Wm
 Wl
@@ -1609,6 +1612,7 @@ Struct
 Speicher
 Spielers
 Spieler
+Spotify
 zS
 zX
 zR
@@ -1891,6 +1895,7 @@ aligned
 alway
 architecture
 auth
+available
 JV
 Jv
 JN
@@ -2237,6 +2242,7 @@ ASM
 Access
 Accessing
 Auth
+Allow
 MV
 MM
 Ms
@@ -3033,6 +3039,8 @@ yes
 yk
 yeas
 yields
+youtube
+yt
 oc
 oh
 oj

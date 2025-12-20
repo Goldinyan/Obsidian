@@ -1,5 +1,10 @@
 Date: 2025-12-20
-Tags: {}
+Tags: {
+#W 
+[[%Web]]
+[[%Projects]]
+[[%Computer Science]]
+}
 
 
 # Spotify Playlist Rating  & more
