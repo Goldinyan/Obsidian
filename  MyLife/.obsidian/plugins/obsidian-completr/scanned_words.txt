@@ -1643,6 +1643,7 @@ Spotify
 Scheiß
 Show
 Story
+Setup
 zS
 zX
 zR

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1157b95f07bcc5",
+        "id": "4823cc708bad1198",
         "type": "tabs",
         "children": [
           {
-            "id": "6bbffb987acfee49",
+            "id": "64555537497ac7ac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "200 CS/Languages/C/Basics - C/Enums - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Enums - C"
             }
           }
         ]
@@ -185,8 +199,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bbffb987acfee49",
+  "active": "64555537497ac7ac",
   "lastOpenFiles": [
+    "100 Obsidian/Obsidian Setup.md",
     "200 CS/Coding Things/Web UI Templates/Daisy.md",
     "200 CS/Coding Things/Web UI Templates/Flowbite.md",
     "200 CS/Coding Things/Web UI Templates/Shadcn.md",
@@ -214,7 +229,6 @@
     "200 CS/Languages/C/Basics - C",
     "Structs - C.md",
     "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
-    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
     "200 CS/Languages/C/Structs - C",
     "200 CS/CS Projects/Low Level",
     "200 CS/CS Projects/Hardware",
