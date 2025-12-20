@@ -317,6 +317,7 @@ rdi
 rsi
 reads
 role
+rating
 Vs
 VO
 VJ
@@ -866,6 +867,7 @@ preferred
 padding
 perfomance
 performing
+pages
 kF
 kXl
 kXlm
@@ -1392,6 +1394,7 @@ Logik
 Logging
 Limits
 Loops
+Leaderboards
 qV
 qT
 qH
@@ -1887,6 +1890,7 @@ age
 aligned
 alway
 architecture
+auth
 JV
 Jv
 JN
@@ -2232,6 +2236,7 @@ Angriffen
 ASM
 Access
 Accessing
+Auth
 MV
 MM
 Ms
@@ -2326,6 +2331,7 @@ Math
 Memory
 Move
 Methods
+Matchmaking
 hv
 hz
 have
@@ -3556,6 +3562,7 @@ worry
 wait
 width
 wide
+website
 gv
 gu
 gP
@@ -3999,6 +4006,7 @@ Gedanken
 Gliederung
 GET
 Größe
+Game
 fW
 fvB
 fnrA
@@ -4759,6 +4767,7 @@ Before
 BinarySearchSqrt
 Bytes
 Bildschirm
+Book
 TN
 Tn
 TV
@@ -4935,6 +4944,8 @@ Roadmap
 Reagiert
 RDI
 RSI
+Rating
+Recommended
 Überblick
 Überlieferung
 Übersicht

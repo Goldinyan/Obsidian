@@ -1,4 +1,16 @@
+Date: 2025-12-20
+Tags: {
 #W 
+}
+
+
+# Toralizer - C
+
+
+
+
+
+# References
 
 A command‑line client for connecting to the Tor privacy network. When you run a CLI command that makes a network call:
 

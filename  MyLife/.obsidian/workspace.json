@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/CS Projects/Book rating website auth and all.md",
+                "file": "200 CS/CS Projects/Toralizer - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Book rating website auth and all"
+              "title": "Toralizer - C"
             }
           }
         ]
@@ -201,14 +201,21 @@
   },
   "active": "c4a21a8e5322483f",
   "lastOpenFiles": [
+    "200 CS/CS Projects/Web/Memory Game.md",
+    "200 CS/CS Projects/Web/HTTP-Server C.md",
+    "200 CS/CS Projects/Web/Book Rating Website.md",
     "200 CS/CS Projects/Toralizer - C.md",
+    "200 CS/CS Projects/First little ASM Project.md",
+    "200 CS/CS Projects/Morse Code Translator and binare maybe seperate.md",
+    "200 CS/CS Projects/Web",
+    "200 CS/Languages/C/Basics - C.md",
+    "000 Index/Tags/%Web.md",
     "200 CS/CS Projects/Ai porkects.md",
     "Programm efficiently.md",
     "How is data stored in memory.md",
     "Building own Garbage Collector.md",
     "Programming in lower level langauge.md",
     "200 CS/Compiling.md",
-    "200 CS/Languages/C/Basics - C.md",
     "200 CS/Hardware",
     "600 Debate/Politics/The Grooming of Young Children by Trump & Musk.md",
     "000 Index/Tags/%TS.md",
@@ -223,20 +230,13 @@
     "200 CS/Languages",
     "200 CS/Coding Things/React cases in maps.md",
     "200 CS/Coding Things/What to do to deploy website.md",
-    "200 CS/Coding Things/BinarySearchSqrt.md",
-    "200 CS/CS Projects/First little ASM Project.md",
     "200 CS/Languages/ASM",
-    "000 Index/Tags/%LowLevel.md",
-    "000 Index/Tags/%ASM.md",
     "200 CS/Languages/C",
     "200 CS/Languages/C/Memory Managment - C",
-    "200 CS/CS Projects/C Projects.md",
-    "000 Index/Tags/%WebDev.md",
     "900 Movies",
     "600 Debate/Religion",
     "300 School/Math",
     "300 School/Physik",
-    "300 School/Chemie/Organische Chemie",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
