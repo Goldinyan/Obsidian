@@ -56,6 +56,8 @@ objdump -x file
 Displays headers, section details, symbol tables, and more.  
 Useful for understanding the structure of ELF or Mach‑O files.
 
+(Doesn't work on Mac!)
+
 ## Show Symbols  
 
 ```

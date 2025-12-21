@@ -3393,6 +3393,7 @@ offsets
 offset
 output
 opcodes
+objdump
 ss
 sq
 sE
