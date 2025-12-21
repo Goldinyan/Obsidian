@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "objdump Command - RE.md",
+                "file": "Terminal Commands/Overall usefull Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "objdump Command - RE"
+              "title": "Overall usefull Commands"
             }
           }
         ],
@@ -226,9 +226,9 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
+    "objdump Command - RE.md",
     "Strings Command - RE.md",
     "Hex Dump & Reverse Hex Dump.md",
-    "objdump Command - RE.md",
     "Reverse Engineering/5 - Step Plan.md",
     "000 Index/Tags/%Command.md",
     "Terminal Commands/Overall usefull Commands.md",
