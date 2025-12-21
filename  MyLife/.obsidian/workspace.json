@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "5 - Step Plan"
             }
+          },
+          {
+            "id": "b28d4843c65c022f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hex Dump & Reverse Hex Dump.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hex Dump & Reverse Hex Dump"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,11 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed9315d06d66207",
+  "active": "b28d4843c65c022f",
   "lastOpenFiles": [
+    "Reverse Engineering/5 - Step Plan.md",
+    "Hex Dump & Reverse Hex Dump.md",
     "Reverse Engineering",
     "500 Philosophie/Books/Schönes Leben/Exkursion in die Philosophie - Edward Hopper.md",
-    "Reverse Engineering/5 - Step Plan.md",
     "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Functions & Loops - C.md",
@@ -261,7 +286,6 @@
     "200 CS/Hardware",
     "200 CS/Languages",
     "200 CS/Languages/ASM",
-    "200 CS/Languages/C",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
