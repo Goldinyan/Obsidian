@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2bea205155db2d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "b28d4843c65c022f",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Hex Dump & Reverse Hex Dump"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,10 +248,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed9315d06d66207",
+  "active": "2bea205155db2d58",
   "lastOpenFiles": [
-    "Hex Dump & Reverse Hex Dump.md",
     "Reverse Engineering/5 - Step Plan.md",
+    "Untitled.md",
+    "Hex Dump & Reverse Hex Dump.md",
     "000 Index/Tags/%Reverse Engineering.md",
     "000 Index/Tags/%UI.md",
     "000 Index/Tags/%Binary.md",
@@ -251,7 +277,6 @@
     "000 Index/Tags/%Migration.md",
     "999 Templates/New Philosophical Views.md",
     "000 Index/Tags/%heliozentrische Weltbild.md",
-    "200 CS/Languages/C/Basics - C/Array Length - C.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
