@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Engineering/5 - Step Plan.md",
+                "file": "Hex Dump & Reverse Hex Dump.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 - Step Plan"
+              "title": "Hex Dump & Reverse Hex Dump"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23551fd757c41ab1",
+  "active": "2ed9315d06d66207",
   "lastOpenFiles": [
-    "Reverse Engineering/5 - Step Plan.md",
     "Hex Dump & Reverse Hex Dump.md",
+    "Reverse Engineering/5 - Step Plan.md",
     "000 Index/Tags/%Reverse Engineering.md",
     "000 Index/Tags/%UI.md",
     "000 Index/Tags/%Binary.md",
