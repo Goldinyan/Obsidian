@@ -795,6 +795,7 @@ crackmes
 companion
 clutter
 compiled
+commands
 pt
 pD
 ph
@@ -948,6 +949,8 @@ precisely
 printable
 prepare
 printed
+pager
+produce
 kF
 kXl
 kXlm
@@ -1040,6 +1043,7 @@ kommentiert
 kleben
 klare
 konnte
+keys
 Zw
 Zy
 ZL
@@ -1233,6 +1237,7 @@ useful
 unnötigen
 unless
 underlying
+usefull
 WGN
 Wm
 Wl
@@ -1432,6 +1437,7 @@ Command
 Common
 Comments
 Control
+Commands
 LI
 LF
 LLN
@@ -1528,6 +1534,7 @@ quintessence
 questions
 quite
 qword
+quit
 Yw
 Ys
 Yl
@@ -1834,6 +1841,7 @@ Operators
 Operations
 Option
 Options
+Overall
 am
 ad
 afj
@@ -2047,6 +2055,7 @@ ausgelöst
 acctual
 appears
 appear
+arrow
 JV
 Jv
 JN
@@ -3675,6 +3684,10 @@ stripped
 source
 structures
 symbols
+sends
+scroll
+scrollable
+searchable
 XZ
 Xs
 XI
@@ -4466,6 +4479,7 @@ format
 filters
 filename
 functionality
+flood
 Hn
 HnZ
 HV
@@ -5051,6 +5065,7 @@ ensures
 encoding
 endian
 embedded
+extracted
 BP
 Bz
 BVb

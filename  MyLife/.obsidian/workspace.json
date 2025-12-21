@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "5 - Step Plan"
             }
+          },
+          {
+            "id": "c92a3ca7ad28c4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering/5 - Step Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5 - Step Plan"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +224,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed9315d06d66207",
+  "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
+    "Terminal Commands/Overall usefull Commands.md",
+    "000 Index/Tags/%Commands.md",
+    "Reverse Engineering/5 - Step Plan.md",
+    "Terminal Commands",
     "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
-    "Reverse Engineering/5 - Step Plan.md",
     "000 Index/Tags/%Reverse Engineering.md",
     "000 Index/Tags/%UI.md",
     "000 Index/Tags/%Binary.md",
@@ -226,8 +254,6 @@
     "000 Index/Tags/%English.md",
     "600 Debate/Politics/Das Haus der Migration.md",
     "000 Index/Tags/%Migration.md",
-    "999 Templates/New Philosophical Views.md",
-    "000 Index/Tags/%heliozentrische Weltbild.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
@@ -236,7 +262,6 @@
     "200 CS/CS Projects/Web",
     "200 CS/Hardware",
     "200 CS/Languages",
-    "200 CS/Languages/ASM",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
