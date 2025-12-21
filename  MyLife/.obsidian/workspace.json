@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Exkursion in die Philosophie - Edward Hopper"
             }
+          },
+          {
+            "id": "2ed9315d06d66207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering/5 - Step Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5 - Step Plan"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64555537497ac7ac",
+  "active": "2ed9315d06d66207",
   "lastOpenFiles": [
+    "Reverse Engineering",
+    "500 Philosophie/Books/Schönes Leben/Exkursion in die Philosophie - Edward Hopper.md",
+    "Reverse Engineering/5 - Step Plan.md",
     "200 CS/Languages/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Functions & Loops - C.md",
@@ -225,9 +253,6 @@
     "000 Index/Tags/%Array.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "000 Index/Tags/%Functions.md",
-    "000 Index/Tags/%Loops.md",
-    "200 CS/Languages/C/Basics - C/Types % Declaration - C.md",
-    "000 Index/Tags/%Enums.md",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
     "200 CS/CS Projects/Low Level",
