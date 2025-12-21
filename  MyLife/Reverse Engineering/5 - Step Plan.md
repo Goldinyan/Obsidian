@@ -4,3 +4,11 @@ Also with the [[Strings Command - RE]]  gives us a much better insight in what i
 
 The underlying question is, what does this programm do?
 
+When a person writes code at the end of the day, error codes, names of source files, certain meta data is left behind in the programm. We, as reverse Engineers can look at this and infer what did the human mean to do when he wrote this programm 
+
+
+If this doesn't get you enough we can do the next step
+
+## Static Analysis 
+
+The art is taking the programm you have questions about and going deep into the code, going into the binary and asm to figure out what it should do
