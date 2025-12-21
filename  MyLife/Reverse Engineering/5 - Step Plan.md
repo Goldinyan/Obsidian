@@ -11,4 +11,7 @@ If this doesn't get you enough we can do the next step
 
 ## Static Analysis 
 
-The art is taking the programm you have questions about and going deep into the code, going into the binary and asm to figure out what it should do
+The art is taking the programm you have questions about and going deep into the code, going into the binary and asm to figure out what it should do.
+
+For this we need a software which allows us to see and use the assembly code, and understand what the machine instructions are, what did the cpu get told to do?
+We can do this by doing 
