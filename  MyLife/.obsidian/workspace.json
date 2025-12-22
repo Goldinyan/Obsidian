@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e53e2b323ca52f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website Inspiration.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Website Inspiration"
+            }
+          },
+          {
             "id": "c92a3ca7ad28c4a7",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Compiling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,11 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ed9315d06d66207",
+  "active": "e53e2b323ca52f11",
   "lastOpenFiles": [
+    "Reverse Engineering/5 - Step Plan.md",
+    "Website Inspiration.md",
     "200 CS/Compiling.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
-    "Reverse Engineering/5 - Step Plan.md",
     "objdump Command - RE.md",
     "Terminal Commands/Overall usefull Commands.md",
     "Strings Command - RE.md",
@@ -252,7 +278,6 @@
     "200 CS/Coding Things/Web UI Templates/Tailwind.md",
     "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
     "000 Index/Tags/%ShortStory.md",
-    "750 Writing/English/Short Story/What makes a good Short Story?.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
