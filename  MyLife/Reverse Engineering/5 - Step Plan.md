@@ -89,4 +89,6 @@ float _getAverage(int[] arr, int length)
 
 Easy, right?
 
+# Dynamic analysis
 
+This is watching the programm run life, observing its functionality in real time, so you wont just guess what it does in static analysis you will watch it perfomance in action 
