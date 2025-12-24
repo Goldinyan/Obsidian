@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Compiling.md",
+                "file": "200 CS/Languages/C/Basics - C/Array Length - C.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compiling"
+              "title": "Array Length - C"
             }
           }
         ],
@@ -274,16 +274,16 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
+    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
+    "200 CS/Compiling.md",
     "GDB Command - RE.md",
     "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
     "Reverse Engineering/5 - Step Plan.md",
     "Terminal Commands/Overall usefull Commands.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "800 Other/Packliste.md",
     "Website Inspiration.md",
-    "200 CS/Compiling.md",
     "objdump Command - RE.md",
     "000 Index/Tags/%Command.md",
     "Terminal Commands",

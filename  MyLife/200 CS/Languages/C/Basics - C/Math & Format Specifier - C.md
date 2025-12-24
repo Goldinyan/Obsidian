@@ -43,6 +43,7 @@ y = ++x; // x is added before and then
 %f - float
 %s - string (char *)
 %zu - sizeof() -> is an operator not a function
+%f - double
 
 \n -> prints new Line
 
