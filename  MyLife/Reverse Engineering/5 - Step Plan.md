@@ -93,4 +93,16 @@ Easy, right?
 
 This is watching the programm run life, observing its functionality in real time, so you wont just guess what it does in static analysis you will watch it perfomance in action. We could thugh static analysis look what for example the math is behind a crackme which wants a password, or we can just let the programm do the math and then catch the values in the act of doint that an look at it dynamically
 
-For this we will use the GDB, the gnu debugger, 
+For this we will use the GDB, the gnu debugger, with this we can run programms and then set breakpoints which will tell the cpu: Stop right there what youre doing i have questions to ask you.
+
+The important quesiton is when should i stop the programm to ask my questions.
+In this case we want to get the password and we know that it will iterate over it and check with the user- input so we can stop right before the iteration
+
+
+
+
+
+
+
+
+
