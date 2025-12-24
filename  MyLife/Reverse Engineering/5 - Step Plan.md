@@ -34,3 +34,21 @@ float _getAverage(long param_1,int param_2)
 
 This function looks very odd, but with help of the name `getAverage`and a little help we can turn this into its original form:
 
+We can see that we are adding `local_10`up and then divide it so we can convert it into the name sum, `undefined4`is just an int,  and `local_14`isn't initialised but used in the for loop, so we can convert it to `i`, that gives us:
+
+```c
+float _getAverage(long param_1,int param_2)
+
+{
+  int i; 
+  int sum;
+  
+  sum = 0;
+  for (i = 0; i < param_2; i++) {
+    sum = sum + *(int *)(param_1 + (long)i * 4);
+  }
+  return (float) sum / param_2;
+}
+```
+
+The name gives us a hint, so it would make sense to, at the end, divide the sum by the length of the array w
