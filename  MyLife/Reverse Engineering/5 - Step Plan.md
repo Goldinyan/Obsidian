@@ -91,4 +91,6 @@ Easy, right?
 
 # Dynamic analysis
 
-This is watching the programm run life, observing its functionality in real time, so you wont just guess what it does in static analysis you will watch it perfomance in action 
+This is watching the programm run life, observing its functionality in real time, so you wont just guess what it does in static analysis you will watch it perfomance in action. We could thugh static analysis look what for example the math is behind a crackme which wants a password, or we can just let the programm do the math and then catch the values in the act of doint that an look at it dynamically
+
+For this we will use the GDB, the gnu debugger, 
