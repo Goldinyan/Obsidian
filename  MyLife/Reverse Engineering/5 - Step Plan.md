@@ -15,5 +15,4 @@ The art is taking the programm you have questions about and going deep into the 
 
 For this we need a software which allows us to see and use the assembly code, and understand what the machine instructions are, what did the cpu get told to do?
 We can do this by doing [[objdump Command - RE]], which gives us every machine instruction byte by byte, this of course isn't really human readable, but it would be possible.
-It gives us the ASM Instructions for the cpu, when something is compiled we can only get the binary which can be ran, then we are only left with the assembly. Now the RE has to infer the intention out of the assembly and think what could be the C Instruction. This view is pretty bad, luckily software like IDA give us a a very clean graph view of all the instructions. 
-Instead we will 
+It gives us the ASM Instructions for the cpu, when something is compiled we can only get the binary which can be ran, then we are only left with the assembly. Now the RE has to infer the intention out of the assembly and think what could be the C Instruction. This view is pretty bad, luckily software like Ghidra give us a a very clean graph view of all the instructions. They help us with lifting the hard-to-read asm up and showing us Pseudo-C, a representation on what the C code could look like from the asm.

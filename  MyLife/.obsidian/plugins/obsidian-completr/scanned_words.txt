@@ -186,6 +186,7 @@ Information
 Identify
 Inspect
 Instructions
+IDA
 rD
 rVS
 rZ
@@ -350,6 +351,7 @@ receive
 rebuild
 relocation
 remain
+ran
 Vs
 VO
 VJ
@@ -1775,6 +1777,7 @@ Source
 Symbols
 Sections
 Stripped
+Space
 zS
 zX
 zR
@@ -2797,6 +2800,7 @@ libraries
 linked
 linker
 labels
+luckily
 bM
 bS
 bs
@@ -3742,6 +3746,7 @@ specific
 section
 shared
 sizes
+site
 XZ
 Xs
 XI
@@ -4051,6 +4056,7 @@ gelegt
 gekommen
 geschehen
 gelingt
+give
 nf
 nnvi
 nC

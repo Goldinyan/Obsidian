@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
-                "mode": "preview",
+                "file": "Reverse Engineering/5 - Step Plan.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types & Declaration - C"
+              "title": "5 - Step Plan"
             }
           },
           {
@@ -250,14 +250,14 @@
   },
   "active": "e53e2b323ca52f11",
   "lastOpenFiles": [
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
+    "Terminal Commands/Overall usefull Commands.md",
+    "Reverse Engineering/5 - Step Plan.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
+    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "800 Other/Packliste.md",
     "Website Inspiration.md",
-    "Reverse Engineering/5 - Step Plan.md",
     "200 CS/Compiling.md",
     "objdump Command - RE.md",
-    "Terminal Commands/Overall usefull Commands.md",
     "Strings Command - RE.md",
     "Hex Dump & Reverse Hex Dump.md",
     "000 Index/Tags/%Command.md",
