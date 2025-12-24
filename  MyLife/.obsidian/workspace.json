@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -272,10 +272,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c8f9c54f9a27643",
+  "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
-    "Hex Dump & Reverse Hex Dump.md",
     "GDB Command - RE.md",
+    "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
     "Reverse Engineering/5 - Step Plan.md",
     "Terminal Commands/Overall usefull Commands.md",
