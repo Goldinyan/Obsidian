@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hex Dump & Reverse Hex Dump.md",
+                "file": "GDB Command - RE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hex Dump & Reverse Hex Dump"
+              "title": "GDB Command - RE"
             }
           },
           {
@@ -274,6 +274,7 @@
   },
   "active": "6c8f9c54f9a27643",
   "lastOpenFiles": [
+    "Hex Dump & Reverse Hex Dump.md",
     "GDB Command - RE.md",
     "Strings Command - RE.md",
     "Reverse Engineering/5 - Step Plan.md",
@@ -284,7 +285,6 @@
     "Website Inspiration.md",
     "200 CS/Compiling.md",
     "objdump Command - RE.md",
-    "Hex Dump & Reverse Hex Dump.md",
     "000 Index/Tags/%Command.md",
     "Terminal Commands",
     "000 Index/Tags/%Reverse Engineering.md",

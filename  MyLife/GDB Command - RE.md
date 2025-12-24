@@ -10,14 +10,6 @@ Tags: {
 }
 
 
-Klar, hier ist eine kompakte `.obi`-Datei für deine Obsidian-Notizen, speziell für **GDB mit GEF**. Sie ist im gleichen Stil wie deine `objdump.obi`, mit Fokus auf praktische Befehle, Stack-Analyse und typischen Reverse-Engineering-Workflows:
-
----
-
-```markdown
-# 🐛 gdb.obi – GDB mit GEF (Reverse Engineering)
-
-## 📦 Setup
 ```bash
 # Installation (gef via git)
 git clone https://github.com/hugsy/gef.git
@@ -81,8 +73,3 @@ watch x              # Watchpoint setzen
 - Nutze `telescope` für Stack-Strings
 - Nutze `canary` für Buffer Overflow Checks
 
-```
-
----
-
-Wenn du willst, kann ich dir auch eine Variante für **pwndbg**, **radare2**, oder eine Vergleichstabelle GDB vs LLDB vs Hopper vs Ghidra machen.
