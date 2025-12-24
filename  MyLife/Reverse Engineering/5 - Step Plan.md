@@ -111,22 +111,26 @@ do{
 When printing the stack at this break point, we got:
 
 ```c
-─────────────────────[ STACK ]──────────────────────
-
-0x00007ffffffffdc0│+0x00: "00sGo4M0passwordenter the right password"
-
-0x00007ffffffffdc8│+0x08: "passwordenter the right password"
-
-0x00007ffffffffdd0│+0x10: "enter the right password"
-
-0x00007ffffffffdd8│+0x18: "e right password"
-
-0x00007ffffffffde0│+0x20: "password"
-
+gef -> context stack
+─────────────────────────────────────────────────────
+0x00007ffffffffddb0|+0x0000: 0x0000000000000000 <- $rsp
+0x00007ffffffffddb8|+0x0008: 0x00000000010a0000 
+0x00007ffffffffddc0│+0x0010: "00sGo4M0passwordenter the right password"
+0x00007ffffffffddc8│+0x0018: "passwordenter the right password"
+0x00007ffffffffddd0│+0x0020: "enter the right password"
+0x00007ffffffffddd8│+0x0028: "e right password"
+0x00007ffffffffdde0│+0x0030: "password"
+0x00007ffffffffdde8|+0x0000: 0x0000000000000000 
 ────────────────────────────────────────────────────
 ```
 
+Out of this we can get the password: `00sGo4M0`
 
+
+
+# Symbolic Execution
+
+Sometimes a programm is harder to cr
 
 
 
