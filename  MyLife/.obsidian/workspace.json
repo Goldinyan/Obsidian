@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages/C/Basics - C/Array Length - C.md",
+                "file": "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Array Length - C"
+              "title": "Math & Format Specifier - C"
             }
           }
         ],
@@ -274,6 +274,8 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
+    "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
+    "200 CS/Languages/C/Basics - C/Array Length - C.md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Compiling.md",
     "GDB Command - RE.md",
@@ -281,7 +283,6 @@
     "Strings Command - RE.md",
     "Reverse Engineering/5 - Step Plan.md",
     "Terminal Commands/Overall usefull Commands.md",
-    "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "800 Other/Packliste.md",
     "Website Inspiration.md",
     "objdump Command - RE.md",
@@ -301,7 +302,6 @@
     "100 Obsidian/Obsidian Setup.md",
     "200 CS/Coding Things/Web UI Templates/Daisy.md",
     "200 CS/Coding Things/Web UI Templates/Flowbite.md",
-    "200 CS/Coding Things/Web UI Templates/Shadcn.md",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
