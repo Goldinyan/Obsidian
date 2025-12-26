@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Compiling.md",
+                "file": "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compiling"
+              "title": "Math & Format Specifier - C"
             }
           },
           {
@@ -298,10 +298,10 @@
   },
   "active": "c92a3ca7ad28c4a7",
   "lastOpenFiles": [
-    "Debugging.md",
-    "200 CS/Compiling.md",
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
+    "200 CS/Compiling.md",
+    "Debugging.md",
+    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
     "200 CS/Languages/C/Basics - C/Enums - C.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
