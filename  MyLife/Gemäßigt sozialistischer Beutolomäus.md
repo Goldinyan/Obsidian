@@ -94,3 +94,9 @@ Ich bin ein Sack und Er hat mich mal als Kopfkissen benutzt, seid dem sind wir F
 SKAdi
 
 rechte hand des weinachtsmann 
+wm ist gestresst -> zu viele Menschen
+ich wurde rausgeworfen im klein gedruckten 
+erst 1 dann 2 fabriken dann alle bis auf eine
+wm ist eingespeert im letzten büro,
+typ will alles fabriken und used ki 
+Ein Person
