@@ -357,6 +357,7 @@ ran
 rsp
 restore
 radare
+rattling
 Vs
 VO
 VJ
@@ -517,6 +518,7 @@ Kompiliert
 Kamera
 Konstruktor
 Kultur
+Keeping
 EG
 ER
 Ek
@@ -824,6 +826,14 @@ comparison
 clone
 continue
 canary
+controlling
+conversations
+circles
+closing
+concrete
+counterargument
+claims
+covering
 pt
 pD
 ph
@@ -987,6 +997,12 @@ path
 py
 print
 pwndbg
+principle
+pivot
+pressing
+pure
+principles
+prepared
 kF
 kXl
 kXlm
@@ -1083,6 +1099,7 @@ keys
 kompakte
 kam
 könnt
+knocked
 Zw
 Zy
 ZL
@@ -1203,6 +1220,7 @@ Nachdenken
 Notizen
 Nächste
 Nutze
+News
 uR
 uN
 ug
@@ -1817,6 +1835,7 @@ Speicherbereiche
 Stackframe
 Stop
 Shortcuts
+Sorrunded
 zS
 zX
 zR
@@ -1918,6 +1937,7 @@ Overall
 Overflow
 Omi
 Opi
+Ofcourse
 am
 ad
 afj
@@ -2139,6 +2159,15 @@ analyzing
 almost
 addr
 ab
+argue
+admit
+arguing
+anytime
+anywhere
+arguments
+analyzes
+articles
+angle
 JV
 Jv
 JN
@@ -2268,6 +2297,7 @@ Function
 File
 Fokus
 Far
+Fox
 vHwc
 vE
 vA
@@ -2512,6 +2542,7 @@ Aufhebung
 ASCII
 Analysis
 Aktueller
+Another
 MV
 MM
 Ms
@@ -2617,6 +2648,7 @@ Minimum
 Machine
 Mach
 Mama
+Moving
 hv
 hz
 have
@@ -2723,6 +2755,7 @@ hexadecimal
 headers
 happening
 hexdump
+hand
 lI
 lt
 ls
@@ -3015,6 +3048,7 @@ binaries
 bash
 backtrace
 bt
+backing
 mm
 ms
 mO
@@ -3171,6 +3205,7 @@ messages
 minimum
 meta
 mean
+merges
 do
 dK
 dQ
@@ -3355,6 +3390,8 @@ dumpen
 dereference
 disas
 disassemblieren
+develop
+discussions
 QS
 Qn
 QGu
@@ -3815,6 +3852,8 @@ speziell
 setzen
 springt
 speichern
+super
+side
 XZ
 Xs
 XI
@@ -3979,6 +4018,8 @@ wrote
 wordweise
 watch
 warten
+weaker
+wanna
 gv
 gu
 gP
@@ -4134,6 +4175,7 @@ git
 gdbinit
 gdb
 gx
+goalposts
 nf
 nnvi
 nC
@@ -4477,6 +4519,7 @@ GDB
 GEF
 Geladene
 Guide
+Ground
 fW
 fvB
 fnrA
@@ -4633,6 +4676,9 @@ finish
 functions
 frame
 fw
+forces
+facts
+filteres
 Hn
 HnZ
 HV
@@ -4879,6 +4925,7 @@ tools
 typischen
 telescope
 togglen
+tangible
 UU
 Uo
 Uc
@@ -5243,6 +5290,8 @@ examination
 exported
 echo
 erwiedert
+ends
+either
 BP
 Bz
 BVb

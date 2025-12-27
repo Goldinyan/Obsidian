@@ -1,5 +1,7 @@
 Date: 2025-12-27
-Tags: {}
+Tags: {
+#W 
+}
 
 
 # A Leftist's Guide to Debating the Far-Right
@@ -13,7 +15,14 @@ What you can do, is pressing them, to admit when they're giving up ground. This 
 Another good idea is rattling of facts, making the points super tangible and concrete, because you're not just arguing about pure principles. You are actually backing your point up with examples.
 
 How can we, you and I, develop the ability to always have a counterargument on hand?
-In shows like Sorrunded, the person knows his claims and can prepare, but we can do something else to prepare for political discussions, which we can anytime and anywhere 
+In shows like Sorrunded, the person knows his claims and can prepare, but we can do something else to prepare for political discussions, which we can do anytime and anywhere without having to prepared for a specific point.
+
+*Keeping up what the arguments of the other side could be.*
+
+Ofcourse we don‘t wanna watch hours of Fox News, to know what the other side is saying, but we can do something else.
+
+Go to *Ground News*, a website, which filteres and analyzes thousands of articles every day and merges them together, and look at stories from *every* angle, so you can get a look at who is covering a story and how theyre covering it 
+
 
 
 # References
