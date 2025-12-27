@@ -36,79 +36,62 @@ Seitdem streift er durch die Welt, halb beleidigt, halb neugierig, halb heldenha
 # Persoanlitiät
 
 - Überfürsorglich 
-	- er hat eine Art „Geschenkeinstinkt“ und will Leuten geben, was sie brauchen… auch wenn sie es nicht wollen.  
-- **Leicht beleidigt** – besonders wenn jemand ihn „Tasche“ nennt.  
-- **Magisch chaotisch** – manchmal zieht er Dinge aus sich heraus, die er gar nicht bewusst eingepackt hat.  
-- **Väterlich** – er hat viel von St. Nick gelernt, aber interpretiert es… kreativ.
+	- er hat eine Art „Geschenkeinstinkt“ und will Leuten geben, was sie brauchen auch wenn sie es nicht wollen, also so gar nicht. Kann helfen oder auch nicht, mal sehen
+- Leicht beleidigt 
+	- besonders wenn jemand ihn „Tasche“ nennt.  
+- Magisch chaotisch
+	- manchmal zieht er Dinge aus sich heraus, die er gar nicht bewusst eingepackt hat. er hat sie einfach   
 
 ---
 
-# 🎒 2. ROLLE IN DER GRUPPE & FÄHIGKEITEN
+## Fähigkeiten
 
-Beutolomäus kann in eurer Gruppe eine **Hybridrolle** einnehmen:
-
-### 🥷 **Schleichender Überraschungs-Kämpfer**
+Überraschender Kämpfer
 Er ist ein Sack. Niemand erwartet, dass der Sack plötzlich zuschlägt.  
-Er kann sich zusammenrollen, tarnen, irgendwo hängen – und dann BOOM.
+Er kann sich zusammenrollen, tarnen, irgendwo hängen und dann BOOM. NIMM DAS
 
-### 🎁 **Magischer „Inventar“-Trickster**
+ ## Magischer „Inventar“-Trickster
+ 
 Er kann Dinge aus sich herausziehen, die thematisch passen:
 - Seile  
 - Kleinkram  
 - Süßigkeiten  
 - Kleine Tiere  
 - Schneebälle  
-- Ein Mini-Weihnachtsbaum  
-- Ein Geschenk, das explodiert, wenn man es öffnet (freundlich explodiert)
+- Ein Mini-Weihnachtsbaum lol
+- Taschenlampe
+Aber muss funktionelle Sachen mit logischen Erklärungen schildern.
 
-### 🧸 **Emotionen-Leser**
+## Emotionen lesen
+
 Da er jahrhundertelang Wünsche gespeichert hat, hat er ein gutes Gefühl für Menschen.
 
-### 🧦 **Geschenk-Mechaniken**
-Du könntest eine Fähigkeit haben wie:
-
-**„Überraschung aus dem Sack“**  
-Einmal pro Szene darfst du einen zufälligen, aber nützlichen Gegenstand hervorziehen.
-
-Oder:
-
-**„Einpacken!“**  
-Du kannst jemanden kurzzeitig in Stoff einwickeln (Grapple/Bindung).
 
 ---
 
-# 🪢 3. ATTRIBUTVERTEILUNG (Vorschlag)
+## Attribute
 
-Du hast 22 Punkte, max. ein Wert darf 1 sein, alle anderen min. 2.
 
-Für einen schleichenden, überraschenden Beutolomäus:
 
-| Attribut | Punkte | Begründung |
-|---------|--------|------------|
-| Nahkampf | 3 | Überraschungsangriffe, Einwickeln |
-| Fernkampf | 2 | Schneebälle, kleine Wurfgeschenke |
-| Stärke | 4 | Du bist ein Sack, du trägst alles |
-| Geschick | 5 | Schleichen, Ausweichen, Klettern |
-| Konzentration | 3 | Magische Fähigkeiten kontrollieren |
-| Empathie | 5 | Wünsche lesen, Emotionen spüren |
+| Attribut      | Punkte | Begründung                         |
+| ------------- | ------ | ---------------------------------- |
+| Nahkampf      | 3      | Überraschungsangriffe, Einwickeln  |
+| Fernkampf     | 2      | Schneebälle, kleine Wurfgeschenke  |
+| Stärke        | 4      | Du bist ein Sack, du trägst alles  |
+| Geschick      | 5      | Schleichen, Ausweichen, Klettern   |
+| Konzentration | 3      | Magische Fähigkeiten kontrollieren |
+| Empathie      | 5      | Wünsche lesen, Emotionen spüren    |
 
-Das ergibt 22 Punkte.
 
-Wenn du ihn körperlich weniger stark willst, kannst du Stärke auf 2–3 setzen und Nahkampf erhöhen.
 
----
+## Woher ich die anderen kenne, maybe
 
-# 🧵 4. STORY-HOOKS FÜR DIE KAMPAGNE
 
-Damit du perfekt ins Team passt:
+##  St. Nick
+Vielleicht warst ich sein erster Sack.  
 
-### 🎅 **1. Verbindung zu St. Nick**
-Vielleicht warst du sein erster Sack.  
-Vielleicht bist du sein verlorener Freund.  
-Vielleicht bist du sein *Fehler*, den er nie korrigiert hat.
-
-### 🐶 **2. Der Grinch kennt dich**
-Vielleicht hat der Grinch dich mal geklaut – und du bist ihm entwischt.  
+### Der Grinch
+Vielleicht hat der Grinch mich mal geklaut, und ich bin ihm entwischt.  
 Oder du hast ihm früher Geschenke gebracht, die er gehasst hat.
 
 ### 🍺 **3. Rudolf kennt dich aus der Kneipe**
