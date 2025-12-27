@@ -152,6 +152,30 @@
             }
           },
           {
+            "id": "379bca3ad87617bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kitty Commands.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kitty Commands"
+            }
+          },
+          {
             "id": "c92a3ca7ad28c4a7",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -282,8 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5,
-    "collapsed": true
+    "width": 486.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -393,10 +416,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "145e7f50b69e9182",
+  "active": "379bca3ad87617bd",
   "lastOpenFiles": [
-    "Gemäßigt sozialistischer Beutolomäus.md",
     "A Leftist's Guide to Debating the Far-Right.md",
+    "Kitty Commands.md",
+    "Gemäßigt sozialistischer Beutolomäus.md",
     "Untitled",
     "Untitled.md",
     "DND Characters",
@@ -423,7 +447,6 @@
     "Terminal Commands",
     "000 Index/Tags/%Reverse Engineering.md",
     "000 Index/Tags/%UI.md",
-    "000 Index/Tags/%Binary.md",
     "Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
