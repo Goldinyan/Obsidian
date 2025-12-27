@@ -19,7 +19,7 @@ nicht nur mit Geschenken, sondern auch mit Emotionen, Geheimnissen und verlorene
 Irgendwann erwachte er. (WOAAAH)
 
 Er bekam einen eigenen Willen.  
-Er half dem Weihnachtsmann jahrhundertelang, doch irgendwann wurde er vergessen* ersetzt durch modernere, effizientere Säcke. 
+Er half dem Weihnachtsmann jahrhundertelang, doch irgendwann wurde er vergessen ersetzt durch modernere, effizientere Säcke. 
 (Scheiß Kapitalismus, grrr!)
 Der Weihnachtsmann meinte es nicht böse,
 aber Beutolomäus fühlte sich verraten.
@@ -27,7 +27,7 @@ aber Beutolomäus fühlte sich verraten.
 
 Er verließ den Nordpol.
 
-Seitdem streift er durch die Welt, halb beleidigt, halb neugierig, halb heldenhaft und versucht herauszufinden, ob er mehr ist als nur ein Sack.
+Seitdem streift er durch die Welt, halb beleidigt, halb neugierig, halb heldenhaft und versucht herauszufinden ob er mehr ist als nur ein Sack.
 
 (Crazy Redemption Arc)
 
@@ -64,6 +64,7 @@ Aber muss funktionelle Sachen mit logischen Erklärungen schildern.
 
 ## Emotionen lesen
 
+Er lebt schon sehr lange und war im Kontakt mit vielen Leuten. Außerdem kann er  Wünsche und Errinnerungen von allen herausfinden!
 
 
 ---
