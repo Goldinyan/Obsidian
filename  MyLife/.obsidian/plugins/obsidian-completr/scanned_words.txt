@@ -1081,6 +1081,8 @@ klare
 konnte
 keys
 kompakte
+kam
+könnt
 Zw
 Zy
 ZL
@@ -1912,6 +1914,8 @@ Option
 Options
 Overall
 Overflow
+Omi
+Opi
 am
 ad
 afj
@@ -2609,6 +2613,7 @@ Magic
 Minimum
 Machine
 Mach
+Mama
 hv
 hz
 have
@@ -3971,6 +3976,7 @@ wem
 wrote
 wordweise
 watch
+warten
 gv
 gu
 gP
@@ -4714,6 +4720,7 @@ Helps
 Helpful
 Hardcoded
 Hexdump
+Heinersdorf
 xe
 xJ
 xys
@@ -5231,6 +5238,7 @@ entry
 examination
 exported
 echo
+erwiedert
 BP
 Bz
 BVb
