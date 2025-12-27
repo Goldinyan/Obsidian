@@ -862,6 +862,8 @@ cpp
 clients
 cmp
 clangd
+configs
+capabilities
 pt
 pD
 ph
@@ -2237,6 +2239,7 @@ arm
 ansgarseifert
 autocmd
 apple
+attach
 JV
 Jv
 JN
@@ -3147,6 +3150,7 @@ backing
 buffer
 bin
 buffers
+base
 mm
 ms
 mO
@@ -3970,6 +3974,8 @@ sysname
 share
 signature
 snake
+servers
+setup
 XZ
 Xs
 XI
@@ -4552,6 +4558,7 @@ installed
 inline
 init
 issues
+ipairs
 Gn
 Go
 Gs
@@ -5067,6 +5074,7 @@ tsx
 typescript
 traceback
 truecolor
+tsserver
 UU
 Uo
 Uc
@@ -5443,6 +5451,7 @@ external
 empty
 encodings
 einstellen
+eslint
 BP
 Bz
 BVb
