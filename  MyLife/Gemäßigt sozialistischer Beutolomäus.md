@@ -2,10 +2,10 @@
 # BACKSTORY: *Beutolomäus, der Vergessene Sack*
 
 **Name:** Beutolomäus von Nordzipfel  
-**Art:** Magisch beseelter Geschenkesack, lol  
+Art: Magisch beseelter Geschenkesack, lol  
 
 maybe Trickster
-loyalem Diener und 
+loyaler Diener und 
 so ein heimlichem Weihnachtswächter
 
 ---
@@ -64,7 +64,6 @@ Aber muss funktionelle Sachen mit logischen Erklärungen schildern.
 
 ## Emotionen lesen
 
-Da er jahrhundertelang Wünsche gespeichert hat, hat er ein gutes Gefühl für Menschen.
 
 
 ---
@@ -73,44 +72,17 @@ Da er jahrhundertelang Wünsche gespeichert hat, hat er ein gutes Gefühl für M
 
 
 
-| Attribut      | Punkte | Begründung                         |
-| ------------- | ------ | ---------------------------------- |
-| Nahkampf      | 3      | Überraschungsangriffe, Einwickeln  |
-| Fernkampf     | 2      | Schneebälle, kleine Wurfgeschenke  |
-| Stärke        | 4      | Du bist ein Sack, du trägst alles  |
-| Geschick      | 5      | Schleichen, Ausweichen, Klettern   |
-| Konzentration | 3      | Magische Fähigkeiten kontrollieren |
-| Empathie      | 5      | Wünsche lesen, Emotionen spüren    |
-
 
 
 ## Woher ich die anderen kenne, maybe
 
 
 ##  St. Nick
-Vielleicht warst ich sein erster Sack.  
+Vielleicht war ich sein erster Sack und er hat mich zurückgelassen.
 
-### Der Grinch
+## Der Grinch
 Vielleicht hat der Grinch mich mal geklaut, und ich bin ihm entwischt.  
-Oder du hast ihm früher Geschenke gebracht, die er gehasst hat.
+Oder ich habe ihm früher Geschenke gebracht, die er gehasst hat, da ich selbst in ihm das Gute sehe.
 
-### 🍺 **3. Rudolf kennt dich aus der Kneipe**
-Du bist ein Sack.  
-Er hat dich mal als Kopfkissen benutzt.  
-Ihr seid jetzt Freunde.
-
-### 🎁 **4. Du suchst deine Bestimmung**
-Willst du wieder ein Werkzeug sein?  
-Oder ein Held?  
-Oder ein eigenständiges Wesen?
-
----
-
-# Wenn du willst, kann ich dir jetzt:
-
-- eine **voll ausgearbeitete Backstory** schreiben  
-- eine **persönliche Fähigkeit** für Beutolomäus entwickeln  
-- ein **Charakterblatt** im Lemna-System erstellen  
-- oder **Beutolomäus & St. Nick** als Duo konzipieren
-
-Sag mir einfach, in welche Richtung du ihn am liebsten hättest.
+## Rudolf kennt mich aus der Kneipe
+Ich bin ein Sack und Er hat mich mal als Kopfkissen benutzt, seid dem sind wir Freunde.
