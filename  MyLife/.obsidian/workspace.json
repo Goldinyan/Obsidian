@@ -176,6 +176,30 @@
             }
           },
           {
+            "id": "fd8f2588d431d233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copilot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Copilot"
+            }
+          },
+          {
             "id": "c92a3ca7ad28c4a7",
             "type": "leaf",
             "state": {
@@ -248,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -416,15 +440,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379bca3ad87617bd",
+  "active": "fd8f2588d431d233",
   "lastOpenFiles": [
+    "200 CS/Usefull Stuff/NVCHAD.md",
+    "Copilot.md",
     "Gemäßigt sozialistischer Beutolomäus.md",
     "Untitled.md",
     "Kitty Commands.md",
     "A Leftist's Guide to Debating the Far-Right.md",
     "Untitled",
     "DND Characters",
-    "200 CS/Usefull Stuff/NVCHAD.md",
     "200 CS/Usefull Stuff/NVIM.md",
     "GDB Command - RE.md",
     "Debugging.md",
@@ -446,7 +471,6 @@
     "000 Index/Tags/%Command.md",
     "Terminal Commands",
     "000 Index/Tags/%Reverse Engineering.md",
-    "000 Index/Tags/%UI.md",
     "Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
