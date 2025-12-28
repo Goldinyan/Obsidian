@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Usefull Stuff/NVCHAD.md",
+                "file": "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD"
+              "title": "Math & Format Specifier - C"
             }
           },
           {
@@ -442,8 +442,8 @@
   },
   "active": "379bca3ad87617bd",
   "lastOpenFiles": [
-    "Copilot.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
+    "Copilot.md",
     "Gemäßigt sozialistischer Beutolomäus.md",
     "Untitled.md",
     "Kitty Commands.md",
