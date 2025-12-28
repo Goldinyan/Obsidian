@@ -120,7 +120,7 @@ empathie = 9
 Konzentration = 2
 Fernkampf = 1
 Stärke = 4
-Nahkampf = 4
+Nahkampf = 3
 Geschick = 2
 
 
