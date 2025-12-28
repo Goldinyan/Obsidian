@@ -133,6 +133,6 @@ Keine Panik, ich sortiere deine Erinnerungen nach Farbe.
 
 
 gian : grinch 
-Kevin: WM Jack frost
+Kevin: Sant Nikolaus - > WM Jack frost 
 Lukas : Rudolf Zwerg
 Henning: Leopold der mit der AG
