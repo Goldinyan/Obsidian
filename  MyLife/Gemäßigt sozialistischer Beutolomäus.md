@@ -112,7 +112,7 @@ Attribute:
 
 
 
-Wunden : 4 - 1 - 1 - 1
+Wunden : 4 - 1 - 1 - 1 + 2
 
 bin robo langsam
 
