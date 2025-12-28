@@ -91,7 +91,7 @@ Ich bin ein Sack und Er hat mich mal als Kopfkissen benutzt, seid dem sind wir F
 
 
 
-SKAdi
+Skadi
 
 rechte hand des weinachtsmann 
 wm ist gestresst -> zu viele Menschen
@@ -111,13 +111,10 @@ und dann bei tiefer empathie wurf
 Attribute:
 
 
-Wunden : 4 Standart
-
-18
-
-empathie 
-Konzentration
+Wunden : 4 
+empathie = 8
+Konzentration = 2
 Fernkampf = 1
-Stärke
-Nahkampf 
+Stärke = 4
+Nahkampf = 4
 Geschick = 3
