@@ -112,7 +112,9 @@ Attribute:
 
 
 
-Wunden : 4 - 1 - 1
+Wunden : 4 - 1 - 1 - 1
+
+bin robo langsam
 
 empathie = 9
 Konzentration = 2
