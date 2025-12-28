@@ -18,6 +18,8 @@ Tags: {
 
 strg + n -> file tree opens
 
+gd -> jumping to def of func
+
 strg + h -> back to file tree when in file 
 
 space f m -> LSP formatting

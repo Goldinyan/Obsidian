@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemäßigt sozialistischer Beutolomäus.md",
+                "file": "200 CS/Usefull Stuff/NVCHAD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gemäßigt sozialistischer Beutolomäus"
+              "title": "NVCHAD"
             }
           },
           {
@@ -306,8 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5,
-    "collapsed": true
+    "width": 486.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
