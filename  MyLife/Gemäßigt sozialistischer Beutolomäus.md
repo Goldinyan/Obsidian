@@ -106,3 +106,18 @@ Fähigkeit ist tiefeste Wünsche und so zu bekommen von jemanden
 5x machen
 oberflächlich
 und dann bei tiefer empathie wurf
+
+
+Attribute:
+
+
+Wunden : 4 Standart
+
+18
+
+empathie 
+Konzentration
+Fernkampf = 1
+Stärke
+Nahkampf 
+Geschick = 3
