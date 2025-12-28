@@ -109,6 +109,7 @@ Parser
 Perl
 Python
 Persoanlitiät
+Panik
 IHDR
 IDATx
 IC
@@ -200,6 +201,7 @@ Info
 Installed
 Irgendwann
 Inventar
+Inneren
 rD
 rVS
 rZ
@@ -552,6 +554,9 @@ Kleine
 Kontakt
 Kneipe
 Kopfkissen
+Konzentration
+Knoten
+Kevin
 EG
 ER
 Ek
@@ -1211,6 +1216,7 @@ Zero
 Zeichnet
 Zusammensein
 Zeigt
+Zwerg
 Nn
 Nk
 No
@@ -1297,6 +1303,8 @@ Nicht
 Nordpol
 NIMM
 Nick
+Nahkampf
+Nikolaus
 uR
 uN
 ug
@@ -1496,6 +1504,8 @@ Wünschen
 WOAAAH
 Weihnachtsbaum
 Woher
+Wunden
+WM
 Cbc
 Cr
 Ck
@@ -1689,6 +1699,8 @@ Log
 Legende
 Leuten
 Leicht
+Lukas
+Leopold
 qV
 qT
 qH
@@ -1949,6 +1961,11 @@ Süßigkeiten
 Schneebälle
 St
 SKAdi
+Skadi
+Stärke
+Seele
+Sorge
+Sant
 zS
 zX
 zR
@@ -2292,6 +2309,7 @@ ansgarseifert
 autocmd
 apple
 attach
+atmen
 JV
 Jv
 JN
@@ -2324,6 +2342,7 @@ JS
 Jul
 Jahrhunderten
 Justus
+Jack
 FzF
 FK
 FG
@@ -2429,6 +2448,9 @@ Features
 Freude
 Freunde
 Fähigkeit
+Fernkampf
+FORM
+Farbe
 vHwc
 vE
 vA
@@ -2537,6 +2559,7 @@ verlorenen
 verraten
 verließ
 vielen
+verdrängt
 Aw
 ArX
 Ar
@@ -2691,6 +2714,7 @@ Attached
 ALLEN
 Arc
 Attribute
+AG
 MV
 MM
 Ms
@@ -3070,6 +3094,7 @@ loyaler
 langer
 logischen
 lebt
+löse
 bM
 bS
 bs
@@ -4070,6 +4095,7 @@ streift
 schildern
 sehe
 seid
+sortiere
 XZ
 Xs
 XI
@@ -4243,6 +4269,7 @@ wollen
 weinachtsmann
 wm
 wurf
+wühle
 gv
 gu
 gP
@@ -4406,6 +4433,8 @@ gebracht
 gehasst
 gestresst
 gedruckten
+gian
+grinch
 nf
 nnvi
 nC
@@ -4774,6 +4803,7 @@ Geschenken
 Geheimnissen
 Geschenkeinstinkt
 Grinch
+Geschick
 fW
 fvB
 fnrA
@@ -4938,6 +4968,7 @@ fonts
 fühlte
 früher
 fabriken
+frost
 Hn
 HnZ
 HV
@@ -5029,6 +5060,8 @@ Helpful
 Hardcoded
 Hexdump
 Heinersdorf
+Halt
+Henning
 xe
 xJ
 xys
