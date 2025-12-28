@@ -272,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -440,10 +440,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd8f2588d431d233",
+  "active": "379bca3ad87617bd",
   "lastOpenFiles": [
-    "200 CS/Usefull Stuff/NVCHAD.md",
     "Copilot.md",
+    "200 CS/Usefull Stuff/NVCHAD.md",
     "Gemäßigt sozialistischer Beutolomäus.md",
     "Untitled.md",
     "Kitty Commands.md",

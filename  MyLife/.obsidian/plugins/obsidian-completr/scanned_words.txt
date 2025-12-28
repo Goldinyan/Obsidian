@@ -3620,6 +3620,7 @@ directory
 dict
 didChangeWatchedFiles
 disabled
+def
 QS
 Qn
 QGu
@@ -4565,6 +4566,7 @@ javascript
 jahrhundertelang
 jemand
 jemanden
+jumping
 id
 in
 iB
