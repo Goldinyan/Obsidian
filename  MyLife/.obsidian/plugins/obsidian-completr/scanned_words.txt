@@ -110,6 +110,7 @@ Perl
 Python
 Persoanlitiät
 Panik
+Previous
 IHDR
 IDATx
 IC
@@ -890,6 +891,7 @@ clangd
 configs
 capabilities
 chaotisch
+cmd
 pt
 pD
 ph
@@ -1217,6 +1219,7 @@ Zeichnet
 Zusammensein
 Zeigt
 Zwerg
+Zentrieren
 Nn
 Nk
 No
@@ -1966,6 +1969,7 @@ Stärke
 Seele
 Sorge
 Sant
+Screen
 zS
 zX
 zR
@@ -2824,6 +2828,7 @@ Moving
 Mon
 Magisch
 Magischer
+Maximieren
 hv
 hz
 have
@@ -3095,6 +3100,7 @@ langer
 logischen
 lebt
 löse
+linke
 bM
 bS
 bs
@@ -5064,6 +5070,7 @@ Hexdump
 Heinersdorf
 Halt
 Henning
+Hälfte
 xe
 xJ
 xys

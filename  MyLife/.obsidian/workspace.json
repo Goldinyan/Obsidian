@@ -176,6 +176,30 @@
             }
           },
           {
+            "id": "ebd27ef239a0e079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rectangle (Windows Manager).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rectangle (Windows Manager)"
+            }
+          },
+          {
             "id": "fd8f2588d431d233",
             "type": "leaf",
             "state": {
@@ -272,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -440,8 +464,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379bca3ad87617bd",
+  "active": "ebd27ef239a0e079",
   "lastOpenFiles": [
+    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
+    "Rectangle (Windows Manager).md",
+    "Mac Apps",
     "200 CS/Usefull Stuff/NVCHAD.md",
     "Copilot.md",
     "Gemäßigt sozialistischer Beutolomäus.md",
@@ -456,7 +483,6 @@
     "Template C Sturcture.md",
     "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Compiling.md",
     "200 CS/Languages/C/Basics - C/Enums - C.md",
@@ -470,14 +496,12 @@
     "objdump Command - RE.md",
     "000 Index/Tags/%Command.md",
     "Terminal Commands",
-    "000 Index/Tags/%Reverse Engineering.md",
     "Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",
     "200 CS/CS Projects/Low Level",
     "200 CS/CS Projects/Hardware",
-    "200 CS/CS Projects/Web",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
