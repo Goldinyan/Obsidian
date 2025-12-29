@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "7f55359b3a254929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gamma Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gamma Function"
+            }
+          },
+          {
             "id": "692f0c00f78a609f",
             "type": "leaf",
             "state": {
@@ -296,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -464,10 +488,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4e5bfc0c853c501",
+  "active": "7f55359b3a254929",
   "lastOpenFiles": [
-    "42.md",
     "Untitled 1.md",
+    "Gamma Function.md",
+    "42.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
     "Reverse Engineering/5 - Step Plan.md",
     "Rectangle (Windows Manager).md",
@@ -494,7 +519,6 @@
     "Strings Command - RE.md",
     "Terminal Commands/Overall usefull Commands.md",
     "800 Other/Packliste.md",
-    "Website Inspiration.md",
     "Terminal Commands",
     "Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",

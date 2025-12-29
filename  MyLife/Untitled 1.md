@@ -380,7 +380,6 @@ $$
 
 ### 8. Endform der gesamten Rechnung
 
-Alles zusammen (genau das kannst du in Obsidian kopieren):
 
 $$
 \frac{
