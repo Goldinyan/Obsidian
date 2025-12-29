@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c8f9c54f9a27643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/Usefull Stuff/NVCHAD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NVCHAD"
-            }
-          },
-          {
-            "id": "b657e288431925d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "42"
-            }
-          },
-          {
-            "id": "b4e5bfc0c853c501",
+            "id": "7f55359b3a254929",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,259 +30,8 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
-          },
-          {
-            "id": "7f55359b3a254929",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamma Function.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gamma Function"
-            }
-          },
-          {
-            "id": "692f0c00f78a609f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "28b2264f29488d8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gemäßigt sozialistischer Beutolomäus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gemäßigt sozialistischer Beutolomäus"
-            }
-          },
-          {
-            "id": "145e7f50b69e9182",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Leftist's Guide to Debating the Far-Right.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "A Leftist's Guide to Debating the Far-Right"
-            }
-          },
-          {
-            "id": "379bca3ad87617bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Math & Format Specifier - C"
-            }
-          },
-          {
-            "id": "ebd27ef239a0e079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rectangle (Windows Manager).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rectangle (Windows Manager)"
-            }
-          },
-          {
-            "id": "fd8f2588d431d233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Copilot.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "c92a3ca7ad28c4a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Accessing & Updating Structs"
-            }
-          },
-          {
-            "id": "585064b7187dbb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template C Sturcture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Template C Sturcture"
-            }
-          },
-          {
-            "id": "05741dfbb89d0bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debugging.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Debugging"
-            }
-          },
-          {
-            "id": "cdeb42007b258216",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -388,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 305.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -498,9 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdeb42007b258216",
+  "active": "7f55359b3a254929",
   "lastOpenFiles": [
+    "Untitled.md",
     "Gamma Function.md",
+    "%Gamma.md",
+    "%Integral.md",
+    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
+    "Template C Sturcture.md",
+    "Debugging.md",
     "log convexity.md",
     "Untitled 1.md",
     "42.md",
@@ -511,24 +218,18 @@
     "Mac Apps",
     "Copilot.md",
     "Gemäßigt sozialistischer Beutolomäus.md",
-    "Untitled.md",
     "Kitty Commands.md",
     "A Leftist's Guide to Debating the Far-Right.md",
     "Untitled",
     "DND Characters",
     "200 CS/Usefull Stuff/NVIM.md",
     "GDB Command - RE.md",
-    "Debugging.md",
-    "Template C Sturcture.md",
-    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
     "200 CS/Compiling.md",
     "200 CS/Languages/C/Basics - C/Enums - C.md",
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
     "Hex Dump & Reverse Hex Dump.md",
-    "Strings Command - RE.md",
-    "Terminal Commands/Overall usefull Commands.md",
     "Terminal Commands",
     "Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",

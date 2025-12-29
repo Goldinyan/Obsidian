@@ -1,3 +1,15 @@
+Date: 2025-12-29
+Tags: {
+#W 
+[[%Mathematics]]
+[[%Gamma]]
+[[%Integral]]
+}
+
+
+# Gamma Function
+
+
 
 
 Everyone know factorial, if I would ask you what is the factorial of 5, so 5! you would know its 120. Its easy:
@@ -42,4 +54,10 @@ If we plug this into our recursive property, we get:
 
 $$\int_0^\infty g(t, x)\,dt = x \cdot \int_0^\infty g(t,x - 1)\,dt$$
 This means:
-$$g(t, x) = x \cdo
+$$g(t, x) = x \cdot g(t, x - 1) $$
+
+
+
+
+# References
+https://www.youtube.com/watch?v=UZuszwqW_Qo

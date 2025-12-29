@@ -204,6 +204,8 @@ Installed
 Irgendwann
 Inventar
 Inneren
+Integral
+Integration
 rD
 rVS
 rZ
@@ -561,6 +563,8 @@ Kopfkissen
 Konzentration
 Knoten
 Kevin
+Komplette
+Kubikwurzel
 EG
 ER
 Ek
@@ -708,6 +712,9 @@ Erklärungen
 Errinnerungen
 Execution
 Everyone
+Einsetzen
+Euler
+Endform
 cj
 cK
 cz
@@ -901,6 +908,8 @@ convert
 catch
 crack
 concept
+compile
+cdo
 pt
 pD
 ph
@@ -1087,6 +1096,7 @@ password
 programms
 printing
 preserve
+plug
 kF
 kXl
 kXlm
@@ -1187,6 +1197,7 @@ knocked
 kitty
 kenne
 klein
+komplett
 Zw
 Zy
 ZL
@@ -1233,6 +1244,9 @@ Zusammensein
 Zeigt
 Zwerg
 Zentrieren
+Zuerst
+Zähler
+Zetafunktion
 Nn
 Nk
 No
@@ -1321,6 +1335,7 @@ NIMM
 Nick
 Nahkampf
 Nikolaus
+Nenner
 uR
 uN
 ug
@@ -1717,6 +1732,7 @@ Leuten
 Leicht
 Lukas
 Leopold
+Logarithmenregel
 qV
 qT
 qH
@@ -1986,6 +2002,7 @@ Sant
 Screen
 Symbolic
 Sometimes
+Summe
 zS
 zX
 zR
@@ -2043,6 +2060,9 @@ zig
 zuschlägt
 zusammenrollen
 zurückgelassen
+zuerst
+zweite
+zusammengesetzt
 OU
 OL
 Oq
@@ -2094,6 +2114,7 @@ Opi
 Ofcourse
 Oder
 Out
+Overkill
 am
 ad
 afj
@@ -2477,6 +2498,7 @@ Fähigkeit
 Fernkampf
 FORM
 Farbe
+Fakultäten
 vHwc
 vE
 vA
@@ -2741,6 +2763,10 @@ ALLEN
 Arc
 Attribute
 AG
+Apply
+Aus
+Aufteilen
+Ausschreiben
 MV
 MM
 Ms
@@ -2852,6 +2878,7 @@ Magisch
 Magischer
 Maximieren
 Mathematicians
+Makefile
 hv
 hz
 have
@@ -3295,6 +3322,7 @@ böse
 beleidigt
 büro
 breakpoints
+benutzen
 mm
 ms
 mO
@@ -3463,6 +3491,7 @@ meinte
 müssen
 math
 magic
+module
 do
 dK
 dQ
@@ -4143,6 +4172,7 @@ stop
 satisfiability
 solver
 smooth
+src
 XZ
 Xs
 XI
@@ -4318,6 +4348,7 @@ wm
 wurf
 wühle
 weird
+written
 gv
 gu
 gP
@@ -4486,6 +4517,7 @@ grinch
 guess
 gnu
 got
+gesamten
 nf
 nnvi
 nC
@@ -4758,6 +4790,8 @@ input
 iteration
 integers
 intuitive
+include
+integrals
 Gn
 Go
 Gs
@@ -4865,6 +4899,8 @@ Geschenkeinstinkt
 Grinch
 Geschick
 Gamma
+Grenzen
+Gammafunktion
 fW
 fvB
 fnrA
@@ -5032,6 +5068,7 @@ fabriken
 frost
 factorial
 fairly
+fits
 Hn
 HnZ
 HV
@@ -5126,6 +5163,7 @@ Heinersdorf
 Halt
 Henning
 Hälfte
+Hauptintegral
 xe
 xJ
 xys
@@ -5296,6 +5334,7 @@ typ
 tiefeste
 tricky
 thugh
+txt
 UU
 Uo
 Uc
@@ -5351,6 +5390,7 @@ Usually
 Usage
 Users
 Ur
+Umformung
 DC
 DK
 DN
@@ -5462,6 +5502,8 @@ Desktop
 Disabled
 Dinge
 DAS
+Directory
+Da
 eC
 eD
 eL
@@ -5691,6 +5733,7 @@ execution
 exponentially
 extended
 enforce
+erwidert
 BP
 Bz
 BVb
@@ -5796,6 +5839,7 @@ BACKSTORY
 Beutolomäus
 BOOM
 BALD
+Bekannt
 TN
 Tn
 TV
@@ -5903,6 +5947,7 @@ Trickster
 Traurig
 Tasche
 Taschenlampe
+Template
 üb
 über
 überführt
@@ -6008,6 +6053,8 @@ Root
 Ruby
 Redemption
 Rudolf
+Rekursionsformel
+Rechnung
 Überblick
 Überlieferung
 Übersicht
