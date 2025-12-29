@@ -318,9 +318,19 @@
               "icon": "lucide-file",
               "title": "Debugging"
             }
+          },
+          {
+            "id": "cdeb42007b258216",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -488,10 +498,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f55359b3a254929",
+  "active": "cdeb42007b258216",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Gamma Function.md",
+    "log convexity.md",
+    "Untitled 1.md",
     "42.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
     "Reverse Engineering/5 - Step Plan.md",
@@ -518,7 +529,6 @@
     "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
     "Terminal Commands/Overall usefull Commands.md",
-    "800 Other/Packliste.md",
     "Terminal Commands",
     "Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",
