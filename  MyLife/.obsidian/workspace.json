@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ed9315d06d66207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reverse Engineering/5 - Step Plan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5 - Step Plan"
-            }
-          },
-          {
-            "id": "e53e2b323ca52f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reverse Engineering/5 - Step Plan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5 - Step Plan"
-            }
-          },
-          {
             "id": "6c8f9c54f9a27643",
             "type": "leaf",
             "state": {
@@ -77,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "NVCHAD"
+            }
+          },
+          {
+            "id": "b657e288431925d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "42"
             }
           },
           {
@@ -296,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -464,12 +440,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd27ef239a0e079",
+  "active": "b657e288431925d8",
   "lastOpenFiles": [
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
-    "Rectangle (Windows Manager).md",
-    "Mac Apps",
     "200 CS/Usefull Stuff/NVCHAD.md",
+    "Reverse Engineering/5 - Step Plan.md",
+    "42.md",
+    "Rectangle (Windows Manager).md",
+    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
+    "Mac Apps",
     "Copilot.md",
     "Gemäßigt sozialistischer Beutolomäus.md",
     "Untitled.md",
@@ -489,12 +467,10 @@
     "200 CS/Languages/C/Basics - C/Array Length - C.md",
     "Hex Dump & Reverse Hex Dump.md",
     "Strings Command - RE.md",
-    "Reverse Engineering/5 - Step Plan.md",
     "Terminal Commands/Overall usefull Commands.md",
     "800 Other/Packliste.md",
     "Website Inspiration.md",
     "objdump Command - RE.md",
-    "000 Index/Tags/%Command.md",
     "Terminal Commands",
     "Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",

@@ -111,6 +111,7 @@ Python
 Persoanlitiät
 Panik
 Previous
+Pseudo
 IHDR
 IDATx
 IC
@@ -703,6 +704,7 @@ Erinnerungen
 Emotionen
 Erklärungen
 Errinnerungen
+Execution
 cj
 cK
 cz
@@ -892,6 +894,10 @@ configs
 capabilities
 chaotisch
 cmd
+convert
+catch
+crack
+concept
 pt
 pD
 ph
@@ -1074,6 +1080,9 @@ pbcopy
 perl
 python
 passen
+password
+programms
+printing
 kF
 kXl
 kXlm
@@ -1725,6 +1734,7 @@ quite
 qword
 quit
 query
+quesiton
 Yw
 Ys
 Yl
@@ -1970,6 +1980,8 @@ Seele
 Sorge
 Sant
 Screen
+Symbolic
+Sometimes
 zS
 zX
 zR
@@ -2077,6 +2089,7 @@ Omi
 Opi
 Ofcourse
 Oder
+Out
 am
 ad
 afj
@@ -2314,6 +2327,9 @@ autocmd
 apple
 attach
 atmen
+acctually
+adding
+amazing
 JV
 Jv
 JN
@@ -2947,6 +2963,8 @@ heraus
 hängen
 herausziehen
 herausfinden
+hint
+harder
 lI
 lt
 ls
@@ -3101,6 +3119,7 @@ logischen
 lebt
 löse
 linke
+lifting
 bM
 bS
 bs
@@ -3267,6 +3286,7 @@ bekam
 böse
 beleidigt
 büro
+breakpoints
 mm
 ms
 mO
@@ -3433,6 +3453,7 @@ magisches
 modernere
 meinte
 müssen
+math
 do
 dK
 dQ
@@ -3627,6 +3648,9 @@ dict
 didChangeWatchedFiles
 disabled
 def
+divide
+doint
+debugger
 QS
 Qn
 QGu
@@ -3664,6 +3688,7 @@ yeas
 yields
 youtube
 yt
+youre
 oc
 oh
 oj
@@ -3737,6 +3762,8 @@ opcodes
 objdump
 opt
 oberflächlich
+odd
+observing
 ss
 sq
 sE
@@ -4103,6 +4130,9 @@ schildern
 sehe
 seid
 sortiere
+stop
+satisfiability
+solver
 XZ
 Xs
 XI
@@ -4442,6 +4472,9 @@ gestresst
 gedruckten
 gian
 grinch
+guess
+gnu
+got
 nf
 nnvi
 nC
@@ -4706,6 +4739,10 @@ issues
 ipairs
 irgendwann
 irgendwo
+initialised
+iterate
+input
+iteration
 Gn
 Go
 Gs
@@ -5239,6 +5276,8 @@ tsserver
 thematisch
 typ
 tiefeste
+tricky
+thugh
 UU
 Uo
 Uc
@@ -5629,6 +5668,8 @@ erster
 entwischt
 eingespeert
 empathie
+effectively
+execution
 BP
 Bz
 BVb
