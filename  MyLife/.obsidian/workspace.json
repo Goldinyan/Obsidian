@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Hex Dump & Reverse Hex Dump.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Hex Dump & Reverse Hex Dump"
             }
           }
         ]
@@ -201,6 +201,8 @@
   },
   "active": "7f55359b3a254929",
   "lastOpenFiles": [
+    "Kitty Commands.md",
+    "Untitled 1.md",
     "Untitled.md",
     "Gamma Function.md",
     "%Gamma.md",
@@ -209,7 +211,6 @@
     "Template C Sturcture.md",
     "Debugging.md",
     "log convexity.md",
-    "Untitled 1.md",
     "42.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
     "Reverse Engineering/5 - Step Plan.md",
@@ -218,7 +219,6 @@
     "Mac Apps",
     "Copilot.md",
     "Gemäßigt sozialistischer Beutolomäus.md",
-    "Kitty Commands.md",
     "A Leftist's Guide to Debating the Far-Right.md",
     "Untitled",
     "DND Characters",
