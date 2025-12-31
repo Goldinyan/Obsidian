@@ -16,6 +16,7 @@ Tags: {
 
 <leader>fw -> suchen nach etwas
 
+bd -> closes current view
 gc -> ausgewählten code block zum kommentar machen 
 strg + n -> file tree opens
 
