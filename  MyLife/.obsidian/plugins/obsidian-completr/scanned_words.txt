@@ -1198,6 +1198,7 @@ kitty
 kenne
 klein
 komplett
+kommentar
 Zw
 Zy
 ZL
@@ -2357,6 +2358,7 @@ adding
 amazing
 already
 along
+ausgewählten
 JV
 Jv
 JN
@@ -4518,6 +4520,7 @@ guess
 gnu
 got
 gesamten
+gc
 nf
 nnvi
 nC
