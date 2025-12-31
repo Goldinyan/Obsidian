@@ -15,7 +15,7 @@ Tags: {
 - zR → alles öffnen
 
 <leader>fw -> suchen nach etwas
-
+:s/2/3/g -> macht 2 zu 3;
 bd -> closes current view
 gc -> ausgewählten code block zum kommentar machen 
 strg + n -> file tree opens
