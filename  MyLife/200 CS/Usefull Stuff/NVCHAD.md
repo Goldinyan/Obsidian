@@ -16,6 +16,7 @@ Tags: {
 
 <leader>fw -> suchen nach etwas
 
+gc -> ausgewählten code block zum kommentar machen 
 strg + n -> file tree opens
 
 gd -> jumping to def of func
