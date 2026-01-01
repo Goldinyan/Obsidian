@@ -119,6 +119,7 @@ Plattform
 Probleme
 Performance
 Prototyp
+Phase
 IHDR
 IDATx
 IC
@@ -483,6 +484,7 @@ Vergessene
 Vor
 VON
 Verworfen
+Viel
 KPgM
 KO
 Krbm
@@ -594,6 +596,8 @@ Komplexität
 Konzept
 Kern
 Körperhaltung
+Koordinate
+Kompakte
 EG
 ER
 Ek
@@ -746,6 +750,7 @@ Euler
 Endform
 ESLINT
 Empathy
+Einträgen
 cj
 cK
 cz
@@ -953,6 +958,7 @@ containerized
 combination
 choices
 coin
+customizable
 pt
 pD
 ph
@@ -1147,6 +1153,11 @@ positions
 personality
 perfect
 preventing
+parent
+paragrapg
+poihnts
+presented
+paraphrasing
 kF
 kXl
 kXlm
@@ -1253,6 +1264,7 @@ kompakt
 kernmaerkmal
 kurzen
 kernmerkmal
+kompletten
 Zw
 Zy
 ZL
@@ -1305,6 +1317,9 @@ Zetafunktion
 Zeta
 Zusammensetzen
 Zweck
+Zellen
+Zustand
+Zelle
 Nn
 Nk
 No
@@ -1475,6 +1490,8 @@ unless
 underlying
 usefull
 umgesetzt
+umgerechnet
+unverändert
 WGN
 Wm
 Wl
@@ -1601,6 +1618,9 @@ WM
 Wurzel
 Would
 Want
+Werbung
+Windows
+Während
 Cbc
 Cr
 Ck
@@ -1716,6 +1736,7 @@ Codebeispiele
 Commits
 Character
 Conflict
+Contra
 LI
 LF
 LLN
@@ -1810,6 +1831,8 @@ Libraries
 Laufzeit
 Lessons
 Learned
+Lern
+Lernen
 qV
 qT
 qH
@@ -1834,6 +1857,7 @@ query
 quesiton
 quuicky
 queries
+quoutes
 Yw
 Ys
 Yl
@@ -2095,6 +2119,8 @@ Should
 Schurke
 Stimme
 Schal
+Sentence
+Startmuster
 zS
 zX
 zR
@@ -2157,6 +2183,7 @@ zweite
 zusammengesetzt
 zentrale
 zornig
+zugreifen
 OU
 OL
 Oq
@@ -2216,6 +2243,7 @@ Optional
 Optimierungen
 Openings
 One
+OBJECTIVE
 am
 ad
 afj
@@ -2470,6 +2498,13 @@ appearence
 ah
 answered
 assume
+ausgebildet
+allerdings
+allokierst
+aussehen
+aktualisierst
+alter
+alte
 JV
 Jv
 JN
@@ -2726,6 +2761,7 @@ verließ
 vielen
 verdrängt
 verbessern
+verändert
 Aw
 ArX
 Ar
@@ -2893,6 +2929,7 @@ Anforderungen
 Aufwand
 Ask
 Aussehen
+App
 MV
 MM
 Ms
@@ -3013,6 +3050,9 @@ Mechanismus
 Messwerte
 Motivation
 Make
+Manager
+MAINPOINT
+Metadaten
 hv
 hz
 have
@@ -3300,6 +3340,9 @@ loval
 löst
 leaves
 liegen
+learner
+lernen
+logisch
 bM
 bS
 bs
@@ -3474,6 +3517,11 @@ borders
 beschreibendes
 beschreibungen
 boden
+beyond
+berechnen
+bevor
+berechnet
+berechnest
 mm
 ms
 mO
@@ -3648,6 +3696,9 @@ motion
 mitgenommen
 motivation
 mutig
+merken
+movie
+maintain
 do
 dK
 dQ
@@ -3855,6 +3906,10 @@ development
 diesem
 desires
 desire
+daily
+dates
+direct
+dieses
 QS
 Qn
 QGu
@@ -3971,6 +4026,10 @@ odd
 observing
 offering
 overcrowding
+origional
+opaste
+onw
+opinioon
 ss
 sq
 sE
@@ -4349,6 +4408,10 @@ staz
 szene
 schal
 smartest
+scaling
+sdummary
+speakeer
+supporting
 XZ
 Xs
 XI
@@ -4703,6 +4766,7 @@ gc
 gelöst
 gefasst
 grades
+guter
 nf
 nnvi
 nC
@@ -4840,6 +4904,7 @@ jahrhundertelang
 jemand
 jemanden
 jumping
+joa
 id
 in
 iB
@@ -4984,6 +5049,7 @@ integrals
 infos
 interessant
 inner
+indentify
 Gn
 Go
 Gs
@@ -5100,6 +5166,10 @@ GIFs
 Git
 Geschätzter
 GoldStück
+Gitters
+Grid
+Grids
+Gesamtlogik
 fW
 fvB
 fnrA
@@ -5275,6 +5345,9 @@ flaws
 factor
 feeling
 fulfilling
+firebase
+figures
+follow
 Hn
 HnZ
 HV
@@ -5551,6 +5624,7 @@ traits
 tomorrow
 thief
 trotzig
+tauschen
 UU
 Uo
 Uc
@@ -5730,6 +5804,7 @@ Datum
 Datenstrukturen
 Don
 Dieb
+Darum
 eC
 eD
 eL
@@ -5972,6 +6047,14 @@ expand
 eigentschaften
 erkennt
 explanatory
+everaone
+effective
+essaential
+exmaple
+enthält
+ergibt
+extrem
+effizient
 BP
 Bz
 BVb
@@ -6083,6 +6166,10 @@ Bitte
 Better
 Benchmarks
 Bilder
+BE
+Beide
+Beispielproblem
+Berechnung
 TN
 Tn
 TV
@@ -6198,6 +6285,9 @@ Technologien
 Tracking
 Think
 Traits
+Tips
+Topic
+Tausch
 üb
 über
 überführt
@@ -6213,6 +6303,8 @@ Traits
 überall
 übertragen
 überprüft
+überschreiben
+überschreibst
 Rn
 Rk
 Rj
@@ -6312,6 +6404,9 @@ REST
 Repository
 Repo
 Risiken
+Resources
+Rectangle
+Rendering
 Überblick
 Überlieferung
 Übersicht

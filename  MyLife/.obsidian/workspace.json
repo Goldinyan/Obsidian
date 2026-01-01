@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2cbf0d0f57d6499",
+        "id": "bb701571728359fc",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd62fff18030853",
+            "id": "66f50fb55695f8d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/CS Projects/Web/Multiplayer game chess?.md",
+                "file": "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Multiplayer game chess?"
+              "title": "Structs Idea"
             }
           }
         ]
@@ -199,34 +199,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcd62fff18030853",
+  "active": "66f50fb55695f8d5",
   "lastOpenFiles": [
-    "%Debugging.md",
+    "200 CS/CS Projects/Low Level/Game of Life - C/Game of Life - C.md",
+    "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
+    "300 School/English/Summary.md",
+    "600 Debate/Veganism/Veganismus Contra.md",
+    "000 Index/Tags/%Debating.md",
+    "000 Index/Tags/%Mac.md",
+    "2026-01-01.md",
+    "100 Configs & Setups/Mac Apps/Copilot.md",
+    "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
+    "100 Configs & Setups/Obsidian/Obsidian Setup.md",
+    "100 Configs & Setups/Obsidian/How to write a Mini-Essay.md",
+    "200 CS/CS Projects/Web/Website for Resources i use.md",
+    "200 CS/CS Projects/Web/Phase 6, but better.md",
+    "200 CS/CS Projects/Web/Book Rating Website.md",
+    "200 CS/CS Projects/Web/Morse Code Translator and binare maybe seperate.md",
+    "200 CS/CS Projects/Web/Password Geberator.md",
+    "200 CS/CS Projects/Web/Sudoku and Solver web.md",
+    "200 CS/CS Projects/Web/Spotify Playlist Rating & more.md",
+    "200 CS/CS Projects/Web/Memory Game.md",
+    "200 CS/CS Projects/Web/Multiplayer game chess?.md",
+    "000 Index/Tags/%Debugging.md",
     "200 CS/Reverse Engineering/lldb Command - RE.md",
     "200 CS/Languages & Frameworks/Go/Basics.md",
-    "%Eternal Life.md",
+    "000 Index/Tags/%Eternal Life.md",
     "500 Philosophie/The Horror of the Eternal Life.md",
-    "%Infinity.md",
-    "000 Index/Tags/%Usefull.md",
-    "000 Index/Tags/%React.md",
-    "000 Index/Tags/%Inspiration.md",
-    "000 Index/Tags/%Ideas.md",
-    "000 Index/Tags/%Frontend.md",
-    "000 Index/Tags/%API.md",
-    "200 CS/Web/Website UI Inspiration.md",
-    "750 Writing/How to write good Characters.md",
-    "999 Templates/Finished Project.md",
-    "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
-    "200 CS/CS Projects/Web/Phase 6, but better.md",
-    "800 Other/Skadi Geschenke.md",
-    "999 Templates/New General Note.md",
-    "999 Templates/New Philosophical Views.md",
-    "999 Templates/New Philosopher.md",
-    "999 Templates/New History Relevant Person.md",
-    "999 Templates/New Academic Note.md",
-    "200 CS/Web/Important Web Imports.md",
-    "800 Other/Packliste.md",
-    "200 CS/Other/Usefull APIs.md",
+    "000 Index/Tags/%Infinity.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",

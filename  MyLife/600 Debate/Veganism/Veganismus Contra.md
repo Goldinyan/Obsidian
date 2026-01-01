@@ -1,3 +1,14 @@
+Date: 2026-01-01
+Tags: {
+#W
+[[%Veganismus]]
+[[%Debating]]
+}
+
+
+# Veganismus Contra
+
+
 # „Aber die Bibel & Koran erlaubt Fleisch!“
 
 **„Gott hat uns die Tiere gegeben, damit wir sie nutzen.“**
@@ -130,3 +141,6 @@ Konter:
 • Aber Reis, Nudeln, Bohnen, Gemüse sind billiger als Fleisch.
 
 • Und das Geld, das wir sparen könnten, wenn wir keine Milliarden in Subventionen für Tierhaltung stecken, würde vegane Produkte auch billiger machen.
+
+
+# References
