@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Usefull Stuff/NVCHAD.md",
+                "file": "200 CS/Mac Apps/Rectangle (Windows Manager).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD"
-            }
-          },
-          {
-            "id": "03dc0f8e6d236906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structs Idea"
+              "title": "Rectangle (Windows Manager)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +43,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 76.9170579029734,
+        "dimension": 75.15527950310559,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -98,7 +73,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 23.082942097026603,
+        "dimension": 24.84472049689441,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -114,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 488.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -226,38 +201,38 @@
   },
   "active": "7ff640d71c0bd486",
   "lastOpenFiles": [
+    "300 School/Math/log convexity.md",
+    "200 CS/Reverse Engineering/Hex Dump & Reverse Hex Dump - RE.md",
+    "300 School/Math/Gamma Function.md",
+    "800 Other/Family Quotes to use in arguments.md",
+    "200 CS/Reverse Engineering/lldb Command - RE.md",
+    "200 CS/Mac Apps/Copilot.md",
+    "200 CS/Reverse Engineering/GDB Command - RE.md",
+    "200 CS/Usefull Stuff/Website Inspiration.md",
+    "200 CS/Reverse Engineering/objdump Command - RE.md",
+    "Untitled 1.md",
+    "200 CS/CS Projects/Low Level/Template C Sturcture.md",
+    "600 Debate/Politics/A Leftist's Guide to Debating the Far-Right.md",
+    "750 Writing/DND Characters/Gemäßigt sozialistischer Beutolomäus.md",
     "200 CS/Usefull Stuff/NVCHAD.md",
+    "000 Index/Tags/%Integral.md",
+    "42.md",
+    "000 Index/Tags/%Gamma.md",
+    "200 CS/Reverse Engineering/5 - Step Plan.md",
     "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
     "200 CS/CS Projects/Low Level/Game of Life - C",
-    "Kitty Commands.md",
-    "Hex Dump & Reverse Hex Dump.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Gamma Function.md",
-    "%Gamma.md",
-    "%Integral.md",
+    "200 CS/Terminal Commands/Kitty Commands.md",
     "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
-    "Template C Sturcture.md",
-    "Debugging.md",
-    "log convexity.md",
-    "42.md",
-    "Reverse Engineering/5 - Step Plan.md",
-    "Rectangle (Windows Manager).md",
+    "200 CS/Mac Apps/Rectangle (Windows Manager).md",
     "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
-    "Mac Apps",
-    "Copilot.md",
-    "Gemäßigt sozialistischer Beutolomäus.md",
-    "A Leftist's Guide to Debating the Far-Right.md",
+    "200 CS/Mac Apps",
     "Untitled",
     "750 Writing/DND Characters",
     "200 CS/Usefull Stuff/NVIM.md",
-    "GDB Command - RE.md",
     "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
-    "200 CS/Compiling.md",
-    "200 CS/Languages/C/Basics - C/Enums - C.md",
-    "Terminal Commands",
-    "Reverse Engineering",
+    "200 CS/Terminal Commands",
+    "200 CS/Reverse Engineering",
     "200 CS/Languages/C/Pointer - C",
     "200 CS/Languages/C/Basics - C",
     "200 CS/Languages/C/Structs - C",

@@ -387,6 +387,7 @@ rechte
 rausgeworfen
 relationship
 recursive
+robo
 Vs
 VO
 VJ
@@ -910,6 +911,7 @@ crack
 concept
 compile
 cdo
+closes
 pt
 pD
 ph
@@ -1199,6 +1201,7 @@ kenne
 klein
 komplett
 kommentar
+kompakt
 Zw
 Zy
 ZL
@@ -1248,6 +1251,8 @@ Zentrieren
 Zuerst
 Zähler
 Zetafunktion
+Zeta
+Zusammensetzen
 Nn
 Nk
 No
@@ -1538,6 +1543,7 @@ Weihnachtsbaum
 Woher
 Wunden
 WM
+Wurzel
 Cbc
 Cr
 Ck
@@ -1734,6 +1740,7 @@ Leicht
 Lukas
 Leopold
 Logarithmenregel
+Logarithmus
 qV
 qT
 qH
@@ -2004,6 +2011,8 @@ Screen
 Symbolic
 Sometimes
 Summe
+Sinus
+Solution
 zS
 zX
 zR
@@ -2359,6 +2368,7 @@ amazing
 already
 along
 ausgewählten
+antworte
 JV
 Jv
 JN
@@ -2501,6 +2511,7 @@ Fernkampf
 FORM
 Farbe
 Fakultäten
+Fakten
 vHwc
 vE
 vA
@@ -2881,6 +2892,7 @@ Magischer
 Maximieren
 Mathematicians
 Makefile
+Mac
 hv
 hz
 have
@@ -3157,6 +3169,7 @@ lebt
 löse
 linke
 lifting
+langsam
 bM
 bS
 bs
@@ -3325,6 +3338,7 @@ beleidigt
 büro
 breakpoints
 benutzen
+bd
 mm
 ms
 mO
@@ -3494,6 +3508,7 @@ müssen
 math
 magic
 module
+möchtest
 do
 dK
 dQ
@@ -5394,6 +5409,7 @@ Usage
 Users
 Ur
 Umformung
+Unterlasse
 DC
 DK
 DN
@@ -5507,6 +5523,7 @@ Dinge
 DAS
 Directory
 Da
+Doesn
 eC
 eD
 eL
@@ -5843,6 +5860,8 @@ Beutolomäus
 BOOM
 BALD
 Bekannt
+Bruch
+Bitte
 TN
 Tn
 TV
@@ -5965,6 +5984,7 @@ Template
 überlege
 überall
 übertragen
+überprüft
 Rn
 Rk
 Rj
@@ -6058,6 +6078,7 @@ Redemption
 Rudolf
 Rekursionsformel
 Rechnung
+Riemannsche
 Überblick
 Überlieferung
 Übersicht
