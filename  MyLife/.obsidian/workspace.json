@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8df7c2073a877d15",
+        "id": "f2cbf0d0f57d6499",
         "type": "tabs",
         "children": [
           {
-            "id": "f84796d158f5ce86",
+            "id": "dcd62fff18030853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/React/Tracking multiple Openings in react.md",
-                "mode": "preview",
+                "file": "200 CS/CS Projects/Web/Multiplayer game chess?.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tracking multiple Openings in react"
+              "title": "Multiplayer game chess?"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -200,40 +199,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f84796d158f5ce86",
+  "active": "dcd62fff18030853",
   "lastOpenFiles": [
-    "999 Templates/New Project Idea.md",
-    "200 CS/CS Projects/Web/Phase 6 learner with firebase auth.md",
-    "999 Templates/New Academic Note.md",
+    "%Debugging.md",
+    "200 CS/Reverse Engineering/lldb Command - RE.md",
+    "200 CS/Languages & Frameworks/Go/Basics.md",
+    "%Eternal Life.md",
+    "500 Philosophie/The Horror of the Eternal Life.md",
+    "%Infinity.md",
+    "000 Index/Tags/%Usefull.md",
+    "000 Index/Tags/%React.md",
+    "000 Index/Tags/%Inspiration.md",
+    "000 Index/Tags/%Ideas.md",
+    "000 Index/Tags/%Frontend.md",
+    "000 Index/Tags/%API.md",
+    "200 CS/Web/Website UI Inspiration.md",
+    "750 Writing/How to write good Characters.md",
     "999 Templates/Finished Project.md",
-    "999 Templates/New History Relevant Person.md",
+    "800 Other/Fallbeispiele für den Tag der offenen Tür.md",
+    "200 CS/CS Projects/Web/Phase 6, but better.md",
+    "800 Other/Skadi Geschenke.md",
     "999 Templates/New General Note.md",
-    "200 CS/NVIM/Vim Keybinds.md",
-    "200 CS/Other/Use full APIs.md",
-    "200 CS/Web/Website Inspiration.md",
-    "200 CS/CS Projects/Web/Website for Resources i use.md",
-    "200 CS/Web/Usefull Websites.md",
-    "200 CS/Other/VS Code Extensions.md",
-    "200 CS/Terminal/Terminal extensions.md",
+    "999 Templates/New Philosophical Views.md",
+    "999 Templates/New Philosopher.md",
+    "999 Templates/New History Relevant Person.md",
+    "999 Templates/New Academic Note.md",
+    "200 CS/Web/Important Web Imports.md",
+    "800 Other/Packliste.md",
+    "200 CS/Other/Usefull APIs.md",
     "200 CS/Terminal",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/NVIM",
-    "200 CS/Web/Setup Web Application.md",
-    "200 CS/Usefull Stuff/NVIM.md",
-    "200 CS/Web/Important imports.md",
-    "200 CS/CS Projects/Low Level/Toralizer - C.md",
-    "200 CS/Languages & Frameworks/C/Compiling - C.md",
-    "200 CS/Terminal/Terminal Commands/Overall usefull Commands.md",
-    "200 CS/Languages & Frameworks/Java/BinarySearchSqrt.md",
     "200 CS/Web",
     "200 CS/Languages & Frameworks/React",
     "200 CS/Languages & Frameworks/Java",
-    "200 CS/Web/Web UI Templates/Daisy.md",
-    "100 Configs & Setups/Obsidian/How to write a Mini-Essay.md",
-    "100 Configs & Setups/Obsidian/Obsidian Setup.md",
     "100 Configs & Setups/Obsidian",
-    "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
-    "300 School/Math/log convexity.md",
     "200 CS/CS Projects/Low Level/Game of Life - C",
     "100 Configs & Setups/Mac Apps",
     "750 Writing/DND Characters",

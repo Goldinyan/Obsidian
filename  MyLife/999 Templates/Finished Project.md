@@ -1,5 +1,7 @@
 Date: {{Date}}
-Tags: {}
+Tags: {
+#W
+}
 
 
 # {{title}}

@@ -1,6 +1,8 @@
 Date: {{Date}}
 Cours: {}
-Tags: {}
+Tags: {
+#W
+}
 
 
 # Terms

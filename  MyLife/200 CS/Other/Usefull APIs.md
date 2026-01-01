@@ -1,3 +1,14 @@
+Date: 2026-01-01
+Tags: {
+#F 
+[[%API]]
+[[%Ideas]]
+[[%Usefull]]
+}
+
+
+# Use full APIs
+
 
 ***OpenWeatherMap***
 Get current weather, forecast, and historivcal data. Free Tier available 
@@ -22,3 +33,6 @@ Explore repos, user data, commits, and Github activity
 
 ***Opensky API***
 Offers real-time data on global air traffic, including aircraft positions
+
+
+# References

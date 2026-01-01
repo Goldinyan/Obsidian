@@ -213,6 +213,7 @@ Inventar
 Inneren
 Integral
 Integration
+Impact
 rD
 rVS
 rZ
@@ -398,6 +399,13 @@ robo
 rover
 repos
 reload
+react
+response
+roten
+rote
+revealed
+represents
+rich
 Vs
 VO
 VJ
@@ -584,6 +592,8 @@ Kurzbeschreibung
 Kernkonzept
 Komplexität
 Konzept
+Kern
+Körperhaltung
 EG
 ER
 Ek
@@ -735,6 +745,7 @@ Einsetzen
 Euler
 Endform
 ESLINT
+Empathy
 cj
 cK
 cz
@@ -940,6 +951,8 @@ comments
 compiling
 containerized
 combination
+choices
+coin
 pt
 pD
 ph
@@ -1131,6 +1144,9 @@ plants
 providing
 photos
 positions
+personality
+perfect
+preventing
 kF
 kXl
 kXlm
@@ -1234,6 +1250,9 @@ klein
 komplett
 kommentar
 kompakt
+kernmaerkmal
+kurzen
+kernmerkmal
 Zw
 Zy
 ZL
@@ -1376,6 +1395,7 @@ Nahkampf
 Nikolaus
 Nenner
 NASA
+Need
 uR
 uN
 ug
@@ -1579,6 +1599,8 @@ Woher
 Wunden
 WM
 Wurzel
+Would
+Want
 Cbc
 Cr
 Ck
@@ -1692,6 +1714,8 @@ Checker
 Compiler
 Codebeispiele
 Commits
+Character
+Conflict
 LI
 LF
 LLN
@@ -2067,6 +2091,10 @@ Sätzen
 Status
 Speicherverbrauch
 Schwierigkeitsgrad
+Should
+Schurke
+Stimme
+Schal
 zS
 zX
 zR
@@ -2128,6 +2156,7 @@ zuerst
 zweite
 zusammengesetzt
 zentrale
+zornig
 OU
 OL
 Oq
@@ -2185,6 +2214,8 @@ Opensky
 Offers
 Optional
 Optimierungen
+Openings
+One
 am
 ad
 afj
@@ -2435,6 +2466,10 @@ air
 aircraft
 apps
 apis
+appearence
+ah
+answered
+assume
 JV
 Jv
 JN
@@ -2580,6 +2615,7 @@ Fakultäten
 Fakten
 Free
 Fertiggestellt
+Fear
 vHwc
 vE
 vA
@@ -2855,6 +2891,8 @@ Asteroid
 Architektur
 Anforderungen
 Aufwand
+Ask
+Aussehen
 MV
 MM
 Ms
@@ -2974,6 +3012,7 @@ Module
 Mechanismus
 Messwerte
 Motivation
+Make
 hv
 hz
 have
@@ -3098,6 +3137,8 @@ happens
 historivcal
 headlines
 highlght
+herablassen
+humanity
 lI
 lt
 ls
@@ -3257,6 +3298,8 @@ langsam
 launching
 loval
 löst
+leaves
+liegen
 bM
 bS
 bs
@@ -3428,6 +3471,9 @@ benutzen
 bd
 botanical
 borders
+beschreibendes
+beschreibungen
+boden
 mm
 ms
 mO
@@ -3600,6 +3646,8 @@ module
 möchtest
 motion
 mitgenommen
+motivation
+mutig
 do
 dK
 dQ
@@ -3805,6 +3853,8 @@ develpoment
 devs
 development
 diesem
+desires
+desire
 QS
 Qn
 QGu
@@ -3920,6 +3970,7 @@ oberflächlich
 odd
 observing
 offering
+overcrowding
 ss
 sq
 sE
@@ -4294,6 +4345,10 @@ src
 spelling
 shit
 strukturiert
+staz
+szene
+schal
+smartest
 XZ
 Xs
 XI
@@ -4473,6 +4528,8 @@ written
 weather
 warning
 wurden
+worthy
+wissen
 gv
 gu
 gP
@@ -4644,6 +4701,8 @@ got
 gesamten
 gc
 gelöst
+gefasst
+grades
 nf
 nnvi
 nC
@@ -4748,6 +4807,9 @@ nennt
 nonsenses
 nonsense
 news
+neugirig
+nachdenklich
+niemals
 jt
 jW
 jz
@@ -4921,6 +4983,7 @@ include
 integrals
 infos
 interessant
+inner
 Gn
 Go
 Gs
@@ -5036,6 +5099,7 @@ GitLens
 GIFs
 Git
 Geschätzter
+GoldStück
 fW
 fvB
 fnrA
@@ -5207,6 +5271,10 @@ fits
 forecast
 faeture
 fixing
+flaws
+factor
+feeling
+fulfilling
 Hn
 HnZ
 HV
@@ -5305,6 +5373,8 @@ Hauptintegral
 Herausforderungen
 Hauptdateien
 Hauptfunktion
+Happiness
+Horror
 xe
 xJ
 xys
@@ -5477,6 +5547,10 @@ tricky
 thugh
 txt
 tier
+traits
+tomorrow
+thief
+trotzig
 UU
 Uo
 Uc
@@ -5654,6 +5728,8 @@ Docker
 Dev
 Datum
 Datenstrukturen
+Don
+Dieb
 eC
 eD
 eL
@@ -5892,6 +5968,10 @@ extensionms
 everytging
 erreicht
 ergänzen
+expand
+eigentschaften
+erkennt
+explanatory
 BP
 Bz
 BVb
@@ -6115,6 +6195,9 @@ Toralizer
 Trafle
 Technische
 Technologien
+Tracking
+Think
+Traits
 üb
 über
 überführt

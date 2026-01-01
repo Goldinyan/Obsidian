@@ -1,3 +1,15 @@
+Date: 2026-01-01
+Tags: {
+#F 
+[[%Writing]]
+[[%Creativity]]
+}
+
+
+# How to write good Characters
+
+
+
 
 
 ## How to make them worthy to remember
@@ -92,3 +104,7 @@ If his want is being the smartest in his class -> Then his fear is being stupid 
 
 
 
+ 
+
+
+# References

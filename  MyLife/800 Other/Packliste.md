@@ -1,4 +1,11 @@
-  
+Date: 2026-01-01
+Tags: {
+#F 
+[[%Remember]]
+}
+
+
+# Packliste
 ### Kleidung
 
 - Klamotten
@@ -35,3 +42,4 @@
 - Waschtasche
 - Portemonnaie
 - Etui
+# References  
