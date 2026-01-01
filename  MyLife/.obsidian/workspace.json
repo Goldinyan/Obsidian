@@ -11,10 +11,24 @@
             "id": "66f50fb55695f8d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "200 CS/Languages & Frameworks/C/Compiling - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Compiling - C"
             }
           }
         ]
@@ -187,6 +201,7 @@
   },
   "active": "66f50fb55695f8d5",
   "lastOpenFiles": [
+    "200 CS/CS Projects/Low Level/Template C Sturcture.md",
     "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
     "200 CS/CS Projects/Low Level/Game of Life - C/Game of Life - C.md",
     "300 School/English/Summary.md",
@@ -212,7 +227,6 @@
     "200 CS/Languages & Frameworks/Go/Basics.md",
     "000 Index/Tags/%Eternal Life.md",
     "500 Philosophie/The Horror of the Eternal Life.md",
-    "000 Index/Tags/%Infinity.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",
