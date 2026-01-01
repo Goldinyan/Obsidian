@@ -56,27 +56,12 @@ inline void grid_set(grid_t *g, int x, int y, unsigned char value) {
 
 Both functions only do one thing, calculating the index and returning or writing the value, making the 1D-Array logically a 2D-Array
 
-Another question one might have is
-# 3. Warum wir zwei Grids haben (`current` und `next`)
+Another question one might have is, why we use two different grids. The problem is, in game of life you cannot rewrite the current grid before calculating every cell.
 
-Während du das Game of Life aktualisierst, darfst du **den aktuellen Zustand nicht überschreiben**, bevor du alle Zellen berechnet hast.
+Lets say we calculate (0, 0), and override it. Now (0,1) has a wrong neighbor, because we already changed the current grid. Thats why we have `current`, which is the old state, and `next`, the new, currently calculate state.
 
-Beispielproblem:
 
-- Du berechnest Zelle (0,0) neu  
-- Du überschreibst sie  
-- Jetzt hat Zelle (0,1) falsche Nachbarn, weil du schon etwas verändert hast
-
-Darum:
-
-- `current` = alter Zustand  
-- `next` = neuer Zustand, der gerade berechnet wird  
-
----
-
-# 4. Warum wir am Ende tauschen
-
-Nach jedem Schritt:
+At the end we switch both grids, but why?
 
 ```c
 grid_t tmp = *cur;
@@ -84,42 +69,28 @@ grid_t tmp = *cur;
 *next = tmp;
 ```
 
-Das bedeutet:
+- `next` is the new `current`  
+- the old `current` is the new`next` (empty for the next step)
 
-- `next` wird zum neuen `current`  
-- das alte `current` wird zum neuen `next` (leer, bereit für den nächsten Schritt)
+We only switch pointer, not value, making it extremly efficent.
 
-Wir tauschen nur die **Pointer und Metadaten**, nicht den Inhalt.  
-Das ist extrem effizient.
 
----
-
-# 5. Kompakte Gesamtlogik
+Overall we do these steps:
 
 ```c
-// Lesen
+// Reading
 alive = grid_get(cur, x, y);
 
-// Berechnen
+// Calculating
 new_value = ...;
 
-// Schreiben
+// Writing
 grid_set(next, x, y, new_value);
 
-// Am Ende
+// Swapping
 swap(current, next);
 ```
 
-Damit bleibt:
+- `current` stays same while calculating
+- `next` receive new grid  
 
-- `current` immer unverändert während der Berechnung  
-- `next` enthält den neuen Zustand  
-- der Tausch macht den neuen Zustand zum aktuellen  
-
----
-
-Wenn du willst, kann ich dir jetzt:
-
-- das Rendering bauen  
-- ein Startmuster setzen  
-- oder den kompletten `main()`‑Loop schreiben.
