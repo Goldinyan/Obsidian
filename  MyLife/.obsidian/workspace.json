@@ -11,24 +11,10 @@
             "id": "66f50fb55695f8d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structs Idea"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -201,8 +187,8 @@
   },
   "active": "66f50fb55695f8d5",
   "lastOpenFiles": [
-    "200 CS/CS Projects/Low Level/Game of Life - C/Game of Life - C.md",
     "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
+    "200 CS/CS Projects/Low Level/Game of Life - C/Game of Life - C.md",
     "300 School/English/Summary.md",
     "600 Debate/Veganism/Veganismus Contra.md",
     "000 Index/Tags/%Debating.md",
