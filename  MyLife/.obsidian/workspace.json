@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4823cc708bad1198",
+        "id": "8df7c2073a877d15",
         "type": "tabs",
         "children": [
           {
-            "id": "7f55359b3a254929",
+            "id": "f84796d158f5ce86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Mac Apps/Rectangle (Windows Manager).md",
-                "mode": "source",
+                "file": "200 CS/Languages & Frameworks/React/Tracking multiple Openings in react.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rectangle (Windows Manager)"
+              "title": "Tracking multiple Openings in react"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 75.15527950310559,
+        "dimension": 58.88198757763975,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -73,7 +73,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 24.84472049689441,
+        "dimension": 41.11801242236025,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 488.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -199,44 +200,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "f84796d158f5ce86",
   "lastOpenFiles": [
-    "300 School/Math/log convexity.md",
-    "200 CS/Reverse Engineering/Hex Dump & Reverse Hex Dump - RE.md",
-    "300 School/Math/Gamma Function.md",
-    "800 Other/Family Quotes to use in arguments.md",
-    "200 CS/Reverse Engineering/lldb Command - RE.md",
-    "200 CS/Mac Apps/Copilot.md",
-    "200 CS/Reverse Engineering/GDB Command - RE.md",
-    "200 CS/Usefull Stuff/Website Inspiration.md",
-    "200 CS/Reverse Engineering/objdump Command - RE.md",
-    "Untitled 1.md",
-    "200 CS/CS Projects/Low Level/Template C Sturcture.md",
-    "600 Debate/Politics/A Leftist's Guide to Debating the Far-Right.md",
-    "750 Writing/DND Characters/Gemäßigt sozialistischer Beutolomäus.md",
-    "200 CS/Usefull Stuff/NVCHAD.md",
-    "000 Index/Tags/%Integral.md",
-    "42.md",
-    "000 Index/Tags/%Gamma.md",
-    "200 CS/Reverse Engineering/5 - Step Plan.md",
-    "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
-    "200 CS/CS Projects/Low Level/Game of Life - C",
-    "200 CS/Terminal Commands/Kitty Commands.md",
-    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
-    "200 CS/Mac Apps/Rectangle (Windows Manager).md",
-    "200 CS/Languages/C/Basics - C/Math & Format Specifier - C.md",
-    "200 CS/Mac Apps",
-    "Untitled",
-    "750 Writing/DND Characters",
+    "999 Templates/New Project Idea.md",
+    "200 CS/CS Projects/Web/Phase 6 learner with firebase auth.md",
+    "999 Templates/New Academic Note.md",
+    "999 Templates/Finished Project.md",
+    "999 Templates/New History Relevant Person.md",
+    "999 Templates/New General Note.md",
+    "200 CS/NVIM/Vim Keybinds.md",
+    "200 CS/Other/Use full APIs.md",
+    "200 CS/Web/Website Inspiration.md",
+    "200 CS/CS Projects/Web/Website for Resources i use.md",
+    "200 CS/Web/Usefull Websites.md",
+    "200 CS/Other/VS Code Extensions.md",
+    "200 CS/Terminal/Terminal extensions.md",
+    "200 CS/Terminal",
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+    "200 CS/NVIM",
+    "200 CS/Web/Setup Web Application.md",
     "200 CS/Usefull Stuff/NVIM.md",
-    "200 CS/Languages/C/Structs - C/Basic Structs - C.md",
-    "200 CS/Languages/C/Basics - C/Types & Declaration - C.md",
-    "200 CS/Terminal Commands",
-    "200 CS/Reverse Engineering",
-    "200 CS/Languages/C/Pointer - C",
-    "200 CS/Languages/C/Basics - C",
-    "200 CS/Languages/C/Structs - C",
-    "200 CS/CS Projects/Low Level",
+    "200 CS/Web/Important imports.md",
+    "200 CS/CS Projects/Low Level/Toralizer - C.md",
+    "200 CS/Languages & Frameworks/C/Compiling - C.md",
+    "200 CS/Terminal/Terminal Commands/Overall usefull Commands.md",
+    "200 CS/Languages & Frameworks/Java/BinarySearchSqrt.md",
+    "200 CS/Web",
+    "200 CS/Languages & Frameworks/React",
+    "200 CS/Languages & Frameworks/Java",
+    "200 CS/Web/Web UI Templates/Daisy.md",
+    "100 Configs & Setups/Obsidian/How to write a Mini-Essay.md",
+    "100 Configs & Setups/Obsidian/Obsidian Setup.md",
+    "100 Configs & Setups/Obsidian",
+    "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
+    "300 School/Math/log convexity.md",
+    "200 CS/CS Projects/Low Level/Game of Life - C",
+    "100 Configs & Setups/Mac Apps",
+    "750 Writing/DND Characters",
+    "200 CS/Terminal/Terminal Commands",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]

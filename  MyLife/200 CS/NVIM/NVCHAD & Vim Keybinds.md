@@ -153,26 +153,4 @@ space f m -> LSP formatting
 
 
 
-
-
-
--- Insert Mode: Alt+8/9/5/6 → { } [ ]
-vim.keymap.set("i", "<M-8>", "{", { desc = "Insert {" })
-vim.keymap.set("i", "<M-9>", "}", { desc = "Insert }" })
-vim.keymap.set("i", "<M-5>", "[", { desc = "Insert [" })
-vim.keymap.set("i", "<M-6>", "]", { desc = "Insert ]" })
-
--- Normal Mode: Alt+8/9/5/6 → springen/ersetzen mit { } [ ]
-vim.keymap.set("n", "<M-8>", "{", { desc = "Normal {" })
-vim.keymap.set("n", "<M-9>", "}", { desc = "Normal }" })
-vim.keymap.set("n", "<M-5>", "[", { desc = "Normal [" })
-vim.keymap.set("n", "<M-6>", "]", { desc = "Normal ]" })
-
--- Visual Mode (optional)
-vim.keymap.set("v", "<M-8>", "{", { desc = "Visual {" })
-vim.keymap.set("v", "<M-9>", "}", { desc = "Visual }" })
-vim.keymap.set("v", "<M-5>", "[", { desc = "Visual [" })
-vim.keymap.set("v", "<M-6>", "]", { desc = "Visual ]" })
-
-
 # References
