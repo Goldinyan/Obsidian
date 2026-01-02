@@ -12,4 +12,11 @@ Tags: {
 Include just pasts the code from the file in the file where it is included, you could just include a json and it would just paste it in there, it wouldnt compile but still 
 
 
+they can include variables 
+**draw.c**
+```c
+int global_variable = 5;
+```
+
+
 # References
