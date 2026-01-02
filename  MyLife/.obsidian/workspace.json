@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ways for Seg faults - C.md",
+                "file": "Readonly-Memory & String Literals- C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ways for Seg faults - C"
+              "title": "Readonly-Memory & String Literals- C"
             }
           }
         ]
@@ -202,8 +202,11 @@
   },
   "active": "18a1de140774aa5e",
   "lastOpenFiles": [
-    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
     "Ways for Seg faults - C.md",
+    "Readonly-Memory & String Literals- C.md",
+    "%Pointers.md",
+    "%Memory.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Array vs malloc-pointer - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
@@ -227,9 +230,6 @@
     "100 Configs & Setups/Obsidian/How to write a Mini-Essay.md",
     "200 CS/CS Projects/Web/Website for Resources i use.md",
     "200 CS/CS Projects/Web/Phase 6, but better.md",
-    "200 CS/CS Projects/Web/Book Rating Website.md",
-    "200 CS/CS Projects/Web/Morse Code Translator and binare maybe seperate.md",
-    "200 CS/CS Projects/Web/Password Geberator.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",

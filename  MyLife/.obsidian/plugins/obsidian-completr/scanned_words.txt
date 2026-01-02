@@ -409,6 +409,7 @@ revealed
 represents
 rich
 regions
+readonly
 Vs
 VO
 VJ
@@ -1275,6 +1276,7 @@ kernmaerkmal
 kurzen
 kernmerkmal
 kompletten
+kompaktere
 Zw
 Zy
 ZL
@@ -1330,6 +1332,7 @@ Zweck
 Zellen
 Zustand
 Zelle
+Zugriff
 Nn
 Nk
 No
@@ -1421,6 +1424,7 @@ Nikolaus
 Nenner
 NASA
 Need
+Nullpointer
 uR
 uN
 ug
@@ -1502,6 +1506,8 @@ usefull
 umgesetzt
 umgerechnet
 unverändert
+uninitialisierten
+unendliche
 WGN
 Wm
 Wl
@@ -1844,6 +1850,7 @@ Learned
 Lern
 Lernen
 Lets
+Literal
 qV
 qT
 qH
@@ -2133,6 +2140,7 @@ Stimme
 Schal
 Sentence
 Startmuster
+Schreiben
 zS
 zX
 zR
@@ -2196,6 +2204,7 @@ zusammengesetzt
 zentrale
 zornig
 zugreifen
+zerstörte
 OU
 OL
 Oq
@@ -2524,6 +2533,8 @@ allocation
 allocated
 accessing
 arithmetic
+außerhalb
+automatische
 JV
 Jv
 JN
@@ -2952,6 +2963,7 @@ Aussehen
 App
 At
 Although
+Arithmetik
 MV
 MM
 Ms
@@ -3943,6 +3955,7 @@ dates
 direct
 dieses
 definently
+dangling
 QS
 Qn
 QGu
@@ -4065,6 +4078,7 @@ onw
 opinioon
 operating
 outside
+overflow
 ss
 sq
 sE
@@ -4811,6 +4825,7 @@ grades
 guter
 garbage
 greatly
+gültigen
 nf
 nnvi
 nC
@@ -5858,6 +5873,7 @@ Don
 Dieb
 Darum
 Debugger
+Dereferenzieren
 eC
 eD
 eL
@@ -6225,6 +6241,7 @@ BE
 Beide
 Beispielproblem
 Berechnung
+Bereichs
 TN
 Tn
 TV
@@ -6462,6 +6479,8 @@ Risiken
 Resources
 Rectangle
 Rendering
+Rekursion
+Referenzseite
 Überblick
 Überlieferung
 Übersicht
