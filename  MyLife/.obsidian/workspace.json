@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
+                "file": "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Include - C"
+              "title": "Debugger & Seg fault - C"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -201,8 +202,9 @@
   },
   "active": "66f50fb55695f8d5",
   "lastOpenFiles": [
-    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Organizing Projects - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
     "%Structure.md",
@@ -227,7 +229,6 @@
     "200 CS/CS Projects/Web/Password Geberator.md",
     "200 CS/CS Projects/Web/Sudoku and Solver web.md",
     "200 CS/CS Projects/Web/Spotify Playlist Rating & more.md",
-    "200 CS/CS Projects/Web/Memory Game.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",
