@@ -970,6 +970,8 @@ causes
 caused
 crash
 corruption
+ctrl
+cd
 pt
 pD
 ph
@@ -1278,6 +1280,7 @@ kurzen
 kernmerkmal
 kompletten
 kompaktere
+kb
 Zw
 Zy
 ZL
@@ -4661,6 +4664,7 @@ wurden
 worthy
 wissen
 whenever
+win
 gv
 gu
 gP

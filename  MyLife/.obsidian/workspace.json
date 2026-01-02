@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 TODO/Changes of portfolio.md",
+                "file": "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Changes of portfolio"
+              "title": "Kitty Commands"
             }
           }
         ]
@@ -201,9 +201,9 @@
   },
   "active": "3b68d75a5fd71cff",
   "lastOpenFiles": [
+    "700 TODO/Changes of portfolio.md",
     "700 TODO/TODO.md",
     "Untitled.md",
-    "700 TODO/Changes of portfolio.md",
     "200 CS/Languages & Frameworks/C/Structs - C/Struct Padding - C.md",
     "200 CS/Languages & Frameworks/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages & Frameworks/C/Structs - C/Basic Structs - C.md",
