@@ -24,8 +24,38 @@ When the programm starts, your operating system assigns your programm a very lar
 
 Lets just label these adresses from 0 to 100 for the simplicity:
 
-0 _______________________________________________100
+0 - 100
 |-----------------------------------------------------------|
+
+Your exe code gets loaded into memory somewhere, lets say 15, and whenever you call a memory allocation function like malloc().
+
+```c
+int *int_array = malloc(1024);
+```
+
+Underneath, the OS will map the memory you asked for somewhere into that virtual address space, for example from 60 to 80. If you try to write to an adress inside that allocated space, everything works fine. If you try to access memory outside of those mapped regions, for example 33 or 92, you will get a segmentation fault. 
+This explains greatly, why writing to a null pointer throws a seg fault:
+
+```c
+int *int_array = NULL;
+intArray[0] = 50; // seg fault
+```
+
+Although this is just one way to throw a seg fault in C, there is also 
+- accessing array out of bounds,
+- messing up pointer arithmetic
+- or freeing memory then using it again
+- ...
+
+More is available in [[Ways for Seg faults - C]]
+
+When writing code, that causes a seg fault and then compiling it, you will get this:
+
+*segmentation fault*
+
+No line number, no explantation, no idea of what caused the crash
+
+
 
 
 # References

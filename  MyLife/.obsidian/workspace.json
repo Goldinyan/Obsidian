@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb701571728359fc",
+        "id": "b9aeb9a151c0e05c",
         "type": "tabs",
         "children": [
           {
-            "id": "66f50fb55695f8d5",
+            "id": "18a1de140774aa5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
+                "file": "Ways for Seg faults - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Debugger & Seg fault - C"
+              "title": "Ways for Seg faults - C"
             }
           }
         ]
@@ -200,10 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66f50fb55695f8d5",
+  "active": "18a1de140774aa5e",
   "lastOpenFiles": [
-    "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
+    "Ways for Seg faults - C.md",
+    "200 CS/Languages & Frameworks/C/Memory Managment - C/Array vs malloc-pointer - C.md",
+    "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
+    "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Organizing Projects - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
@@ -227,8 +230,6 @@
     "200 CS/CS Projects/Web/Book Rating Website.md",
     "200 CS/CS Projects/Web/Morse Code Translator and binare maybe seperate.md",
     "200 CS/CS Projects/Web/Password Geberator.md",
-    "200 CS/CS Projects/Web/Sudoku and Solver web.md",
-    "200 CS/CS Projects/Web/Spotify Playlist Rating & more.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",
@@ -237,7 +238,6 @@
     "100 Configs & Setups/Obsidian",
     "200 CS/CS Projects/Low Level/Game of Life - C",
     "100 Configs & Setups/Mac Apps",
-    "750 Writing/DND Characters",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
