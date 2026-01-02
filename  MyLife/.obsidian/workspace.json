@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/C/Compiling - C.md",
+                "file": "200 CS/Languages & Frameworks/C/Tips for C/Organizing Projects - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compiling - C"
+              "title": "Organizing Projects - C"
             }
           }
         ]
@@ -201,6 +201,12 @@
   },
   "active": "66f50fb55695f8d5",
   "lastOpenFiles": [
+    "%Structure.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Organizing Projects - C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
+    "Tipps for C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C",
+    "200 CS/Languages & Frameworks/C/Compiling - C.md",
     "200 CS/CS Projects/Low Level/Template C Sturcture.md",
     "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
     "200 CS/CS Projects/Low Level/Game of Life - C/Game of Life - C.md",
@@ -222,11 +228,6 @@
     "200 CS/CS Projects/Web/Spotify Playlist Rating & more.md",
     "200 CS/CS Projects/Web/Memory Game.md",
     "200 CS/CS Projects/Web/Multiplayer game chess?.md",
-    "000 Index/Tags/%Debugging.md",
-    "200 CS/Reverse Engineering/lldb Command - RE.md",
-    "200 CS/Languages & Frameworks/Go/Basics.md",
-    "000 Index/Tags/%Eternal Life.md",
-    "500 Philosophie/The Horror of the Eternal Life.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",
@@ -236,7 +237,6 @@
     "200 CS/CS Projects/Low Level/Game of Life - C",
     "100 Configs & Setups/Mac Apps",
     "750 Writing/DND Characters",
-    "200 CS/Terminal/Terminal Commands",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
