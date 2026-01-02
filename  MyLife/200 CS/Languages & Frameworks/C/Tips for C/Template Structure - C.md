@@ -1,3 +1,14 @@
+Date: 2026-01-02
+Tags: {
+#F 
+[[%C]]
+[[%Structure]]
+[[%Projects]]
+}
+
+This is called ***include hell***.
+
+
 
 # **Directory Structure**
 

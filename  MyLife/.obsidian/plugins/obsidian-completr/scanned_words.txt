@@ -2932,6 +2932,7 @@ Aufwand
 Ask
 Aussehen
 App
+At
 MV
 MM
 Ms
@@ -3524,6 +3525,7 @@ berechnen
 bevor
 berechnet
 berechnest
+big
 mm
 ms
 mO
