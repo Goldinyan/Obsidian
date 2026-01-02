@@ -969,6 +969,7 @@ coded
 causes
 caused
 crash
+corruption
 pt
 pD
 ph
@@ -1753,6 +1754,7 @@ Commits
 Character
 Conflict
 Contra
+Corruption
 LI
 LF
 LLN
@@ -1851,6 +1853,7 @@ Lern
 Lernen
 Lets
 Literal
+Luckily
 qV
 qT
 qH
@@ -2141,6 +2144,7 @@ Schal
 Sentence
 Startmuster
 Schreiben
+Seg
 zS
 zX
 zR
@@ -2793,6 +2797,7 @@ vielen
 verdrängt
 verbessern
 verändert
+valid
 Aw
 ArX
 Ar
@@ -3087,6 +3092,7 @@ Make
 Manager
 MAINPOINT
 Metadaten
+More
 hv
 hz
 have
@@ -3215,6 +3221,7 @@ herablassen
 humanity
 happy
 heard
+horror
 lI
 lt
 ls
@@ -3956,6 +3963,8 @@ direct
 dieses
 definently
 dangling
+debgging
+diagnose
 QS
 Qn
 QGu
@@ -4079,6 +4088,7 @@ opinioon
 operating
 outside
 overflow
+occur
 ss
 sq
 sE
@@ -4467,6 +4477,8 @@ segmentation
 seg
 simplicity
 somewhere
+scary
+shouldn
 XZ
 Xs
 XI
@@ -5412,6 +5424,7 @@ follow
 fine
 fault
 freeing
+faults
 Hn
 HnZ
 HV
@@ -5691,6 +5704,7 @@ trotzig
 tauschen
 throws
 throw
+technically
 UU
 Uo
 Uc
@@ -6360,6 +6374,7 @@ Traits
 Tips
 Topic
 Tausch
+Thats
 üb
 über
 überführt

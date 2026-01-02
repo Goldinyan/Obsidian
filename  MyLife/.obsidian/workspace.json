@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b9aeb9a151c0e05c",
+        "id": "49a9927f8bf25a8a",
         "type": "tabs",
         "children": [
           {
-            "id": "18a1de140774aa5e",
+            "id": "3b68d75a5fd71cff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readonly-Memory & String Literals- C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Readonly-Memory & String Literals- C"
+              "title": "New tab"
             }
           }
         ]
@@ -200,13 +186,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18a1de140774aa5e",
+  "active": "3b68d75a5fd71cff",
   "lastOpenFiles": [
-    "Ways for Seg faults - C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
+    "Address Sanitisation - C.md",
     "Readonly-Memory & String Literals- C.md",
+    "Ways for Seg faults - C.md",
     "%Pointers.md",
     "%Memory.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Array vs malloc-pointer - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
@@ -229,7 +216,6 @@
     "100 Configs & Setups/Obsidian/Obsidian Setup.md",
     "100 Configs & Setups/Obsidian/How to write a Mini-Essay.md",
     "200 CS/CS Projects/Web/Website for Resources i use.md",
-    "200 CS/CS Projects/Web/Phase 6, but better.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",

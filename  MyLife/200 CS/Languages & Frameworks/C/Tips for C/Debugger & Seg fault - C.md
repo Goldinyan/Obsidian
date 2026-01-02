@@ -1,6 +1,9 @@
 Date: 2026-01-02
 Tags: {
 #W
+[[%Memory]]
+[[%C]]
+[[%Debugging]]
 }
 
 
@@ -55,7 +58,16 @@ When writing code, that causes a seg fault and then compiling it, you will get t
 
 No line number, no explantation, no idea of what caused the crash
 
+Thats where [[lldb Command - RE]], comes into play also for debgging your own projects.
 
+
+# Memory Corruption 
+
+There are not many things more scary than  a seg fault, but memory corruption is one of them. Seg faults occur when accessing memory, which is outside of allocated memory, mapped memory created into your virtual address space by the operating system.
+
+Sometimes instead of accessing memory outside of allocated area, you access memory of some other valid part of your program. This wont call a seg fault, because its technically a valid memory adress, but it will access memory, it shouldn't. Trust me, this is ***horror***. Its very hard to diagnose. 
+
+Luckily there are tools for this, which is called [[Address Sanitisation - C]].
 
 
 # References
