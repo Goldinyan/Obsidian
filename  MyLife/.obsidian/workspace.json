@@ -11,10 +11,24 @@
             "id": "3b68d75a5fd71cff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "700 TODO/Changes of portfolio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Changes of portfolio"
             }
           }
         ]
@@ -75,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -188,6 +201,13 @@
   },
   "active": "3b68d75a5fd71cff",
   "lastOpenFiles": [
+    "700 TODO/TODO.md",
+    "Untitled.md",
+    "700 TODO/Changes of portfolio.md",
+    "200 CS/Languages & Frameworks/C/Structs - C/Struct Padding - C.md",
+    "200 CS/Languages & Frameworks/C/Structs - C/Initializing Structs - C.md",
+    "200 CS/Languages & Frameworks/C/Structs - C/Basic Structs - C.md",
+    "200 CS/Languages & Frameworks/C/Structs - C/Accessing & Updating Structs.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
     "Address Sanitisation - C.md",
     "Readonly-Memory & String Literals- C.md",
@@ -209,13 +229,6 @@
     "300 School/English/Summary.md",
     "600 Debate/Veganism/Veganismus Contra.md",
     "000 Index/Tags/%Debating.md",
-    "000 Index/Tags/%Mac.md",
-    "2026-01-01.md",
-    "100 Configs & Setups/Mac Apps/Copilot.md",
-    "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
-    "100 Configs & Setups/Obsidian/Obsidian Setup.md",
-    "100 Configs & Setups/Obsidian/How to write a Mini-Essay.md",
-    "200 CS/CS Projects/Web/Website for Resources i use.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",
