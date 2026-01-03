@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 School/Math/Integral Basics.md",
+                "file": "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Integral Basics"
+              "title": "Kitty Commands"
             }
           }
         ]
@@ -202,8 +202,8 @@
   },
   "active": "3b68d75a5fd71cff",
   "lastOpenFiles": [
-    "000 Index/Tags/%Integral.md",
     "300 School/Math/Integral Basics.md",
+    "000 Index/Tags/%Integral.md",
     "300 School/Math/The Cursed Graph.md",
     "300 School/Math/log convexity.md",
     "300 School/Math/Gamma Function.md",
