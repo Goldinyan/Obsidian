@@ -972,6 +972,7 @@ crash
 corruption
 ctrl
 cd
+control
 pt
 pD
 ph
@@ -2542,6 +2543,7 @@ accessing
 arithmetic
 außerhalb
 automatische
+aktuelles
 JV
 Jv
 JN
@@ -2801,6 +2803,7 @@ verdrängt
 verbessern
 verändert
 valid
+vorheriges
 Aw
 ArX
 Ar
@@ -4949,6 +4952,7 @@ news
 neugirig
 nachdenklich
 niemals
+nächstes
 jt
 jW
 jz
