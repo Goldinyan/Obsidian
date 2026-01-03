@@ -216,6 +216,9 @@ Integral
 Integration
 Impact
 Interpreter
+Integrale
+Integralzeichen
+Integrieren
 rD
 rVS
 rZ
@@ -490,6 +493,8 @@ Vor
 VON
 Verworfen
 Viel
+Vorfaktor
+Vorfaktoren
 KPgM
 KO
 Krbm
@@ -757,6 +762,7 @@ ESLINT
 Empathy
 Einträgen
 Even
+Exponenten
 cj
 cK
 cz
@@ -1434,6 +1440,7 @@ Nenner
 NASA
 Need
 Nullpointer
+Nachdem
 uR
 uN
 ug
@@ -1863,6 +1870,7 @@ Lernen
 Lets
 Literal
 Luckily
+Lass
 qV
 qT
 qH
@@ -2154,6 +2162,7 @@ Sentence
 Startmuster
 Schreiben
 Seg
+Stammfunktion
 zS
 zX
 zR
@@ -2698,6 +2707,7 @@ Free
 Fertiggestellt
 Fear
 Flags
+Fläche
 vHwc
 vE
 vA
@@ -2811,6 +2821,7 @@ verbessern
 verändert
 valid
 vorheriges
+vorhanden
 Aw
 ArX
 Ar
@@ -2982,6 +2993,8 @@ App
 At
 Although
 Arithmetik
+Achse
+Ableitungsregeln
 MV
 MM
 Ms
@@ -3583,6 +3596,7 @@ berechnet
 berechnest
 big
 bounds
+benötigen
 mm
 ms
 mO
@@ -3765,6 +3779,8 @@ malloc
 mapped
 messing
 modifiable
+multipliziert
+multiplizieren
 do
 dK
 dQ
@@ -3981,6 +3997,7 @@ dangling
 debgging
 diagnose
 destroyed
+durchgehen
 QS
 Qn
 QGu
@@ -4496,6 +4513,7 @@ somewhere
 scary
 shouldn
 segment
+subtrahiert
 XZ
 Xs
 XI
@@ -4857,6 +4875,9 @@ guter
 garbage
 greatly
 gültigen
+gehört
+gewohnt
+gebildet
 nf
 nnvi
 nC
@@ -5144,6 +5165,7 @@ indentify
 importantly
 indexes
 infinite
+integriert
 Gn
 Go
 Gs
@@ -5264,6 +5286,7 @@ Gitters
 Grid
 Grids
 Gesamtlogik
+Graphen
 fW
 fvB
 fnrA
@@ -5728,6 +5751,7 @@ throw
 technically
 typically
 targets
+teilen
 UU
 Uo
 Uc
@@ -5788,6 +5812,7 @@ Unterlasse
 Umsetzung
 Unklarheiten
 Underneath
+Umkehrung
 DC
 DK
 DN
@@ -6165,6 +6190,10 @@ exe
 explantation
 expression
 equivalent
+erhöhen
+eins
+eains
+entfällt
 BP
 Bz
 BVb
@@ -6281,6 +6310,7 @@ Beide
 Beispielproblem
 Berechnung
 Bereichs
+Bestandteil
 TN
 Tn
 TV
@@ -6522,6 +6552,7 @@ Rendering
 Rekursion
 Referenzseite
 Reason
+Regel
 Überblick
 Überlieferung
 Übersicht
