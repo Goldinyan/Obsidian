@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
+                "file": "300 School/Math/Integral Basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kitty Commands"
+              "title": "Integral Basics"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -201,6 +202,16 @@
   },
   "active": "3b68d75a5fd71cff",
   "lastOpenFiles": [
+    "000 Index/Tags/%Integral.md",
+    "300 School/Math/Integral Basics.md",
+    "300 School/Math/The Cursed Graph.md",
+    "300 School/Math/log convexity.md",
+    "300 School/Math/Gamma Function.md",
+    "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
+    "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
+    "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
+    "000 Index/Tags/%Pointers.md",
+    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
     "700 TODO/Changes of portfolio.md",
     "700 TODO/TODO.md",
     "Untitled.md",
@@ -209,26 +220,16 @@
     "200 CS/Languages & Frameworks/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages & Frameworks/C/Structs - C/Accessing & Updating Structs.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
-    "Address Sanitisation - C.md",
-    "Readonly-Memory & String Literals- C.md",
-    "Ways for Seg faults - C.md",
-    "%Pointers.md",
-    "%Memory.md",
+    "000 Index/Tags/%Memory.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Array vs malloc-pointer - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Organizing Projects - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
-    "%Structure.md",
+    "000 Index/Tags/%Structure.md",
     "Tipps for C.md",
     "200 CS/Languages & Frameworks/C/Tips for C",
-    "200 CS/Languages & Frameworks/C/Compiling - C.md",
-    "200 CS/CS Projects/Low Level/Game of Life - C/Structs Idea.md",
-    "200 CS/CS Projects/Low Level/Game of Life - C/Game of Life - C.md",
-    "300 School/English/Summary.md",
-    "600 Debate/Veganism/Veganismus Contra.md",
-    "000 Index/Tags/%Debating.md",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",
