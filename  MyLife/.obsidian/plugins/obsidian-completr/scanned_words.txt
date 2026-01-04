@@ -121,6 +121,7 @@ Performance
 Prototyp
 Phase
 Power
+Pipes
 IHDR
 IDATx
 IC
@@ -992,6 +993,8 @@ clipboard
 close
 cwd
 centered
+cmatrix
+cbonsai
 pt
 pD
 ph
@@ -1196,6 +1199,7 @@ paste
 prompt
 prev
 passthrough
+pipes
 kF
 kXl
 kXlm
@@ -2591,6 +2595,7 @@ allowed
 auto
 alt
 anderes
+asciiquarium
 JV
 Jv
 JN
@@ -3643,6 +3648,9 @@ benötigen
 backward
 bsp
 bewegen
+brew
+background
+bold
 mm
 ms
 mO
@@ -4581,6 +4589,9 @@ south
 starten
 screenshot
 settings
+sh
+schneller
+speed
 XZ
 Xs
 XI
@@ -4953,6 +4964,7 @@ gebildet
 goto
 genutzte
 grid
+green
 nf
 nnvi
 nC
@@ -5842,6 +5854,7 @@ teilen
 tab
 toggle
 tastatur
+transparent
 UU
 Uo
 Uc
