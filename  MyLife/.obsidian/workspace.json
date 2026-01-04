@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Configs & Setups/yabai & skhd/Keybinds.md",
+                "file": "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keybinds"
+              "title": "Kitty Commands"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "3b68d75a5fd71cff",
   "lastOpenFiles": [
-    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
     "100 Configs & Setups/yabai & skhd/Keybinds.md",
+    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
     "100 Configs & Setups/yabai & skhd",
     "300 School/Math/Integral Basics.md",
     "000 Index/Tags/%Integral.md",
