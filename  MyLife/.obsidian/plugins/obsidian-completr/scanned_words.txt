@@ -120,6 +120,7 @@ Probleme
 Performance
 Prototyp
 Phase
+Power
 IHDR
 IDATx
 IC
@@ -416,6 +417,7 @@ readonly
 reside
 recursion
 resizing
+recent
 Vs
 VO
 VJ
@@ -989,6 +991,7 @@ containing
 clipboard
 close
 cwd
+centered
 pt
 pD
 ph
@@ -1191,6 +1194,8 @@ paraphrasing
 productive
 paste
 prompt
+prev
+passthrough
 kF
 kXl
 kXlm
@@ -1534,6 +1539,8 @@ uninitialisierten
 unendliche
 unicode
 url
+unten
+untere
 WGN
 Wm
 Wl
@@ -1663,6 +1670,7 @@ Want
 Werbung
 Windows
 Während
+Warp
 Cbc
 Cr
 Ck
@@ -1881,6 +1889,7 @@ Lets
 Literal
 Luckily
 Lass
+Layout
 qV
 qT
 qH
@@ -2175,6 +2184,12 @@ Seg
 Stammfunktion
 Scroll
 Sends
+Swap
+Split
+Spaces
+Selten
+Spezialfälle
+Splits
 zS
 zX
 zR
@@ -2573,6 +2588,8 @@ aktuelles
 alternative
 allowed
 auto
+alt
+anderes
 JV
 Jv
 JN
@@ -2721,6 +2738,8 @@ Fertiggestellt
 Fear
 Flags
 Fläche
+Fensterfokus
+Fullscreen
 vHwc
 vE
 vA
@@ -2837,6 +2856,8 @@ vorheriges
 vorhanden
 vsplit
 visible
+verschieben
+vorheriger
 Aw
 ArX
 Ar
@@ -3135,6 +3156,7 @@ MAINPOINT
 Metadaten
 More
 Misc
+Mitte
 hv
 hz
 have
@@ -3434,6 +3456,7 @@ logisch
 large
 label
 literals
+letztes
 bM
 bS
 bs
@@ -3617,6 +3640,8 @@ big
 bounds
 benötigen
 backward
+bsp
+bewegen
 mm
 ms
 mO
@@ -3804,6 +3829,7 @@ multiplizieren
 minimize
 macos
 mode
+meh
 do
 dK
 dQ
@@ -4021,6 +4047,8 @@ debgging
 diagnose
 destroyed
 durchgehen
+durchschalten
+dorthin
 QS
 Qn
 QGu
@@ -4060,6 +4088,7 @@ yields
 youtube
 yt
 youre
+yabai
 oc
 oh
 oj
@@ -4147,6 +4176,8 @@ overflow
 occur
 os
 open
+oben
+obere
 ss
 sq
 sE
@@ -4543,6 +4574,8 @@ scrollback
 split
 swap
 send
+south
+starten
 XZ
 Xs
 XI
@@ -4729,6 +4762,9 @@ win
 writable
 window
 windows
+wechseln
+west
+warp
 gv
 gu
 gP
@@ -4910,6 +4946,8 @@ gehört
 gewohnt
 gebildet
 goto
+genutzte
+grid
 nf
 nnvi
 nC
@@ -5019,6 +5057,8 @@ nachdenklich
 niemals
 nächstes
 nth
+nächster
+north
 jt
 jW
 jz
@@ -5199,6 +5239,7 @@ importantly
 indexes
 infinite
 integriert
+insert
 Gn
 Go
 Gs
@@ -5321,6 +5362,7 @@ Grids
 Gesamtlogik
 Graphen
 General
+Gelegentlich
 fW
 fvB
 fnrA
@@ -5505,6 +5547,7 @@ freeing
 faults
 focus
 forward
+fullscreen
 Hn
 HnZ
 HV
@@ -5606,6 +5649,7 @@ Hauptfunktion
 Happiness
 Horror
 Hints
+Häufig
 xe
 xJ
 xys
@@ -5790,6 +5834,7 @@ typically
 targets
 teilen
 tab
+toggle
 UU
 Uo
 Uc
@@ -5974,6 +6019,7 @@ Dieb
 Darum
 Debugger
 Dereferenzieren
+Display
 eC
 eD
 eL
@@ -6232,6 +6278,7 @@ erhöhen
 eins
 eains
 entfällt
+east
 BP
 Bz
 BVb
@@ -6349,6 +6396,7 @@ Beispielproblem
 Berechnung
 Bereichs
 Bestandteil
+Balance
 TN
 Tn
 TV
@@ -6469,6 +6517,7 @@ Topic
 Tausch
 Thats
 Tabs
+Tiling
 üb
 über
 überführt
@@ -6593,6 +6642,7 @@ Referenzseite
 Reason
 Regel
 Raw
+Resize
 Überblick
 Überlieferung
 Übersicht
