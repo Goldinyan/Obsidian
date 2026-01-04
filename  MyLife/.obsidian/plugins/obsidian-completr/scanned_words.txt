@@ -1305,6 +1305,7 @@ kernmerkmal
 kompletten
 kompaktere
 kb
+keybinds
 Zw
 Zy
 ZL
@@ -3830,6 +3831,8 @@ minimize
 macos
 mode
 meh
+mangemnt
+mission
 do
 dK
 dQ
@@ -4576,6 +4579,8 @@ swap
 send
 south
 starten
+screenshot
+settings
 XZ
 Xs
 XI
@@ -5059,6 +5064,7 @@ nächstes
 nth
 nächster
 north
+num
 jt
 jW
 jz
@@ -5835,6 +5841,7 @@ targets
 teilen
 tab
 toggle
+tastatur
 UU
 Uo
 Uc
@@ -6279,6 +6286,7 @@ eins
 eains
 entfällt
 east
+enable
 BP
 Bz
 BVb

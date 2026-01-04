@@ -20,14 +20,6 @@ ctrl + c -> list all for cd (win + c on this kb)
 
 ---
 
-## **Scroll**
-- `ctrl+shift+b` → scroll_page_up  
-- `ctrl+shift+f` → scroll_page_down  
-- `ctrl+shift+z` → scroll_to_prompt -1  
-- `ctrl+shift+x` → scroll_to_prompt 1  
-- `ctrl+shift+'` → show_scrollback  
-
----
 
 ## **Window Management**
 - `cmd+n` → new_os_window  
