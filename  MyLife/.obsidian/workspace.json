@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
+                "file": "100 Configs & Setups/yabai & skhd/Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kitty Commands"
+              "title": "Keybinds"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -202,6 +201,9 @@
   },
   "active": "3b68d75a5fd71cff",
   "lastOpenFiles": [
+    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
+    "100 Configs & Setups/yabai & skhd/Keybinds.md",
+    "100 Configs & Setups/yabai & skhd",
     "300 School/Math/Integral Basics.md",
     "000 Index/Tags/%Integral.md",
     "300 School/Math/The Cursed Graph.md",
@@ -211,7 +213,6 @@
     "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "000 Index/Tags/%Pointers.md",
-    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
     "700 TODO/Changes of portfolio.md",
     "700 TODO/TODO.md",
     "Untitled.md",
@@ -228,7 +229,6 @@
     "200 CS/Languages & Frameworks/C/Tips for C/Organizing Projects - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
     "000 Index/Tags/%Structure.md",
-    "Tipps for C.md",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
     "200 CS/NVIM",
@@ -237,7 +237,6 @@
     "200 CS/Languages & Frameworks/Java",
     "100 Configs & Setups/Obsidian",
     "200 CS/CS Projects/Low Level/Game of Life - C",
-    "100 Configs & Setups/Mac Apps",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
