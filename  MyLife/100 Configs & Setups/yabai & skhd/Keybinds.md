@@ -1,4 +1,3 @@
-
 # 1. Häufig genutzte Keybinds (90 % Alltag)
 
 ## Fensterfokus (Navigation)
@@ -19,6 +18,7 @@
 - `alt + shift - 0x21` → Fenster → vorheriger Space  
 - `alt + shift - 0x1E` → Fenster → nächster Space  
 
+meh = ctrl + alt + shift
 ## Floating / Fullscreen / Split
 - `meh - t` → toggle floating  
 - `meh - m` → toggle fullscreen  
