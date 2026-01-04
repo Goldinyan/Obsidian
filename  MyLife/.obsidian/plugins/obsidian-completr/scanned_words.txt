@@ -415,6 +415,7 @@ regions
 readonly
 reside
 recursion
+resizing
 Vs
 VO
 VJ
@@ -608,6 +609,8 @@ Kern
 Körperhaltung
 Koordinate
 Kompakte
+Kitty
+Kitten
 EG
 ER
 Ek
@@ -983,6 +986,9 @@ cd
 control
 copy
 containing
+clipboard
+close
+cwd
 pt
 pD
 ph
@@ -1183,6 +1189,8 @@ poihnts
 presented
 paraphrasing
 productive
+paste
+prompt
 kF
 kXl
 kXlm
@@ -1524,6 +1532,8 @@ umgerechnet
 unverändert
 uninitialisierten
 unendliche
+unicode
+url
 WGN
 Wm
 Wl
@@ -2163,6 +2173,8 @@ Startmuster
 Schreiben
 Seg
 Stammfunktion
+Scroll
+Sends
 zS
 zX
 zR
@@ -2560,6 +2572,7 @@ automatische
 aktuelles
 alternative
 allowed
+auto
 JV
 Jv
 JN
@@ -2822,6 +2835,8 @@ verändert
 valid
 vorheriges
 vorhanden
+vsplit
+visible
 Aw
 ArX
 Ar
@@ -3119,6 +3134,7 @@ Manager
 MAINPOINT
 Metadaten
 More
+Misc
 hv
 hz
 have
@@ -3248,6 +3264,9 @@ humanity
 happy
 heard
 horror
+hide
+hsplit
+hints
 lI
 lt
 ls
@@ -3597,6 +3616,7 @@ berechnest
 big
 bounds
 benötigen
+backward
 mm
 ms
 mO
@@ -3781,6 +3801,9 @@ messing
 modifiable
 multipliziert
 multiplizieren
+minimize
+macos
+mode
 do
 dK
 dQ
@@ -4122,6 +4145,8 @@ operating
 outside
 overflow
 occur
+os
+open
 ss
 sq
 sE
@@ -4514,6 +4539,10 @@ scary
 shouldn
 segment
 subtrahiert
+scrollback
+split
+swap
+send
 XZ
 Xs
 XI
@@ -4698,6 +4727,8 @@ wissen
 whenever
 win
 writable
+window
+windows
 gv
 gu
 gP
@@ -4878,6 +4909,7 @@ gültigen
 gehört
 gewohnt
 gebildet
+goto
 nf
 nnvi
 nC
@@ -4986,6 +5018,7 @@ neugirig
 nachdenklich
 niemals
 nächstes
+nth
 jt
 jW
 jz
@@ -5287,6 +5320,7 @@ Grid
 Grids
 Gesamtlogik
 Graphen
+General
 fW
 fvB
 fnrA
@@ -5469,6 +5503,8 @@ fine
 fault
 freeing
 faults
+focus
+forward
 Hn
 HnZ
 HV
@@ -5569,6 +5605,7 @@ Hauptdateien
 Hauptfunktion
 Happiness
 Horror
+Hints
 xe
 xJ
 xys
@@ -5752,6 +5789,7 @@ technically
 typically
 targets
 teilen
+tab
 UU
 Uo
 Uc
@@ -6430,6 +6468,7 @@ Tips
 Topic
 Tausch
 Thats
+Tabs
 üb
 über
 überführt
@@ -6553,6 +6592,7 @@ Rekursion
 Referenzseite
 Reason
 Regel
+Raw
 Überblick
 Überlieferung
 Übersicht
