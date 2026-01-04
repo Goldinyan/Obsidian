@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Terminal/Terminal extensions.md",
+                "file": "200 CS/Terminal/Terminal Monitoring (macOS).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal extensions"
+              "title": "Terminal Monitoring (macOS)"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -199,8 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "43c2b89ce80099cb",
   "lastOpenFiles": [
+    "200 CS/Terminal/Terminal extensions.md",
+    "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "200 CS/Terminal/Live Perfomance Showcase",
     "100 Configs & Setups/Mac Keybinds.md",
     "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
@@ -229,14 +232,12 @@
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Array vs malloc-pointer - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
     "200 CS/NVIM",
     "200 CS/Web",
     "200 CS/Languages & Frameworks/React",
     "200 CS/Languages & Frameworks/Java",
-    "100 Configs & Setups/Obsidian",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
