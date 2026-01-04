@@ -123,6 +123,9 @@ Phase
 Power
 Pipes
 Print
+Perfomance
+Prozesse
+Prozessmonitor
 IHDR
 IDATx
 IC
@@ -222,6 +225,7 @@ Interpreter
 Integrale
 Integralzeichen
 Integrieren
+Infos
 rD
 rVS
 rZ
@@ -616,6 +620,7 @@ Koordinate
 Kompakte
 Kitty
 Kitten
+Kein
 EG
 ER
 Ek
@@ -771,6 +776,7 @@ Empathy
 Einträgen
 Even
 Exponenten
+Empfohlene
 cj
 cK
 cz
@@ -1465,6 +1471,7 @@ NASA
 Need
 Nullpointer
 Nachdem
+Netzwerk
 uR
 uN
 ug
@@ -1683,6 +1690,7 @@ Werbung
 Windows
 Während
 Warp
+Weitere
 Cbc
 Cr
 Ck
@@ -2205,6 +2213,8 @@ Selten
 Spezialfälle
 Splits
 Screensaver
+Specs
+Systemmonitor
 zS
 zX
 zR
@@ -2760,6 +2770,7 @@ Fläche
 Fensterfokus
 Fullscreen
 Force
+Festplattenanalyse
 vHwc
 vE
 vA
@@ -2878,6 +2889,7 @@ vsplit
 visible
 verschieben
 vorheriger
+verfügbar
 Aw
 ArX
 Ar
@@ -3052,6 +3064,7 @@ Arithmetik
 Achse
 Ableitungsregeln
 Asynchronous
+Alternative
 MV
 MM
 Ms
@@ -3178,6 +3191,8 @@ Metadaten
 More
 Misc
 Mitte
+Monitoring
+Monitor
 hv
 hz
 have
@@ -3310,6 +3325,7 @@ horror
 hide
 hsplit
 hints
+htop
 lI
 lt
 ls
@@ -3668,6 +3684,9 @@ bewegen
 brew
 background
 bold
+btop
+breites
+bmon
 mm
 ms
 mO
@@ -3860,6 +3879,7 @@ mangemnt
 mission
 matrix
 mtx
+minimalistischer
 do
 dK
 dQ
@@ -4988,6 +5008,9 @@ goto
 genutzte
 grid
 green
+grafisch
+glances
+gotop
 nf
 nnvi
 nC
@@ -5100,6 +5123,9 @@ nth
 nächster
 north
 num
+neofetch
+nützliche
+ncdu
 jt
 jW
 jz
@@ -5281,6 +5307,7 @@ indexes
 infinite
 integriert
 insert
+iftop
 Gn
 Go
 Gs
@@ -5404,6 +5431,7 @@ Gesamtlogik
 Graphen
 General
 Gelegentlich
+GPU
 fW
 fvB
 fnrA
@@ -5589,6 +5617,7 @@ faults
 focus
 forward
 fullscreen
+fastfetch
 Hn
 HnZ
 HV
@@ -5691,6 +5720,7 @@ Happiness
 Horror
 Hints
 Häufig
+Hardware
 xe
 xJ
 xys
@@ -6064,6 +6094,7 @@ Darum
 Debugger
 Dereferenzieren
 Display
+Dashboard
 eC
 eD
 eL
@@ -6567,6 +6598,10 @@ Thats
 Tabs
 Tiling
 TERM
+TUI
+Temperaturen
+Teilweise
+Traffic
 üb
 über
 überführt
@@ -6693,6 +6728,7 @@ Regel
 Raw
 Resize
 Requires
+RAM
 Überblick
 Überlieferung
 Übersicht
@@ -6714,4 +6750,5 @@ Requires
 ändere
 äußerlich
 ähnlich
+ältere
 Ölen

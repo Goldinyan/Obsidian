@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Terminal/Terminal Monitoring (macOS).md",
+                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal Monitoring (macOS)"
+              "title": "NVCHAD & Vim Keybinds"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Pointer Arithmetic - C"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d3b00b51cc82df2",
+  "active": "43c2b89ce80099cb",
   "lastOpenFiles": [
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "Pointer Arithmetic - C.md",
