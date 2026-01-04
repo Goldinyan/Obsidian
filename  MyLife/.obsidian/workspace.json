@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+                "file": "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD & Vim Keybinds"
+              "title": "Kitty Commands"
             }
           },
           {
@@ -226,6 +226,7 @@
   },
   "active": "43c2b89ce80099cb",
   "lastOpenFiles": [
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "Pointer Arithmetic - C.md",
     "200 CS/Terminal/Terminal extensions.md",
@@ -255,7 +256,6 @@
     "000 Index/Tags/%Memory.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Array vs malloc-pointer - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
-    "200 CS/Languages & Frameworks/C/Tips for C/Include - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
     "200 CS/NVIM",
