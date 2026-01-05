@@ -126,6 +126,7 @@ Print
 Perfomance
 Prozesse
 Prozessmonitor
+Parameterübergabe
 IHDR
 IDATx
 IC
@@ -505,6 +506,7 @@ Verworfen
 Viel
 Vorfaktor
 Vorfaktoren
+Verlassen
 KPgM
 KO
 Krbm
@@ -622,6 +624,7 @@ Kitty
 Kitten
 Kein
 Kurzreferenz
+Klarheit
 EG
 ER
 Ek
@@ -1006,6 +1009,7 @@ cmatrix
 cbonsai
 closed
 color
+contiguous
 pt
 pD
 ph
@@ -1324,6 +1328,7 @@ kompaktere
 kb
 keybinds
 keystroke
+kopierbare
 Zw
 Zy
 ZL
@@ -1381,6 +1386,7 @@ Zustand
 Zelle
 Zugriff
 Zucker
+Zeigern
 Nn
 Nk
 No
@@ -1564,6 +1570,8 @@ unten
 untere
 update
 ultrakompakt
+undefiniertes
+ungültig
 WGN
 Wm
 Wl
@@ -1695,6 +1703,7 @@ Windows
 Während
 Warp
 Weitere
+Wird
 Cbc
 Cr
 Ck
@@ -1917,6 +1926,8 @@ Layout
 Linux
 Lock
 Lesen
+LIFO
+Lebensdauer
 qV
 qT
 qH
@@ -2221,6 +2232,8 @@ Screensaver
 Specs
 Systemmonitor
 Sekunden
+Speicherverwaltung
+Scopes
 zS
 zX
 zR
@@ -2780,6 +2793,7 @@ Force
 Festplattenanalyse
 Felder
 Feld
+Funktionsaufrufe
 vHwc
 vE
 vA
@@ -2899,6 +2913,7 @@ visible
 verschieben
 vorheriger
 verfügbar
+vergleicht
 Aw
 ArX
 Ar
@@ -3074,6 +3089,8 @@ Achse
 Ableitungsregeln
 Asynchronous
 Alternative
+Ansgar
+Automatische
 MV
 MM
 Ms
@@ -3204,6 +3221,7 @@ Monitoring
 Monitor
 Merksatz
 Minimalbeispiele
+Markdown
 hv
 hz
 have
@@ -3337,6 +3355,7 @@ hide
 hsplit
 hints
 htop
+heap
 lI
 lt
 ls
@@ -3507,6 +3526,7 @@ literals
 letztes
 linux
 lambda
+lokale
 bM
 bS
 bs
@@ -3698,6 +3718,8 @@ bold
 btop
 breites
 bmon
+beide
+begrenzt
 mm
 ms
 mO
@@ -3891,6 +3913,7 @@ mission
 matrix
 mtx
 minimalistischer
+md
 do
 dK
 dQ
@@ -4114,6 +4137,8 @@ delay
 dauerhafte
 dereferenzieren
 dereferenziert
+danke
+dritte
 QS
 Qn
 QGu
@@ -4651,6 +4676,7 @@ seen
 style
 saubere
 syntaktischer
+sag
 XZ
 Xs
 XI
@@ -5028,6 +5054,8 @@ grafisch
 glances
 gotop
 greift
+gebunden
+grafische
 nf
 nnvi
 nC
@@ -5143,6 +5171,7 @@ num
 neofetch
 nützliche
 ncdu
+nochmal
 jt
 jW
 jz
@@ -5325,6 +5354,8 @@ infinite
 integriert
 insert
 iftop
+innerhalb
+ihres
 Gn
 Go
 Gs
@@ -5637,6 +5668,9 @@ forward
 fullscreen
 fastfetch
 fähig
+fehlgeschlagen
+freigegeben
+foo
 Hn
 HnZ
 HV
@@ -5740,6 +5774,7 @@ Horror
 Hints
 Häufig
 Hardware
+Heap
 xe
 xJ
 xys
@@ -5928,6 +5963,7 @@ tab
 toggle
 tastatur
 transparent
+tiefe
 UU
 Uo
 Uc
@@ -6114,6 +6150,8 @@ Debugger
 Dereferenzieren
 Display
 Dashboard
+Dateierstellung
+Diagramm
 eC
 eD
 eL
@@ -6376,6 +6414,10 @@ east
 enable
 exit
 exits
+einfügen
+echte
+erzeugen
+existieren
 BP
 Bz
 BVb
@@ -6495,6 +6537,9 @@ Bereichs
 Bestandteil
 Balance
 Bold
+Blöcke
+Bescheid
+Blocks
 TN
 Tn
 TV
@@ -6622,6 +6667,7 @@ Temperaturen
 Teilweise
 Traffic
 Typen
+Tool
 üb
 über
 überführt
@@ -6750,6 +6796,8 @@ Resize
 Requires
 RAM
 Referenz
+Rücksprungadressen
+Rückgabe
 Überblick
 Überlieferung
 Übersicht

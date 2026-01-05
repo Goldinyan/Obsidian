@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Pointer Arithmetic - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Pointer Arithmetic - C"
+            }
+          },
+          {
+            "id": "f30e68893de9547e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "JAVA"
+            }
+          },
+          {
+            "id": "88ba0dabec2f939c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stack"
+            }
+          },
+          {
+            "id": "a661ee7e8eca316b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Heap"
             }
           },
           {
@@ -80,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,17 +320,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd3c907c2ab1b614",
+  "active": "a661ee7e8eca316b",
   "lastOpenFiles": [
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+    "Stack.md",
+    "Heap.md",
+    "JAVA.md",
+    "Pointer Arithmetic - C.md",
     "Untitled.md",
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "100 Configs & Setups/Mac Keybinds.md",
     "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
     "100 Configs & Setups/Mac Apps/Copilot.md",
     "100 Configs & Setups/yabai & skhd/Keybinds.md",
     "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
-    "Pointer Arithmetic - C.md",
     "200 CS/Terminal/Terminal extensions.md",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations/Animations for fun.md",
@@ -276,9 +351,6 @@
     "700 TODO/Changes of portfolio.md",
     "700 TODO/TODO.md",
     "200 CS/Languages & Frameworks/C/Structs - C/Struct Padding - C.md",
-    "200 CS/Languages & Frameworks/C/Structs - C/Initializing Structs - C.md",
-    "200 CS/Languages & Frameworks/C/Structs - C/Basic Structs - C.md",
-    "200 CS/Languages & Frameworks/C/Structs - C/Accessing & Updating Structs.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
