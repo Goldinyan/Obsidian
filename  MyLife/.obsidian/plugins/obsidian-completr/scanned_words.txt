@@ -621,6 +621,7 @@ Kompakte
 Kitty
 Kitten
 Kein
+Kurzreferenz
 EG
 ER
 Ek
@@ -1211,6 +1212,7 @@ prev
 passthrough
 pipes
 pcf
+perfekt
 kF
 kXl
 kXlm
@@ -1378,6 +1380,7 @@ Zellen
 Zustand
 Zelle
 Zugriff
+Zucker
 Nn
 Nk
 No
@@ -1560,6 +1563,7 @@ url
 unten
 untere
 update
+ultrakompakt
 WGN
 Wm
 Wl
@@ -1912,6 +1916,7 @@ Lass
 Layout
 Linux
 Lock
+Lesen
 qV
 qT
 qH
@@ -2215,6 +2220,7 @@ Splits
 Screensaver
 Specs
 Systemmonitor
+Sekunden
 zS
 zX
 zR
@@ -2340,6 +2346,7 @@ Openings
 One
 OBJECTIVE
 Organizing
+Operator
 am
 ad
 afj
@@ -2771,6 +2778,8 @@ Fensterfokus
 Fullscreen
 Force
 Festplattenanalyse
+Felder
+Feld
 vHwc
 vE
 vA
@@ -3193,6 +3202,8 @@ Misc
 Mitte
 Monitoring
 Monitor
+Merksatz
+Minimalbeispiele
 hv
 hz
 have
@@ -4100,6 +4111,9 @@ durchgehen
 durchschalten
 dorthin
 delay
+dauerhafte
+dereferenzieren
+dereferenziert
 QS
 Qn
 QGu
@@ -4635,6 +4649,8 @@ schneller
 speed
 seen
 style
+saubere
+syntaktischer
 XZ
 Xs
 XI
@@ -5011,6 +5027,7 @@ green
 grafisch
 glances
 gotop
+greift
 nf
 nnvi
 nC
@@ -5432,6 +5449,7 @@ Graphen
 General
 Gelegentlich
 GPU
+Grundprinzip
 fW
 fvB
 fnrA
@@ -5618,6 +5636,7 @@ focus
 forward
 fullscreen
 fastfetch
+fähig
 Hn
 HnZ
 HV
@@ -6602,6 +6621,7 @@ TUI
 Temperaturen
 Teilweise
 Traffic
+Typen
 üb
 über
 überführt
@@ -6729,6 +6749,7 @@ Raw
 Resize
 Requires
 RAM
+Referenz
 Überblick
 Überlieferung
 Übersicht

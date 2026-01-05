@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "dd3c907c2ab1b614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "8d3b00b51cc82df2",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Pointer Arithmetic - C"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,15 +248,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c2b89ce80099cb",
+  "active": "dd3c907c2ab1b614",
   "lastOpenFiles": [
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+    "Untitled.md",
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "100 Configs & Setups/Mac Keybinds.md",
     "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
     "100 Configs & Setups/Mac Apps/Copilot.md",
     "100 Configs & Setups/yabai & skhd/Keybinds.md",
     "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "Pointer Arithmetic - C.md",
     "200 CS/Terminal/Terminal extensions.md",
     "200 CS/Terminal/Live Perfomance Showcase",
@@ -253,7 +279,6 @@
     "200 CS/Languages & Frameworks/C/Structs - C/Initializing Structs - C.md",
     "200 CS/Languages & Frameworks/C/Structs - C/Basic Structs - C.md",
     "200 CS/Languages & Frameworks/C/Structs - C/Accessing & Updating Structs.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
