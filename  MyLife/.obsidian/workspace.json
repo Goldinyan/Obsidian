@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aceeefd3752c7ad6",
+        "id": "a3616b7b645f0ff2",
         "type": "tabs",
         "children": [
           {
-            "id": "43c2b89ce80099cb",
+            "id": "cb6b215a602591b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+                "file": "Raytracing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,155 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD & Vim Keybinds"
-            }
-          },
-          {
-            "id": "dd3c907c2ab1b614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointer Arithmetic - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pointer Arithmetic - C"
-            }
-          },
-          {
-            "id": "f30e68893de9547e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "JAVA"
-            }
-          },
-          {
-            "id": "88ba0dabec2f939c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stack.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stack"
-            }
-          },
-          {
-            "id": "a661ee7e8eca316b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointer Arithmetic - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pointer Arithmetic - C"
-            }
-          },
-          {
-            "id": "7e935f14f5de837f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 School/English/Short Story Analysis – Compact Summary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Short Story Analysis – Compact Summary"
-            }
-          },
-          {
-            "id": "8d3b00b51cc82df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pointer Arithmetic - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pointer Arithmetic - C"
+              "title": "Raytracing"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -344,11 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e935f14f5de837f",
+  "active": "cb6b215a602591b5",
   "lastOpenFiles": [
-    "Raytracing.md",
-    "300 School/English/Short Story Analysis – Compact Summary.md",
     "Pointer Arithmetic - C.md",
+    "000 Index/Tags/%ShortStory.md",
+    "300 School/English/Short Story Analysis – Compact Summary.md",
+    "Raytracing.md",
     "Stack.md",
     "Heap.md",
     "JAVA.md",
@@ -374,7 +230,6 @@
     "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "000 Index/Tags/%Pointers.md",
-    "700 TODO/Changes of portfolio.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",

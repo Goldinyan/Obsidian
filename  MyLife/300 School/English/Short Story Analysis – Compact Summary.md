@@ -3,16 +3,13 @@
 Date: 2026-01-06
 Tags: {
 #W
+[[%Writing]]
+[[%English]]
+[[%ShortStory]]
 }
 
+# Key Features of Short Stories
 
-# Short Story Analysis – Compact Summary
-
-
-
-
-
-# References## Key Features of Short Stories
 - Very short fictional texts (approx. 300–15,000 words).  
 - Usually one setting, few characters, one main event.  
 - Short time span; often begins in medias res.  
@@ -53,7 +50,7 @@ Tags: {
 
 ---
 
-# Practical Tips for Analysis (Additional)
+# Practical Tips for Analysis 
 - Identify the central conflict and how it shapes the protagonist.  
 - Examine how setting reflects mood or character psychology.  
 - Analyse how the narrative perspective influences reliability and reader alignment.  
@@ -61,7 +58,3 @@ Tags: {
 - Pay attention to structure: turning point, pacing, tension.  
 - Support all interpretations with textual evidence.  
 - Avoid retelling the plot; focus on function and effect.
-
----
-
-If you want, I can also create a **template** for analysing any short story directly in Obsidian.
