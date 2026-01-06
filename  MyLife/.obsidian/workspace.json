@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raytracing.md",
+                "file": "300 School/English/Short Story Analysis – Compact Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Raytracing"
+              "title": "Short Story Analysis – Compact Summary"
             }
           },
           {
@@ -346,8 +346,9 @@
   },
   "active": "7e935f14f5de837f",
   "lastOpenFiles": [
-    "Pointer Arithmetic - C.md",
     "Raytracing.md",
+    "300 School/English/Short Story Analysis – Compact Summary.md",
+    "Pointer Arithmetic - C.md",
     "Stack.md",
     "Heap.md",
     "JAVA.md",
@@ -374,7 +375,6 @@
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "000 Index/Tags/%Pointers.md",
     "700 TODO/Changes of portfolio.md",
-    "700 TODO/TODO.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
