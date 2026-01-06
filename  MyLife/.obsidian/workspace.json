@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack.md",
+                "file": "Pointer Arithmetic - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stack"
+              "title": "Pointer Arithmetic - C"
             }
           },
           {
@@ -322,8 +322,8 @@
   },
   "active": "a661ee7e8eca316b",
   "lastOpenFiles": [
-    "Heap.md",
     "Stack.md",
+    "Heap.md",
     "JAVA.md",
     "Pointer Arithmetic - C.md",
     "Untitled.md",
