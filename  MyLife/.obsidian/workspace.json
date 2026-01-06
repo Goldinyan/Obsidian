@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heap.md",
+                "file": "Stack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heap"
+              "title": "Stack"
             }
           },
           {
@@ -322,8 +322,8 @@
   },
   "active": "a661ee7e8eca316b",
   "lastOpenFiles": [
-    "Stack.md",
     "Heap.md",
+    "Stack.md",
     "JAVA.md",
     "Pointer Arithmetic - C.md",
     "Untitled.md",
