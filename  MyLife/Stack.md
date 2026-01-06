@@ -83,7 +83,7 @@ First were going to push EBP, the old base pointer, creating a new box ontop, ri
 ```asm
 mov ebp, esp
 ```
-We move EBP i
+We move EBP into ESP, making the bottom of the stack equal to the current top of the stack, so now both arrows EBP and ESP, point to the top of the main stack frame
 
 
 

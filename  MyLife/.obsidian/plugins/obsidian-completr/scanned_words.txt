@@ -428,6 +428,7 @@ resizing
 recent
 rainbow
 realloc
+referred
 Vs
 VO
 VJ
@@ -783,6 +784,8 @@ Einträgen
 Even
 Exponenten
 Empfohlene
+ESP
+EBP
 cj
 cK
 cz
@@ -1013,6 +1016,9 @@ closed
 color
 contiguous
 calloc
+calling
+creation
+collapsing
 pt
 pD
 ph
@@ -1220,6 +1226,10 @@ passthrough
 pipes
 pcf
 perfekt
+plates
+push
+picture
+prologue
 kF
 kXl
 kXlm
@@ -1332,6 +1342,7 @@ kb
 keybinds
 keystroke
 kopierbare
+keeping
 Zw
 Zy
 ZL
@@ -2643,6 +2654,11 @@ anderes
 asciiquarium
 appropriate
 another
+additional
+argc
+argv
+above
+arrows
 JV
 Jv
 JN
@@ -2802,6 +2818,8 @@ Funktionsaufrufe
 Flexibel
 Fragmentierung
 Funktionsgrenzen
+Furthermore
+Frame
 vHwc
 vE
 vA
@@ -3366,6 +3384,9 @@ hints
 htop
 heap
 hinweg
+hood
+hyper
+higher
 lI
 lt
 ls
@@ -3733,6 +3754,9 @@ bmon
 beide
 begrenzt
 bestehen
+box
+bp
+both
 mm
 ms
 mO
@@ -4154,6 +4178,7 @@ danke
 dritte
 dynamisch
 dynamische
+disassemble
 QS
 Qn
 QGu
@@ -4284,6 +4309,8 @@ open
 oben
 obere
 overrides
+onto
+ontop
 ss
 sq
 sE
@@ -4692,6 +4719,10 @@ style
 saubere
 syntaktischer
 sag
+serves
+special
+sp
+snippet
 XZ
 Xs
 XI
@@ -4881,6 +4912,7 @@ windows
 wechseln
 west
 warp
+walk
 gv
 gu
 gP
@@ -5072,6 +5104,8 @@ greift
 gebunden
 grafische
 große
+genereal
+grows
 nf
 nnvi
 nC
@@ -5188,6 +5222,9 @@ neofetch
 nützliche
 ncdu
 nochmal
+naked
+negative
+negatively
 jt
 jW
 jz
@@ -5372,6 +5409,7 @@ insert
 iftop
 innerhalb
 ihres
+imagine
 Gn
 Go
 Gs
@@ -5497,6 +5535,7 @@ General
 Gelegentlich
 GPU
 Grundprinzip
+GP
 fW
 fvB
 fnrA
@@ -5982,6 +6021,8 @@ toggle
 tastatur
 transparent
 tiefe
+taller
+track
 UU
 Uo
 Uc
@@ -6437,6 +6478,8 @@ echte
 erzeugen
 existieren
 explizit
+established
+equal
 BP
 Bz
 BVb
