@@ -27,11 +27,6 @@ Mit konstantem `step` (z. B. 1):
 
 ---
 
-## Schleife verlängert den Strahl
-Solange kein Objekt getroffen wird und der Bildschirm nicht verlassen wird, wird der Punkt weiter verschoben und jeder Zwischenpunkt gezeichnet.
-
----
-
 ## Geometrischer Hintergrund
 Die Bewegung entspricht einer parametrischen Geraden:
 
@@ -50,14 +45,5 @@ Ein wachsender `step` würde Punkte überspringen und die Linie ungleichmäßig 
 
 ---
 
-## Warum es wie ein Lichtstrahl wirkt
-Mehrere Strahlen mit unterschiedlichen Winkeln, die alle vom selben Ursprung ausgehen, ergeben einen fächerförmigen Lichtstrahl.
-
----
-
 ## Kurzfassung
 Ein Strahl entsteht, weil in jeder Iteration derselbe Richtungsvektor `(cos(angle), sin(angle))` zum aktuellen Punkt addiert wird. Dadurch wächst die Linie gleichmäßig in Richtung des Winkels.
-
----
-
-Wenn du möchtest, kann ich dir auch eine extrem kompakte Version, eine Checkliste oder ein Obsidian‑Template für Raycasting‑Notizen erstellen.

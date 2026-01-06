@@ -236,6 +236,7 @@ Integralzeichen
 Integrieren
 Infos
 Interior
+Iteration
 rD
 rVS
 rZ
@@ -526,6 +527,7 @@ Vorfaktoren
 Verlassen
 Very
 Vektor
+Veränderung
 KPgM
 KO
 Krbm
@@ -1259,6 +1261,7 @@ protagonist
 psychology
 pacing
 parametrisierte
+parametrischen
 kF
 kXl
 kXlm
@@ -1373,6 +1376,7 @@ keystroke
 kopierbare
 keeping
 kleines
+konstantem
 Zw
 Zy
 ZL
@@ -1623,6 +1627,7 @@ undefiniertes
 ungültig
 unfiltered
 unnötige
+ungleichmäßig
 WGN
 Wm
 Wl
@@ -2308,6 +2313,7 @@ Satz
 Startpunkt
 Sag
 Schrittgröße
+Schrittweise
 zS
 zX
 zR
@@ -2728,6 +2734,7 @@ associative
 absolut
 addierst
 ausgibt
+addiert
 JV
 Jv
 JN
@@ -2762,6 +2769,7 @@ Jahrhunderten
 Justus
 Jack
 Japanese
+Jede
 FzF
 FK
 FG
@@ -3020,6 +3028,8 @@ verlängert
 verlässt
 visualisieren
 veränderst
+verschoben
+verschiebt
 Aw
 ArX
 Ar
@@ -3652,6 +3662,7 @@ limited
 liefern
 länger
 löchrig
+liefert
 bM
 bS
 bs
@@ -4282,6 +4293,7 @@ dieselbe
 definieren
 diagonale
 denselben
+derselbe
 QS
 Qn
 QGu
@@ -5028,6 +5040,8 @@ walk
 wirst
 weit
 weiterläuft
+wachsender
+wächst
 gv
 gu
 gP
@@ -5225,6 +5239,8 @@ gehst
 geometrisch
 gleichzeitig
 gleich
+gleichmäßige
+gleichmäßig
 nf
 nnvi
 nC
@@ -5664,6 +5680,7 @@ GPU
 Grundprinzip
 GP
 Geraden
+Geometrischer
 fW
 fvB
 fnrA
@@ -5859,6 +5876,7 @@ fehleranfällig
 fictional
 fasse
 fundamentale
+fortlaufende
 Hn
 HnZ
 HV
@@ -5963,6 +5981,7 @@ Hints
 Häufig
 Hardware
 Heap
+Hintergrund
 xe
 xJ
 xys
@@ -6632,6 +6651,7 @@ einschätzen
 erkläre
 erhöht
 erhöhst
+entspricht
 BP
 Bz
 BVb
