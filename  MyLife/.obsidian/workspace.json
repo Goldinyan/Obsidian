@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "NVCHAD & Vim Keybinds"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd47b37115b285f0",
+  "active": "cb6b215a602591b5",
   "lastOpenFiles": [
-    "Raytracing.md",
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "Untitled 1.md",
+    "Raytracing.md",
     "Pointer Arithmetic - C.md",
     "000 Index/Tags/%ShortStory.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
@@ -235,7 +235,6 @@
     "Heap.md",
     "JAVA.md",
     "Untitled.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "100 Configs & Setups/Mac Keybinds.md",
     "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
