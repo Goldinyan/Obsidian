@@ -48,17 +48,6 @@ Tags: {
 - **Flashforward**: Reference to future events.  
 - **Foreshadowing**: Hints at later developments.
 
----
-
-# Practical Tips for Analysis 
-- Identify the central conflict and how it shapes the protagonist.  
-- Examine how setting reflects mood or character psychology.  
-- Analyse how the narrative perspective influences reliability and reader alignment.  
-- Look for symbols, motifs, and recurring imagery.  
-- Pay attention to structure: turning point, pacing, tension.  
-- Support all interpretations with textual evidence.  
-- Avoid retelling the plot; focus on function and effect.
-
 
 
 
