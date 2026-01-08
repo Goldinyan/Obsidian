@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raytracing.md",
+                "file": "300 School/English/Short Story Analysis – Compact Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Raytracing"
+              "title": "Short Story Analysis – Compact Summary"
             }
           },
           {
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -225,9 +226,11 @@
   },
   "active": "cb6b215a602591b5",
   "lastOpenFiles": [
+    "300 School/English/Untitled.md",
+    "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
+    "Raytracing.md",
     "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "Untitled 1.md",
-    "Raytracing.md",
     "Pointer Arithmetic - C.md",
     "000 Index/Tags/%ShortStory.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
@@ -252,8 +255,6 @@
     "300 School/Math/log convexity.md",
     "300 School/Math/Gamma Function.md",
     "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
-    "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
-    "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",

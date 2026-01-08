@@ -135,6 +135,7 @@ Practical
 Pay
 Pixel
 Punkte
+Projektordner
 IHDR
 IDATx
 IC
@@ -648,6 +649,7 @@ Kurzreferenz
 Klarheit
 Kreis
 Kurzfassung
+Kompilieren
 EG
 ER
 Ek
@@ -1436,6 +1438,7 @@ Zugriff
 Zucker
 Zeigern
 Zwischenpunkt
+Zielordner
 Nn
 Nk
 No
@@ -4313,6 +4316,7 @@ Quote
 Qoutes
 Quick
 Quokka
+Quellcode
 yM
 yn
 yYv

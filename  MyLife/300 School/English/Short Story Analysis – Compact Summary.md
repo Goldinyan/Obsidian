@@ -58,3 +58,17 @@ Tags: {
 - Pay attention to structure: turning point, pacing, tension.  
 - Support all interpretations with textual evidence.  
 - Avoid retelling the plot; focus on function and effect.
+
+
+
+
+
+# Typical Features
+
+- **Single Setting**: Time and place of action mirrors the state of mind of the protagonist
+
+- **Short time period of the action**
+
+- **No exposition**: normally start in medias res (latin for middle of things)
+
+- **Climax / Turning-Point**: 
