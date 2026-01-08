@@ -1049,6 +1049,7 @@ criticism
 cos
 critcism
 critical
+callback
 pt
 pD
 ph
@@ -2006,6 +2007,7 @@ Linie
 Linien
 Licht
 Logic
+LspFormatting
 qV
 qT
 qH
@@ -2748,6 +2750,9 @@ absolut
 addierst
 ausgibt
 addiert
+augroup
+api
+autocmds
 JV
 Jv
 JN
@@ -3879,6 +3884,9 @@ bestehen
 box
 bp
 both
+builtins
+bufnr
+buf
 mm
 ms
 mO
@@ -4081,6 +4089,7 @@ motifs
 mirrors
 mongo
 mutexes
+method
 do
 dK
 dQ
@@ -4455,6 +4464,7 @@ onto
 ontop
 observable
 options
+opts
 ss
 sq
 sE
@@ -4876,6 +4886,8 @@ startest
 sichtbar
 schrägen
 somtimes
+sources
+supports
 XZ
 Xs
 XI
@@ -6216,6 +6228,7 @@ turning
 trifft
 typical
 tinterruopted
+textDocument
 UU
 Uo
 Uc
@@ -6812,6 +6825,7 @@ Bold
 Blöcke
 Bescheid
 Blocks
+BufWritePre
 TN
 Tn
 TV

@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "9776f0b377853402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
             "id": "cd47b37115b285f0",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,10 +272,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21467349c0adbd95",
+  "active": "9776f0b377853402",
   "lastOpenFiles": [
-    "300 School/English/Short Story Analysis – Compact Summary.md",
     "Own Database - Go.md",
+    "Untitled 2.md",
+    "300 School/English/Short Story Analysis – Compact Summary.md",
     "300 School/English/Untitled.md",
     "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
     "Raytracing.md",
@@ -278,7 +303,6 @@
     "000 Index/Tags/%Integral.md",
     "300 School/Math/The Cursed Graph.md",
     "300 School/Math/log convexity.md",
-    "300 School/Math/Gamma Function.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
