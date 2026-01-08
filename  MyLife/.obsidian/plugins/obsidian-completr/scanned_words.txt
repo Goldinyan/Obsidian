@@ -445,6 +445,8 @@ reliability
 recurring
 retelling
 reduzieren
+record
+records
 Vs
 VO
 VJ
@@ -1046,6 +1048,7 @@ collapsing
 criticism
 cos
 critcism
+critical
 pt
 pD
 ph
@@ -1266,6 +1269,7 @@ pacing
 parametrisierte
 parametrischen
 period
+project
 kF
 kXl
 kXlm
@@ -1888,6 +1892,7 @@ Correct
 Consciousness
 Chaotic
 Condensed
+Critical
 LI
 LF
 LLN
@@ -2000,6 +2005,7 @@ Lichtstrahl
 Linie
 Linien
 Licht
+Logic
 qV
 qT
 qH
@@ -3674,6 +3680,8 @@ länger
 löchrig
 liefert
 latin
+locig
+lock
 bM
 bS
 bs
@@ -4071,6 +4079,8 @@ moral
 markers
 motifs
 mirrors
+mongo
+mutexes
 do
 dK
 dQ
@@ -4307,6 +4317,9 @@ diagonale
 denselben
 derselbe
 deal
+db
+delete
+driver
 QS
 Qn
 QGu
@@ -4441,6 +4454,7 @@ overrides
 onto
 ontop
 observable
+options
 ss
 sq
 sE
@@ -4861,6 +4875,7 @@ sin
 startest
 sichtbar
 schrägen
+somtimes
 XZ
 Xs
 XI
@@ -5568,6 +5583,9 @@ influences
 imagery
 interpretations
 impression
+items
+integrity
+interfe
 Gn
 Go
 Gs
@@ -5696,6 +5714,7 @@ Grundprinzip
 GP
 Geraden
 Geometrischer
+Good
 fW
 fvB
 fnrA
@@ -6196,6 +6215,7 @@ thought
 turning
 trifft
 typical
+tinterruopted
 UU
 Uo
 Uc

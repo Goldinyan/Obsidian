@@ -41,3 +41,7 @@ driver
 # Data integrity issues
 
 come with write and delete options
+
+somtimes operations get tinterruopted 
+
+thats why we will use mutexes, which will lock operations so non other happen and interfe with the data  
