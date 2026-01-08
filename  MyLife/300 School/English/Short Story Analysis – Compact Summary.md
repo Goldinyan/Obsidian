@@ -71,4 +71,14 @@ Tags: {
 
 - **No exposition**: normally start in medias res (latin for middle of things)
 
-- **Climax / Turning-Point**: 
+- **Climax / Turning-Point**: build up to a climax that forms a turning point in the characters life
+
+- **Surprise / open ending**: left to the reader to decide what happens
+
+- **Few characters**
+
+- **Conflict / decisive moment in the protagonist life**: typical deal with a key event (conflict situation)
+
+- **Focus on mood / atmosphere**: atmosphere is created by setting and characters. It has a strong influence on the reader's impression of the story
+
+- **Moral**: critcism voiced by means of the story

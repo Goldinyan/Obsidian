@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "21467349c0adbd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Own Database - Go.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Own Database - Go"
+            }
+          },
+          {
             "id": "cd47b37115b285f0",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "NVCHAD & Vim Keybinds"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -224,8 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb6b215a602591b5",
+  "active": "21467349c0adbd95",
   "lastOpenFiles": [
+    "300 School/English/Short Story Analysis – Compact Summary.md",
+    "Own Database - Go.md",
     "300 School/English/Untitled.md",
     "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
     "Raytracing.md",
@@ -233,7 +259,6 @@
     "Untitled 1.md",
     "Pointer Arithmetic - C.md",
     "000 Index/Tags/%ShortStory.md",
-    "300 School/English/Short Story Analysis – Compact Summary.md",
     "Stack.md",
     "Heap.md",
     "JAVA.md",
@@ -254,7 +279,6 @@
     "300 School/Math/The Cursed Graph.md",
     "300 School/Math/log convexity.md",
     "300 School/Math/Gamma Function.md",
-    "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",

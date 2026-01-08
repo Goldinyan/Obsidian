@@ -1045,6 +1045,7 @@ creation
 collapsing
 criticism
 cos
+critcism
 pt
 pD
 ph
@@ -1264,6 +1265,7 @@ psychology
 pacing
 parametrisierte
 parametrischen
+period
 kF
 kXl
 kXlm
@@ -2317,6 +2319,8 @@ Startpunkt
 Sag
 Schrittgröße
 Schrittweise
+Setting
+Surprise
 zS
 zX
 zR
@@ -2904,6 +2908,7 @@ Flashback
 Flashforward
 Foreshadowing
 Fächer
+Few
 vHwc
 vE
 vA
@@ -3033,6 +3038,7 @@ visualisieren
 veränderst
 verschoben
 verschiebt
+voiced
 Aw
 ArX
 Ar
@@ -3349,6 +3355,7 @@ Modes
 Monologue
 Mathematik
 Mal
+Moral
 hv
 hz
 have
@@ -3666,6 +3673,7 @@ liefern
 länger
 löchrig
 liefert
+latin
 bM
 bS
 bs
@@ -4062,6 +4070,7 @@ mood
 moral
 markers
 motifs
+mirrors
 do
 dK
 dQ
@@ -4297,6 +4306,7 @@ definieren
 diagonale
 denselben
 derselbe
+deal
 QS
 Qn
 QGu
@@ -5557,6 +5567,7 @@ indirectly
 influences
 imagery
 interpretations
+impression
 Gn
 Go
 Gs
@@ -5881,6 +5892,7 @@ fictional
 fasse
 fundamentale
 fortlaufende
+forms
 Hn
 HnZ
 HV
@@ -6183,6 +6195,7 @@ tied
 thought
 turning
 trifft
+typical
 UU
 Uo
 Uc
@@ -6656,6 +6669,7 @@ erkläre
 erhöht
 erhöhst
 entspricht
+exposition
 BP
 Bz
 BVb
@@ -6910,6 +6924,8 @@ Third
 Thought
 Thoughts
 Techniques
+Time
+Turning
 üb
 über
 überführt
