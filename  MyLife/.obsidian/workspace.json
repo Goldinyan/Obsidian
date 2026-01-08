@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 School/English/Short Story Analysis – Compact Summary.md",
-                "mode": "source",
+                "file": "300 School/English/REMEMBMER.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Short Story Analysis – Compact Summary"
+              "title": "REMEMBMER"
             }
           },
           {
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -275,9 +274,10 @@
   },
   "active": "9776f0b377853402",
   "lastOpenFiles": [
+    "300 School/English/Short Story Analysis – Compact Summary.md",
+    "300 School/English/REMEMBMER.md",
     "Untitled 2.md",
     "Own Database - Go.md",
-    "300 School/English/Short Story Analysis – Compact Summary.md",
     "300 School/English/Untitled.md",
     "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
     "Raytracing.md",
@@ -303,7 +303,6 @@
     "300 School/Math/Integral Basics.md",
     "000 Index/Tags/%Integral.md",
     "300 School/Math/The Cursed Graph.md",
-    "300 School/Math/log convexity.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
