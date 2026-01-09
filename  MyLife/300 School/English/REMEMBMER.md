@@ -11,7 +11,7 @@ The story begins *in the middle of an ongoing situation* without background info
 ### **Why authors use it**  
 - Short stories have limited space — starting in medias res saves time.  
 - It increases engagement because the reader is pulled into the story from the first sentence.  
-- It mirrors real life: we often enter situations without full context.  
+- **It mirrors real life: we often enter situations without full context. **
 - It supports the genre’s goal: to highlight one key moment rather than a long development.
 
 ---

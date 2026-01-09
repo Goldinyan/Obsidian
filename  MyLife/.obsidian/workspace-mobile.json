@@ -253,8 +253,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 Debate/Veganism/Veganismus Contra.md",
-                "mode": "source",
+                "file": "300 School/English/REMEMBMER.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -268,7 +268,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Veganismus Contra"
+              "title": "REMEMBMER"
             }
           }
         ],
@@ -349,7 +349,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basics - C.md",
+            "file": "300 School/English/REMEMBMER.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -420,6 +420,7 @@
   },
   "active": "135ace7d0d726098",
   "lastOpenFiles": [
+    "600 Debate/Veganism/Veganismus Contra.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -445,7 +446,6 @@
     "000 Index/Tags/%Politik.md",
     "000 Index/Tags/%USA.md",
     "000 Index/Tags/%Mathematics.md",
-    "000 Index/Tags/%History.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",
