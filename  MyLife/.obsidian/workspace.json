@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDL.md",
+                "file": "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SDL"
+              "title": "Debugger & Seg fault - C"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "NVCHAD & Vim Keybinds"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 620.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -296,20 +295,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1aaf4c73f4c665d2",
+  "active": "cb6b215a602591b5",
   "lastOpenFiles": [
+    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
+    "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
+    "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
+    "200 CS/Languages & Frameworks/C/Compiling - C.md",
+    "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
+    "Heap.md",
+    "JAVA.md",
+    "Own Database - Go.md",
+    "Pointer Arithmetic - C.md",
+    "Raytracing.md",
     "SDL.md",
-    "300 School/English/Short Story Analysis – Compact Summary.md",
+    "Stack.md",
+    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Untitled.md",
-    "Raytracing.md",
-    "Stack.md",
-    "Pointer Arithmetic - C.md",
-    "Own Database - Go.md",
-    "JAVA.md",
-    "Heap.md",
+    "300 School/English/Short Story Analysis – Compact Summary.md",
     "300 School/English/REMEMBMER.md",
     "300 School/English/Untitled.md",
     "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
@@ -318,15 +323,9 @@
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "100 Configs & Setups/Mac Keybinds.md",
     "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
-    "100 Configs & Setups/Mac Apps/Copilot.md",
-    "100 Configs & Setups/yabai & skhd/Keybinds.md",
-    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
-    "200 CS/Terminal/Terminal extensions.md",
     "200 CS/Terminal/Live Perfomance Showcase",
-    "200 CS/Terminal/UI Animations/Animations for fun.md",
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
-    "300 School/Math/Integral Basics.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
