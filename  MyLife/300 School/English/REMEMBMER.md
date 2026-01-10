@@ -55,10 +55,15 @@ The story ends without a clear resolution. The final situation is ambiguous, sur
 # **Ultra‑compact exam sentences (you can use these directly)**
 
 ### **In medias res:**  
-“The story begins in medias res, which creates immediate tension and forces the reader to reconstruct the missing background.”
+“The story begins in medias res, which creates immediate tension and forces the reader to reconstruct the missing background. It mirrors real life, in which we often enter situations without full context. ”
 
 ### **Conflict:**  
-“The central conflict drives the plot and reveals the protagonist’s inner struggles, leading to a decisive moment.”
+“The central conflict drives the plot and reveals the protagonist’s inner struggles, leading to a decisive moment. Conflict is the fastest way to show character development in a short text. It allows the author to explore a theme (e.g., guilt, identity, injustice) through action rather than explanation. It creates emotional impact — the reader feels the pressure the protagonist is under.”
 
 ### **Open ending:**  
-“The open ending leaves the final outcome unresolved, encouraging the reader to interpret the situation and reflect on the story’s message.”
+“The open ending leaves the final outcome unresolved, encouraging the reader to interpret the situation and reflect on the story’s message. Short stories often aim to **provoke reflection**, not to provide closure.”
+
+
+## Transition
+
+The text contains several typical features of a short story, each of which contributes to its overall effect. In the following, these elements will be analysed in more detail.

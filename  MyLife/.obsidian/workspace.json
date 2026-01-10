@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 School/English/Short Story Analysis – Compact Summary.md",
+                "file": "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Short Story Analysis – Compact Summary"
+              "title": "Template Structure - C"
+            }
+          },
+          {
+            "id": "1aaf4c73f4c665d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SDL"
             }
           },
           {
@@ -61,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 School/English/REMEMBMER.md",
+                "file": "Untitled 1.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "REMEMBMER"
+              "title": "Untitled 1"
             }
           },
           {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,23 +296,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9776f0b377853402",
+  "active": "1aaf4c73f4c665d2",
   "lastOpenFiles": [
+    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
+    "SDL.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
-    "300 School/English/REMEMBMER.md",
+    "Untitled 1.md",
     "Untitled 2.md",
+    "Untitled.md",
+    "Raytracing.md",
+    "Stack.md",
+    "Pointer Arithmetic - C.md",
     "Own Database - Go.md",
+    "JAVA.md",
+    "Heap.md",
+    "300 School/English/REMEMBMER.md",
     "300 School/English/Untitled.md",
     "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
-    "Raytracing.md",
     "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
-    "Untitled 1.md",
-    "Pointer Arithmetic - C.md",
     "000 Index/Tags/%ShortStory.md",
-    "Stack.md",
-    "Heap.md",
-    "JAVA.md",
-    "Untitled.md",
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "100 Configs & Setups/Mac Keybinds.md",
     "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
@@ -301,8 +327,6 @@
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
     "300 School/Math/Integral Basics.md",
-    "000 Index/Tags/%Integral.md",
-    "300 School/Math/The Cursed Graph.md",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
