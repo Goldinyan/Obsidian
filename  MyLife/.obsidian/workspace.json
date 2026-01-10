@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "9c3da8ec6832ee8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
             "id": "1aaf4c73f4c665d2",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "NVCHAD & Vim Keybinds"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,15 +320,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb6b215a602591b5",
+  "active": "9c3da8ec6832ee8b",
   "lastOpenFiles": [
+    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
+    "Untitled 2.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
     "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "200 CS/Languages & Frameworks/C/Compiling - C.md",
     "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
     "Heap.md",
     "JAVA.md",
     "Own Database - Go.md",
@@ -313,7 +339,6 @@
     "Stack.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Untitled 2.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
     "300 School/English/REMEMBMER.md",
     "300 School/English/Untitled.md",

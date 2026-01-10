@@ -140,6 +140,7 @@ Pair
 PrintEscapeAnalysis
 PrintEliminateAllocations
 Period
+Present
 IHDR
 IDATx
 IC
@@ -549,6 +550,7 @@ Verlassen
 Very
 Vektor
 Veränderung
+Vertikale
 KPgM
 KO
 Krbm
@@ -1316,6 +1318,7 @@ provoke
 präzise
 praktischen
 psychological
+präsentiert
 kF
 kXl
 kXlm
@@ -1494,6 +1497,10 @@ Zucker
 Zeigern
 Zwischenpunkt
 Zielordner
+Zoom
+Zeichenmodul
+Zeichenfarbe
+Zoomfaktor
 Nn
 Nk
 No
@@ -2398,6 +2405,8 @@ Synchronisation
 Saves
 Shapes
 SDL
+Skalierung
+Steuerung
 zS
 zX
 zR
@@ -2464,6 +2473,9 @@ zugreifen
 zerstörte
 zeichnest
 zurückgegeben
+zeichnet
+zeichnen
+zoom
 OU
 OL
 Oq
@@ -2533,6 +2545,7 @@ Objekt
 Open
 Optimierung
 Overhead
+Offset
 am
 ad
 afj
@@ -3006,6 +3019,7 @@ Feldern
 Füllwörter
 Frames
 Focuses
+Farben
 vHwc
 vE
 vA
@@ -3321,6 +3335,8 @@ Allocation
 Allokation
 Are
 Atmosphere
+Ablauf
+Abstand
 MV
 MM
 Ms
@@ -3790,6 +3806,7 @@ landet
 localObject
 loneliness
 lSDL
+löscht
 bM
 bS
 bs
@@ -3994,6 +4011,7 @@ beginning
 beeindruckende
 billig
 behandeln
+bewegt
 mm
 ms
 mO
@@ -5018,6 +5036,9 @@ synchronisiert
 synchronisierte
 sauber
 synchronized
+skaliert
+stabil
+scaled
 XZ
 Xs
 XI
@@ -5422,6 +5443,8 @@ goal
 guilt
 gespeichert
 garantieren
+getrennt
+gezeichnet
 nf
 nnvi
 nC
@@ -6201,6 +6224,7 @@ Heap
 Hintergrund
 Highlights
 HotSpot
+Horizontale
 xe
 xJ
 xys
@@ -7031,6 +7055,8 @@ Bescheid
 Blocks
 BufWritePre
 Bonus
+Backbuffer
+Bildschirmkoordinaten
 TN
 Tn
 TV
@@ -7169,6 +7195,7 @@ Transition
 TLABs
 Throws
 Too
+Texturen
 üb
 über
 überführt
@@ -7311,6 +7338,9 @@ Replacement
 Reflects
 Reinforces
 Reader
+Renderer
+Rechtecke
+Render
 Überblick
 Überlieferung
 Übersicht
