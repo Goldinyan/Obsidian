@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raytracing.md",
+                "file": "Simple Raytracing - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Raytracing"
+              "title": "Simple Raytracing - C"
+            }
+          },
+          {
+            "id": "ad4ea211f33e3f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DDOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DDOS"
+            }
+          },
+          {
+            "id": "7b7e08a80e5b87a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,8 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "859e401bc3e48061",
+  "active": "7b7e08a80e5b87a7",
   "lastOpenFiles": [
+    "DDOS.md",
+    "IP.md",
+    "Untitled",
+    "Simple Raytracing - C.md",
     "200 CS/CS Projects/C/Game of Life - C.md",
     "200 CS/CS Projects/Go",
     "200 CS/CS Projects/Low Level/First little ASM Project.md",
@@ -210,7 +263,6 @@
     "%Go.md",
     "JAVA.md",
     "Pointer Arithmetic - C.md",
-    "Raytracing.md",
     "Stack.md",
     "Readonly-Memory - C.md",
     "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
@@ -234,7 +286,6 @@
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
-    "200 CS/NVIM",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
