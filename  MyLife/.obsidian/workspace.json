@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "IP"
             }
+          },
+          {
+            "id": "0357c5a956b10f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Botnet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Botnet"
+            }
+          },
+          {
+            "id": "af80c00f21a5041b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stresser.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stresser"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,10 +296,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b7e08a80e5b87a7",
+  "active": "af80c00f21a5041b",
   "lastOpenFiles": [
-    "DDOS.md",
+    "Botnet.md",
+    "Stresser.md",
     "IP.md",
+    "DDOS.md",
     "Untitled",
     "Simple Raytracing - C.md",
     "200 CS/CS Projects/C/Game of Life - C.md",
@@ -278,8 +328,6 @@
     "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "200 CS/Languages & Frameworks/C/Compiling - C.md",
-    "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
