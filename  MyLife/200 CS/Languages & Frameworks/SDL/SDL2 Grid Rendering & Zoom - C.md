@@ -1,5 +1,14 @@
----------
-# SDL2 Grid Rendering und Zoom
+Date: 2026-01-11
+Tags: {
+#W
+[[%C]]
+[[%SDL]]
+[[%GUI]]
+}
+
+
+# SDL2 Grid Rendering & Zoom - C
+
 
 ## Renderer
 Der Renderer ist das GPU‑Zeichenmodul von SDL.  
@@ -71,3 +80,7 @@ if (e.type == SDL_KEYDOWN) {
 }
 ```
 ---------
+
+
+
+# References

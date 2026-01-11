@@ -1,3 +1,16 @@
+Date: 2026-01-11
+Tags: {
+#W 
+[[%C]]
+[[%SDL]]
+[[%GUI]]
+}
+
+
+# Boilerplate SDL Structure - C
+
+This can be used as a template for a SDL Application, featuring every important aspect of creating a Window.
+
 ```c
 #include <SDL2/SDL.h>
 #include <stdio.h>
@@ -41,3 +54,7 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ```
+
+
+
+# References

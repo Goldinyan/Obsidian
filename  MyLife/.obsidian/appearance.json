@@ -3,5 +3,7 @@
   "accentColor": "#000000",
   "cssTheme": "Everforest",
   "baseFontSizeAction": false,
-  "baseFontSize": 22
+  "baseFontSize": 22,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Chalkboard"
 }

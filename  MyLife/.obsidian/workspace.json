@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3616b7b645f0ff2",
+        "id": "6b8136f69e9be0b7",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6b215a602591b5",
+            "id": "4ea9b50926d80f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
+                "file": "Pointer Accessing - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template Structure - C"
-            }
-          },
-          {
-            "id": "9c3da8ec6832ee8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "1aaf4c73f4c665d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Debugger & Seg fault - C"
-            }
-          },
-          {
-            "id": "21467349c0adbd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Own Database - Go.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Own Database - Go"
-            }
-          },
-          {
-            "id": "9776f0b377853402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "cd47b37115b285f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NVCHAD & Vim Keybinds"
+              "title": "Pointer Accessing - C"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5,
-    "collapsed": true
+    "width": 620.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -321,34 +199,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c3da8ec6832ee8b",
+  "active": "4ea9b50926d80f85",
   "lastOpenFiles": [
-    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
-    "Untitled 2.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
+    "Stack.md",
+    "Heap.md",
+    "000 Index/Tags/%GUI.md",
+    "000 Index/Tags/%SDL.md",
+    "200 CS/Languages & Frameworks/SDL/Boilerplate SDL Structure - C.md",
+    "200 CS/Languages & Frameworks/SDL/Tracking Input & Mouse SDL - C.md",
+    "200 CS/Languages & Frameworks/SDL/SDL2 Grid Rendering & Zoom - C.md",
+    "SDL.md",
+    "200 CS/Languages & Frameworks/SDL",
+    "Pointer Accessing - C.md",
+    "Readonly-Memory - C.md",
     "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "200 CS/Languages & Frameworks/C/Compiling - C.md",
     "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
-    "Heap.md",
-    "JAVA.md",
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "Own Database - Go.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
+    "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
+    "JAVA.md",
     "Pointer Arithmetic - C.md",
     "Raytracing.md",
-    "SDL.md",
-    "Stack.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
     "300 School/English/REMEMBMER.md",
     "300 School/English/Untitled.md",
-    "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
-    "000 Index/Tags/%ShortStory.md",
-    "200 CS/Terminal/Terminal Monitoring (macOS).md",
-    "100 Configs & Setups/Mac Keybinds.md",
-    "100 Configs & Setups/Mac Apps/Rectangle (Windows Manager).md",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
@@ -358,7 +236,6 @@
     "200 CS/NVIM",
     "200 CS/Web",
     "200 CS/Languages & Frameworks/React",
-    "200 CS/Languages & Frameworks/Java",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]

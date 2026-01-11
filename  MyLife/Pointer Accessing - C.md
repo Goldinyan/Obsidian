@@ -1,25 +1,24 @@
-Hier ist eine **kompakte, saubere Obsidian‑Note**, perfekt als dauerhafte Referenz.  
-Format ist direkt copy‑paste‑fähig.
+Date: 2026-01-11
+Tags: {
+#W
+}
+
+
+# Pointer Accessing - C
+
+##### A pointer points to a value, and to change this value you have to dereference.
 
 ---
 
-# 📌 Pointer‑Zugriff in C (Kurzreferenz)
+## Primitive Types (`int`, `bool`, `float`, …)
 
-## 🎯 Grundprinzip
-Ein Pointer zeigt auf einen Wert.  
-Um den Wert zu ändern, musst du **dereferenzieren**.
-
----
-
-## 🔹 Primitive Typen (`int`, `bool`, `float`, …)
-
-### Schreiben/Lesen:
+### Reading & Writing:
 ```c
 *p = value;
 value = *p;
 ```
 
-### Beispiel:
+### Example:
 ```c
 bool *quit = &did_quit;
 *quit = true;
@@ -27,19 +26,19 @@ bool *quit = &did_quit;
 
 ---
 
-## 🔹 Struct‑Pointer
+## Struct‑Pointer
 
-### Zugriff auf Felder:
+### Accessing:
 ```c
 ptr->field
 ```
 
-### Bedeutung:
+### Meaning:
 ```c
 ptr->field   ==   (*ptr).field
 ```
 
-Der `->`‑Operator **dereferenziert automatisch** und greift dann auf das Feld zu.
+The -> dereferences automatically and accesses the field
 
 ### Beispiel:
 ```c
@@ -78,3 +77,7 @@ void update(game_state_t *s) {
 
 Wenn du willst, kann ich dir auch eine zweite Note machen:  
 **„Pointer in 60 Sekunden“** oder **„Pointer‑Fehler, die jeder macht“**.
+
+
+
+# References

@@ -122,17 +122,4 @@ int main(void) {
     free(p);
 }
 
-// OR
-
-int *make_ptr(void) {
-    int *p = malloc(sizeof(int));
-    *p = 10;
-    return p;
-}
-
-int main(void) {
-    int *p = make_ptr();
-    *p = 5;   // valid
-    free(p);
-}
 ```
