@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8136f69e9be0b7",
+        "id": "68625c9e99100d7e",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea9b50926d80f85",
+            "id": "859e401bc3e48061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiling SDL.md",
+                "file": "Raytracing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compiling SDL"
+              "title": "Raytracing"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5,
-    "collapsed": true
+    "width": 620.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -200,13 +199,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea9b50926d80f85",
+  "active": "859e401bc3e48061",
   "lastOpenFiles": [
-    "Readonly-Memory - C.md",
-    "Stack.md",
-    "Compiling SDL.md",
-    "Raytracing.md",
+    "200 CS/CS Projects/C/Game of Life - C.md",
+    "200 CS/CS Projects/Go",
+    "200 CS/CS Projects/Low Level/First little ASM Project.md",
+    "200 CS/CS Projects/C/Own Database - Go.md",
+    "200 CS/CS Projects/C",
+    "000 Index/Tags/%Databases.md",
+    "%Go.md",
+    "JAVA.md",
     "Pointer Arithmetic - C.md",
+    "Raytracing.md",
+    "Stack.md",
+    "Readonly-Memory - C.md",
+    "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
+    "000 Index/Tags/%Makefile.md",
     "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Accessing - C.md",
     "Heap.md",
     "000 Index/Tags/%GUI.md",
@@ -220,14 +228,6 @@
     "200 CS/Languages & Frameworks/C/Compiling - C.md",
     "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
     "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
-    "Own Database - Go.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Debugger & Seg fault - C.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
-    "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
-    "JAVA.md",
-    "300 School/English/Short Story Analysis – Compact Summary.md",
-    "300 School/English/REMEMBMER.md",
-    "300 School/English/Untitled.md",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
@@ -235,8 +235,6 @@
     "200 CS/Languages & Frameworks/C/Tips for C",
     "200 CS/Terminal",
     "200 CS/NVIM",
-    "200 CS/Web",
-    "200 CS/Languages & Frameworks/React",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]

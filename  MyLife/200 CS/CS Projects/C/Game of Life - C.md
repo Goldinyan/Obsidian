@@ -2,7 +2,7 @@ Date: 2026-01-01
 Tags: {
 #W 
 [[%Projects]]
-[[Game of Life - C]]
+[[%C]]
 }
 
 

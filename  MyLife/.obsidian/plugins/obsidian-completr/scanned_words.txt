@@ -466,6 +466,8 @@ rarely
 resolve
 revolve
 recall
+returning
+rewrite
 Vs
 VO
 VJ
@@ -1090,6 +1092,12 @@ compute
 concentrated
 compressed
 communicate
+converting
+comfortable
+calculating
+cell
+calculate
+changed
 pt
 pD
 ph
@@ -1501,6 +1509,7 @@ Zoom
 Zeichenmodul
 Zeichenfarbe
 Zoomfaktor
+Zooming
 Nn
 Nk
 No
@@ -1600,6 +1609,7 @@ Narrative
 Narrator
 Nehmen
 NICHT
+Network
 uR
 uN
 ug
@@ -1835,6 +1845,7 @@ Wird
 Winkel
 Winkels
 Will
+Wrapper
 Cbc
 Cr
 Ck
@@ -2077,6 +2088,7 @@ Logic
 LspFormatting
 Leads
 Locks
+Libary
 qV
 qT
 qH
@@ -2407,6 +2419,7 @@ Shapes
 SDL
 Skalierung
 Steuerung
+SDLK
 zS
 zX
 zR
@@ -2546,6 +2559,7 @@ Open
 Optimierung
 Overhead
 Offset
+Own
 am
 ad
 afj
@@ -2847,6 +2861,8 @@ analysed
 aggressive
 arrives
 ambiguity
+adds
+allocating
 JV
 Jv
 JN
@@ -2882,6 +2898,7 @@ Justus
 Jack
 Japanese
 Jede
+JPG
 FzF
 FK
 FG
@@ -3020,6 +3037,7 @@ Füllwörter
 Frames
 Focuses
 Farben
+Flag
 vHwc
 vE
 vA
@@ -3337,6 +3355,8 @@ Are
 Atmosphere
 Ablauf
 Abstand
+Audio
+Acquiring
 MV
 MM
 Ms
@@ -3478,6 +3498,8 @@ Moral
 Makes
 Marks
 Mood
+Meaning
+Modul
 hv
 hz
 have
@@ -3807,6 +3829,8 @@ localObject
 loneliness
 lSDL
 löscht
+loading
+logically
 bM
 bS
 bs
@@ -4220,6 +4244,7 @@ maximum
 mentally
 maximal
 meanings
+mixer
 do
 dK
 dQ
@@ -4603,6 +4628,7 @@ observable
 options
 opts
 optimieren
+override
 ss
 sq
 sE
@@ -5039,6 +5065,8 @@ synchronized
 skaliert
 stabil
 scaled
+switch
+steps
 XZ
 Xs
 XI
@@ -5239,6 +5267,7 @@ weaknesses
 weitergegeben
 weiterarbeiten
 warn
+went
 gv
 gu
 gP
@@ -5445,6 +5474,8 @@ gespeichert
 garantieren
 getrennt
 gezeichnet
+gfx
+grids
 nf
 nnvi
 nC
@@ -5569,6 +5600,7 @@ narrative
 neatly
 nirgendwohin
 nötig
+net
 jt
 jW
 jz
@@ -5780,6 +5812,9 @@ intense
 intimate
 increasing
 invites
+image
+indicator
+index
 Gn
 Go
 Gs
@@ -6433,6 +6468,7 @@ technische
 transforms
 themes
 teach
+ttf
 UU
 Uo
 Uc
@@ -6632,6 +6668,7 @@ Diagrammen
 Decisive
 Drives
 Delivers
+Database
 eC
 eD
 eL
@@ -6931,6 +6968,8 @@ explodes
 emotionally
 experiences
 entertainment
+extremly
+efficent
 BP
 Bz
 BVb
@@ -7057,6 +7096,9 @@ BufWritePre
 Bonus
 Backbuffer
 Bildschirmkoordinaten
+Base
+BMP
+Both
 TN
 Tn
 TV
@@ -7196,6 +7238,8 @@ TLABs
 Throws
 Too
 Texturen
+TrueType
+Therefore
 üb
 über
 überführt
@@ -7341,6 +7385,7 @@ Reader
 Renderer
 Rechtecke
 Render
+Rotating
 Überblick
 Überlieferung
 Übersicht
