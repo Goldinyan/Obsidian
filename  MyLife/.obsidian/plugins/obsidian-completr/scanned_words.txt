@@ -2421,6 +2421,7 @@ SDL
 Skalierung
 Steuerung
 SDLK
+Sugar
 zS
 zX
 zR
@@ -2864,6 +2865,8 @@ arrives
 ambiguity
 adds
 allocating
+automatically
+accesses
 JV
 Jv
 JN
@@ -3502,6 +3505,7 @@ Marks
 Mood
 Meaning
 Modul
+Memorization
 hv
 hz
 have
@@ -5070,6 +5074,7 @@ stabil
 scaled
 switch
 steps
+synthetic
 XZ
 Xs
 XI
@@ -6156,6 +6161,7 @@ final
 formulieren
 fate
 fails
+field
 Hn
 HnZ
 HV

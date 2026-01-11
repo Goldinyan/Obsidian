@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68625c9e99100d7e",
+        "id": "a57c6f05bc4f6ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "859e401bc3e48061",
+            "id": "3ff82dc6f1a35051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Raytracing - C.md",
+                "file": "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Arithmetic - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Simple Raytracing - C"
-            }
-          },
-          {
-            "id": "ad4ea211f33e3f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DDOS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DDOS"
-            }
-          },
-          {
-            "id": "7b7e08a80e5b87a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IP"
-            }
-          },
-          {
-            "id": "0357c5a956b10f06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Botnet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Botnet"
-            }
-          },
-          {
-            "id": "af80c00f21a5041b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Raytracing - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Simple Raytracing - C"
+              "title": "Pointer Arithmetic - C"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 496.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -296,17 +200,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af80c00f21a5041b",
+  "active": "3ff82dc6f1a35051",
   "lastOpenFiles": [
+    "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Accessing - C.md",
+    "Simple Raytracing - C.md",
+    "DDOS.md",
+    "IP.md",
+    "Botnet.md",
+    "Readonly-Memory - C.md",
+    "200 CS/Terminal/Terminal Monitoring (macOS).md",
+    "200 CS/Terminal/UI Animations/Animations for fun.md",
+    "200 CS/Terminal/Terminal extensions.md",
+    "200 CS/Terminal/Terminal Commands/Overall usefull Commands.md",
     "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Arithmetic - C.md",
     "000 Index/Tags/%Go.md",
     "000 Index/Tags/%Arithmetic.md",
     "Stresser.md",
-    "Botnet.md",
-    "IP.md",
-    "DDOS.md",
     "Untitled",
-    "Simple Raytracing - C.md",
     "200 CS/CS Projects/C/Game of Life - C.md",
     "200 CS/CS Projects/Go",
     "200 CS/CS Projects/Low Level/First little ASM Project.md",
@@ -315,19 +225,13 @@
     "000 Index/Tags/%Databases.md",
     "JAVA.md",
     "Stack.md",
-    "Readonly-Memory - C.md",
     "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
     "000 Index/Tags/%Makefile.md",
-    "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Accessing - C.md",
     "Heap.md",
     "000 Index/Tags/%GUI.md",
     "000 Index/Tags/%SDL.md",
     "200 CS/Languages & Frameworks/SDL/Boilerplate SDL Structure - C.md",
-    "200 CS/Languages & Frameworks/SDL/Tracking Input & Mouse SDL - C.md",
-    "200 CS/Languages & Frameworks/SDL/SDL2 Grid Rendering & Zoom - C.md",
     "200 CS/Languages & Frameworks/SDL",
-    "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
-    "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
