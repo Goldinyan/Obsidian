@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointer Accessing - C.md",
+                "file": "Compiling SDL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pointer Accessing - C"
+              "title": "Compiling SDL"
             }
           }
         ]
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5
+    "width": 620.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -201,17 +202,19 @@
   },
   "active": "4ea9b50926d80f85",
   "lastOpenFiles": [
+    "Readonly-Memory - C.md",
     "Stack.md",
+    "Compiling SDL.md",
+    "Raytracing.md",
+    "Pointer Arithmetic - C.md",
+    "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Accessing - C.md",
     "Heap.md",
     "000 Index/Tags/%GUI.md",
     "000 Index/Tags/%SDL.md",
     "200 CS/Languages & Frameworks/SDL/Boilerplate SDL Structure - C.md",
     "200 CS/Languages & Frameworks/SDL/Tracking Input & Mouse SDL - C.md",
     "200 CS/Languages & Frameworks/SDL/SDL2 Grid Rendering & Zoom - C.md",
-    "SDL.md",
     "200 CS/Languages & Frameworks/SDL",
-    "Pointer Accessing - C.md",
-    "Readonly-Memory - C.md",
     "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
     "200 CS/Languages & Frameworks/C/Compiling - C.md",
@@ -222,8 +225,6 @@
     "200 CS/Languages & Frameworks/C/Tips for C/Template Structure - C.md",
     "200 CS/Languages & Frameworks/C/Tips for C/Compiler Flags - C.md",
     "JAVA.md",
-    "Pointer Arithmetic - C.md",
-    "Raytracing.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
     "300 School/English/REMEMBMER.md",
     "300 School/English/Untitled.md",

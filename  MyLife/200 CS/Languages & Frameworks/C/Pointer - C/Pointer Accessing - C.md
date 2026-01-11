@@ -1,15 +1,22 @@
 Date: 2026-01-11
 Tags: {
 #W
+[[%C]]
+[[%Pointers]]
 }
-
 
 # Pointer Accessing - C
 
 ##### A pointer points to a value, and to change this value you have to dereference.
 
 ---
+## Memorization 
 
+- **Primitive Types:** `*p = value;`
+- **Struct‑Fields:** `p->field = value;`
+- **`->` = synthetic Sugar for`(*p).field`**
+
+--- 
 ## Primitive Types (`int`, `bool`, `float`, …)
 
 ### Reading & Writing:
@@ -40,23 +47,14 @@ ptr->field   ==   (*ptr).field
 
 The -> dereferences automatically and accesses the field
 
-### Beispiel:
+### Example:
 ```c
 state->meta.lost = true;
 state->snake.body[0].x++;
 ```
 
----
 
-## 🔹 Merksatz (ultrakompakt)
 
-- **Primitive Werte:** `*p = value;`
-- **Struct‑Felder:** `p->field = value;`
-- **`->` = syntaktischer Zucker für `(*p).field`**
-
----
-
-## 🔹 Minimalbeispiele
 
 ### Primitive:
 ```c
@@ -73,10 +71,7 @@ void update(game_state_t *s) {
 }
 ```
 
----
 
-Wenn du willst, kann ich dir auch eine zweite Note machen:  
-**„Pointer in 60 Sekunden“** oder **„Pointer‑Fehler, die jeder macht“**.
 
 
 
