@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stresser.md",
+                "file": "Simple Raytracing - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stresser"
+              "title": "Simple Raytracing - C"
             }
           }
         ],
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5
+    "width": 496.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -298,8 +298,11 @@
   },
   "active": "af80c00f21a5041b",
   "lastOpenFiles": [
-    "Botnet.md",
+    "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Arithmetic - C.md",
+    "000 Index/Tags/%Go.md",
+    "000 Index/Tags/%Arithmetic.md",
     "Stresser.md",
+    "Botnet.md",
     "IP.md",
     "DDOS.md",
     "Untitled",
@@ -310,9 +313,7 @@
     "200 CS/CS Projects/C/Own Database - Go.md",
     "200 CS/CS Projects/C",
     "000 Index/Tags/%Databases.md",
-    "%Go.md",
     "JAVA.md",
-    "Pointer Arithmetic - C.md",
     "Stack.md",
     "Readonly-Memory - C.md",
     "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
@@ -327,7 +328,6 @@
     "200 CS/Languages & Frameworks/SDL",
     "200 CS/Languages & Frameworks/C/Ways for Seg faults - C.md",
     "200 CS/Languages & Frameworks/C/Readonly-Memory & String Literals- C.md",
-    "200 CS/Languages & Frameworks/C/Compiling - C.md",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
