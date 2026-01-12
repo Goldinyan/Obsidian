@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
-                "mode": "source",
+                "file": "200 CS/Languages & Frameworks/SDL/Tracking Input & Mouse SDL - C.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compiling SDL & Makefile"
+              "title": "Tracking Input & Mouse SDL - C"
             }
           }
         ],
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 496.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -250,6 +251,8 @@
   },
   "active": "988b2a99b816500e",
   "lastOpenFiles": [
+    "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
+    "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
     "200 CS/Languages & Frameworks/SDL/Boilerplate SDL Structure - C.md",
     "clang-format.md",
     "Untitled.md",
@@ -276,9 +279,7 @@
     "000 Index/Tags/%Databases.md",
     "JAVA.md",
     "Stack.md",
-    "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
     "000 Index/Tags/%Makefile.md",
-    "Heap.md",
     "200 CS/Languages & Frameworks/SDL",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations",
