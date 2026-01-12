@@ -39,11 +39,10 @@ Base C Flags can be seen here [[Compiling - C]].
 ```bash
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -Iinclude -I/opt/homebrew/include
-LDFLAGS = -L/opt/homebrew/lib -lSDL2 
-# ( + any additional required flags )
+LDFLAGS = -L/opt/homebrew/lib -lSDL2
 
 SRC = $(wildcard src/*.c)
-OBJ = $(SRC:.c=.o)
+OBJ = $(patsubst src/%.c, object_files/%.o, $(SRC))
 
 TARGET = program
 
@@ -52,11 +51,13 @@ all: $(TARGET)
 $(TARGET): $(OBJ)
 	$(CC) $(OBJ) -o $(TARGET) $(LDFLAGS)
 
-src/%.o: src/%.c
+object_files/%.o: src/%.c
+	@mkdir -p object_files
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm -f src/*.o $(TARGET)
+	rm -f object_files/*.o $(TARGET)
+
 
 ```
 
