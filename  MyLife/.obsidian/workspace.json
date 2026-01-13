@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a57c6f05bc4f6ed6",
+        "id": "f8d57199864997a5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff82dc6f1a35051",
+            "id": "e048892d4a0be081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Arithmetic - C.md",
+                "file": "300 School/German/Die Physiker - Buch Analyse/Die Verantwortung vonn Wissenschaftlern.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pointer Arithmetic - C"
-            }
-          },
-          {
-            "id": "3928ad01471a196b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "988b2a99b816500e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 CS/Languages & Frameworks/SDL/Tracking Input & Mouse SDL - C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tracking Input & Mouse SDL - C"
+              "title": "Die Verantwortung vonn Wissenschaftlern"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,14 +200,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "988b2a99b816500e",
+  "active": "e048892d4a0be081",
   "lastOpenFiles": [
+    "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Arithmetic - C.md",
+    "Untitled.md",
+    "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
+    "300 School/German/Die Physiker - Buch Analyse/Die Verantwortung vonn Wissenschaftlern.md",
+    "200 CS/Languages & Frameworks/SDL/Tracking Input & Mouse SDL - C.md",
+    "300 School/German/Die Physiker - Buch Analyse",
+    "300 School/German",
     "200 CS/Languages & Frameworks/C/Address Sanitisation - C.md",
     "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
     "200 CS/Languages & Frameworks/SDL/Boilerplate SDL Structure - C.md",
     "clang-format.md",
-    "Untitled.md",
-    "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Arithmetic - C.md",
     "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Accessing - C.md",
     "Simple Raytracing - C.md",
     "DDOS.md",
@@ -277,16 +233,11 @@
     "200 CS/CS Projects/C/Own Database - Go.md",
     "200 CS/CS Projects/C",
     "000 Index/Tags/%Databases.md",
-    "JAVA.md",
-    "Stack.md",
-    "000 Index/Tags/%Makefile.md",
     "200 CS/Languages & Frameworks/SDL",
     "200 CS/Terminal/Live Perfomance Showcase",
     "200 CS/Terminal/UI Animations",
     "100 Configs & Setups/yabai & skhd",
     "200 CS/Languages & Frameworks/C/Memory Managment - C/Untitled",
-    "200 CS/Languages & Frameworks/C/Tips for C",
-    "200 CS/Terminal",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]
