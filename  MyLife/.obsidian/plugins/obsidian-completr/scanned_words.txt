@@ -473,6 +473,7 @@ revolve
 recall
 returning
 rewrite
+reiche
 Vs
 VO
 VJ
@@ -1351,6 +1352,7 @@ psychological
 präsentiert
 pointing
 persönlicher
+profitfokussierten
 kF
 kXl
 kXlm
@@ -2017,6 +2019,7 @@ Class
 Characters
 Communicates
 ColumnLimit
+Charakter
 LI
 LF
 LLN
@@ -2478,6 +2481,7 @@ Sanatoriums
 Schweigen
 Staat
 Stücks
+Staaten
 zS
 zX
 zR
@@ -2620,6 +2624,8 @@ Offset
 Own
 Ostens
 Oppenheimer
+Opfern
+Opfer
 am
 ad
 afj
@@ -3442,6 +3448,7 @@ April
 Atombombe
 Atombombenwürfe
 Ansichten
+Aktionen
 MV
 MM
 Ms
@@ -3737,6 +3744,7 @@ highlight
 hope
 hinter
 handelnde
+haften
 lI
 lt
 ls
@@ -4599,6 +4607,7 @@ develops
 deeper
 dilute
 drei
+durchdacht
 QS
 Qn
 QGu
@@ -5186,6 +5195,7 @@ strategischer
 schlimmstmögliche
 schlauer
 schuldig
+solchen
 XZ
 Xs
 XI
@@ -5953,6 +5963,7 @@ image
 indicator
 index
 increment
+irreversiblen
 Gn
 Go
 Gs
@@ -7139,6 +7150,7 @@ erscheine
 eingesperrt
 erzwungen
 eee
+entscheiden
 BP
 Bz
 BVb
@@ -7414,6 +7426,7 @@ Too
 Texturen
 TrueType
 Therefore
+Thesen
 üb
 über
 überführt
