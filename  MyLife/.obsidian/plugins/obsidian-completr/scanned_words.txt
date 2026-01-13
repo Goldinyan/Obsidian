@@ -142,6 +142,8 @@ PrintEliminateAllocations
 Period
 Present
 Physiker
+Perspektiven
+Profit
 IHDR
 IDATx
 IC
@@ -474,6 +476,9 @@ recall
 returning
 rewrite
 reiche
+reichte
+rush
+renewed
 Vs
 VO
 VJ
@@ -564,6 +569,9 @@ Verrückten
 Verlust
 Vorteil
 Vater
+Verpflichtung
+Vorsicht
+Vorteile
 KPgM
 KO
 Krbm
@@ -691,6 +699,8 @@ Keeps
 Kapitel
 Krankenschwester
 Kernbotschaft
+Kapital
+Katastrophe
 EG
 ER
 Ek
@@ -866,6 +876,8 @@ Eisler
 Ebenfalls
 Einzige
 Erkennt
+Entdeckungen
+Einfluss
 cj
 cK
 cz
@@ -1121,6 +1133,11 @@ calculating
 cell
 calculate
 changed
+concentrate
+consumed
+compete
+countless
+concentration
 pt
 pD
 ph
@@ -1353,6 +1370,11 @@ präsentiert
 pointing
 persönlicher
 profitfokussierten
+potenziell
+phones
+possibly
+positive
+propose
 kF
 kXl
 kXlm
@@ -1473,6 +1495,7 @@ keeps
 kranken
 kopiert
 kontrollieren
+korrupte
 Zw
 Zy
 ZL
@@ -1642,6 +1665,7 @@ Network
 Newton
 NYC
 Nagasaki
+New
 uR
 uN
 ug
@@ -1745,6 +1769,7 @@ urgency
 unheimliche
 umsonst
 untergeordnete
+umgeben
 WGN
 Wm
 Wl
@@ -1892,6 +1917,9 @@ Westens
 Werkzeug
 Wissenschaftler
 Wissenschaftlern
+Wirtschaft
+Wohl
+Werner
 Cbc
 Cr
 Ck
@@ -2020,6 +2048,7 @@ Characters
 Communicates
 ColumnLimit
 Charakter
+City
 LI
 LF
 LLN
@@ -2187,6 +2216,8 @@ You
 Young
 YT
 Your
+York
+Yorker
 SO
 Si
 SP
@@ -2551,6 +2582,8 @@ zurückgegeben
 zeichnet
 zeichnen
 zoom
+ziehen
+zustimmen
 OU
 OL
 Oq
@@ -2934,6 +2967,14 @@ accesses
 aspect
 auserwählt
 aufgegriffen
+auseinandersetzen
+attend
+amounts
+addicted
+absorbing
+addiction
+affects
+adapt
 JV
 Jv
 JN
@@ -3113,6 +3154,8 @@ Flag
 Figurenübersicht
 Fortschritt
 Folgen
+Friedrich
+Forschenden
 vHwc
 vE
 vA
@@ -3250,6 +3293,11 @@ verpflichtet
 vonn
 verurteilte
 verschiedenen
+verheerenden
+verdeutlichen
+verschafft
+verantwortungsvollste
+vollständig
 Aw
 ArX
 Ar
@@ -3449,6 +3497,7 @@ Atombombe
 Atombombenwürfe
 Ansichten
 Aktionen
+Arbeit
 MV
 MM
 Ms
@@ -3601,6 +3650,7 @@ Manuskripte
 Mathilde
 Machtgierig
 Machtinstrument
+Machtstrukturen
 hv
 hz
 have
@@ -3745,6 +3795,8 @@ hope
 hinter
 handelnde
 haften
+handeln
+hour
 lI
 lt
 ls
@@ -3935,6 +3987,7 @@ lSDL
 löscht
 loading
 logically
+listen
 bM
 bS
 bs
@@ -4148,6 +4201,9 @@ bösartig
 begabter
 befassen
 betrachtet
+besitzt
+bedroom
+bed
 mm
 ms
 mO
@@ -4360,6 +4416,11 @@ mixer
 multiply
 manipulativ
 missbraucht
+mitgedacht
+mächtigen
+militärische
+missbrauchen
+meaningfully
 do
 dK
 dQ
@@ -4608,6 +4669,17 @@ deeper
 dilute
 drei
 durchdacht
+deshalb
+declining
+digital
+devices
+designed
+dollar
+deserve
+deeply
+distraction
+during
+dinner
 QS
 Qn
 QGu
@@ -5196,6 +5268,18 @@ schlimmstmögliche
 schlauer
 schuldig
 solchen
+schweigen
+scheitern
+streben
+strategisches
+stattfindet
+song
+supposed
+survive
+screens
+seek
+smartphones
+surprisingly
 XZ
 Xs
 XI
@@ -5401,6 +5485,10 @@ woraufhin
 wegschickt
 westlichen
 weiteren
+wissenschaftlichen
+wissenschaftliche
+wichtiger
+workday
 gv
 gu
 gP
@@ -5622,6 +5710,8 @@ genommen
 geboren
 gesehen
 genannten
+genügt
+golden
 nf
 nnvi
 nC
@@ -5964,6 +6054,11 @@ indicator
 index
 increment
 irreversiblen
+ihrer
+incredibly
+inhabit
+issue
+interest
 Gn
 Go
 Gs
@@ -6103,6 +6198,7 @@ Geheimagent
 Gleiche
 Gegners
 Genies
+Geheimdienste
 fW
 fvB
 fnrA
@@ -6311,6 +6407,8 @@ fails
 field
 freiwillig
 fanatisch
+family
+friendships
 Hn
 HnZ
 HV
@@ -6423,6 +6521,7 @@ Humorvolle
 Herbert
 Herrschaft
 Hiroshima
+Herzog
 xe
 xJ
 xys
@@ -6637,6 +6736,14 @@ teilt
 tragische
 tragisch
 theoretischer
+trägt
+tut
+tragen
+trigger
+trillion
+truly
+trained
+television
 UU
 Uo
 Uc
@@ -6843,6 +6950,8 @@ Dr
 Dominanz
 Dienste
 Dürenmatt
+Drama
+Dramas
 eC
 eD
 eL
@@ -7151,6 +7260,9 @@ eingesperrt
 erzwungen
 eee
 entscheiden
+einzelner
+eigenes
+economy
 BP
 Bz
 BVb
@@ -7285,6 +7397,8 @@ BreakBeforeBraces
 Boilerplate
 Beutler
 Bedrohung
+Beitrag
+Books
 TN
 Tn
 TV
@@ -7427,6 +7541,7 @@ Texturen
 TrueType
 Therefore
 Thesen
+Tragödie
 üb
 über
 überführt
@@ -7446,6 +7561,7 @@ Thesen
 überschreibst
 überspringen
 übergeben
+übernehmen
 Rn
 Rk
 Rj
@@ -7601,4 +7717,5 @@ Robert
 ältere
 ändert
 äußert
+äußerst
 Ölen
