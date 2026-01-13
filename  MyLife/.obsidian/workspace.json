@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6159f50ef72a6aed",
+        "id": "8c838b75b113f7eb",
         "type": "tabs",
         "children": [
           {
-            "id": "92ecaeab620436cb",
+            "id": "e52ae8619b51c4f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 School/German/Die Physiker - Buch Analyse/Die Verantwortung von Wissenschaftlern.md",
+                "file": "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Die Verantwortung von Wissenschaftlern"
+              "title": "Kitty Commands"
             }
           }
         ]
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5,
-    "collapsed": true
+    "width": 496.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -200,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92ecaeab620436cb",
+  "active": "e52ae8619b51c4f0",
   "lastOpenFiles": [
-    "%Staat.md",
+    "%Power.md",
     "300 School/German/Die Physiker - Buch Analyse/Die Verantwortung von Wissenschaftlern.md",
+    "%Staat.md",
     "750 Writing/English/Why can‘t we read anymore?.md",
     "000 Index/Tags/%Verantwortung.md",
     "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
@@ -230,7 +230,6 @@
     "000 Index/Tags/%Arithmetic.md",
     "Stresser.md",
     "Untitled",
-    "200 CS/CS Projects/C/Game of Life - C.md",
     "200 CS/CS Projects/Go",
     "200 CS/CS Projects/C",
     "200 CS/Languages & Frameworks/SDL",
