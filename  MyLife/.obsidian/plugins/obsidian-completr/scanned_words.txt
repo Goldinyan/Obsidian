@@ -1140,6 +1140,8 @@ countless
 concentration
 chadrc
 chadracula
+crashout
+cjs
 pt
 pD
 ph
@@ -1377,6 +1379,8 @@ phones
 possibly
 positive
 propose
+pattern
+postcss
 kF
 kXl
 kXlm
@@ -3159,6 +3163,7 @@ Fortschritt
 Folgen
 Friedrich
 Forschenden
+FileType
 vHwc
 vE
 vA
@@ -3991,6 +3996,7 @@ löscht
 loading
 logically
 listen
+lädt
 bM
 bS
 bs
@@ -4424,6 +4430,7 @@ mächtigen
 militärische
 missbrauchen
 meaningfully
+mjs
 do
 dK
 dQ
@@ -5283,6 +5290,7 @@ screens
 seek
 smartphones
 surprisingly
+sachen
 XZ
 Xs
 XI
@@ -5715,6 +5723,7 @@ gesehen
 genannten
 genügt
 golden
+gopls
 nf
 nnvi
 nC
@@ -5873,6 +5882,8 @@ jemanden
 jumping
 joa
 jeden
+json
+jdtls
 id
 in
 iB
@@ -6412,6 +6423,7 @@ freiwillig
 fanatisch
 family
 friendships
+finden
 Hn
 HnZ
 HV
