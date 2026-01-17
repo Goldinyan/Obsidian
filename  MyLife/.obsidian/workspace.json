@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Stresser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Stresser"
+            }
+          },
+          {
+            "id": "30c31b147b1c710b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Running Web without npm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Running Web without npm"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,11 +296,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c9738aada6aacf",
+  "active": "30c31b147b1c710b",
   "lastOpenFiles": [
+    "Stresser.md",
+    "Running Web without npm.md",
+    "Transparency nvim.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Transparency nvim.md",
     "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
     "%Power.md",
     "300 School/German/Die Physiker - Buch Analyse/Die Verantwortung von Wissenschaftlern.md",
@@ -300,8 +326,6 @@
     "Readonly-Memory - C.md",
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "200 CS/Terminal/UI Animations/Animations for fun.md",
-    "200 CS/Terminal/Terminal extensions.md",
-    "200 CS/Terminal/Terminal Commands/Overall usefull Commands.md",
     "Untitled",
     "200 CS/CS Projects/Go",
     "200 CS/CS Projects/C",
