@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Running Web without npm"
             }
+          },
+          {
+            "id": "dd38ac042633ee19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -296,10 +320,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30c31b147b1c710b",
+  "active": "dd38ac042633ee19",
   "lastOpenFiles": [
-    "Stresser.md",
     "Running Web without npm.md",
+    "Untitled 2.md",
+    "Stresser.md",
     "Transparency nvim.md",
     "Untitled.md",
     "Untitled 1.md",
@@ -325,7 +350,6 @@
     "Botnet.md",
     "Readonly-Memory - C.md",
     "200 CS/Terminal/Terminal Monitoring (macOS).md",
-    "200 CS/Terminal/UI Animations/Animations for fun.md",
     "Untitled",
     "200 CS/CS Projects/Go",
     "200 CS/CS Projects/C",

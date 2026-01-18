@@ -254,6 +254,7 @@ IndentWidth
 Inspektor
 Irene
 Intelligent
+Iinclude
 rD
 rVS
 rZ
@@ -479,6 +480,7 @@ reiche
 reichte
 rush
 renewed
+rm
 Vs
 VO
 VJ
@@ -1381,6 +1383,7 @@ positive
 propose
 pattern
 postcss
+patsubst
 kF
 kXl
 kXlm
@@ -1926,6 +1929,7 @@ Wissenschaftlern
 Wirtschaft
 Wohl
 Werner
+Wextra
 Cbc
 Cr
 Ck
@@ -2056,6 +2060,8 @@ ColumnLimit
 Charakter
 City
 ChadrcConfig
+CC
+CFLAGS
 LI
 LF
 LLN
@@ -2176,6 +2182,7 @@ Libary
 LLVM
 Land
 Leiterin
+LDFLAGS
 qV
 qT
 qH
@@ -2520,6 +2527,7 @@ Schweigen
 Staat
 Stücks
 Staaten
+SRC
 zS
 zX
 zR
@@ -2666,6 +2674,7 @@ Ostens
 Oppenheimer
 Opfern
 Opfer
+OBJ
 am
 ad
 afj
@@ -4431,6 +4440,7 @@ militärische
 missbrauchen
 meaningfully
 mjs
+mkdir
 do
 dK
 dQ
@@ -5291,6 +5301,7 @@ seek
 smartphones
 surprisingly
 sachen
+std
 XZ
 Xs
 XI
@@ -6424,6 +6435,7 @@ fanatisch
 family
 friendships
 finden
+fsanitize
 Hn
 HnZ
 HV
@@ -7558,6 +7570,7 @@ TrueType
 Therefore
 Thesen
 Tragödie
+TARGET
 üb
 über
 überführt
