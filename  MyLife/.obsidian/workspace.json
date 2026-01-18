@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH.md",
+                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "NVCHAD & Vim Keybinds"
             }
           }
         ],
@@ -371,11 +371,12 @@
   },
   "active": "6edb1310df6a6246",
   "lastOpenFiles": [
-    "Protocol.md",
+    "NVIM.md",
     "SSH.md",
+    "Zero-Knowledge Proof.md",
+    "Protocol.md",
     "Github plugin.md",
     "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
-    "NVIM.md",
     "200 CS/Web/What to do to deploy website.md",
     "200 CS/Web/Website UI Inspiration.md",
     "200 CS/Web/Usefull Websites.md",
@@ -396,7 +397,6 @@
     "000 Index/Tags/%Verantwortung.md",
     "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
     "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Arithmetic - C.md",
-    "200 CS/Languages & Frameworks/SDL/Tracking Input & Mouse SDL - C.md",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",
     "Untitled",
