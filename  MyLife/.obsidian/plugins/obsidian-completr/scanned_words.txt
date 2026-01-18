@@ -483,6 +483,8 @@ reichte
 rush
 renewed
 rm
+remote
+replace
 Vs
 VO
 VJ
@@ -1149,6 +1151,7 @@ chadracula
 crashout
 cjs
 copilot
+communications
 pt
 pD
 ph
@@ -1390,6 +1393,11 @@ pattern
 postcss
 patsubst
 prüfen
+protocol
+potentionally
+previously
+protocols
+protcol
 kF
 kXl
 kXlm
@@ -1513,6 +1521,7 @@ kontrollieren
 korrupte
 konntest
 korrekt
+keyboard
 Zw
 Zy
 ZL
@@ -1789,6 +1798,8 @@ unheimliche
 umsonst
 untergeordnete
 umgeben
+untrusted
+uncrypted
 WGN
 Wm
 Wl
@@ -2250,6 +2261,7 @@ YT
 Your
 York
 Yorker
+Youre
 SO
 Si
 SP
@@ -2548,6 +2560,8 @@ Staaten
 SRC
 Schritte
 Stattdessen
+SSH
+Ssh
 zS
 zX
 zR
@@ -2619,6 +2633,7 @@ zeichnen
 zoom
 ziehen
 zustimmen
+zsh
 OU
 OL
 Oq
@@ -3844,6 +3859,7 @@ haften
 handeln
 hour
 hinzugefügt
+hosts
 lI
 lt
 ls
@@ -4036,6 +4052,7 @@ loading
 logically
 listen
 lädt
+login
 bM
 bS
 bs
@@ -4472,6 +4489,7 @@ meaningfully
 mjs
 mkdir
 minimalistische
+maschine
 do
 dK
 dQ
@@ -5342,6 +5360,8 @@ signin
 status
 steuern
 signout
+secure
+sever
 XZ
 Xs
 XI
@@ -6134,6 +6154,9 @@ issue
 interest
 imports
 installiert
+intp
+intented
+insecure
 Gn
 Go
 Gs
@@ -6826,6 +6849,7 @@ truly
 trained
 television
 transparency
+th
 UU
 Uo
 Uc
@@ -7351,6 +7375,9 @@ exakten
 eintragen
 enabled
 expr
+encrypted
+execute
+epoint
 BP
 Bz
 BVb
