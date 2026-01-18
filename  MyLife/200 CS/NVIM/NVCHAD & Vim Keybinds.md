@@ -5,7 +5,8 @@ Tags: {
 [[%Command]]
 }
 
-
+:Lazy
+für plugins
 # NVCHAD
 
 - zc → fold schließen
@@ -13,6 +14,11 @@ Tags: {
 - za → fold togglen
 - zM → alles schließen
 - zR → alles öffnen
+
+
+- <leader>lf → Diagnostics Float
+- [d / ]d → Prev/Next Diagnostic
+- <leader>q → Diagnostics → Loclist
 
 <leader>fw -> suchen nach etwas
 :s/x/y/g -> macht x zu y;
