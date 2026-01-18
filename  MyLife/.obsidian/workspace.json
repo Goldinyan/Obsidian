@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "200 CS/Web/What to do to deploy website.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "What to do to deploy website"
             }
           }
         ],
@@ -320,10 +320,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd38ac042633ee19",
+  "active": "7ff640d71c0bd486",
   "lastOpenFiles": [
-    "Running Web without npm.md",
+    "200 CS/Web/Website UI Inspiration.md",
+    "200 CS/Web/Usefull Websites.md",
+    "200 CS/Web/Setup Web Application.md",
+    "200 CS/Web/Important Web Imports.md",
+    "200 CS/Languages & Frameworks/TS/As const ! Most underrated TS Feature.md",
     "Untitled 2.md",
+    "Running Web without npm.md",
     "Stresser.md",
     "Transparency nvim.md",
     "Untitled.md",
@@ -345,11 +350,6 @@
     "clang-format.md",
     "200 CS/Languages & Frameworks/C/Pointer - C/Pointer Accessing - C.md",
     "Simple Raytracing - C.md",
-    "DDOS.md",
-    "IP.md",
-    "Botnet.md",
-    "Readonly-Memory - C.md",
-    "200 CS/Terminal/Terminal Monitoring (macOS).md",
     "Untitled",
     "200 CS/CS Projects/Go",
     "200 CS/CS Projects/C",
