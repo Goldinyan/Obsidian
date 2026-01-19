@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Languages & Frameworks/ASM/Basics - ASM.md",
+                "file": "200 CS/Reverse Engineering/Hex Dump & Reverse Hex Dump - RE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basics - ASM"
+              "title": "Hex Dump & Reverse Hex Dump - RE"
             }
           }
         ],
@@ -282,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -394,6 +395,9 @@
   },
   "active": "acddff25ec99684e",
   "lastOpenFiles": [
+    "200 CS/Reverse Engineering/objdump Command - RE.md",
+    "200 CS/Languages & Frameworks/ASM/\"Hello World!\" in ASM.md",
+    "200 CS/Languages & Frameworks/ASM/Basics - ASM.md",
     "Stop Coding like a Junior.md",
     "30 Minute Rule.md",
     "999 Templates/New General Note.md",
@@ -417,9 +421,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
-    "%Power.md",
-    "300 School/German/Die Physiker - Buch Analyse/Die Verantwortung von Wissenschaftlern.md",
-    "%Staat.md",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",
     "Untitled",
