@@ -56,6 +56,11 @@ After that, my manager gave me 3 questions to ask myself before every task:
 - Is there an existing solution?
 - What's is the simplest thing that works?
  This is the base of the [[30 Minute Rule]].
+ 
+ >Over-engineering sucks. Plan before Implementation.
+ 
+
+
 
 
 

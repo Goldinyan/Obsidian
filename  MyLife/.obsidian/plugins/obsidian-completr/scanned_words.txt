@@ -1168,6 +1168,7 @@ credit
 card
 cascaded
 costs
+coding
 pt
 pD
 ph
@@ -1423,6 +1424,7 @@ payment
 paths
 proud
 probably
+paper
 kF
 kXl
 kXlm
@@ -3760,6 +3762,7 @@ Machtinstrument
 Machtstrukturen
 Menü
 Mistakes
+Minute
 hv
 hz
 have
@@ -4548,6 +4551,7 @@ mkdir
 minimalistische
 maschine
 manager
+minutes
 do
 dK
 dQ
@@ -5439,6 +5443,7 @@ shipped
 solving
 solution
 simplest
+sucks
 XZ
 Xs
 XI
@@ -7930,6 +7935,7 @@ Rotating
 Rivalität
 Ruhm
 Robert
+Rule
 Überblick
 Überlieferung
 Übersicht

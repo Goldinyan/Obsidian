@@ -200,36 +200,12 @@
             }
           },
           {
-            "id": "871c06d0c06c3aff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stop Coding like a Junior.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Stop Coding like a Junior"
-            }
-          },
-          {
             "id": "acddff25ec99684e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Minute Rule.md",
+                "file": "200 CS/Languages & Frameworks/ASM/Basics - ASM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30 Minute Rule"
+              "title": "Basics - ASM"
             }
           }
         ],
@@ -306,8 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -417,10 +392,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "871c06d0c06c3aff",
+  "active": "acddff25ec99684e",
   "lastOpenFiles": [
-    "30 Minute Rule.md",
     "Stop Coding like a Junior.md",
+    "30 Minute Rule.md",
+    "999 Templates/New General Note.md",
+    "999 Templates/New Academic Note.md",
     "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "NVIM.md",
     "SSH.md",
@@ -443,8 +420,6 @@
     "%Power.md",
     "300 School/German/Die Physiker - Buch Analyse/Die Verantwortung von Wissenschaftlern.md",
     "%Staat.md",
-    "750 Writing/English/Why can‘t we read anymore?.md",
-    "000 Index/Tags/%Verantwortung.md",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",
     "Untitled",
