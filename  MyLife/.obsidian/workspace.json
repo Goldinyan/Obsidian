@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stop Coding like a Junior.md",
+                "file": "30 Minute Rule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,11 +244,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stop Coding like a Junior"
+              "title": "30 Minute Rule"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -417,8 +417,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acddff25ec99684e",
+  "active": "871c06d0c06c3aff",
   "lastOpenFiles": [
+    "30 Minute Rule.md",
     "Stop Coding like a Junior.md",
     "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "NVIM.md",
@@ -444,7 +445,6 @@
     "%Staat.md",
     "750 Writing/English/Why can‘t we read anymore?.md",
     "000 Index/Tags/%Verantwortung.md",
-    "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",
     "Untitled",
