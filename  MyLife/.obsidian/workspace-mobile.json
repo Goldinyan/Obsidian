@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4bc4ea6d44a487b",
+        "id": "b5642ec1e23a4b13",
         "type": "tabs",
         "children": [
           {
-            "id": "9b001cd937f46dd4",
+            "id": "b9a66884d6a763d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
+                "file": "Stop Coding like a Junior.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zusammenfassung - \"Die Physiker\" - Dürrenmatt"
-            }
-          },
-          {
-            "id": "135ace7d0d726098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 School/English/Short Story Analysis – Compact Summary.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Short Story Analysis – Compact Summary"
+              "title": "Stop Coding like a Junior"
             }
           }
         ]
@@ -201,8 +177,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b001cd937f46dd4",
+  "active": "eccd39326575024f",
   "lastOpenFiles": [
+    "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
     "300 School/English/REMEMBMER.md",
     "300 School/English/Short Story Analysis – Compact Summary.md",
     "600 Debate/Veganism/Veganismus Contra.md",
@@ -228,7 +205,6 @@
     "000 Index/Tags/%Right.md",
     "000 Index/Tags/%MathFunctions.md",
     "000 Index/Tags/%Politik.md",
-    "000 Index/Tags/%USA.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",
