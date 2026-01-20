@@ -63,5 +63,15 @@ After that, my manager gave me 3 questions to ask myself before every task:
 
 
 
+# Summary
+
+There are a few rules one can follow to not stay being an average Junior-Dev:
+- Code needs to be user-safe. Users will try everything.
+- Debugging is not throwing thousands of print-statements.
+- Dont abstract layers, you dont understand. Do *not* trust everything.
+- One failes step can lead to damage in real infrastructure. Failure paths matter the most.
+- Use the [[30 Minute Rule]]. Over-engineering sucks.
+
+
 
 # References

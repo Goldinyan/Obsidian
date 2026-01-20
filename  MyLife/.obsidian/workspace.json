@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Reverse Engineering/Hex Dump & Reverse Hex Dump - RE.md",
+                "file": "Stop Coding like a Junior.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,7 +220,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hex Dump & Reverse Hex Dump - RE"
+              "title": "Stop Coding like a Junior"
             }
           }
         ],
@@ -394,6 +394,7 @@
   },
   "active": "acddff25ec99684e",
   "lastOpenFiles": [
+    "200 CS/Reverse Engineering/Hex Dump & Reverse Hex Dump - RE.md",
     "200 CS/Reverse Engineering/objdump Command - RE.md",
     "200 CS/Languages & Frameworks/ASM/\"Hello World!\" in ASM.md",
     "200 CS/Languages & Frameworks/ASM/Basics - ASM.md",
@@ -419,7 +420,6 @@
     "Transparency nvim.md",
     "Untitled.md",
     "Untitled 1.md",
-    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",
     "Untitled",
