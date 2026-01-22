@@ -222,9 +222,45 @@
               "icon": "lucide-file",
               "title": "Kreisbewegungen"
             }
+          },
+          {
+            "id": "176d80ee8a5f9bec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "db0c4c68b333ddeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NVCHAD & Vim Keybinds"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -392,13 +428,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "db0c4c68b333ddeb",
   "lastOpenFiles": [
+    "NVIM.md",
+    "Github CLI.md",
     "Botnet.md",
     "300 School/Physik/Kreisbewegungen.md",
     "300 School/Physik/Kreisbewegungen",
     "Protocol.md",
-    "NVIM.md",
     "IP.md",
     "Heap.md",
     "Github plugin.md",
@@ -416,7 +453,6 @@
     "200 CS/Languages & Frameworks/SDL/Compiling SDL & Makefile.md",
     "Simple Raytracing - C.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Running Web without npm.md",
     "Readonly-Memory - C.md",
     "200 CS/Setup/Formatting Allman Style.md",
