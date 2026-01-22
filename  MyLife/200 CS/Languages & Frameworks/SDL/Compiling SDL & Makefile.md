@@ -31,7 +31,7 @@ Base C Flags can be seen here [[Compiling - C]].
 | SDL2_mixer  | Audio                     | -lSDL2_mixer  |
 | SDL2main | SDL-Main Wrapper (required for Windows) | -lSDL2main |
 |SDL2_net| Network | -lSDL2_net|
-|SDLK2_gfx | Primitive Shapes, Rotating, Zooming| -lSDL2_gfx
+|SDLK2_gfx | Primitive Shapes, Rotating, Zooming| -lSDL2_gfx|
 
 
 ## Makefile

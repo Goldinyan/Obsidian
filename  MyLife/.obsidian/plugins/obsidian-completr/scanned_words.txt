@@ -146,6 +146,7 @@ Perspektiven
 Profit
 Plugin
 Pairs
+Protocol
 IHDR
 IDATx
 IC
@@ -259,6 +260,9 @@ Intelligent
 Iinclude
 InsertEnter
 Ip
+IETF
+ISO
+IEEE
 rD
 rVS
 rZ
@@ -490,6 +494,10 @@ replace
 releaved
 retries
 raising
+rules
+responded
+reliably
+recovery
 Vs
 VO
 VJ
@@ -1169,6 +1177,12 @@ card
 cascaded
 costs
 coding
+contrast
+credentials
+compromised
+contract
+checksums
+chunks
 pt
 pD
 ph
@@ -1425,6 +1439,10 @@ paths
 proud
 probably
 paper
+prone
+procidure
+packet
+properties
 kF
 kXl
 kXlm
@@ -1722,6 +1740,7 @@ Nagasaki
 New
 NONE
 NVChad
+NVIM
 uR
 uN
 ug
@@ -1982,6 +2001,7 @@ Wohl
 Werner
 Wextra
 Wrong
+Who
 Cbc
 Cr
 Ck
@@ -2117,6 +2137,8 @@ CFLAGS
 Copilot
 CR
 Coding
+Creating
+Creation
 LI
 LF
 LLN
@@ -2598,6 +2620,10 @@ Ssh
 Shame
 Simple
 Stripe
+Semantics
+State
+SYN
+Standardized
 zS
 zX
 zR
@@ -2747,6 +2773,7 @@ Opfern
 Opfer
 OBJ
 Ofcousre
+Order
 am
 ad
 afj
@@ -3072,6 +3099,12 @@ abstract
 abstarcted
 attached
 admitting
+authentication
+authetication
+attacks
+arranged
+acknowledgements
+agnostic
 JV
 Jv
 JN
@@ -3256,6 +3289,7 @@ Folgen
 Friedrich
 Forschenden
 FileType
+Failure
 vHwc
 vE
 vA
@@ -3607,6 +3641,7 @@ AWS
 Asking
 About
 Analytics
+ACK
 MV
 MM
 Ms
@@ -3763,6 +3798,7 @@ Machtstrukturen
 Menü
 Mistakes
 Minute
+Message
 hv
 hz
 have
@@ -3915,6 +3951,9 @@ host
 hooks
 htting
 hit
+hardware
+handle
+handling
 lI
 lt
 ls
@@ -4329,6 +4368,8 @@ bed
 bug
 bill
 branch
+brute
+breaks
 mm
 ms
 mO
@@ -4552,6 +4593,7 @@ minimalistische
 maschine
 manager
 minutes
+machines
 do
 dK
 dQ
@@ -4819,6 +4861,9 @@ delayed
 ddos
 declined
 dissatisfaction
+defined
+dont
+damage
 QS
 Qn
 QGu
@@ -4962,6 +5007,8 @@ opfern
 offenbart
 opening
 optimierte
+oversimplified
+obviously
 ss
 sq
 sE
@@ -5444,6 +5491,12 @@ solving
 solution
 simplest
 sucks
+solve
+specifies
+sequencing
+speaks
+strategies
+states
 XZ
 Xs
 XI
@@ -5892,6 +5945,7 @@ gelernt
 generate
 gather
 gave
+governs
 nf
 nnvi
 nC
@@ -6020,6 +6074,7 @@ net
 nie
 nutzt
 noticeably
+nearly
 jt
 jW
 jz
@@ -6256,6 +6311,8 @@ inventory
 infrastructure
 impress
 infrastrucute
+interpreted
+implements
 Gn
 Go
 Gs
@@ -6615,6 +6672,8 @@ folgende
 fail
 failure
 failed
+force
+failes
 Hn
 HnZ
 HV
@@ -6964,6 +7023,10 @@ triggering
 tested
 ticked
 taken
+transmitted
+triggers
+timeouts
+throwing
 UU
 Uo
 Uc
@@ -7177,6 +7240,8 @@ Dort
 DNS
 Deploy
 Dozens
+Deterministic
+Dont
 eC
 eD
 eL
@@ -7499,6 +7564,13 @@ entering
 exposing
 edge
 exception
+expose
+email
+espaccialy
+exchange
+essentially
+explicit
+expecting
 BP
 Bz
 BVb
@@ -7784,6 +7856,7 @@ Tragödie
 TARGET
 Taste
 Thus
+Transparency
 üb
 über
 überführt
@@ -7936,6 +8009,7 @@ Rivalität
 Ruhm
 Robert
 Rule
+Retransmissions
 Überblick
 Überlieferung
 Übersicht

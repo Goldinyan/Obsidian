@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5642ec1e23a4b13",
+        "id": "98403050cc1dff04",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a66884d6a763d2",
+            "id": "1cddfefb8d400883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stop Coding like a Junior.md",
+                "file": "Running Web without npm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stop Coding like a Junior"
+              "title": "Running Web without npm"
             }
           }
         ]
@@ -177,7 +177,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eccd39326575024f",
+  "active": "1cddfefb8d400883",
   "lastOpenFiles": [
     "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
     "300 School/English/REMEMBMER.md",

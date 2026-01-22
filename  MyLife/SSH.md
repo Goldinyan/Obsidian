@@ -12,7 +12,7 @@ A protocol for having a secure and encrypted connection with remote server/masch
 
 You are going to SSH intp a sever. Youre going to get dropped into a login shell, bash, zsh, etc, and you will be able to execute commands in that shell, as if you were sitting at that server with a keyboard
 
-What is th epoint of Ssh?
+What is the point of Ssh?
 
 its intented to provide secure encrypted communications between two potentionally untrusted hosts over an insecure network. Thats why it was created in order to replace previously insecure and uncrypted protocols.
 What a protcol is can be read here [[Protocol]].

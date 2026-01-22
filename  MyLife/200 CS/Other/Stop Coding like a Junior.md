@@ -1,6 +1,8 @@
 Date: 2026-01-19
 Tags: {
 #W
+[[%Computer Science]]
+[[%Mistakes]]
 }
 
 

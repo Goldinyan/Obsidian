@@ -1,3 +1,18 @@
+Date: 2026-01-20
+Tags: {
+#W
+[[%Config]]
+[[%SDL]]
+[[%Debugging]]
+[[%C]]
+}
+
+
+# General Makefile
+
+This supports [[%SDL]] and Debugging via [[GDB Command - RE]]:
+
+```sh
 CC = clang
 
 CFLAGS = -Wall -Wextra -std=c11 -Iinclude -I/opt/homebrew/include \
@@ -21,4 +36,5 @@ object_files/%.o: src/%.c
 
 clean:
 	rm -f object_files/*.o $(TARGET)
+```
 
