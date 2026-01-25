@@ -19,4 +19,11 @@ java -cp out Main
 
 # Run
 :!java -cp out Main
+
+Or 
+
+:!javac *.java
+
+
+:!java Main
 ```
