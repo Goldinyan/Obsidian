@@ -156,6 +156,10 @@ Press
 Prompt
 Pull
 Prompts
+Plattformen
+Private
+Page
+PostgreSQL
 IHDR
 IDATx
 IC
@@ -275,6 +279,7 @@ IEEE
 IDE
 Interaktiver
 Inline
+Implement
 rD
 rVS
 rZ
@@ -519,6 +524,10 @@ repetition
 rig
 repo
 review
+resource
+ready
+request
+rendering
 Vs
 VO
 VJ
@@ -745,6 +754,12 @@ Kapital
 Katastrophe
 Konfiguration
 Kubernetes
+Kreisbewegungen
+Kreisbewegung
+Kreisbögen
+KeepAQuote
+Kategorien
+Komplett
 EG
 ER
 Ek
@@ -927,6 +942,8 @@ Expensive
 ECMWF
 Enter
 Einmal
+Einheiten
+Eigene
 cj
 cK
 cz
@@ -1224,6 +1241,10 @@ cn
 calls
 completions
 cleans
+components
+cards
+compose
+configured
 pt
 pD
 ph
@@ -1624,6 +1645,7 @@ keyboard
 kept
 kubefwd
 kogiqa
+klären
 Zw
 Zy
 ZL
@@ -1690,6 +1712,7 @@ Zeichenfarbe
 Zoomfaktor
 Zooming
 Zahnd
+Zeitabschnitten
 Nn
 Nk
 No
@@ -2209,6 +2232,8 @@ ChatGPT
 Claude
 Commit
 Chat
+CRUD
+Connect
 LI
 LF
 LLN
@@ -2706,6 +2731,9 @@ Scoreboard
 Schichten
 Slash
 Subcommands
+Sammlungen
+Session
+Steps
 zS
 zX
 zR
@@ -2858,6 +2886,7 @@ OBJ
 Ofcousre
 Order
 Official
+Organisieren
 am
 ad
 afj
@@ -3202,6 +3231,7 @@ adaptive
 automation
 authenticate
 alias
+allgemeinen
 JV
 Jv
 JN
@@ -3394,6 +3424,7 @@ Flashcard
 Fetching
 Flow
 Feedback
+Full
 vHwc
 vE
 vA
@@ -3541,6 +3572,8 @@ vtsls
 vscode
 veraltete
 vereinheitlicht
+ve
+vault
 Aw
 ArX
 Ar
@@ -3759,6 +3792,10 @@ Alternatively
 Authenticate
 Authentication
 Alias
+Arten
+Apps
+Assets
+Add
 MV
 MM
 Ms
@@ -4083,6 +4120,9 @@ handling
 highlighter
 hytale
 https
+hashing
+handlers
+htmx
 lI
 lt
 ls
@@ -4511,6 +4551,8 @@ bottle
 built
 besteht
 beheben
+besten
+beides
 mm
 ms
 mO
@@ -4748,6 +4790,9 @@ mouse
 meetings
 model
 minimalistisches
+messen
+models
+mod
 do
 dK
 dQ
@@ -5026,6 +5071,9 @@ directions
 downloads
 delegate
 doc
+darin
+docker
+downloaded
 QS
 Qn
 QGu
@@ -5068,6 +5116,7 @@ youtube
 yt
 youre
 yabai
+yml
 oc
 oh
 oj
@@ -5176,6 +5225,7 @@ orchestrator
 orchestration
 online
 optimize
+organisieren
 ss
 sq
 sE
@@ -5683,6 +5733,14 @@ script
 spezifische
 summarize
 suggest
+sammeln
+schöne
+starter
+signup
+sql
+schema
+sessions
+styling
 XZ
 Xs
 XI
@@ -6143,6 +6201,7 @@ generation
 gh
 gz
 gpt
+gleichmäßigen
 nf
 nnvi
 nC
@@ -6274,6 +6333,7 @@ noticeably
 nearly
 nativefiledialog
 natural
+nav
 jt
 jW
 jz
@@ -6518,6 +6578,8 @@ isolated
 impactor
 iOS
 independently
+initialized
+interactions
 Gn
 Go
 Gs
@@ -6664,6 +6726,7 @@ GH
 Goldinyan
 GPT
 Grundbefehle
+Gleichmäßige
 fW
 fvB
 fnrA
@@ -6890,6 +6953,7 @@ forwarding
 freeshow
 feedback
 fix
+filtern
 Hn
 HnZ
 HV
@@ -7010,6 +7074,7 @@ Hytale
 HTTPS
 Haiku
 Hilfe
+HTMX
 xe
 xJ
 xys
@@ -7260,6 +7325,8 @@ tracking
 tvOS
 tar
 token
+taggen
+templates
 UU
 Uo
 Uc
@@ -7329,6 +7396,9 @@ Unwisse
 Updates
 Updated
 Universal
+Umdrehungen
+Umlaufsdauer
+Umdrehung
 DC
 DK
 DN
@@ -7484,6 +7554,7 @@ Disable
 Doku
 Direkter
 Dokumentation
+DevCache
 eC
 eD
 eL
@@ -7818,6 +7889,9 @@ efficiently
 extension
 eigent
 exakt
+erklärbar
+einfache
+endpoints
 BP
 Bz
 BVb
@@ -7961,6 +8035,11 @@ Bulk
 Beautiful
 Bottle
 Befehlsübersicht
+Bahn
+Bedarf
+Ball
+Bildern
+Build
 TN
 Tn
 TV
@@ -8113,6 +8192,7 @@ Thai
 TFTP
 TOKEN
 Tests
+TODO
 üb
 über
 überführt
@@ -8272,6 +8352,10 @@ Running
 README
 Repos
 Review
+Regeln
+Resource
+Reusable
+Ready
 Überblick
 Überlieferung
 Übersicht
@@ -8281,6 +8365,7 @@ Review
 Übersichtstabelle
 Überfürsorglich
 Überraschender
+Übersichtlichkeit
 Äußere
 Ähnlich
 Äquivalent

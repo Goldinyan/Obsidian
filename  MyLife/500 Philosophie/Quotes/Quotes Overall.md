@@ -75,6 +75,12 @@ Rassismus gegen Dunkelhäutige tötet."
 "Die Beweislast liegt beim Behaupteten, also wenn sie sagen es gibt einen Gott, dann glaube ich das solange nicht bis sie mir das beweisen können, denn wenn ich an alles glauben würde dessen Gegenteil ich nicht beweisen kann. Dann wär ich vor Kobolden, Feen und Göttern schon verrückt geworden und deswegen halte ich mich an die Sachen die mir andere belegen können"
 -Philipp Möller (Pressereferent der Giordano-Bruno-Stiftung)
 
+"It was not Hitler or Himmler who abducted me, beat me and shot my family. It was the shoemaker, the milkman, the neighbor, who received a uniform and then believed they were the master race"
+-Karl Stojka
+
+"If one person believes something illogical, he is called a fool - but if ten million people believe the same illogical thing, it is called religion."
+
+-Voltaire
 
 ---
 
