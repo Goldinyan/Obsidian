@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+                "file": "200 CS/Setup/Formatting Allman Style.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD & Vim Keybinds"
+              "title": "Formatting Allman Style"
             }
           }
         ]
@@ -201,6 +201,8 @@
   },
   "active": "bb9949d2738c8eff",
   "lastOpenFiles": [
+    "200 CS/Setup/General Makefile.md",
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/Web/Setup Web Application.md",
     "200 CS/CS Projects/Web/Website for Resources i use.md",
     "Creating Motivation.md",
@@ -209,7 +211,6 @@
     "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
     "Stresser.md",
     "Running Web without npm.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "Github plugin.md",
     "300 School/Physik/Kreisbewegungen.md",
     "500 Philosophie/Quotes/Quotes Overall.md",
@@ -228,7 +229,6 @@
     "000 Index/Tags/%Communication.md",
     "200 CS/Communication",
     "SSH.md",
-    "Zero-Knowledge Proof.md",
     "200 CS/Setup",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",

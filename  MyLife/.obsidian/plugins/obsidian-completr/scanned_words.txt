@@ -2734,6 +2734,7 @@ Subcommands
 Sammlungen
 Session
 Steps
+Style
 zS
 zX
 zR
@@ -3425,6 +3426,7 @@ Fetching
 Flow
 Feedback
 Full
+Formatting
 vHwc
 vE
 vA
