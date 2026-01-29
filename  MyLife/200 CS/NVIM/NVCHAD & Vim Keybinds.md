@@ -41,7 +41,131 @@ space f m -> LSP formatting
 - Ctrl+h/j/k/l → Links / Runter / Hoch / Rechts
 
 ---
+Klar, Ansgar — große Sprünge (“big jumps”) in Vim bzw. Neovim mit NvChad funktionieren genauso wie in normalem Vim, aber NvChad bringt ein paar zusätzliche, sehr praktische Bewegungs‑Plugins mit.
 
+Damit du sofort sauber arbeiten kannst, hier eine kompakte, Obsidian‑taugliche Übersicht.
+
+  
+
+🚀 Große Sprünge in Vim / Neovim (auch in NvChad)
+
+🧭 1. Klassische Vim‑Sprünge (funktionieren immer)
+
+Zeilenweise große Sprünge
+
+Bewegung | Wirkung
+
+------------------
+
+Ctrl + d | Halbseite nach unten (“down”)
+
+Ctrl + u | Halbseite nach oben (“up”)
+
+Ctrl + f | Ganze Seite nach unten (“forward”)
+
+Ctrl + b | Ganze Seite nach oben (“backward”)
+
+Zu Anfang/Ende
+
+Bewegung | Wirkung
+
+------------------
+
+gg | Ganz nach oben
+
+G | Ganz nach unten
+
+123G | Zu Zeile 123
+
+  
+
+🎯 2. Wort‑ und Satzsprünge
+
+Bewegung | Wirkung
+
+------------------
+
+w / b | Wortweise vor/zurück
+
+W / B | Wortweise, aber “groß” (Whitespace‑basiert)
+
+} / { | Absatzweise vor/zurück
+
+  
+
+🔥 3. NvChad‑spezifisch: Hop (extrem schnelle Sprünge)
+
+NvChad nutzt Hop.nvim (früher auch Leap). Standard‑Keybinds:
+
+Taste | Wirkung
+
+---------------
+
+s | Hop‑Sprung zu beliebigem Zeichen
+
+S | Rückwärts
+
+f / F | Hop‑Sprung zu erstem Vorkommen eines Zeichens
+
+t / T | Bis kurz vor ein Zeichen
+
+Hop zeigt dir kleine Buchstaben an, mit denen du direkt hinspringst — perfekt für große Textblöcke.
+
+  
+
+🧲 4. Treesitter‑Sprünge (NvChad integriert)
+
+Wenn du strukturell springen willst (Funktionen, Klassen, Blöcke):
+
+Taste | Wirkung
+
+---------------
+
+]m | Nächste Funktion
+
+[m | Vorherige Funktion
+
+]] | Nächster Block
+
+[[ | Vorheriger Block
+
+  
+
+🗂️ 5. Datei‑Navigation (Telescope)
+
+Für große Projekte oft der schnellste “Sprung”:
+
+Taste | Wirkung
+
+---------------
+
+<leader> f f | Datei suchen
+
+<leader> f w | Wort im Projekt suchen (live grep)
+
+<leader> f b | Buffer wechseln
+
+  
+
+⚙️ 6. Eigene große Sprünge definieren
+
+Wenn du z. B. 10 Zeilen auf einmal springen willst:
+
+Lua
+
+-- in ~/.config/nvim/lua/custom/mappings.lua
+
+local map = vim.keymap.set
+
+  
+
+map("n", "<leader>j", "10j", { desc = "Großer Sprung nach unten" })
+
+map("n", "<leader>k", "10k", { desc = "Großer Sprung nach oben" })
+
+  
+
+Wenn du willst, kann ich dir auch eine minimalistische NvChad‑Keybind‑Cheatsheet‑Seite für Obsidian bauen — perfekt für deine Sammlung klarer, wiederverwendbarer Notizen.
 📖 Normal Mode (`n`)
 
 - Esc → Highlight löschen

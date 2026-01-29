@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/Setup/Formatting Allman Style.md",
+                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Formatting Allman Style"
+              "title": "NVCHAD & Vim Keybinds"
             }
           }
         ]
@@ -201,6 +201,9 @@
   },
   "active": "bb9949d2738c8eff",
   "lastOpenFiles": [
+    "600 Debate/Veganism/Veganismus Contra.md",
+    "600 Debate/Veganism/Konsum Kritik bei Veganismus.md",
+    "200 CS/Setup/Formatting Allman Style.md",
     "200 CS/Setup/General Makefile.md",
     "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/Web/Setup Web Application.md",
@@ -225,10 +228,7 @@
     "Heap.md",
     "DDOS.md",
     "200 CS/Other/Stop Coding like a Junior.md",
-    "000 Index/Tags/%Protocol.md",
-    "000 Index/Tags/%Communication.md",
     "200 CS/Communication",
-    "SSH.md",
     "200 CS/Setup",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",

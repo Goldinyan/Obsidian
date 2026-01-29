@@ -107,8 +107,6 @@ Konter:
 
 • Studien zeigen: vegan aufgezogene Kinder können topgesund sein, wenn es richtig geplant ist.
 
-• Dein Beispiel ist genial:
-
  „Setz ein Baby mit einem Apfel und einem Hasen in einen Raum. Es wird den Apfel essen und mit dem Hasen spielen.“
 
 • Fleischessen ist anerzogen, nicht angeboren.

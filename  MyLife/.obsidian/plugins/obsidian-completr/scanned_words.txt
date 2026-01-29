@@ -760,6 +760,8 @@ Kreisbögen
 KeepAQuote
 Kategorien
 Komplett
+Klassische
+Klassen
 EG
 ER
 Ek
@@ -1713,6 +1715,9 @@ Zoomfaktor
 Zooming
 Zahnd
 Zeitabschnitten
+Zeilenweise
+Zeichen
+Zeichens
 Nn
 Nk
 No
@@ -1822,6 +1827,7 @@ NVChad
 NVIM
 Native
 Neben
+NvChad
 uR
 uN
 ug
@@ -2086,6 +2092,8 @@ Wextra
 Wrong
 Who
 Where
+Wortweise
+Whitespace
 Cbc
 Cr
 Ck
@@ -2364,6 +2372,7 @@ Logs
 Layer
 Launcher
 Logged
+Leap
 qV
 qT
 qH
@@ -2735,6 +2744,8 @@ Sammlungen
 Session
 Steps
 Style
+Sprünge
+Satzsprünge
 zS
 zX
 zR
@@ -2808,6 +2819,7 @@ ziehen
 zustimmen
 zsh
 zxgamut
+zusätzliche
 OU
 OL
 Oq
@@ -3798,6 +3810,7 @@ Arten
 Apps
 Assets
 Add
+Absatzweise
 MV
 MM
 Ms
@@ -4125,6 +4138,7 @@ https
 hashing
 handlers
 htmx
+hinspringst
 lI
 lt
 ls
@@ -4555,6 +4569,10 @@ besteht
 beheben
 besten
 beides
+bzw
+bringt
+basiert
+beliebigem
 mm
 ms
 mO
@@ -5743,6 +5761,9 @@ sql
 schema
 sessions
 styling
+spezifisch
+schnelle
+strukturell
 XZ
 Xs
 XI
@@ -6336,6 +6357,7 @@ nearly
 nativefiledialog
 natural
 nav
+normalem
 jt
 jW
 jz
@@ -6370,6 +6392,7 @@ joa
 jeden
 json
 jdtls
+jumps
 id
 in
 iB
@@ -6729,6 +6752,8 @@ Goldinyan
 GPT
 Grundbefehle
 Gleichmäßige
+Große
+Ganz
 fW
 fvB
 fnrA
@@ -7077,6 +7102,8 @@ HTTPS
 Haiku
 Hilfe
 HTMX
+Halbseite
+Hop
 xe
 xJ
 xys
@@ -7894,6 +7921,7 @@ exakt
 erklärbar
 einfache
 endpoints
+erstem
 BP
 Bz
 BVb
@@ -8042,6 +8070,8 @@ Bedarf
 Ball
 Bildern
 Build
+Bewegungs
+Bis
 TN
 Tn
 TV
@@ -8195,6 +8225,7 @@ TFTP
 TOKEN
 Tests
 TODO
+Textblöcke
 üb
 über
 überführt
@@ -8358,6 +8389,7 @@ Regeln
 Resource
 Reusable
 Ready
+Rückwärts
 Überblick
 Überlieferung
 Übersicht
