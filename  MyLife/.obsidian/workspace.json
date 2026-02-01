@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb9949d2738c8eff",
+            "id": "04768b426b47912a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+                "file": "300 School/Math/Graphs/Symmetrie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD & Vim Keybinds"
+              "title": "Symmetrie"
+            }
+          },
+          {
+            "id": "aa65c3d1260440ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAtex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LAtex"
+            }
+          },
+          {
+            "id": "3b16fc30a9678471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 School/Physik/Kreisbewegungen/Kreisbewegungen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kreisbewegungen"
             }
           }
         ]
@@ -43,7 +91,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 58.88198757763975,
+        "dimension": 66.89445709946848,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -73,7 +121,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 41.11801242236025,
+        "dimension": 33.10554290053151,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -199,13 +247,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb9949d2738c8eff",
+  "active": "04768b426b47912a",
   "lastOpenFiles": [
+    "LAtex.md",
+    "300 School/Math/Graphs/Symmetrie.md",
+    "300 School/Physik/Kreisbewegungen/Kreisbewegungen.md",
+    "30 Minute Rule.md",
+    "300 School/Math/Graphs",
+    "300 School/Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
+    "300 School/Physik/Terms Physik.md",
+    "300 School/Physik/Gleichförmige Bewegungen.md",
+    "300 School/Physik/Kreisbewegungen/Formelsammlung",
+    "300 School/Physik/Kreisbewegungen/Untitled.md",
+    "300 School/Physik/Kreisbewegungen",
+    "Bloons.md",
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "600 Debate/Veganism/Veganismus Contra.md",
     "600 Debate/Veganism/Konsum Kritik bei Veganismus.md",
     "200 CS/Setup/Formatting Allman Style.md",
     "200 CS/Setup/General Makefile.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "200 CS/Web/Setup Web Application.md",
     "200 CS/CS Projects/Web/Website for Resources i use.md",
     "Creating Motivation.md",
@@ -215,28 +275,16 @@
     "Stresser.md",
     "Running Web without npm.md",
     "Github plugin.md",
-    "300 School/Physik/Kreisbewegungen.md",
     "500 Philosophie/Quotes/Quotes Overall.md",
     "001 Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2.md",
     "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
-    "NVIM.md",
-    "Github CLI.md",
-    "Botnet.md",
     "300 School/Physik/Kreisbewegungen",
-    "Protocol.md",
-    "IP.md",
-    "Heap.md",
-    "DDOS.md",
-    "200 CS/Other/Stop Coding like a Junior.md",
     "200 CS/Communication",
     "200 CS/Setup",
     "300 School/German/Die Physiker - Buch Analyse",
     "300 School/German",
     "Untitled",
     "200 CS/CS Projects/Go",
-    "200 CS/CS Projects/C",
-    "200 CS/Languages & Frameworks/SDL",
-    "200 CS/Terminal/Live Perfomance Showcase",
     "Pasted image 20251113203103.png",
     "Untitled.canvas"
   ]

@@ -528,6 +528,7 @@ resource
 ready
 request
 rendering
+rvert
 Vs
 VO
 VJ
@@ -762,6 +763,7 @@ Kategorien
 Komplett
 Klassische
 Klassen
+Körpers
 EG
 ER
 Ek
@@ -1247,6 +1249,8 @@ components
 cards
 compose
 configured
+cdot
+circ
 pt
 pD
 ph
@@ -1718,6 +1722,8 @@ Zeitabschnitten
 Zeilenweise
 Zeichen
 Zeichens
+Zentripetalkraft
+Zentripetalbeschleunigung
 Nn
 Nk
 No
@@ -1828,6 +1834,7 @@ NVIM
 Native
 Neben
 NvChad
+Nullstellen
 uR
 uN
 ug
@@ -1938,6 +1945,8 @@ username
 unhandled
 updating
 updated
+ungleich
+umbruch
 WGN
 Wm
 Wl
@@ -2094,6 +2103,7 @@ Who
 Where
 Wortweise
 Whitespace
+Winkelgeschwindigkeit
 Cbc
 Cr
 Ck
@@ -2400,6 +2410,7 @@ queries
 quoutes
 quickly
 quotas
+quad
 Yw
 Ys
 Yl
@@ -2746,6 +2757,9 @@ Steps
 Style
 Sprünge
 Satzsprünge
+Symmetrie
+Strecken
+Spiegeln
 zS
 zX
 zR
@@ -3245,6 +3259,7 @@ automation
 authenticate
 alias
 allgemeinen
+align
 JV
 Jv
 JN
@@ -3439,6 +3454,8 @@ Flow
 Feedback
 Full
 Formatting
+Frequenz
+Faktor
 vHwc
 vE
 vA
@@ -3811,6 +3828,8 @@ Apps
 Assets
 Add
 Absatzweise
+Aufpassen
+Aufgaben
 MV
 MM
 Ms
@@ -4139,6 +4158,7 @@ hashing
 handlers
 htmx
 hinspringst
+herrscht
 lI
 lt
 ls
@@ -4338,6 +4358,7 @@ libks
 libthai
 loader
 lha
+lvert
 bM
 bS
 bs
@@ -4573,6 +4594,7 @@ bzw
 bringt
 basiert
 beliebigem
+begin
 mm
 ms
 mO
@@ -4813,6 +4835,8 @@ minimalistisches
 messen
 models
 mod
+multiplikation
+multiline
 do
 dK
 dQ
@@ -5094,6 +5118,9 @@ doc
 darin
 docker
 downloaded
+degree
+ding
+doof
 QS
 Qn
 QGu
@@ -5764,6 +5791,7 @@ styling
 spezifisch
 schnelle
 strukturell
+spacing
 XZ
 Xs
 XI
@@ -6225,6 +6253,8 @@ gh
 gz
 gpt
 gleichmäßigen
+gebraucht
+gestreckt
 nf
 nnvi
 nC
@@ -6358,6 +6388,7 @@ nativefiledialog
 natural
 nav
 normalem
+neq
 jt
 jW
 jz
@@ -6605,6 +6636,7 @@ iOS
 independently
 initialized
 interactions
+irrelevant
 Gn
 Go
 Gs
@@ -6754,6 +6786,7 @@ Grundbefehle
 Gleichmäßige
 Große
 Ganz
+Grad
 fW
 fvB
 fnrA
@@ -7584,6 +7617,8 @@ Doku
 Direkter
 Dokumentation
 DevCache
+Dauer
+DEG
 eC
 eD
 eL
@@ -8072,6 +8107,9 @@ Bildern
 Build
 Bewegungs
 Bis
+Bahngeschwindigkeit
+Bogenmaß
+Betragsstricht
 TN
 Tn
 TV
@@ -8390,6 +8428,7 @@ Resource
 Reusable
 Ready
 Rückwärts
+RAD
 Überblick
 Überlieferung
 Übersicht
