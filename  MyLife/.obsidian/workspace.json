@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 School/Math/Graphs/Symmetrie.md",
+                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Symmetrie"
+              "title": "NVCHAD & Vim Keybinds"
+            }
+          },
+          {
+            "id": "ed2a69e32f3bb14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Callback in React & Ts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Callback in React & Ts"
             }
           },
           {
@@ -249,8 +273,10 @@
   },
   "active": "04768b426b47912a",
   "lastOpenFiles": [
-    "LAtex.md",
+    "Callback in React & Ts.md",
+    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "300 School/Math/Graphs/Symmetrie.md",
+    "LAtex.md",
     "300 School/Physik/Kreisbewegungen/Kreisbewegungen.md",
     "30 Minute Rule.md",
     "300 School/Math/Graphs",
@@ -261,7 +287,6 @@
     "300 School/Physik/Kreisbewegungen/Untitled.md",
     "300 School/Physik/Kreisbewegungen",
     "Bloons.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
     "600 Debate/Veganism/Veganismus Contra.md",
     "600 Debate/Veganism/Konsum Kritik bei Veganismus.md",
     "200 CS/Setup/Formatting Allman Style.md",
@@ -277,7 +302,6 @@
     "Github plugin.md",
     "500 Philosophie/Quotes/Quotes Overall.md",
     "001 Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2.md",
-    "200 CS/Languages & Frameworks/Java/Compiling - Java.md",
     "300 School/Physik/Kreisbewegungen",
     "200 CS/Communication",
     "200 CS/Setup",
