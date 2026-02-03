@@ -24,32 +24,38 @@
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": true,
+    "emojiMode": false,
     "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "200 CS": {
+    "000 - CS": {
       "icon": "lucide-computer",
       "unsynced": [
         "476ac4a673d0e368"
       ]
     },
-    "300 School": {
+    "100 - School": {
       "icon": "lucide-school-2",
       "unsynced": [
         "476ac4a673d0e368"
       ]
     },
-    "300 Wisdom": {
+    "100 - School/400 History": {
+      "icon": "lucide-book-user",
+      "unsynced": [
+        "476ac4a673d0e368"
+      ]
+    },
+    "200 - Wisdom": {
       "icon": "lucide-lightbulb",
       "unsynced": [
         "476ac4a673d0e368"
       ]
     },
-    "400 History": {
-      "icon": "lucide-book-user",
+    "999 - Other": {
+      "icon": "lucide-settings",
       "unsynced": [
         "476ac4a673d0e368"
       ]

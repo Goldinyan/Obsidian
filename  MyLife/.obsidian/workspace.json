@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "70cbc7532d9415db",
+        "id": "f8dcc7ba10204f45",
         "type": "tabs",
         "children": [
           {
-            "id": "010ee2414e320cf8",
+            "id": "11c4d138a0b711af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mierschs Kritik auf die Position Singers"
+              "title": "New tab"
             }
           }
         ]
@@ -43,7 +29,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 66.89445709946848,
+        "dimension": 57.48502994011976,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -52,7 +38,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,7 +59,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 33.10554290053151,
+        "dimension": 42.51497005988024,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -89,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 354.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -105,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mierschs Kritik auf die Position Singers"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mierschs Kritik auf die Position Singers"
+              "title": "Outline"
             }
           },
           {
@@ -190,9 +174,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "ff1febd070ac09ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -203,55 +197,60 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "homepage:Open homepage": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "iconic:Open rulebook": false
+      "smart-connections:Smart Connections: Open connections view": true,
+      "smart-connections:Smart Lookup: Open lookup view": true,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "iconic:Open rulebook": true
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "11c4d138a0b711af",
   "lastOpenFiles": [
-    "Argumentative Prüfung der Berechtigung von Kritik.md",
-    "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
-    "000 Index/Homepage.md",
-    "copilot/copilot-conversations/Ich_muss_schriftlich_erörten,_ob_und_inwiefern_eine_Krikit_einer@20260203_171945.md",
-    "copilot/copilot-conversations",
-    "copilot",
-    "Biggest fraud - Personal Development.md",
-    "300 Wisdom/010 Movies",
+    "999 - Other/copilot/copilot-conversations/Ich_muss_schriftlich_erörten,_ob_und_inwiefern_eine_Krikit_einer@20260203_171945.md",
+    "999 - Other/THEMES.CSS.md",
+    "000 - CS/Github für Kids.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "000 - CS/NVIM.md",
+    "999 - Other/400 Cheatsheet/LAtex.md",
+    "999 - Other/400 Cheatsheet",
+    "200 - Wisdom/Kampf der Kulturen.md",
+    "200 - Wisdom/Creating Motivation.md",
+    "000 - CS/Botnet.md",
+    "200 - Wisdom/850 Reading & Learning/30 Minute Rule.md",
+    "2026-02-03.md",
+    "122 Essays",
+    "999 - Other/000 Index/Tags/%Trick.md",
+    "999 - Other/000 Index/Tags/%Preparation.md",
+    "000 - CS/Other/Stop Coding like a Junior.md",
+    "100 - School/500 Philosophie/Irrelevanz.md",
+    "100 - School/500 Philosophie/Mierschs Kritik auf die Position Singers.md",
+    "999 - Other/400 Cheatsheet/NVCHAD & Vim Keybinds.md",
+    "999 - Other/000 Index/Homepage.md",
+    "100 - School/500 Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
+    "999 - Other/copilot/copilot-conversations",
+    "999 - Other/copilot",
+    "200 - Wisdom/Biggest fraud - Personal Development.md",
+    "200 - Wisdom/010 Movies",
     "obsidian-iconize/env.js~",
     "obsidian-iconize/env.js",
     "obsidian-iconize/node_modules",
     "obsidian-iconize/vitest.config.ts",
     "obsidian-iconize/versions.json",
-    "obsidian-iconize/tsconfig.lib.json",
-    "obsidian-iconize/tsconfig.json",
     "obsidian-iconize/docs/notes/title-icon.md",
     "obsidian-iconize/docs/notes/icons-in-notes.md",
     "obsidian-iconize/docs/guide/syncing.md",
     "obsidian-iconize/docs/guide/icon-packs.md",
     "obsidian-iconize/docs/guide/settings.md",
-    "obsidian-iconize/docs/guide/getting-started.md",
-    "obsidian-iconize/docs/good-to-know/transform-png-to-svg.md",
-    "obsidian-iconize/docs/good-to-know/unicode-issue.md",
-    "obsidian-iconize/docs/good-to-know/see-icon-name.md",
-    "obsidian-iconize/docs/files-and-folders/use-frontmatter.md",
-    "obsidian-iconize/docs/files-and-folders/icon-tabs.md",
-    "obsidian-iconize/docs/files-and-folders/individual-icon-color.md",
-    "obsidian-iconize/docs/files-and-folders/icon-before-file-or-folder.md",
-    "obsidian-iconize/docs/files-and-folders/custom-rules.md",
-    "obsidian-iconize/docs/deprecated/inheritance.md",
-    "obsidian-iconize/docs/compatibility-plugins/metadatamenu.md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
@@ -262,11 +261,6 @@
     "obsidian-iconize/docs/assets/icon-above-title.png",
     "obsidian-iconize/docs/assets/icon-above-title-option.png",
     "obsidian-iconize/docs/assets/enable-frontmatter-option.png",
-    "obsidian-iconize/docs/api/getting-started.md",
-    "obsidian-iconize/docs/index.md",
-    "obsidian-iconize/README.md",
-    "000 Index/Tags/%Weakness.md",
-    "000 Index/Tags/%Motivation.md",
     "Untitled.canvas"
   ]
 }
