@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4f4ba0dcce0108a0",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "62831aae319a7ab7",
+        "id": "70cbc7532d9415db",
         "type": "tabs",
         "children": [
           {
-            "id": "04768b426b47912a",
+            "id": "010ee2414e320cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
+                "file": "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,79 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD & Vim Keybinds"
-            }
-          },
-          {
-            "id": "ed2a69e32f3bb14e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Callback in React & Ts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Callback in React & Ts"
-            }
-          },
-          {
-            "id": "aa65c3d1260440ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LAtex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LAtex"
-            }
-          },
-          {
-            "id": "3b16fc30a9678471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 School/Physik/Kreisbewegungen/Kreisbewegungen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kreisbewegungen"
+              "title": "Mierschs Kritik auf die Position Singers"
             }
           }
         ]
@@ -161,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 249.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -170,7 +98,6 @@
       {
         "id": "9feef465bbcd33cf",
         "type": "tabs",
-        "dimension": 55.9953434225844,
         "children": [
           {
             "id": "1579869d6db8b018",
@@ -178,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mierschs Kritik auf die Position Singers"
             }
           },
           {
@@ -224,37 +152,51 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mierschs Kritik auf die Position Singers"
+            }
+          },
+          {
+            "id": "ae1d18042da2b2d2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "669c60dc1360b96f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "21c20fa104daab12",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "7cdabd26ade909dc",
-        "type": "tabs",
-        "dimension": 44.0046565774156,
-        "children": [
-          {
-            "id": "3f1ff2d13d23690f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 450.5,
+    "width": 545.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -268,48 +210,63 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "homepage:Open homepage": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "04768b426b47912a",
+  "active": "7ff640d71c0bd486",
   "lastOpenFiles": [
-    "Callback in React & Ts.md",
-    "200 CS/NVIM/NVCHAD & Vim Keybinds.md",
-    "300 School/Math/Graphs/Symmetrie.md",
-    "LAtex.md",
-    "300 School/Physik/Kreisbewegungen/Kreisbewegungen.md",
-    "30 Minute Rule.md",
-    "300 School/Math/Graphs",
-    "300 School/Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
-    "300 School/Physik/Terms Physik.md",
-    "300 School/Physik/Gleichförmige Bewegungen.md",
-    "300 School/Physik/Kreisbewegungen/Formelsammlung",
-    "300 School/Physik/Kreisbewegungen/Untitled.md",
-    "300 School/Physik/Kreisbewegungen",
-    "Bloons.md",
-    "600 Debate/Veganism/Veganismus Contra.md",
-    "600 Debate/Veganism/Konsum Kritik bei Veganismus.md",
-    "200 CS/Setup/Formatting Allman Style.md",
-    "200 CS/Setup/General Makefile.md",
-    "200 CS/Web/Setup Web Application.md",
-    "200 CS/CS Projects/Web/Website for Resources i use.md",
-    "Creating Motivation.md",
-    "200 CS/CS Projects/Web/Qoute Saver.md",
-    "Bundeskanzler trifft sich mit Kriegsverbrecher.md",
-    "200 CS/Terminal/Terminal Commands/Kitty Commands.md",
-    "Stresser.md",
-    "Running Web without npm.md",
-    "Github plugin.md",
-    "500 Philosophie/Quotes/Quotes Overall.md",
-    "001 Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2.md",
-    "300 School/Physik/Kreisbewegungen",
-    "200 CS/Communication",
-    "200 CS/Setup",
-    "300 School/German/Die Physiker - Buch Analyse",
-    "300 School/German",
-    "Untitled",
-    "200 CS/CS Projects/Go",
-    "Pasted image 20251113203103.png",
+    "Argumentative Prüfung der Berechtigung von Kritik.md",
+    "500 Philosophie/Mierschs Kritik auf die Position Singers.md",
+    "000 Index/Homepage.md",
+    "copilot/copilot-conversations/Ich_muss_schriftlich_erörten,_ob_und_inwiefern_eine_Krikit_einer@20260203_171945.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "Biggest fraud - Personal Development.md",
+    "300 Wisdom/010 Movies",
+    "obsidian-iconize/env.js~",
+    "obsidian-iconize/env.js",
+    "obsidian-iconize/node_modules",
+    "obsidian-iconize/vitest.config.ts",
+    "obsidian-iconize/versions.json",
+    "obsidian-iconize/tsconfig.lib.json",
+    "obsidian-iconize/tsconfig.json",
+    "obsidian-iconize/docs/notes/title-icon.md",
+    "obsidian-iconize/docs/notes/icons-in-notes.md",
+    "obsidian-iconize/docs/guide/syncing.md",
+    "obsidian-iconize/docs/guide/icon-packs.md",
+    "obsidian-iconize/docs/guide/settings.md",
+    "obsidian-iconize/docs/guide/getting-started.md",
+    "obsidian-iconize/docs/good-to-know/transform-png-to-svg.md",
+    "obsidian-iconize/docs/good-to-know/unicode-issue.md",
+    "obsidian-iconize/docs/good-to-know/see-icon-name.md",
+    "obsidian-iconize/docs/files-and-folders/use-frontmatter.md",
+    "obsidian-iconize/docs/files-and-folders/icon-tabs.md",
+    "obsidian-iconize/docs/files-and-folders/individual-icon-color.md",
+    "obsidian-iconize/docs/files-and-folders/icon-before-file-or-folder.md",
+    "obsidian-iconize/docs/files-and-folders/custom-rules.md",
+    "obsidian-iconize/docs/deprecated/inheritance.md",
+    "obsidian-iconize/docs/compatibility-plugins/metadatamenu.md",
+    "obsidian-iconize/docs/assets/syncing-icon-packs.png",
+    "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
+    "obsidian-iconize/docs/assets/individual-icon-color.png",
+    "obsidian-iconize/docs/assets/icons-in-notes.png",
+    "obsidian-iconize/docs/assets/icons-in-notes-setting.png",
+    "obsidian-iconize/docs/assets/icon-of-file.png",
+    "obsidian-iconize/docs/assets/icon-in-tabs-settings-option.png",
+    "obsidian-iconize/docs/assets/icon-above-title.png",
+    "obsidian-iconize/docs/assets/icon-above-title-option.png",
+    "obsidian-iconize/docs/assets/enable-frontmatter-option.png",
+    "obsidian-iconize/docs/api/getting-started.md",
+    "obsidian-iconize/docs/index.md",
+    "obsidian-iconize/README.md",
+    "000 Index/Tags/%Weakness.md",
+    "000 Index/Tags/%Motivation.md",
     "Untitled.canvas"
   ]
 }

@@ -26,6 +26,7 @@ typedef struct {
 I will now explain in detail, how this struct operates in this game and why I choose it. First width and height is the indicator of the grid, and customizable, leading to a better user experience. 
 
 I needed a way to dynamically load a 2D Array responsible for the grid, which is not possible, so I went with creating a pointer of a 1D Array, allocating it in a dynamic way:
+
 ```c
 cells = calloc(width * height, sizeof(unsigned char));
 ```
