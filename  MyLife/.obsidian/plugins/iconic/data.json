@@ -37,22 +37,22 @@
         "icloud/ MyLife"
       ]
     },
-    "100 - School": {
+    "200 - Wisdom": {
+      "icon": "lucide-lightbulb",
+      "unsynced": [
+        "476ac4a673d0e368",
+        "icloud/ MyLife"
+      ]
+    },
+    "300 - School": {
       "icon": "lucide-school-2",
       "unsynced": [
         "476ac4a673d0e368",
         "icloud/ MyLife"
       ]
     },
-    "100 - School/400 History": {
+    "300 - School/350 - History": {
       "icon": "lucide-book-user",
-      "unsynced": [
-        "476ac4a673d0e368",
-        "icloud/ MyLife"
-      ]
-    },
-    "200 - Wisdom": {
-      "icon": "lucide-lightbulb",
       "unsynced": [
         "476ac4a673d0e368",
         "icloud/ MyLife"

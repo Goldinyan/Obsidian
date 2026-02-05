@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - School/500 Philosophie/Mierschs Kritik auf die Position Singers.md",
+                "file": "100 - School/500 Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mierschs Kritik auf die Position Singers"
+              "title": "Argumentative Prüfung der Berechtigung von Kritik"
+            }
+          },
+          {
+            "id": "f5d624d02d6478a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 - Other/000 Index/Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "61ad9e5b79dadd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 - Other/000 Index/Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "171df92776e9a765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 - Other/000 Index/Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +181,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "300 School/Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
+            "file": "100 - School/500 Philosophie/Mierschs Kritik auf die Position Singers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,9 +256,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "171df92776e9a765",
   "lastOpenFiles": [
+    "100 - School/500 Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
+    "100 - School/500 Philosophie/Analysieren Philosophischer Texte.md",
     "999 - Other/000 Index/Homepage.md",
+    "100 - School/500 Philosophie/Mierschs Kritik auf die Position Singers.md",
     "Kampf der Kulturen.md",
     "Untitled",
     "400 History/Untitled.md",
@@ -209,9 +285,6 @@
     "Historischer Kontext 1500.md",
     "C Projects.md",
     "Grund des Willen nach Kant.md",
-    "300 School/Learning Techniques/The 1-Minute Trick to Remember any Logic.md",
-    "000 Index/Tags/%Verbieten.md",
-    "000 Index/Tags/%Verbote.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",

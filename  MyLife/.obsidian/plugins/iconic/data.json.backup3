@@ -2,13 +2,13 @@
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
   "showAllFileIcons": false,
-  "showAllFolderIcons": false,
+  "showAllFolderIcons": true,
   "minimalFolderIcons": true,
   "showMarkdownTabIcons": true,
   "showTitleIcons": true,
-  "showTagPillIcons": false,
+  "showTagPillIcons": true,
   "showMenuActions": true,
-  "showSuggestionIcons": false,
+  "showSuggestionIcons": true,
   "showQuickSwitcherIcons": true,
   "showMoveFileIcons": true,
   "showItemName": "desktop",
@@ -24,12 +24,37 @@
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "200 CS": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "476ac4a673d0e368"
+      ]
+    },
+    "300 School": {
+      "icon": "lucide-school-2",
+      "unsynced": [
+        "476ac4a673d0e368"
+      ]
+    },
+    "300 Wisdom": {
+      "icon": "lucide-lightbulb",
+      "unsynced": [
+        "476ac4a673d0e368"
+      ]
+    },
+    "400 History": {
+      "icon": "lucide-book-user",
+      "unsynced": [
+        "476ac4a673d0e368"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
