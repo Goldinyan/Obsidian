@@ -175,6 +175,8 @@ Projekte
 Philolosphie
 Plus
 Please
+Packliste
+PRESENTATION
 IHDR
 IDATx
 IC
@@ -569,6 +571,7 @@ redet
 repräsentativ
 rund
 religiösen
+resulting
 Vs
 VO
 VJ
@@ -1026,6 +1029,8 @@ Echte
 Existiert
 Eltern
 Erster
+Explanation
+Ensures
 cj
 cK
 cz
@@ -1351,6 +1356,11 @@ childhood
 childhoods
 child
 collective
+cyberattack
+consist
+causing
+composed
+connections
 pt
 pD
 ph
@@ -1643,6 +1653,9 @@ preparation
 primär
 per
 plus
+potentially
+profile
+ports
 kF
 kXl
 kXlm
@@ -2098,6 +2111,10 @@ unnötiges
 umfassende
 umstritten
 unttericht
+unavailable
+unexplained
+unnatural
+usable
 WGN
 Wm
 Wl
@@ -2556,6 +2573,7 @@ Lebensgemeinschaften
 Ländern
 Lehrer
 Likes
+LAYER
 qV
 qT
 qH
@@ -2958,6 +2976,8 @@ Sticker
 Spiele
 Sandbox
 Skizze
+Suspicious
+SESSION
 zS
 zX
 zR
@@ -3124,6 +3144,7 @@ Ordnungsmodellen
 Osmanisches
 Osten
 Organisation
+Odd
 am
 ad
 afj
@@ -3494,6 +3515,8 @@ außerdem
 ausschließlich
 aufwirft
 ai
+allowing
+applications
 JV
 Jv
 JN
@@ -3870,6 +3893,7 @@ vereinfachend
 vernachlässigt
 vielfältig
 verstärken
+victim
 Aw
 ArX
 Ar
@@ -4113,6 +4137,8 @@ Austauschs
 Accounts
 Avatar
 Aufsicht
+Attack
+APPLICATION
 MV
 MM
 Ms
@@ -4296,6 +4322,7 @@ Machtpolitik
 Moderation
 Meldesystem
 Model
+Maintains
 hv
 hz
 have
@@ -4681,6 +4708,7 @@ lediglich
 landwirtschaftliche
 läuft
 license
+legitimate
 bM
 bS
 bs
@@ -4945,6 +4973,7 @@ benötigte
 basieren
 belegt
 beitreten
+behavioral
 mm
 ms
 mO
@@ -5512,6 +5541,9 @@ dürfen
 derzeit
 differenzierter
 dokument
+disrupting
+denial
+date
 QS
 Qn
 QGu
@@ -5673,6 +5705,8 @@ operieren
 offenzulegen
 offenen
 openrouterai
+originating
+occurs
 ss
 sq
 sE
@@ -6229,6 +6263,15 @@ systematische
 sperren
 schriftlich
 sowas
+service
+seeks
+separated
+symptoms
+spike
+similar
+sings
+surge
+spikes
 XZ
 Xs
 XI
@@ -6726,6 +6769,7 @@ globaler
 geopolitischen
 geschützte
 gemini
+geolocation
 nf
 nnvi
 nC
@@ -6866,6 +6910,9 @@ nachvollziehbar
 normativen
 natürlicher
 nutzbar
+networks
+necassaryy
+necessary
 jt
 jW
 jz
@@ -7131,6 +7178,9 @@ interessante
 insgesamt
 ignoriert
 islamische
+intended
+individual
+investigation
 Gn
 Go
 Gs
@@ -7537,6 +7587,7 @@ festzuhalten
 friedlicher
 freigeben
 flash
+further
 Hn
 HnZ
 HV
@@ -7675,6 +7726,7 @@ Hauptquelle
 Historische
 Hauptkritikpunkte
 Homogenisierung
+Human
 xe
 xJ
 xys
@@ -7943,6 +7995,10 @@ tragfähig
 tauge
 tatsächliche
 tiefen
+temporarily
+target
+telltale
+transmission
 UU
 Uo
 Uc
@@ -8187,6 +8243,9 @@ Demgegenüber
 Dennoch
 Dogmen
 DSGVO
+DDOS
+Denial
+DdoS
 eC
 eD
 eL
@@ -8560,6 +8619,9 @@ epoch
 erörten
 erklärkt
 errorChunk
+easiest
+endpoint
+encryption
 BP
 Bz
 BVb
@@ -8900,6 +8962,8 @@ Terrorismus
 Teilung
 Teamplayer
 Tutorials
+TRANSPORT
+Transmits
 üb
 über
 überführt

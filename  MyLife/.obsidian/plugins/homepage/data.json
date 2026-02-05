@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "000 Index/Homepage",
+      "value": "900 - Other/910 - Index/Homepage",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

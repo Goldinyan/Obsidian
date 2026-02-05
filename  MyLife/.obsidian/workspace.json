@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f8dcc7ba10204f45",
+        "id": "2ca792ba1b2516fd",
         "type": "tabs",
         "children": [
           {
-            "id": "11c4d138a0b711af",
+            "id": "bfa48663a53146be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000 - CS/030 - Topics/031 - Cyber Security/DDoS/What are common types of a DDoS attack?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "What are common types of a DDoS attack?"
             }
           }
         ]
@@ -186,12 +200,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 545.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,44 +226,44 @@
       "iconic:Open rulebook": true
     }
   },
-  "active": "7ff640d71c0bd486",
+  "active": "23551fd757c41ab1",
   "lastOpenFiles": [
+    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/What are common types of a DDoS attack?.md",
+    "UDP.md",
+    "TCP.md",
+    "Network Connection.md",
+    "900 - Other/910 - Index/Homepage.md",
+    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/What is a DDoS attack?.md",
+    "900 - Other/990 - Templates/New General Note.md",
+    "900 - Other/990 - Templates/New Academic Note.md",
+    "900 - Other/990 - Templates/Finished Project.md",
+    "900 - Other/990 - Templates/New Project Idea.md",
+    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/How to identify a DDoS attack?.md",
+    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/How does a DDoS attack work?.md",
+    "900 - Other/910 - Index/Tags/%DDoS.md",
+    "900 - Other/910 - Index/Tags/%Cyber attacks.md",
+    "000 - CS/030 - Topics/031 - Cyber Security/DDoS",
+    "000 - CS/020 - Frameworks/022 - React/Callback in React & Ts.md",
+    "000 - CS/030 - Topics/031 - Cyber Security/Botnet.md",
+    "000 - CS/030 - Topics/031 - Cyber Security",
+    "900 - Other/940 - Listen/Packliste.md",
+    "900 - Other/940 - Listen",
+    "200 - Wisdom/220 - Mini Essays/Zero-Knowledge Proof.md",
+    "200 - Wisdom/220 - Mini Essays",
+    "200 - Wisdom/Kampf der Kulturen.md",
+    "200 - Wisdom/240 - Personal Development",
+    "200 - Wisdom/210 - Learning",
     "000 - CS/020 - Frameworks",
     "000 - CS/030 - Topics",
     "999 - Other/copilot/copilot-conversations/Ich_muss_schriftlich_erörten,_ob_und_inwiefern_eine_Krikit_einer@20260203_171945.md",
-    "999 - Other/THEMES.CSS.md",
+    "900 - Other/THEMES.CSS.md",
     "000 - CS/Github für Kids.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "000 - CS/NVIM.md",
-    "999 - Other/400 Cheatsheet/LAtex.md",
-    "999 - Other/400 Cheatsheet",
-    "200 - Wisdom/Kampf der Kulturen.md",
-    "200 - Wisdom/Creating Motivation.md",
-    "000 - CS/Botnet.md",
-    "200 - Wisdom/850 Reading & Learning/30 Minute Rule.md",
-    "2026-02-03.md",
+    "900 - Other/930 - Cheatsheet/LAtex.md",
+    "900 - Other/930 - Cheatsheet",
     "122 Essays",
-    "999 - Other/000 Index/Tags/%Trick.md",
-    "999 - Other/000 Index/Tags/%Preparation.md",
-    "000 - CS/Stop Coding like a Junior.md",
-    "300 - School/330 - Philosophie/Irrelevanz.md",
-    "300 - School/330 - Philosophie/Mierschs Kritik auf die Position Singers.md",
-    "999 - Other/400 Cheatsheet/NVCHAD & Vim Keybinds.md",
-    "999 - Other/000 Index/Homepage.md",
-    "300 - School/330 - Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
-    "999 - Other/copilot/copilot-conversations",
-    "999 - Other/copilot",
-    "200 - Wisdom/Biggest fraud - Personal Development.md",
-    "200 - Wisdom/010 Movies",
-    "obsidian-iconize/env.js~",
-    "obsidian-iconize/env.js",
-    "obsidian-iconize/node_modules",
-    "obsidian-iconize/vitest.config.ts",
-    "obsidian-iconize/docs/notes/title-icon.md",
-    "obsidian-iconize/docs/notes/icons-in-notes.md",
-    "obsidian-iconize/docs/guide/syncing.md",
-    "obsidian-iconize/docs/guide/icon-packs.md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
