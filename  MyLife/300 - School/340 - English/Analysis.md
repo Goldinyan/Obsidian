@@ -1,52 +1,46 @@
+---
+id: "Analysis"
+aliases:
+Topic:
+Related:
+Tags:
+  - w
+Date:
+Updated:
+Source:
+---
+# Analysis
 
-3 questions 
+When writing an Analysis you only have to answer 3 questions: What? so what? How do we know?
 
-what 
-so what
-how do we know
+But lets start at the beginning, what is an an analysis?
+You can think of any object, an analysis explain how this objects works, which parts its has, and what role each part has to the purpose of the object.
 
+Analysing a pen would function by separating pieces and telling how every piece contributes to its ability to write.
 
-what is a analysis 
+### 1. Step "What?"
 
-how does it work
-what parts and which role to purpose of the bject
+This step consist of documenting the pieces, breaking them down. The goal is not to see the pen, but see its peices and say what you notice.
+You will want to go into details, when taking about the authors word choice, do not say: 
 
+"The author uses a lot of scientific and technical language".
 
-analyzing pen by seperationg pieces and telling how every piece contributes to its ability to write 
+This might be true, but it doesn't show details and doesn't completely answer the "What?" question.
+Instead say:
 
-basic process remains same 
+"The author uses scientific and technical works like lysis, hydrophobic, and mitochondria"
 
+This provides more specific details, which is exactly what we are after. There isn't really *too specific*.
 
-1 Step
-WHAT?
+When preparing for writing an analysis, you have to look at the most significant details. Places in the text, which draws the readers attention.
+Start looking for patterns, phrases the author uses consistenly and places, where this patterns is violated. These are good places to find details.
 
-document pieces 
-break it down 
-goal is not to see the pen but the pieces
-say what you notice
-DETAILS
-if you wnt to talk about the authors word choice don‘t sayx 
-"The autho uses a lot of scientific and technical language"
-might true but doesnt show details and doesnt answwer the what question 
-instead say 
-"The author uses scietific and technicial works like lysis, hydrophiobic, and mitochondira"
-provides more specififc detyils
-thats what we are after
-there is no too specific
-prepare to write anaylsis
-most significant details
-draw readers attention
-looking for paaterns
-things that say chrecter does consitency 
-places where viloates there patterns 
-good place to find details
-remember explain how the overall things functions
-thing about the overall focus and purpose
+Remember explaining how the overall things functions, think about the overall focus and purpose.
 
 
+### 2. Step "So what?"
 
-SO WHAT? 
-
+An analysis goes one step further.
 analyst goes one stepü further 
 explains the siginificant deetails
 and how it works

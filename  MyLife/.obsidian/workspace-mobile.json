@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - School/500 Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
+                "file": "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Argumentative Prüfung der Berechtigung von Kritik"
-            }
-          },
-          {
-            "id": "f5d624d02d6478a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 - Other/000 Index/Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "61ad9e5b79dadd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 - Other/000 Index/Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "171df92776e9a765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "999 - Other/000 Index/Homepage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Formelsammlung Kreisbewegungen"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "100 - School/500 Philosophie/Mierschs Kritik auf die Position Singers.md",
+            "file": "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -256,8 +183,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "171df92776e9a765",
+  "active": "be2bb940bcdd2e34",
   "lastOpenFiles": [
+    "900 - Other/910 - Index/Homepage.md",
     "100 - School/500 Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
     "100 - School/500 Philosophie/Analysieren Philosophischer Texte.md",
     "999 - Other/000 Index/Homepage.md",
@@ -284,7 +212,6 @@
     "Geschichts Analyse schreiben.md",
     "Historischer Kontext 1500.md",
     "C Projects.md",
-    "Grund des Willen nach Kant.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",

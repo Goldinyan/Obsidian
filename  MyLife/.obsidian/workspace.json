@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ca792ba1b2516fd",
+        "id": "5b7224d101a1dd15",
         "type": "tabs",
         "children": [
           {
-            "id": "bfa48663a53146be",
+            "id": "c11e641488540f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - CS/030 - Topics/031 - Cyber Security/DDoS/What are common types of a DDoS attack?.md",
+                "file": "000 - CS/IP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What are common types of a DDoS attack?"
+              "title": "IP"
+            }
+          },
+          {
+            "id": "1c600342a00fd267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "900 - Other/910 - Index/Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -89,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -105,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 - CS/IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for IP"
             }
           },
           {
@@ -123,50 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000 - CS/IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "30b36ad283bd356f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "d147a4afce0574ec",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "ae1d18042da2b2d2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "title": "Outgoing links from IP"
             }
           },
           {
@@ -180,31 +168,22 @@
             }
           },
           {
-            "id": "21c20fa104daab12",
+            "id": "06f10abaa1123644",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "smart-connections-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "ff1febd070ac09ee",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,55 +194,56 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
-      "templater-obsidian:Templater": false,
+      "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "copilot:Open Copilot Chat": false,
       "homepage:Open homepage": false,
-      "smart-connections:Smart Connections: Open connections view": true,
+      "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": true,
       "smart-connections:Smart Connections: Open random connection": true,
-      "iconic:Open rulebook": true
+      "iconic:Open rulebook": true,
+      "random-note:Open random note": false
     }
   },
-  "active": "23551fd757c41ab1",
+  "active": "c11e641488540f47",
   "lastOpenFiles": [
-    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/What are common types of a DDoS attack?.md",
-    "UDP.md",
-    "TCP.md",
-    "Network Connection.md",
+    "000 - CS/Github für Kids.md",
+    "000 - CS/Github plugin.md",
+    "000 - CS/080 - Configs & Setups/Mac Apps/Mac Keybinds.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
     "900 - Other/910 - Index/Homepage.md",
-    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/What is a DDoS attack?.md",
-    "900 - Other/990 - Templates/New General Note.md",
-    "900 - Other/990 - Templates/New Academic Note.md",
-    "900 - Other/990 - Templates/Finished Project.md",
-    "900 - Other/990 - Templates/New Project Idea.md",
-    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/How to identify a DDoS attack?.md",
-    "000 - CS/030 - Topics/031 - Cyber Security/DDoS/How does a DDoS attack work?.md",
-    "900 - Other/910 - Index/Tags/%DDoS.md",
-    "900 - Other/910 - Index/Tags/%Cyber attacks.md",
+    "300 - School/310 - Math/Integral Basics.md",
+    "300 - School/360 - Chemie/Ester.md",
+    "900 - Other/910 - Index/Tags/%TS.md",
+    "900 - Other/910 - Index/Tags/%Express.md",
+    "300 - School/340 - English/REMEMBMER.md",
+    "900 - Other/910 - Index/Tags/%Maschine Learning.md",
+    "300 - School/370 - German/Die Physiker - Buch Analyse/Die Verantwortung von Wissenschaftlern.md",
+    "000 - CS/080 - Configs & Setups/Obsidian/copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-conversations/summarize_this_file,_start_with_the_installation_and_then_the@20260208_173909.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "200 - Wisdom/220 - Mini Essays/Stop Coding like a Junior.md",
+    "300 - School/330 - Philosophie/Mierschs Kritik auf die Position Singers.md",
+    "000 - CS/030 - Topics/033 - Hardware/Heap",
+    "Untitled",
+    "300 - School/330 - Philosophie/Analysieren Philosophischer Texte.md",
+    "300 - School/330 - Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
+    "300 - School/330 - Philosophie/\"Eine Antwort auf Peter Singer\".md",
+    "300 - School/320 - Physik/Kreisbewegungen/Kreisbewegungen.md",
+    "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
+    "000 - CS/Network Connection.md",
+    "000 - CS/UDP.md",
+    "000 - CS/010 - Languages/011 - C/Memory Managment - C/What isn't teached about memory.md",
+    "000 - CS/010 - Languages/011 - C/Memory Managment - C/Array vs malloc-pointer - C.md",
+    "300 - School/340 - English/Analysis.md",
     "000 - CS/030 - Topics/031 - Cyber Security/DDoS",
-    "000 - CS/020 - Frameworks/022 - React/Callback in React & Ts.md",
-    "000 - CS/030 - Topics/031 - Cyber Security/Botnet.md",
     "000 - CS/030 - Topics/031 - Cyber Security",
-    "900 - Other/940 - Listen/Packliste.md",
     "900 - Other/940 - Listen",
-    "200 - Wisdom/220 - Mini Essays/Zero-Knowledge Proof.md",
     "200 - Wisdom/220 - Mini Essays",
-    "200 - Wisdom/Kampf der Kulturen.md",
     "200 - Wisdom/240 - Personal Development",
     "200 - Wisdom/210 - Learning",
-    "000 - CS/020 - Frameworks",
-    "000 - CS/030 - Topics",
-    "999 - Other/copilot/copilot-conversations/Ich_muss_schriftlich_erörten,_ob_und_inwiefern_eine_Krikit_einer@20260203_171945.md",
-    "900 - Other/THEMES.CSS.md",
-    "000 - CS/Github für Kids.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "000 - CS/NVIM.md",
-    "900 - Other/930 - Cheatsheet/LAtex.md",
-    "900 - Other/930 - Cheatsheet",
-    "122 Essays",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
