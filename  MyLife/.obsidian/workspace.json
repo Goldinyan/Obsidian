@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b7224d101a1dd15",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c11e641488540f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 - CS/IP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IP"
-            }
-          },
-          {
-            "id": "1c600342a00fd267",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "910f098008dd9395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -176,6 +176,36 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "b4efcfaf50e850fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3651c53c162ec5aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 - CS/IP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IP"
+            }
           }
         ],
         "currentTab": 3
@@ -206,13 +236,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c11e641488540f47",
+  "active": "910f098008dd9395",
   "lastOpenFiles": [
+    "900 - Other/910 - Index/Homepage.md",
+    "Untitled.md",
+    "Locking surface - SDL.md",
+    "000 - CS/IP.md",
     "000 - CS/Github für Kids.md",
     "000 - CS/Github plugin.md",
     "000 - CS/080 - Configs & Setups/Mac Apps/Mac Keybinds.md",
     "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
-    "900 - Other/910 - Index/Homepage.md",
     "300 - School/310 - Math/Integral Basics.md",
     "300 - School/360 - Chemie/Ester.md",
     "900 - Other/910 - Index/Tags/%TS.md",
@@ -235,9 +268,6 @@
     "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
     "000 - CS/Network Connection.md",
     "000 - CS/UDP.md",
-    "000 - CS/010 - Languages/011 - C/Memory Managment - C/What isn't teached about memory.md",
-    "000 - CS/010 - Languages/011 - C/Memory Managment - C/Array vs malloc-pointer - C.md",
-    "300 - School/340 - English/Analysis.md",
     "000 - CS/030 - Topics/031 - Cyber Security/DDoS",
     "000 - CS/030 - Topics/031 - Cyber Security",
     "900 - Other/940 - Listen",
