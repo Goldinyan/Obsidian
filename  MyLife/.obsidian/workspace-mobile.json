@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Formelsammlung Kreisbewegungen"
             }
+          },
+          {
+            "id": "7b32551753a42a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "900 - Other/910 - Index/Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
+            "file": "900 - Other/910 - Index/Homepage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Open random note": false,
       "copilot:Open Copilot Chat": false,
       "homepage:Open homepage": false,
       "smart-connections:Smart Connections: Open connections view": false,
@@ -183,8 +209,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be2bb940bcdd2e34",
+  "active": "7b32551753a42a28",
   "lastOpenFiles": [
+    "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
     "900 - Other/910 - Index/Homepage.md",
     "100 - School/500 Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
     "100 - School/500 Philosophie/Analysieren Philosophischer Texte.md",
@@ -211,7 +238,6 @@
     "850 Reading/TODO - Books/Books.md",
     "Geschichts Analyse schreiben.md",
     "Historischer Kontext 1500.md",
-    "C Projects.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",

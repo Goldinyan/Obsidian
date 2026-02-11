@@ -3,7 +3,7 @@ Tags: {
 #W
 }
 
-Diese Formelsammlung basiert auf dem Thema [[Kreisbewegungen]]
+Diese Formelsammlung basiert auf dem Thema [[Kreisbewegungen]].
 ### Dauer
 
 $$
