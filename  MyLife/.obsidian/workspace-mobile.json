@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Formelsammlung Kreisbewegungen"
-            }
-          },
-          {
-            "id": "7b32551753a42a28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "900 - Other/910 - Index/Homepage.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b32551753a42a28",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
     "900 - Other/910 - Index/Homepage.md",
+    "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
     "100 - School/500 Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
     "100 - School/500 Philosophie/Analysieren Philosophischer Texte.md",
     "999 - Other/000 Index/Homepage.md",

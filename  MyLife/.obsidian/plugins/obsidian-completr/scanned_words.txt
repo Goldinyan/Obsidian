@@ -188,6 +188,7 @@ Philosophischen
 Philosophenposition
 Preserve
 Pitch
+Preis
 IHDR
 IDATx
 IC
@@ -327,6 +328,7 @@ Indexzugriff
 Indexoperator
 IMMER
 IPv
+Informationen
 rD
 rVS
 rZ
@@ -608,6 +610,8 @@ requested
 requester
 received
 rows
+respektieren
+respektierst
 Vs
 VO
 VJ
@@ -712,6 +716,8 @@ VIDEO
 Vorarbeit
 Verben
 Vergleichspunkte
+Vernunft
+Vokabeln
 KPgM
 KO
 Krbm
@@ -880,6 +886,8 @@ KNOW
 Krieterien
 Klasur
 Klasuren
+Kernidee
+Kategorische
 EG
 ER
 Ek
@@ -1081,6 +1089,7 @@ Elementanzahl
 Edge
 Eindrück
 Entstanden
+Einstellung
 cj
 cK
 cz
@@ -1748,6 +1757,7 @@ pixels
 pixel
 pitch
 pad
+phylosophische
 kF
 kXl
 kXlm
@@ -2092,6 +2102,7 @@ NO
 NOT
 Nursery
 Netz
+Naturgesetzt
 uR
 uN
 ug
@@ -2224,6 +2235,8 @@ umfangreich
 unterricht
 uhrheberrechts
 unser
+unangenehmen
+unzuverlässig
 WGN
 Wm
 Wl
@@ -2400,6 +2413,8 @@ Weiter
 Werden
 Wähle
 Write
+Würde
+Werkzeuge
 Cbc
 Cr
 Ck
@@ -2704,6 +2719,7 @@ Lässt
 Lebendswelt
 Locking
 LockSurface
+Lügen
 qV
 qT
 qH
@@ -3125,6 +3141,8 @@ Sinnvolle
 Schwachstellen
 Surfaces
 Some
+Superregel
+Situationen
 zS
 zX
 zR
@@ -3300,6 +3318,7 @@ Osmanisches
 Osten
 Organisation
 Odd
+Obgleich
 am
 ad
 afj
@@ -3699,6 +3718,10 @@ ausegehen
 aristoteles
 auffallen
 aufkommen
+allgemeines
+anlügen
+anlügst
+angelogene
 JV
 Jv
 JN
@@ -3915,6 +3938,7 @@ Fällen
 Formelsammlung
 Formuliere
 Formuilierung
+Fremdbestimmung
 vHwc
 vE
 vA
@@ -4104,6 +4128,11 @@ verletzuung
 vernichten
 verfassen
 vorher
+verlockend
+vorschreibt
+vernünftig
+verleiht
+vernünftigen
 Aw
 ArX
 Ar
@@ -4359,6 +4388,7 @@ Absätzen
 Ausnahme
 Aristotischer
 ARGB
+Autonomie
 MV
 MM
 Ms
@@ -4551,6 +4581,7 @@ Muss
 Merken
 Meinung
 Meinuing
+Moralisches
 hv
 hz
 have
@@ -5854,6 +5885,7 @@ discreetly
 deutlischs
 dotted
 decimal
+dagegen
 QS
 Qn
 QGu
@@ -6627,6 +6659,8 @@ schwachstellen
 sender
 surface
 surfaces
+selbstbestimmt
+schwanken
 XZ
 Xs
 XI
@@ -7150,6 +7184,8 @@ geforsch
 gnadenlos
 geübt
 grandiose
+gilt
+glücklich
 nf
 nnvi
 nC
@@ -7757,6 +7793,11 @@ Größeninformation
 GesamtWekr
 Gefühle
 Gemeinsamkeiten
+Gesetz
+Gesetzt
+Gefallen
+Gesetze
+Gegensatz
 fW
 fvB
 fnrA
@@ -8016,6 +8057,8 @@ findet
 früheren
 fern
 fragen
+frei
+falscher
 Hn
 HnZ
 HV
@@ -8158,6 +8201,7 @@ Human
 HAVE
 HOW
 Horizion
+Handle
 xe
 xJ
 xys
@@ -8702,6 +8746,8 @@ DETAILS
 DO
 Darfst
 Dotted
+Deswegen
+Denn
 eC
 eD
 eL
@@ -9100,6 +9146,8 @@ erweitet
 einstellung
 eingenen
 einmal
+einfaches
+entkommen
 BP
 Bz
 BVb
@@ -9278,6 +9326,8 @@ Beginne
 Begriffe
 Belege
 Begründungen
+Bedingungen
+Behandle
 TN
 Tn
 TV
@@ -9657,6 +9707,7 @@ Routers
 Überbetonung
 Überschneidungen
 Üben
+Überzeugungen
 Äußere
 Ähnlich
 Äquivalent

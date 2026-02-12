@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Setup Web Application"
             }
+          },
+          {
+            "id": "5ba5b25e47acb458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warum wir nie lügen sollten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Warum wir nie lügen sollten"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +236,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5ba5b25e47acb458",
   "lastOpenFiles": [
+    "000 - CS/030 - Topics/036 - Visual Applications/Dot - Product.md",
+    "Warum wir nie lügen sollten.md",
+    "000 - CS/030 - Topics/036 - Visual Applications",
+    "%Moral.md",
+    "%Lying.md",
+    "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
     "900 - Other/910 - Index/Homepage.md",
-    "Untitled.md",
     "Locking surface - SDL.md",
     "000 - CS/IP.md",
     "000 - CS/Github für Kids.md",
@@ -239,16 +269,11 @@
     "300 - School/330 - Philosophie/Analysieren Philosophischer Texte.md",
     "300 - School/330 - Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
     "300 - School/330 - Philosophie/\"Eine Antwort auf Peter Singer\".md",
-    "300 - School/320 - Physik/Kreisbewegungen/Kreisbewegungen.md",
-    "300 - School/320 - Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
-    "000 - CS/Network Connection.md",
-    "000 - CS/UDP.md",
     "000 - CS/030 - Topics/031 - Cyber Security/DDoS",
     "000 - CS/030 - Topics/031 - Cyber Security",
     "900 - Other/940 - Listen",
     "200 - Wisdom/220 - Mini Essays",
     "200 - Wisdom/240 - Personal Development",
-    "200 - Wisdom/210 - Learning",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
