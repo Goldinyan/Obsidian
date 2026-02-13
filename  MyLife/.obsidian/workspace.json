@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
+                "file": "900 - Other/910 - Index/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setup Web Application"
+              "title": "Homepage"
             }
           },
           {
-            "id": "5ba5b25e47acb458",
+            "id": "49ee53c46c9f65da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warum wir nie lügen sollten.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Warum wir nie lügen sollten"
+              "title": "Untitled"
             }
           }
         ],
@@ -236,15 +236,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5ba5b25e47acb458",
+  "active": "49ee53c46c9f65da",
   "lastOpenFiles": [
-    "000 - CS/030 - Topics/036 - Visual Applications/Dot - Product.md",
+    "900 - Other/910 - Index/Homepage.md",
+    "Untitled.md",
+    "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
+    "000 - CS/080 - Configs & Setups/Mac Apps/Copilot.md",
     "Warum wir nie lügen sollten.md",
+    "000 - CS/030 - Topics/036 - Visual Applications/Dot - Product.md",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "%Moral.md",
     "%Lying.md",
     "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
-    "900 - Other/910 - Index/Homepage.md",
     "Locking surface - SDL.md",
     "000 - CS/IP.md",
     "000 - CS/Github für Kids.md",
@@ -266,9 +269,6 @@
     "300 - School/330 - Philosophie/Mierschs Kritik auf die Position Singers.md",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
     "Untitled",
-    "300 - School/330 - Philosophie/Analysieren Philosophischer Texte.md",
-    "300 - School/330 - Philosophie/Argumentative Prüfung der Berechtigung von Kritik.md",
-    "300 - School/330 - Philosophie/\"Eine Antwort auf Peter Singer\".md",
     "000 - CS/030 - Topics/031 - Cyber Security/DDoS",
     "000 - CS/030 - Topics/031 - Cyber Security",
     "900 - Other/940 - Listen",

@@ -1429,6 +1429,7 @@ commucates
 catching
 conculses
 cultural
+circle
 pt
 pD
 ph
@@ -2237,6 +2238,7 @@ uhrheberrechts
 unser
 unangenehmen
 unzuverlässig
+uint
 WGN
 Wm
 Wl
@@ -3143,6 +3145,7 @@ Surfaces
 Some
 Superregel
 Situationen
+Surface
 zS
 zX
 zR
@@ -3939,6 +3942,7 @@ Formelsammlung
 Formuliere
 Formuilierung
 Fremdbestimmung
+FillRect
 vHwc
 vE
 vA
@@ -5283,6 +5287,7 @@ besporchen
 bewertest
 bewertet
 benoteten
+brightness
 mm
 ms
 mO
@@ -5886,6 +5891,8 @@ deutlischs
 dotted
 decimal
 dagegen
+dy
+dist
 QS
 Qn
 QGu
@@ -6661,6 +6668,7 @@ surface
 surfaces
 selbstbestimmt
 schwanken
+sqrt
 XZ
 Xs
 XI
@@ -9512,6 +9520,7 @@ Teile
 Thoerie
 Texte
 Translate
+THICKNESS
 üb
 über
 überführt
@@ -9692,6 +9701,8 @@ Recht
 Remix
 Rückmeldung
 Routers
+Rect
+RAY
 Überblick
 Überlieferung
 Übersicht
