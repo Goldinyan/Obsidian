@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "49ee53c46c9f65da",
+            "id": "65d8978e35526b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "H-Methode.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "H-Methode"
             }
           }
         ],
@@ -236,9 +236,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "49ee53c46c9f65da",
+  "active": "65d8978e35526b4c",
   "lastOpenFiles": [
     "900 - Other/910 - Index/Homepage.md",
+    "H-Methode.md",
     "Untitled.md",
     "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
     "000 - CS/080 - Configs & Setups/Mac Apps/Copilot.md",
@@ -266,7 +267,6 @@
     "copilot/copilot-conversations",
     "copilot",
     "200 - Wisdom/220 - Mini Essays/Stop Coding like a Junior.md",
-    "300 - School/330 - Philosophie/Mierschs Kritik auf die Position Singers.md",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
     "Untitled",
     "000 - CS/030 - Topics/031 - Cyber Security/DDoS",

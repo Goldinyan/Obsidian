@@ -612,6 +612,8 @@ received
 rows
 respektieren
 respektierst
+rückt
+rechne
 Vs
 VO
 VJ
@@ -888,6 +890,7 @@ Klasur
 Klasuren
 Kernidee
 Kategorische
+Kürzen
 EG
 ER
 Ek
@@ -1901,6 +1904,7 @@ knowledgeable
 kernthese
 korrektheit
 kinds
+klassische
 Zw
 Zy
 ZL
@@ -1981,6 +1985,7 @@ Zivilisatorische
 Zivilisationen
 Zitieren
 Zeige
+Zwei
 Nn
 Nk
 No
@@ -2239,6 +2244,7 @@ unser
 unangenehmen
 unzuverlässig
 uint
+unendlich
 WGN
 Wm
 Wl
@@ -3146,6 +3152,9 @@ Some
 Superregel
 Situationen
 Surface
+Steigung
+Sekantensteigung
+Sekante
 zS
 zX
 zR
@@ -4393,6 +4402,8 @@ Ausnahme
 Aristotischer
 ARGB
 Autonomie
+Ableitung
+Ausmultiplizieren
 MV
 MM
 Ms
@@ -5572,6 +5583,7 @@ meinen
 meinem
 mall
 metadata
+momentane
 do
 dK
 dQ
@@ -6920,6 +6932,9 @@ worin
 weitere
 wenig
 wer
+wählen
+weiteres
+wohin
 gv
 gu
 gP
@@ -7347,6 +7362,8 @@ nöten
 nciht
 nenne
 networking
+normale
+nah
 jt
 jW
 jz
@@ -7806,6 +7823,8 @@ Gesetzt
 Gefallen
 Gesetze
 Gegensatz
+Grenzfall
+Grenzwert
 fW
 fvB
 fnrA
@@ -8210,6 +8229,8 @@ HAVE
 HOW
 Horizion
 Handle
+Herleitung
+Höhenänderung
 xe
 xJ
 xys
@@ -8756,6 +8777,8 @@ Darfst
 Dotted
 Deswegen
 Denn
+Differentialrechnung
+Differenzenquotienten
 eC
 eD
 eL
@@ -9156,6 +9179,7 @@ eingenen
 einmal
 einfaches
 entkommen
+exakte
 BP
 Bz
 BVb
@@ -9336,6 +9360,7 @@ Belege
 Begründungen
 Bedingungen
 Behandle
+Breitenänderung
 TN
 Tn
 TV
@@ -9521,6 +9546,8 @@ Thoerie
 Texte
 Translate
 THICKNESS
+Tangente
+Tangentensteigung
 üb
 über
 überführt
