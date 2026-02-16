@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "65d8978e35526b4c",
+            "id": "fe52b761f0fb1011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "H-Methode.md",
+                "file": "Array vs Pointer - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H-Methode"
+              "title": "Array vs Pointer - C"
             }
           }
         ],
@@ -236,9 +236,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "65d8978e35526b4c",
+  "active": "fe52b761f0fb1011",
   "lastOpenFiles": [
+    "%Moral.md",
+    "000 - CS/010 - Languages/011 - C/Compiling - C.md",
+    "Untitled 1.md",
     "900 - Other/910 - Index/Homepage.md",
+    "Array vs Pointer - C.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
     "H-Methode.md",
     "Untitled.md",
     "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
@@ -246,7 +251,6 @@
     "Warum wir nie lügen sollten.md",
     "000 - CS/030 - Topics/036 - Visual Applications/Dot - Product.md",
     "000 - CS/030 - Topics/036 - Visual Applications",
-    "%Moral.md",
     "%Lying.md",
     "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
     "Locking surface - SDL.md",
@@ -261,12 +265,8 @@
     "900 - Other/910 - Index/Tags/%Express.md",
     "300 - School/340 - English/REMEMBMER.md",
     "900 - Other/910 - Index/Tags/%Maschine Learning.md",
-    "300 - School/370 - German/Die Physiker - Buch Analyse/Die Verantwortung von Wissenschaftlern.md",
-    "000 - CS/080 - Configs & Setups/Obsidian/copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-conversations/summarize_this_file,_start_with_the_installation_and_then_the@20260208_173909.md",
     "copilot/copilot-conversations",
     "copilot",
-    "200 - Wisdom/220 - Mini Essays/Stop Coding like a Junior.md",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
     "Untitled",
     "000 - CS/030 - Topics/031 - Cyber Security/DDoS",
