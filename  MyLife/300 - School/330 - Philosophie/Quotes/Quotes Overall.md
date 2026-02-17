@@ -46,6 +46,8 @@
 “Those who don’t move, won’t notice their chains.” 
 -Rosa Luxemburg
 
+"Hell is empty and all the devils are here"
+-William Shakespeare -> The Tempest
 
 "The man who does not read good books has no advantage over the man who cannot read them"
 -Mark Twain ^093e00

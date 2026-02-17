@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9fb70a9588112a0b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f0211a090f5e2af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 - Other/910 - Index/Homepage.md",
+                "file": "000 - CS/010 - Languages/011 - C/Compiling - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Compiling - C"
             }
           },
           {
-            "id": "fe52b761f0fb1011",
+            "id": "7927f0a75b71302b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array vs Pointer - C.md",
+                "file": "Speech about biodiversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Array vs Pointer - C"
+              "title": "Speech about biodiversity"
+            }
+          },
+          {
+            "id": "16311aa91675d96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speech about biodiversity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Speech about biodiversity"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +101,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -114,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -236,35 +261,36 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe52b761f0fb1011",
+  "active": "16311aa91675d96a",
   "lastOpenFiles": [
-    "%Moral.md",
     "000 - CS/010 - Languages/011 - C/Compiling - C.md",
-    "Untitled 1.md",
+    "Speech about biodiversity.md",
+    "leaks.md",
+    "Own dynamic vector.md",
     "900 - Other/910 - Index/Homepage.md",
-    "Array vs Pointer - C.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
-    "H-Methode.md",
-    "Untitled.md",
-    "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
-    "000 - CS/080 - Configs & Setups/Mac Apps/Copilot.md",
+    "000 - CS/Protocol.md",
+    "000 - CS/010 - Languages/011 - C/Readonly-Memory & String Literals- C.md",
+    "900 - Other/910 - Index/Tags/%Arguments.md",
     "Warum wir nie lügen sollten.md",
-    "000 - CS/030 - Topics/036 - Visual Applications/Dot - Product.md",
-    "000 - CS/030 - Topics/036 - Visual Applications",
-    "%Lying.md",
-    "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
+    "Seeking Validation.md",
+    "Untitled 1.md",
+    "Real beauty speaks kindly.md",
+    "Logic fails in arguments.md",
     "Locking surface - SDL.md",
-    "000 - CS/IP.md",
-    "000 - CS/Github für Kids.md",
-    "000 - CS/Github plugin.md",
-    "000 - CS/080 - Configs & Setups/Mac Apps/Mac Keybinds.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
-    "300 - School/310 - Math/Integral Basics.md",
-    "300 - School/360 - Chemie/Ester.md",
-    "900 - Other/910 - Index/Tags/%TS.md",
-    "900 - Other/910 - Index/Tags/%Express.md",
-    "300 - School/340 - English/REMEMBMER.md",
-    "900 - Other/910 - Index/Tags/%Maschine Learning.md",
+    "Complaining leads to misery.md",
+    "Control and Moral in non-intense Situations.md",
+    "FOTOS.md",
+    "000 - CS/010 - Languages/011 - C/Pointer - C/Array vs Pointer - C.md",
+    "H-Methode.md",
+    "300 - School/330 - Philosophie/Quotes/Quotes Overall.md",
+    "900 - Other/910 - Index/Tags/%Beauty.md",
+    "copilot/copilot-conversations/summarize_this_file,_start_with_the_installation_and_then_the@20260208_173909.md",
+    "ta+",
+    "900 - Other/910 - Index/Tags/%Complaining.md",
+    "900 - Other/910 - Index/Tags/%Articulation.md",
+    "900 - Other/910 - Index/Tags/%Poem.md",
+    "900 - Other/910 - Index/Tags/%Validation.md",
+    "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
     "copilot",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
@@ -273,7 +299,6 @@
     "000 - CS/030 - Topics/031 - Cyber Security",
     "900 - Other/940 - Listen",
     "200 - Wisdom/220 - Mini Essays",
-    "200 - Wisdom/240 - Personal Development",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
