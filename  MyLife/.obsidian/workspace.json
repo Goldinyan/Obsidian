@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb70a9588112a0b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f0211a090f5e2af8",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - CS/010 - Languages/011 - C/Compiling - C.md",
+                "file": "300 - School/370 - German/Die Physiker - Buch Analyse/Monolog - Newton.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compiling - C"
+              "title": "Monolog - Newton"
             }
           },
           {
-            "id": "7927f0a75b71302b",
+            "id": "bf2f26be79251462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Speech about biodiversity.md",
+                "file": "300 - School/370 - German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Speech about biodiversity"
-            }
-          },
-          {
-            "id": "16311aa91675d96a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Speech about biodiversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Speech about biodiversity"
+              "title": "Zusammenfassung - \"Die Physiker\" - Dürrenmatt"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -261,13 +235,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "16311aa91675d96a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "000 - CS/010 - Languages/011 - C/Compiling - C.md",
+    "300 - School/370 - German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
+    "300 - School/370 - German/Die Physiker - Buch Analyse/Monolog - Newton.md",
+    "900 - Other/910 - Index/Homepage.md",
     "Speech about biodiversity.md",
+    "000 - CS/010 - Languages/011 - C/Compiling - C.md",
     "leaks.md",
     "Own dynamic vector.md",
-    "900 - Other/910 - Index/Homepage.md",
     "000 - CS/Protocol.md",
     "000 - CS/010 - Languages/011 - C/Readonly-Memory & String Literals- C.md",
     "900 - Other/910 - Index/Tags/%Arguments.md",
@@ -288,8 +264,6 @@
     "ta+",
     "900 - Other/910 - Index/Tags/%Complaining.md",
     "900 - Other/910 - Index/Tags/%Articulation.md",
-    "900 - Other/910 - Index/Tags/%Poem.md",
-    "900 - Other/910 - Index/Tags/%Validation.md",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
     "copilot",
