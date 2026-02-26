@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "171fd7df5859c06a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "auslesen von queries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "auslesen von queries"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,11 +236,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "171fd7df5859c06a",
   "lastOpenFiles": [
+    "900 - Other/910 - Index/Homepage.md",
+    "auslesen von queries.md",
     "300 - School/330 - Philosophie/Quotes/Quotes Overall.md",
     "000 - CS/040 - CS Projects/042 - Web/Qoute Saver.md",
-    "900 - Other/910 - Index/Homepage.md",
     "300 - School/370 - German/Die Physiker - Buch Analyse/Monolog - Newton.md",
     "300 - School/370 - German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
     "Speech about biodiversity.md",
@@ -239,7 +265,6 @@
     "900 - Other/910 - Index/Tags/%Beauty.md",
     "copilot/copilot-conversations/summarize_this_file,_start_with_the_installation_and_then_the@20260208_173909.md",
     "ta+",
-    "900 - Other/910 - Index/Tags/%Complaining.md",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
     "copilot",
