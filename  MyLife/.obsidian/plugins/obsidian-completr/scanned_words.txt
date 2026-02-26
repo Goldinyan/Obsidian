@@ -2196,6 +2196,8 @@ Netz
 Naturgesetzt
 Neues
 Nevertheless
+Nö
+Niekbeats
 uR
 uN
 ug
@@ -3271,6 +3273,9 @@ Still
 Sadly
 Schon
 Solche
+Shakespeare
+Sport
+Spaß
 zS
 zX
 zR
@@ -3915,6 +3920,7 @@ Junior
 Jan
 Jungtiersterblichkeit
 Jahrhunderte
+Jemand
 FzF
 FK
 FG
@@ -4094,6 +4100,7 @@ FillRect
 Freigeben
 Funken
 Familien
+Fussball
 vHwc
 vE
 vA
@@ -5494,6 +5501,7 @@ bother
 began
 bacteria
 billions
+bewegst
 mm
 ms
 mO
@@ -6139,6 +6147,7 @@ diseases
 damages
 decade
 doubtful
+devils
 QS
 Qn
 QGu
@@ -6946,6 +6955,7 @@ sinks
 spread
 solutions
 solches
+scheiße
 XZ
 Xs
 XI
@@ -7494,6 +7504,7 @@ gases
 governments
 garantiert
 geopfert
+gehe
 nf
 nnvi
 nC
@@ -8135,6 +8146,7 @@ Grenzfall
 Grenzwert
 Gelingen
 Gutes
+Gegenüber
 fW
 fvB
 fnrA
@@ -8551,6 +8563,7 @@ Höhenänderung
 Hitler
 Himmler
 Humanity
+Hell
 xe
 xJ
 xys
@@ -9122,6 +9135,7 @@ Due
 Dear
 Doolmann
 Dass
+Dating
 eC
 eD
 eL
@@ -9916,6 +9930,7 @@ Tangentensteigung
 Target
 Toten
 Tage
+Tempest
 üb
 über
 überführt

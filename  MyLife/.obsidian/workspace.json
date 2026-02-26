@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - School/370 - German/Die Physiker - Buch Analyse/Monolog - Newton.md",
+                "file": "900 - Other/910 - Index/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Monolog - Newton"
-            }
-          },
-          {
-            "id": "bf2f26be79251462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 - School/370 - German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Zusammenfassung - \"Die Physiker\" - Dürrenmatt"
+              "title": "Homepage"
             }
           }
         ]
@@ -237,9 +213,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "300 - School/370 - German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
-    "300 - School/370 - German/Die Physiker - Buch Analyse/Monolog - Newton.md",
+    "300 - School/330 - Philosophie/Quotes/Quotes Overall.md",
+    "000 - CS/040 - CS Projects/042 - Web/Qoute Saver.md",
     "900 - Other/910 - Index/Homepage.md",
+    "300 - School/370 - German/Die Physiker - Buch Analyse/Monolog - Newton.md",
+    "300 - School/370 - German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
     "Speech about biodiversity.md",
     "000 - CS/010 - Languages/011 - C/Compiling - C.md",
     "leaks.md",
@@ -258,12 +236,10 @@
     "FOTOS.md",
     "000 - CS/010 - Languages/011 - C/Pointer - C/Array vs Pointer - C.md",
     "H-Methode.md",
-    "300 - School/330 - Philosophie/Quotes/Quotes Overall.md",
     "900 - Other/910 - Index/Tags/%Beauty.md",
     "copilot/copilot-conversations/summarize_this_file,_start_with_the_installation_and_then_the@20260208_173909.md",
     "ta+",
     "900 - Other/910 - Index/Tags/%Complaining.md",
-    "900 - Other/910 - Index/Tags/%Articulation.md",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
     "copilot",

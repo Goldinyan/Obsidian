@@ -69,6 +69,13 @@ Rassismus gegen Dunkelhäutige tötet."
 "Grundsätzlich ist jeder Nazi ein verwirrtes Kind, aber nicht jedes verwirrte Kind ist ein Nazi"
 -Dekarldent
 
+
+Bei einem Dating-format zur Frage von Fussball in einer Beziehung:
+Jemand sagt "Hey, ich gehe einem Sport nach der mir Spaß macht."
+Gegenüber: "Nö, scheiße. Wie du hast Spaß und bewegst dich"
+-Niekbeats
+
+
 "Five Minutes after you are born, they will decide your name, nationality, religion, and sect, and you will spend the rest of your life desperately defending things you didn't choose."
 -Arthur Schopenhauer
 
