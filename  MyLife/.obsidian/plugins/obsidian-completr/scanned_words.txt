@@ -198,6 +198,9 @@ Platform
 Parent
 Physical
 Plans
+Program
+PRESENTVSYNC
+PollEvent
 IHDR
 IDATx
 IC
@@ -343,6 +346,8 @@ Identifier
 Idle
 Irreplaceable
 Improving
+Init
+INIT
 rD
 rVS
 rZ
@@ -640,6 +645,8 @@ reefs
 risk
 restoring
 reductions
+renderer
+running
 Vs
 VO
 VJ
@@ -1134,6 +1141,7 @@ Elementgröße
 Einfügen
 Entfernen
 Earth
+Event
 cj
 cK
 cz
@@ -1842,6 +1850,7 @@ potential
 peatlands
 prioritising
 prozentige
+printf
 kF
 kXl
 kXlm
@@ -2524,6 +2533,8 @@ Written
 Words
 Wachsen
 Whether
+WINDOWPOS
+WINDOW
 Cbc
 Cr
 Ck
@@ -2686,6 +2697,9 @@ Convert
 Complaining
 Check
 Climate
+CreateWindow
+CENTERED
+CreateRenderer
 LI
 LF
 LLN
@@ -3276,6 +3290,8 @@ Solche
 Shakespeare
 Sport
 Spaß
+SHOWN
+SetRenderDrawColor
 zS
 zX
 zR
@@ -4565,6 +4581,7 @@ Alten
 Address
 Around
 Allgemeinheit
+ACCELERATED
 MV
 MM
 Ms
@@ -6170,6 +6187,8 @@ Quokka
 Quellcode
 Queries
 Querverweise
+Quit
+QUIT
 yM
 yn
 yYv
@@ -6956,6 +6975,7 @@ spread
 solutions
 solches
 scheiße
+stdio
 XZ
 Xs
 XI
@@ -8147,6 +8167,7 @@ Grenzwert
 Gelingen
 Gutes
 Gegenüber
+GetError
 fW
 fvB
 fnrA
@@ -9136,6 +9157,8 @@ Dear
 Doolmann
 Dass
 Dating
+DestroyWindow
+DestroyRenderer
 eC
 eD
 eL
@@ -10120,6 +10143,9 @@ Rising
 Restoring
 Rettung
 Reihen
+RENDERER
+RenderClear
+RenderPresent
 Überblick
 Überlieferung
 Übersicht
