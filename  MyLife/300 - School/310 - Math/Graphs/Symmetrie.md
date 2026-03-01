@@ -2,10 +2,8 @@ Date: 2026-01-31
 Tags: {
 #W
 }
-^
 
 # Symmetrie
-
 ### Strecken in y-Richtung
 
 $$
@@ -75,4 +73,32 @@ $$
 
 
 
+
+# Achsen- und Punktsymmetrisch
+
+Sind alle Exponenten einer Funktion gerade so ist sie Achsensymmetrisch:
+$$
+f(x) = 2x^4 + x^2 \implies \text{Achsensymmetrisch}
+$$
+$$
+\text{Es gilt:} \quad f(x) = f(-x)
+$$
+Sind alle ungerade so ist sie Punktsymmetrisch:
+$$
+f(x) = 4x^3 + 2x + 5 \implies \text{Punktsymmetrisch}
+$$
+$$
+\text{Es gilt:} \quad -f(x) = f(-x)
+$$
+
+# Verschiebung
+
+Verschiebung auf der x-Achse um den Wert $z$ (positiv), läuft wie folgt:
+$$
+f(x-z)
+$$
+Verschiebung des y-Achsenabschnitt um den Wert $d$ funktioniert wie folgt:
+$$
+f(x) + d
+$$
 # References

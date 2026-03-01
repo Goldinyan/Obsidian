@@ -201,6 +201,7 @@ Plans
 Program
 PRESENTVSYNC
 PollEvent
+Punktsymmetrisch
 IHDR
 IDATx
 IC
@@ -758,6 +759,7 @@ Voltaire
 Vector
 Vectors
 Vertrauen
+Verschiebung
 KPgM
 KO
 Krbm
@@ -2350,6 +2352,7 @@ untracked
 underpins
 unlikely
 uninhabitable
+ungerade
 WGN
 Wm
 Wl
@@ -3292,6 +3295,7 @@ Sport
 Spaß
 SHOWN
 SetRenderDrawColor
+Sind
 zS
 zX
 zR
@@ -4582,6 +4586,9 @@ Address
 Around
 Allgemeinheit
 ACCELERATED
+Achsen
+Achsensymmetrisch
+Achsenabschnitt
 MV
 MM
 Ms

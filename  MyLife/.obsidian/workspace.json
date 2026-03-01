@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "900 - Other/910 - Index/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "11979176d72e9714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "900 - Other/930 - Cheatsheet/LAtex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LAtex"
+            }
+          },
+          {
+            "id": "3f1a48c32adefb32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - School/310 - Math/Graphs/Symmetrie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Symmetrie"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,11 +260,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3f1a48c32adefb32",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "900 - Other/930 - Cheatsheet/LAtex.md",
+    "300 - School/310 - Math/Graphs/Symmetrie.md",
+    "Symmetrie ganzrationaler Funktionen.md",
     "900 - Other/910 - Index/Homepage.md",
     "Untitled.md",
+    "Untitled 1.md",
     "auslesen von queries.md",
     "300 - School/330 - Philosophie/Quotes/Quotes Overall.md",
     "000 - CS/040 - CS Projects/042 - Web/Qoute Saver.md",
@@ -236,9 +288,6 @@
     "Complaining leads to misery.md",
     "Control and Moral in non-intense Situations.md",
     "FOTOS.md",
-    "000 - CS/010 - Languages/011 - C/Pointer - C/Array vs Pointer - C.md",
-    "H-Methode.md",
-    "900 - Other/910 - Index/Tags/%Beauty.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
