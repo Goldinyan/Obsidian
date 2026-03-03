@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 - Other/910 - Index/Homepage.md",
+                "file": "900 - Other/930 - Cheatsheet/NVCHAD & Vim Keybinds.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "11979176d72e9714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "900 - Other/930 - Cheatsheet/LAtex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LAtex"
-            }
-          },
-          {
-            "id": "3f1a48c32adefb32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 - School/310 - Math/Graphs/Symmetrie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Symmetrie"
+              "title": "NVCHAD & Vim Keybinds"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,12 +211,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3f1a48c32adefb32",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "900 - Other/930 - Cheatsheet/LAtex.md",
-    "300 - School/310 - Math/Graphs/Symmetrie.md",
-    "Symmetrie ganzrationaler Funktionen.md",
     "900 - Other/910 - Index/Homepage.md",
+    "300 - School/310 - Math/Graphs/Symmetrie.md",
+    "900 - Other/930 - Cheatsheet/LAtex.md",
+    "Symmetrie ganzrationaler Funktionen.md",
     "Untitled.md",
     "Untitled 1.md",
     "auslesen von queries.md",
