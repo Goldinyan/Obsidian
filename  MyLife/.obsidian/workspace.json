@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 - Other/930 - Cheatsheet/NVCHAD & Vim Keybinds.md",
+                "file": "900 - Other/910 - Index/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NVCHAD & Vim Keybinds"
+              "title": "Homepage"
             }
           }
         ]
@@ -214,6 +214,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "900 - Other/910 - Index/Homepage.md",
+    "900 - Other/930 - Cheatsheet/NVCHAD & Vim Keybinds.md",
     "300 - School/310 - Math/Graphs/Symmetrie.md",
     "900 - Other/930 - Cheatsheet/LAtex.md",
     "Symmetrie ganzrationaler Funktionen.md",
@@ -238,7 +239,6 @@
     "Locking surface - SDL.md",
     "Complaining leads to misery.md",
     "Control and Moral in non-intense Situations.md",
-    "FOTOS.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
