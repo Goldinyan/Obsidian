@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "f2357cc5d64b962b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,9 +224,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f2357cc5d64b962b",
   "lastOpenFiles": [
     "900 - Other/910 - Index/Homepage.md",
+    "000 - CS/080 - Configs & Setups/Terminal/UI Animations/Animations for fun.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal Monitoring (macOS).md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal extensions.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Overall usefull Commands.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
     "900 - Other/930 - Cheatsheet/NVCHAD & Vim Keybinds.md",
     "300 - School/310 - Math/Graphs/Symmetrie.md",
     "900 - Other/930 - Cheatsheet/LAtex.md",
@@ -233,12 +252,6 @@
     "000 - CS/010 - Languages/011 - C/Readonly-Memory & String Literals- C.md",
     "900 - Other/910 - Index/Tags/%Arguments.md",
     "Warum wir nie lügen sollten.md",
-    "Seeking Validation.md",
-    "Real beauty speaks kindly.md",
-    "Logic fails in arguments.md",
-    "Locking surface - SDL.md",
-    "Complaining leads to misery.md",
-    "Control and Moral in non-intense Situations.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
