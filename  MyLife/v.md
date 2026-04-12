@@ -1,0 +1,1 @@
+yes, the fault of capitalism, “The true cost of capitalism is the quiet destruction of communities, sold for the illusion of wealth.”

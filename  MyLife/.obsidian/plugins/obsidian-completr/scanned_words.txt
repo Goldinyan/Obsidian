@@ -1505,6 +1505,9 @@ carbon
 cities
 conserved
 corporations
+capitalism
+cost
+communities
 pt
 pD
 ph
@@ -2882,6 +2885,7 @@ quotas
 quad
 quote
 quotes
+quiet
 Yw
 Ys
 Yl
@@ -6172,6 +6176,7 @@ damages
 decade
 doubtful
 devils
+destruction
 QS
 Qn
 QGu
@@ -6983,6 +6988,7 @@ solutions
 solches
 scheiße
 stdio
+sold
 XZ
 Xs
 XI
@@ -7246,6 +7252,7 @@ worsening
 wetlands
 warming
 würdig
+wealth
 gv
 gu
 gP
@@ -7995,6 +8002,7 @@ increasingly
 influenced
 industrial
 interconnected
+illusion
 Gn
 Go
 Gs

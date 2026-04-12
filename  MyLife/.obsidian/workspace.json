@@ -32,15 +32,27 @@
             }
           },
           {
-            "id": "f2357cc5d64b962b",
+            "id": "0c9027fd8d49892c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "v.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "v"
             }
           }
         ],
@@ -224,9 +236,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f2357cc5d64b962b",
+  "active": "0c9027fd8d49892c",
   "lastOpenFiles": [
     "900 - Other/910 - Index/Homepage.md",
+    "v.md",
     "000 - CS/080 - Configs & Setups/Terminal/UI Animations/Animations for fun.md",
     "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
     "000 - CS/080 - Configs & Setups/Terminal/Terminal Monitoring (macOS).md",
@@ -251,7 +264,6 @@
     "000 - CS/Protocol.md",
     "000 - CS/010 - Languages/011 - C/Readonly-Memory & String Literals- C.md",
     "900 - Other/910 - Index/Tags/%Arguments.md",
-    "Warum wir nie lügen sollten.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "copilot/copilot-conversations",
