@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 351.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -223,14 +223,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Linux commands.md",
     "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
+    "d.md",
+    "Linux.md",
+    "900 - Other/910 - Index/Homepage.md",
     "copilot/copilot-conversations/Bitte_einmal_besser_ordnen_aber_als_Stichpunkte._Fehlen_hier_wichtige@20260418_154019.md",
     "copilot/copilot-conversations",
     "copilot",
     "Warum wir nie lügen sollten.md",
     "000 - CS/080 - Configs & Setups/Obsidian/How to write a Mini-Essay.md",
     "000 - CS/080 - Configs & Setups/Obsidian/Obsidian Setup.md",
-    "900 - Other/910 - Index/Homepage.md",
     "%Nato.md",
     "Die Verbrechen der Nato.md",
     "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
@@ -248,8 +251,6 @@
     "000 - CS/080 - Configs & Setups/Terminal/UI Animations/Animations for fun.md",
     "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
     "000 - CS/080 - Configs & Setups/Terminal/Terminal Monitoring (macOS).md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal extensions.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Overall usefull Commands.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
