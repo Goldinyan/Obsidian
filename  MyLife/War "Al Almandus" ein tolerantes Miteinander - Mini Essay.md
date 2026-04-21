@@ -11,13 +11,11 @@ Source:
 ---
 # War "Al-Andalus" ein tolerantes Miteinander -  Essay
 
-Seit Jahren debatieren viele Menschen über die Aggressivität jener Religion, die sich Christentum und Islam nennen, die Antwort auf diese komplexe Frage zu finden übertrifft die Vorstellungskraft der meisten. 
-Dennoch, gibt es Beispiele die eventuell einen besseren Überblick herbeibringen können. 
-Diese Beispiele können keineswegs die ganze Thematik aufklären, dennoch ist das besprechen ihrer von äußerster Wichtigkeit.
+Seit Jahren diskutieren Menschen über die vermeintliche Aggressivität der Religionen, die wir Christentum und Islam nennen. Eine eindeutige Antwort auf diese komplexe Frage zu finden, übersteigt jedoch oft die Vorstellungskraft vieler. Dennoch gibt es historische Beispiele, die einen differenzierteren Überblick ermöglichen können. Auch wenn sie die Thematik nicht vollständig klären, ist ihre Betrachtung von zentraler Bedeutung.
 
-Ein Beispiel, welches jetzt versucht wird zu analysieren ist kein anderes als *Al-Andalus*, die zwischen 711 und 1492 von Muslimen beherrscht Iberische Halbinsel, ein großer Teil des heutigen Spanien. 
+Ein solches Beispiel ist al‑Andalus – jene Region der Iberischen Halbinsel, die zwischen 711 und 1492 unter muslimischer Herrschaft stand und einen großen Teil des heutigen Spaniens umfasst.
 
-Als Basis der Analyse dieser Herrschaft wurden verschiedenste historische Quellen und Analysen von Historikern verwendet, welche am Ende nachgelesen werden können, aber auch in der Essay namentlich gennant werden.
+Für die Analyse dieser Herrschaft wurden verschiedene historische Quellen sowie wissenschaftliche Untersuchungen herangezogen. Diese werden im Verlauf des Essays namentlich genannt und können am Ende vollständig nachgelesen werden.
 
 
 Zunächst, um die Gesamtheit dieser Herrschaft beurteilen zu können, muss man die Eroberung verstehen.

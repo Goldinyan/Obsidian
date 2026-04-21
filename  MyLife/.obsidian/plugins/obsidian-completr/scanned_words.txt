@@ -208,6 +208,7 @@ Profite
 Praxis
 Publikationen
 Prof
+Produktionsverhältnisse
 IHDR
 IDATx
 IC
@@ -364,6 +365,8 @@ Interessant
 Invasion
 Islamwissenschaftler
 Iberische
+Instrument
+Iberischen
 rD
 rVS
 rZ
@@ -811,6 +814,11 @@ Vertrag
 Vetrag
 Vorgaben
 Vertrags
+Vergleichen
+Vergleicht
+Vorgänger
+Verhältnissen
+Verbesserung
 KPgM
 KO
 Krbm
@@ -1014,6 +1022,7 @@ Kulturgeschichte
 Kleidubng
 Kennzeichung
 Kleidervorschriften
+Klassenherrschaft
 EG
 ER
 Ek
@@ -1235,6 +1244,8 @@ Entwicklungen
 Elite
 Einhaltung
 Einblick
+Einnahmequelle
+Einbindung
 cj
 cK
 cz
@@ -2209,6 +2220,7 @@ Zurückweisung
 Zusammenarbeit
 Zusammenlebens
 Zahlung
+Zwangskonversionen
 Nn
 Nk
 No
@@ -2510,6 +2522,9 @@ unterlagen
 umgekehrte
 umfasste
 unterstützen
+unverzichtbar
+unterdrückte
+umfasst
 WGN
 Wm
 Wl
@@ -2713,6 +2728,7 @@ Westgoten
 Wiederholungen
 Werke
 Weitergehend
+Westgotenreich
 Cbc
 Cr
 Ck
@@ -3039,6 +3055,9 @@ Legality
 Libya
 Lo
 Landesverteidigungsystems
+Landwirtschaft
+Landes
+Lebensbedingungen
 qV
 qT
 qH
@@ -3526,6 +3545,9 @@ Stadtvierteln
 Strafmaße
 Symbolen
 Schutzgedanke
+Selbstverwaltung
+Schicht
+Spielraum
 zS
 zX
 zR
@@ -3624,6 +3646,9 @@ zahlenmäßig
 zeigte
 zudem
 zentral
+zusätzlich
+zahlten
+zentraler
 OU
 OL
 Oq
@@ -4168,6 +4193,10 @@ anstrebte
 ausüber
 aufschlussreich
 abwich
+ableiten
+alten
+arbeitete
+abhängig
 JV
 Jv
 JN
@@ -4217,6 +4246,7 @@ Jacono
 Jahren
 Judinnen
 Jahrhundert
+Judenverfolgungen
 FzF
 FK
 FG
@@ -4638,6 +4668,14 @@ vorgeschrieben
 vermuten
 verpflichtete
 verknüpft
+vorherigen
+vorteilhafter
+verringerte
+verändern
+verwalten
+vorherige
+vermeintliche
+vieler
 Aw
 ArX
 Ar
@@ -4942,6 +4980,9 @@ Auftreten
 Asymmetrie
 Ausübung
 Amputationen
+Aufständen
+Adels
+Abgaben
 MV
 MM
 Ms
@@ -5167,6 +5208,8 @@ Mussten
 Markplätze
 Männer
 Marktplätze
+Möglichkeiten
+Mehrheit
 hv
 hz
 have
@@ -5381,6 +5424,9 @@ halfen
 herbeibringen
 hierarchische
 harte
+humanitären
+herrschenden
+herangezogen
 lI
 lt
 ls
@@ -5625,6 +5671,8 @@ letztendlich
 legal
 lebten
 litt
+lokaler
+lag
 bM
 bS
 bs
@@ -5965,6 +6013,17 @@ benachteiligt
 bietet
 betreffen
 betroffen
+beachten
+blieb
+beruhte
+beobachtbare
+berücksichtigen
+bedeutete
+bestehende
+bäuerlichen
+beanspruchen
+bildeten
+beweglicher
 mm
 ms
 mO
@@ -6282,6 +6341,10 @@ minorität
 muslimschen
 muslimisch
 miteinander
+materiell
+materieller
+musste
+materiellen
 do
 dK
 dQ
@@ -6654,6 +6717,10 @@ diente
 damaligen
 detaillierte
 darunter
+derselben
+denkbar
+diskutieren
+differenzierteren
 QS
 Qn
 QGu
@@ -7497,6 +7564,12 @@ seltenen
 streng
 strengen
 sofern
+stabiler
+stellte
+stabilisierte
+spürbare
+sichern
+steuerpflichtige
 XZ
 Xs
 XI
@@ -7779,6 +7852,8 @@ weitgehend
 wirtschaftlichen
 worden
 weisen
+wirtschaftlich
+weiterhin
 gv
 gu
 gP
@@ -8100,6 +8175,8 @@ geprägten
 gestaltet
 geschäftlicher
 gelebter
+gewisse
+galten
 nf
 nnvi
 nC
@@ -8272,6 +8349,8 @@ nichtmuslimischen
 nichtmuslimischer
 normative
 normativer
+nichtmuslimische
+nutzten
 jt
 jW
 jz
@@ -8318,6 +8397,7 @@ jenachdem
 joke
 jahrelang
 jüdische
+jene
 id
 in
 iB
@@ -8805,6 +8885,9 @@ Gesamtheit
 Gemeinwesens
 Geschäften
 Gemeinschaften
+Gleichberechtigung
+Gründe
+Großteil
 fW
 fvB
 fnrA
@@ -9088,6 +9171,7 @@ freiheit
 frühislamischen
 freizulassen
 flexibler
+führende
 Hn
 HnZ
 HV
@@ -9257,6 +9341,9 @@ Historikern
 Herrschaftsordnung
 Historikerinnen
 Hierarchie
+Herrschaftssystem
+Handwerk
+Händen
 xe
 xJ
 xys
@@ -9569,6 +9656,8 @@ toleranz
 tatsächlichen
 theoretischen
 toleranter
+tolerant
+treiben
 UU
 Uo
 Uc
@@ -9669,6 +9758,7 @@ Ungläubige
 Unteranderem
 Unterschiedlichen
 Umgang
+Untertanen
 DC
 DK
 DN
@@ -9866,6 +9956,7 @@ Dhimmi
 Duften
 Durften
 Dazu
+Duldung
 eC
 eD
 eL
@@ -10310,6 +10401,11 @@ egalitären
 eingeordnet
 errichten
 eng
+ermöglichte
+eingeschränkt
+erforderten
+eindeutige
+ermöglichen
 BP
 Bz
 BVb
@@ -10523,6 +10619,9 @@ Bestimmungen
 Bevolkerung
 Bauens
 Bedarfsfall
+Bauern
+Beteiligung
+Betrachtung
 TN
 Tn
 TV
@@ -10726,6 +10825,7 @@ Tragens
 Toleranter
 Tätigkeiten
 Tötungsdelikten
+Trotzdem
 üb
 über
 überführt
@@ -10757,6 +10857,7 @@ Tötungsdelikten
 übeewacht
 übergegangen
 übertrifft
+übersteigt
 Rn
 Rk
 Rj
@@ -10938,6 +11039,10 @@ Religionen
 Rechtsstaat
 Religionsfreiheit
 Regionen
+Reichen
+Risiko
+Regime
+Region
 Überblick
 Überlieferung
 Übersicht
@@ -10956,6 +11061,7 @@ Regionen
 Überzeugungen
 Überwachen
 Überwachung
+Überschuss
 Äußere
 Ähnlich
 Äquivalent
@@ -10968,6 +11074,7 @@ Regionen
 öffentlichen
 öff
 öffentlicher
+ökonomischen
 ändern
 äger
 änderst
@@ -10983,6 +11090,7 @@ Regionen
 ähnlichen
 äußern
 äußerster
+änderten
 Ölen
 Öffentliche
 Öffentlichkeit
