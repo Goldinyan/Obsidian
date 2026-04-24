@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 - Other/910 - Index/Homepage.md",
+                "file": "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay"
+            }
+          },
+          {
+            "id": "f93ed3c2925a467e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           }
         ]
@@ -223,6 +247,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
     "900 - Other/910 - Index/Homepage.md",
     "Linux commands.md",
@@ -250,7 +275,6 @@
     "Speech about biodiversity.md",
     "000 - CS/080 - Configs & Setups/Terminal/UI Animations/Animations for fun.md",
     "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal Monitoring (macOS).md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "000 - CS/030 - Topics/033 - Hardware/Heap",

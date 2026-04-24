@@ -209,6 +209,7 @@ Praxis
 Publikationen
 Prof
 Produktionsverhältnisse
+Pragmatismus
 IHDR
 IDATx
 IC
@@ -1023,6 +1024,7 @@ Kleidubng
 Kennzeichung
 Kleidervorschriften
 Klassenherrschaft
+Kontrlle
 EG
 ER
 Ek
@@ -2525,6 +2527,7 @@ unterstützen
 unverzichtbar
 unterdrückte
 umfasst
+umgangssprachlich
 WGN
 Wm
 Wl
@@ -5427,6 +5430,7 @@ harte
 humanitären
 herrschenden
 herangezogen
+humanistischen
 lI
 lt
 ls
@@ -6902,6 +6906,7 @@ ourselves
 organisiert
 operierten
 obszönen
+offene
 ss
 sq
 sE
@@ -7570,6 +7575,7 @@ stabilisierte
 spürbare
 sichern
 steuerpflichtige
+situativen
 XZ
 Xs
 XI
@@ -8177,6 +8183,7 @@ geschäftlicher
 gelebter
 gewisse
 galten
+gestellt
 nf
 nnvi
 nC
@@ -8888,6 +8895,7 @@ Gemeinschaften
 Gleichberechtigung
 Gründe
 Großteil
+Gegebenheiten
 fW
 fvB
 fnrA
@@ -11067,6 +11075,7 @@ Region
 Äquivalent
 Äußerlich
 Änderungen
+Ämter
 ökonomische
 öffnen
 östlichen
