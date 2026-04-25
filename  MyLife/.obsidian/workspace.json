@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
+                "file": "900 - Other/910 - Index/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay"
-            }
-          },
-          {
-            "id": "f93ed3c2925a467e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Homepage"
             }
           }
         ]
@@ -247,9 +223,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal Monitoring (macOS).md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal extensions.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Commands.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
+    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Overall usefull Commands.md",
+    "000 - CS/080 - Configs & Setups/Terminal/UI Animations/Animations for fun.md",
+    "Unveiling Race Conditions Using Turbo Intruder.md",
+    "000 - CS/080 - Configs & Setups/NVIM/Vim Keybinds.md",
+    "define script.md",
     "900 - Other/910 - Index/Homepage.md",
+    "War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
+    "Untitled 2.md",
     "Linux commands.md",
     "d.md",
     "Linux.md",
@@ -261,20 +247,10 @@
     "000 - CS/080 - Configs & Setups/Obsidian/Obsidian Setup.md",
     "%Nato.md",
     "Die Verbrechen der Nato.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
     "Github copilot temp 0.md",
     "Complaining leads to misery.md",
     "Control and Moral in non-intense Situations.md",
     "FOTOS.md",
-    "H-Methode.md",
-    "leaks.md",
-    "v.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Symmetrie ganzrationaler Funktionen.md",
-    "Speech about biodiversity.md",
-    "000 - CS/080 - Configs & Setups/Terminal/UI Animations/Animations for fun.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "000 - CS/030 - Topics/033 - Hardware/Heap",

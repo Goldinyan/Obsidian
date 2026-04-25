@@ -8,8 +8,13 @@ Tags: {
 
 # Vim Keybinds
 
+Changing variable name 
 
+hover over the word and hit `*`, `shift + n` to go to previous match, then `cgn`to change on this match, then `esc` and `n`to switch to the next word and `.`to replay last change. This can be repeated.
 
+Commenting smth out 
+
+ctrl v for visual block mode, then scroll down the lines with j, then shift i to enter insert mode then '//' for commenting and then escape to accept it for all of the lines 
 
 ## Basic Movements:
 
