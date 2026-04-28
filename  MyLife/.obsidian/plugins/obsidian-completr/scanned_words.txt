@@ -680,6 +680,7 @@ räumliche
 religiöser
 reguliert
 responsive
+rüber
 Vs
 VO
 VJ
@@ -1983,6 +1984,7 @@ pragmatischer
 ps
 pipe
 press
+poweroff
 kF
 kXl
 kXlm
@@ -3753,6 +3755,8 @@ OBJECT
 Ofiziell
 Opposition
 Objektivität
+Ordner
+Ordnername
 am
 ad
 afj
@@ -4996,6 +5000,8 @@ Aufständen
 Adels
 Abgaben
 Altought
+Auf
+Arch
 MV
 MM
 Ms
@@ -5441,6 +5447,7 @@ humanitären
 herrschenden
 herangezogen
 humanistischen
+http
 lI
 lt
 ls
@@ -6919,6 +6926,8 @@ organisiert
 operierten
 obszönen
 offene
+oderner
+ordner
 ss
 sq
 sE
@@ -7588,6 +7597,8 @@ spürbare
 sichern
 steuerpflichtige
 situativen
+sudo
+systemctl
 XZ
 Xs
 XI
@@ -7873,6 +7884,7 @@ weisen
 wirtschaftlich
 weiterhin
 workflow
+wget
 gv
 gu
 gP
@@ -8372,6 +8384,7 @@ normative
 normativer
 nichtmuslimische
 nutzten
+nen
 jt
 jW
 jz
@@ -9981,6 +9994,7 @@ Duften
 Durften
 Dazu
 Duldung
+DEINNAME
 eC
 eD
 eL
