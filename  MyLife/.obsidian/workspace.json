@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "900 - Other/910 - Index/Homepage.md",
+                "file": "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Setup Web Application"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 57.48502994011976,
+        "dimension": 73.66020524515393,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -73,7 +73,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 42.51497005988024,
+        "dimension": 26.339794754846068,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -223,10 +223,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "000 - CS/020 - Frameworks/022 - React/Callback in React & Ts.md",
+    "900 - Other/910 - Index/Homepage.md",
     "Linux.md",
     "Untitled 3.md",
     "BACKGROUND WEBSITE.md",
-    "900 - Other/910 - Index/Homepage.md",
     "000 - CS/080 - Configs & Setups/Terminal/Terminal Monitoring (macOS).md",
     "000 - CS/080 - Configs & Setups/Terminal/Terminal extensions.md",
     "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
@@ -250,7 +251,6 @@
     "%Nato.md",
     "Die Verbrechen der Nato.md",
     "Github copilot temp 0.md",
-    "Complaining leads to misery.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
