@@ -40,3 +40,4 @@
 "event_logs:sources:opened": {"key":"sources:opened","ct":314,"first_at":1770117929386,"last_at":1777389572107,"class_name":"EventLog","event_sources":{"active-leaf-change":308,"file-open":3,"open_source method":3}},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":18,"first_at":1775753805685,"last_at":1777483041908,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":19,"first_at":1775753805685,"last_at":1777579643903,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":20,"first_at":1775753805685,"last_at":1777590443892,"class_name":"EventLog"},
