@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
+                "file": "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setup Web Application"
+              "title": "Math & Format Specifier - C"
             }
           }
         ]
@@ -223,8 +223,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "000 - CS/020 - Frameworks/022 - React/Callback in React & Ts.md",
     "900 - Other/910 - Index/Homepage.md",
+    "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
+    "000 - CS/010 - Languages/011 - C/Basics - C/Types & Declaration - C.md",
+    "000 - CS/030 - Topics/035 - Web/Setup Web Application.md",
+    "000 - CS/020 - Frameworks/022 - React/Callback in React & Ts.md",
     "Linux.md",
     "Untitled 3.md",
     "BACKGROUND WEBSITE.md",
@@ -248,9 +251,6 @@
     "Warum wir nie lügen sollten.md",
     "000 - CS/080 - Configs & Setups/Obsidian/How to write a Mini-Essay.md",
     "000 - CS/080 - Configs & Setups/Obsidian/Obsidian Setup.md",
-    "%Nato.md",
-    "Die Verbrechen der Nato.md",
-    "Github copilot temp 0.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
