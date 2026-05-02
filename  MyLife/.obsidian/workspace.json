@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
+                "file": "900 - Other/910 - Index/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Math & Format Specifier - C"
+              "title": "Homepage"
             }
           }
         ]
@@ -223,6 +223,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "000 - CS/020 - Frameworks/021 - SDL/Boilerplate SDL Structure - C.md",
     "900 - Other/910 - Index/Homepage.md",
     "000 - CS/010 - Languages/011 - C/Basics - C/Math & Format Specifier - C.md",
     "000 - CS/010 - Languages/011 - C/Basics - C/Types & Declaration - C.md",
@@ -250,7 +251,6 @@
     "copilot",
     "Warum wir nie lügen sollten.md",
     "000 - CS/080 - Configs & Setups/Obsidian/How to write a Mini-Essay.md",
-    "000 - CS/080 - Configs & Setups/Obsidian/Obsidian Setup.md",
     "ta+",
     "000 - CS/030 - Topics/036 - Visual Applications",
     "000 - CS/030 - Topics/033 - Hardware/Heap",
