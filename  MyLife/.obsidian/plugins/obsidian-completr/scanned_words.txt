@@ -210,6 +210,8 @@ Publikationen
 Prof
 Produktionsverhältnisse
 Pragmatismus
+Permanent
+Pro
 IHDR
 IDATx
 IC
@@ -681,6 +683,8 @@ religiöser
 reguliert
 responsive
 rüber
+refresh
+runs
 Vs
 VO
 VJ
@@ -1621,6 +1625,7 @@ consideration
 commenting
 cat
 component
+crashes
 pt
 pD
 ph
@@ -1988,6 +1993,9 @@ press
 poweroff
 parental
 prop
+plist
+permissions
+perfectly
 kF
 kXl
 kXlm
@@ -2147,6 +2155,7 @@ kirchlicher
 konvertieren
 kritischer
 konvertierten
+killer
 Zw
 Zy
 ZL
@@ -2745,6 +2754,7 @@ Wiederholungen
 Werke
 Weitergehend
 Westgotenreich
+Way
 Cbc
 Cr
 Ck
@@ -3076,6 +3086,8 @@ Landesverteidigungsystems
 Landwirtschaft
 Landes
 Lebensbedingungen
+Library
+LaunchAgents
 qV
 qT
 qH
@@ -3566,6 +3578,9 @@ Schutzgedanke
 Selbstverwaltung
 Schicht
 Spielraum
+Sorry
+Scripting
+SIP
 zS
 zX
 zR
@@ -4217,6 +4232,8 @@ ableiten
 alten
 arbeitete
 abhängig
+aux
+adjustment
 JV
 Jv
 JN
@@ -4459,6 +4476,7 @@ Frieden
 Funktionsfähigkeit
 Freilassung
 Familienrecht
+Fix
 vHwc
 vE
 vA
@@ -5233,6 +5251,7 @@ Männer
 Marktplätze
 Möglichkeiten
 Mehrheit
+Manual
 hv
 hz
 have
@@ -5452,6 +5471,7 @@ herrschenden
 herangezogen
 humanistischen
 http
+hang
 lI
 lt
 ls
@@ -5698,6 +5718,9 @@ lebten
 litt
 lokaler
 lag
+launchctl
+loses
+laggy
 bM
 bS
 bs
@@ -6050,6 +6073,7 @@ beanspruchen
 bildeten
 beweglicher
 bring
+behaving
 mm
 ms
 mO
@@ -6371,6 +6395,7 @@ materiell
 materieller
 musste
 materiellen
+mentioned
 do
 dK
 dQ
@@ -6748,6 +6773,7 @@ denkbar
 diskutieren
 differenzierteren
 done
+discussed
 QS
 Qn
 QGu
@@ -7603,6 +7629,9 @@ steuerpflichtige
 situativen
 sudo
 systemctl
+setups
+skhd
+shortcuts
 XZ
 Xs
 XI
@@ -8717,6 +8746,7 @@ ismalimsche
 insofern
 ideologisch
 izya
+instance
 Gn
 Go
 Gs
@@ -9384,6 +9414,8 @@ Hierarchie
 Herrschaftssystem
 Handwerk
 Händen
+High
+Hotkeys
 xe
 xJ
 xys
@@ -9699,6 +9731,7 @@ toleranter
 tolerant
 treiben
 typing
+tiling
 UU
 Uo
 Uc
@@ -10448,6 +10481,7 @@ eingeschränkt
 erforderten
 eindeutige
 ermöglichen
+earlier
 BP
 Bz
 BVb
@@ -10664,6 +10698,7 @@ Bedarfsfall
 Bauern
 Beteiligung
 Betrachtung
+Bash
 TN
 Tn
 TV
@@ -10869,6 +10904,7 @@ Tätigkeiten
 Tötungsdelikten
 Trotzdem
 Ts
+Tahoe
 üb
 über
 überführt
