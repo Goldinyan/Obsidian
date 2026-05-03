@@ -371,6 +371,7 @@ Iberische
 Instrument
 Iberischen
 Id
+IOKit
 rD
 rVS
 rZ
@@ -2927,6 +2928,11 @@ Claudio
 Christinen
 Commenting
 Callback
+CoreVideo
+Cocoa
+CXX
+CXXFLAGS
+CPPFLAGS
 LI
 LF
 LLN
@@ -3581,6 +3587,8 @@ Spielraum
 Sorry
 Scripting
 SIP
+Suchpfade
+Silicon
 zS
 zX
 zR
@@ -3776,6 +3784,7 @@ Opposition
 Objektivität
 Ordner
 Ordnername
+OpenGL
 am
 ad
 afj
@@ -5721,6 +5730,7 @@ lag
 launchctl
 loses
 laggy
+lraylib
 bM
 bS
 bs
