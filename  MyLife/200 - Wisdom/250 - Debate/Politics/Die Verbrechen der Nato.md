@@ -1,14 +1,14 @@
 ---
 id: Die Verbrechen der Nato
 aliases:
-Topic:
+Topic: Erklärt die in-humnitären Verbrechen der Nato.
 Related:
   - "[[%Democracy]]"
   - "[[%Politik]]"
   - "[[%Nato]]"
 Tags:
   - w
-Date:
+Date: 2026-03-03T19:14:00
 Updated:
 Source:
 ---

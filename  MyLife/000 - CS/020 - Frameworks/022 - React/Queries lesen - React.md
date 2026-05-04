@@ -1,15 +1,17 @@
 ---
-id: "auslesen von queries"
+id: Queries lesen - React
 aliases:
-Topic:
+Topic: How to read date from url queries.
 Related:
+  - "[[%Web]]"
+  - "[[%React]]"
 Tags:
   - w
-Date:
+Date: 2026-05-03T19:09:00
 Updated:
 Source:
 ---
-# auslesen von queries
+# Queries lesen - React
 
 ```ts
 interface Props {

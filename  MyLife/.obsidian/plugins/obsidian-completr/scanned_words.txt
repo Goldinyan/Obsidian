@@ -212,6 +212,9 @@ Produktionsverhältnisse
 Pragmatismus
 Permanent
 Pro
+Privateigentum
+Produktionsmitteln
+Problemen
 IHDR
 IDATx
 IC
@@ -372,6 +375,7 @@ Instrument
 Iberischen
 Id
 IOKit
+Intruder
 rD
 rVS
 rZ
@@ -1257,6 +1261,8 @@ Einhaltung
 Einblick
 Einnahmequelle
 Einbindung
+Erklärt
+Erlaubnis
 cj
 cK
 cz
@@ -1627,6 +1633,9 @@ commenting
 cat
 component
 crashes
+curl
+checkt
+conditions
 pt
 pD
 ph
@@ -1997,6 +2006,7 @@ prop
 plist
 permissions
 perfectly
+parsen
 kF
 kXl
 kXlm
@@ -2384,6 +2394,8 @@ Netzwerke
 Nachteile
 Nichtmuslimen
 Nichtmuslime
+Normalmodus
+Neo
 uR
 uN
 ug
@@ -2756,6 +2768,7 @@ Werke
 Weitergehend
 Westgotenreich
 Way
+Wirtschaftsweisen
 Cbc
 Cr
 Ck
@@ -2933,6 +2946,7 @@ Cocoa
 CXX
 CXXFLAGS
 CPPFLAGS
+Conditions
 LI
 LF
 LLN
@@ -3589,6 +3603,10 @@ Scripting
 SIP
 Suchpfade
 Silicon
+Suggestions
+Speech
+Sozialpolitik
+Staatssouveränität
 zS
 zX
 zR
@@ -4243,6 +4261,10 @@ arbeitete
 abhängig
 aux
 adjustment
+accessible
+aspell
+abzustimmen
+abstimmen
 JV
 Jv
 JN
@@ -4293,6 +4315,7 @@ Jahren
 Judinnen
 Jahrhundert
 Judenverfolgungen
+Jene
 FzF
 FK
 FG
@@ -4723,6 +4746,8 @@ verwalten
 vorherige
 vermeintliche
 vieler
+verifying
+verfassungsfeindlich
 Aw
 ArX
 Ar
@@ -5261,6 +5286,7 @@ Marktplätze
 Möglichkeiten
 Mehrheit
 Manual
+Marktwirtschaft
 hv
 hz
 have
@@ -5481,6 +5507,8 @@ herangezogen
 humanistischen
 http
 hang
+head
+humnitären
 lI
 lt
 ls
@@ -5731,6 +5759,7 @@ launchctl
 loses
 laggy
 lraylib
+lynx
 bM
 bS
 bs
@@ -6084,6 +6113,7 @@ bildeten
 beweglicher
 bring
 behaving
+betriebene
 mm
 ms
 mO
@@ -6406,6 +6436,8 @@ materieller
 musste
 materiellen
 mentioned
+methods
+mitzuentscheiden
 do
 dK
 dQ
@@ -6784,6 +6816,7 @@ diskutieren
 differenzierteren
 done
 discussed
+determine
 QS
 Qn
 QGu
@@ -7642,6 +7675,7 @@ systemctl
 setups
 skhd
 shortcuts
+scenarios
 XZ
 Xs
 XI
@@ -8253,6 +8287,7 @@ gewisse
 galten
 gestellt
 grep
+gelobte
 nf
 nnvi
 nC
@@ -8428,6 +8463,7 @@ normativer
 nichtmuslimische
 nutzten
 nen
+nmap
 jt
 jW
 jz
@@ -8475,6 +8511,7 @@ joke
 jahrelang
 jüdische
 jene
+jq
 id
 in
 iB
@@ -8757,6 +8794,8 @@ insofern
 ideologisch
 izya
 instance
+involved
+importance
 Gn
 Go
 Gs
@@ -8967,6 +9006,8 @@ Gleichberechtigung
 Gründe
 Großteil
 Gegebenheiten
+Grundgesetz
+Geschehen
 fW
 fvB
 fnrA
@@ -9742,6 +9783,7 @@ tolerant
 treiben
 typing
 tiling
+translate
 UU
 Uo
 Uc
@@ -9843,6 +9885,7 @@ Unteranderem
 Unterschiedlichen
 Umgang
 Untertanen
+Unveiling
 DC
 DK
 DN
@@ -10042,6 +10085,7 @@ Durften
 Dazu
 Duldung
 DEINNAME
+Disabling
 eC
 eD
 eL
@@ -10492,6 +10536,8 @@ erforderten
 eindeutige
 ermöglichen
 earlier
+ensure
+eingestuft
 BP
 Bz
 BVb
@@ -10915,6 +10961,7 @@ Tötungsdelikten
 Trotzdem
 Ts
 Tahoe
+Turbo
 üb
 über
 überführt
@@ -11133,6 +11180,7 @@ Risiko
 Regime
 Region
 React
+Race
 Überblick
 Überlieferung
 Übersicht

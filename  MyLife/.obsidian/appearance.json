@@ -1,10 +1,12 @@
 {
   "theme": "obsidian",
   "accentColor": "#000000",
-  "cssTheme": "Typomagical",
+  "cssTheme": "Obsidian Nord",
   "baseFontSizeAction": false,
   "baseFontSize": 22,
   "interfaceFontFamily": "",
   "textFontFamily": "Arial,Chalkboard",
-  "translucency": true
+  "translucency": true,
+  "showViewHeader": true,
+  "showRibbon": true
 }

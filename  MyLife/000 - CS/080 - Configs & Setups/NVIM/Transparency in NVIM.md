@@ -1,7 +1,7 @@
 Date: 2026-01-20
 Tags: {
 #W
-[[%Nvim]]
+[[900 - Other/910 - Index/Tags/%Nvim]]
 [[%Config]]
 [[%UI]]
 }

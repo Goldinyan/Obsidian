@@ -1,26 +1,16 @@
 ---
-id: "Biodiversity"
+id: Biodiversity
 aliases:
-Topic:
+Topic: A Speech about the importance of Biodiversity
 Related:
+  - "%Mini Essay"
 Tags:
   - w
-Date:
+Date: 2026-01-13T19:24:00
 Updated:
 Source:
 ---
 # Biodiversity
-
-Dear Ms. Doolmann,
-
-Regarding our homework, I may have misunderstood the “sport speech” requirement and instead wrote a more detailed and sustainability focused argument than expected.
-
-To avoid taking too much time in class, I thought it would be best to send it to you directly in hopes that it can still count toward my grade.
-
-Kind regards,
-
-Ansgar
-
 
 There are many arguments supporting the claim that biodiversity is essential for humans, from providing the materials we depend on, to sustaining our economies, to shaping our cultural identity.
 Furthermore, the best of them all is, in my opinion, the saving of our planet.

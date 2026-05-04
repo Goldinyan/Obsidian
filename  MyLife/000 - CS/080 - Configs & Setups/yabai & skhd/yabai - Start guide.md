@@ -1,8 +1,15 @@
-High five! That `/tmp/` lock-file is the silent killer of `yabai` setups. When the service crashes or you try to start it twice, that little file stays behind and tells the next instance, "Sorry, someone is already in here," even if the room is empty.
-
-Now that we know the binary works and the lock is gone, you have two ways to start it.
-
 ---
+id: yabai - Start guide
+aliases:
+Topic: Explains how to run and start a yabai service.
+Related:
+Tags:
+  - w
+Date: 2026-05-03T19:13:00
+Updated:
+Source:
+---
+# yabai - Start guide
 
 ### Option 1: The "Permanent" Way (Recommended)
 
@@ -66,5 +73,3 @@ _Note: This will "hang" your terminal window while it runs. To stop it, press `C
     sudo yabai --load-sa
     ```
     
-
-Are the windows behaving exactly how you want them to, or do you need help setting up the keyboard shortcuts to move them around?

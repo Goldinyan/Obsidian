@@ -1,7 +1,7 @@
 Date: 2025-12-16
 Tags: {
 #N 
-[[%Nvim]]
+[[900 - Other/910 - Index/Tags/%Nvim]]
 [[%Command]]
 }
 
