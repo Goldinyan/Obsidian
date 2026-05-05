@@ -215,6 +215,11 @@ Pro
 Privateigentum
 Produktionsmitteln
 Problemen
+Profi
+Pusht
+PAT
+Passwort
+Programm
 IHDR
 IDATx
 IC
@@ -376,6 +381,7 @@ Iberischen
 Id
 IOKit
 Intruder
+Installier
 rD
 rVS
 rZ
@@ -832,6 +838,8 @@ Vergleicht
 Vorgänger
 Verhältnissen
 Verbesserung
+Verknüpfung
+Verknüpft
 KPgM
 KO
 Krbm
@@ -1263,6 +1271,7 @@ Einnahmequelle
 Einbindung
 Erklärt
 Erlaubnis
+Einloggen
 cj
 cK
 cz
@@ -2256,6 +2265,7 @@ Zusammenarbeit
 Zusammenlebens
 Zahlung
 Zwangskonversionen
+Zukunft
 Nn
 Nk
 No
@@ -2947,6 +2957,7 @@ CXX
 CXXFLAGS
 CPPFLAGS
 Conditions
+Container
 LI
 LF
 LLN
@@ -3171,6 +3182,7 @@ Youtube
 Youtuber
 Yet
 Yugoslavia
+Yabai
 SO
 Si
 SP
@@ -3607,6 +3619,8 @@ Suggestions
 Speech
 Sozialpolitik
 Staatssouveränität
+Setzt
+Sichtbarkeit
 zS
 zX
 zR
@@ -3803,6 +3817,7 @@ Objektivität
 Ordner
 Ordnername
 OpenGL
+Ordners
 am
 ad
 afj
@@ -4265,6 +4280,9 @@ accessible
 aspell
 abzustimmen
 abstimmen
+ansprechen
+arbeitet
+absoluter
 JV
 Jv
 JN
@@ -5287,6 +5305,8 @@ Möglichkeiten
 Mehrheit
 Manual
 Marktwirtschaft
+Musst
+Mein
 hv
 hz
 have
@@ -5509,6 +5529,7 @@ http
 hang
 head
 humnitären
+hochladen
 lI
 lt
 ls
@@ -5760,6 +5781,7 @@ loses
 laggy
 lraylib
 lynx
+lokalen
 bM
 bS
 bs
@@ -6114,6 +6136,7 @@ beweglicher
 bring
 behaving
 betriebene
+brauchst
 mm
 ms
 mO
@@ -6817,6 +6840,9 @@ differenzierteren
 done
 discussed
 determine
+deinen
+dort
+deines
 QS
 Qn
 QGu
@@ -7001,6 +7027,8 @@ obszönen
 offene
 oderner
 ordner
+offizielle
+origin
 ss
 sq
 sE
@@ -7676,6 +7704,8 @@ setups
 skhd
 shortcuts
 scenarios
+sage
+spart
 XZ
 Xs
 XI
@@ -8288,6 +8318,8 @@ galten
 gestellt
 grep
 gelobte
+gefragt
+gescheitert
 nf
 nnvi
 nC
@@ -8796,6 +8828,8 @@ izya
 instance
 involved
 importance
+installiere
+installieren
 Gn
 Go
 Gs
@@ -9008,6 +9042,9 @@ Großteil
 Gegebenheiten
 Grundgesetz
 Geschehen
+GitHubs
+Grunde
+Gamechanger
 fW
 fvB
 fnrA
@@ -10086,6 +10123,8 @@ Dazu
 Duldung
 DEINNAME
 Disabling
+Dirty
+Daten
 eC
 eD
 eL
@@ -10538,6 +10577,7 @@ ermöglichen
 earlier
 ensure
 eingestuft
+existierende
 BP
 Bz
 BVb
@@ -10962,6 +11002,8 @@ Trotzdem
 Ts
 Tahoe
 Turbo
+Token
+Textdatei
 üb
 über
 überführt
@@ -11181,6 +11223,7 @@ Regime
 Region
 React
 Race
+Remote
 Überblick
 Überlieferung
 Übersicht
@@ -11214,6 +11257,7 @@ Race
 öff
 öffentlicher
 ökonomischen
+öffentlich
 ändern
 äger
 änderst
