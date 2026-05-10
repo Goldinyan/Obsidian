@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 - School/330 - Philosophie/Warum wir nie lügen sollten.md",
+                "file": "Kommunismus ist keine Utopie!.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Warum wir nie lügen sollten"
+              "title": "Kommunismus ist keine Utopie!"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "300 - School/330 - Philosophie/Warum wir nie lügen sollten.md",
+            "file": "Kommunismus ist keine Utopie!.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,6 +177,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "300 - School/330 - Philosophie/Warum wir nie lügen sollten.md",
     "000 - CS/IP.md",
     "auslesen von queries.md",
     "900 - Other/910 - Index/Homepage.md",
@@ -203,7 +204,6 @@
     "Philo.md",
     "500 Philosophie/Analysieren Philosophischer Texte.md",
     "Veganismus.md",
-    "850 Reading/TODO - Books/Books.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",

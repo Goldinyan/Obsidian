@@ -1,12 +1,13 @@
 {
   "theme": "obsidian",
-  "accentColor": "#000000",
-  "cssTheme": "Obsidian Nord",
-  "baseFontSizeAction": false,
+  "accentColor": "#f5f5f5",
+  "cssTheme": "Transparent",
+  "baseFontSizeAction": true,
   "baseFontSize": 22,
-  "interfaceFontFamily": "",
-  "textFontFamily": "Arial,Chalkboard",
-  "translucency": true,
-  "showViewHeader": true,
-  "showRibbon": true
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "translucency": false,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
