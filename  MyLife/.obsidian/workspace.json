@@ -300,12 +300,9 @@
       "templater-obsidian:Templater": true,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": true,
-      "copilot:Open Copilot Chat": true,
-      "homepage:Open homepage": true,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": true,
       "smart-connections:Smart Connections: Open random connection": true,
-      "iconic:Open rulebook": true,
       "random-note:Open random note": true
     }
   },

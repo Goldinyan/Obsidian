@@ -408,6 +408,8 @@ Idealismus
 Idealist
 Industrie
 Insofren
+Individuums
+Individuelle
 rD
 rVS
 rZ
@@ -890,6 +892,11 @@ Vermieter
 Verfügungsrecht
 Vollstreckungen
 Verhältnisses
+Versprechen
+Vertragsfreiheit
+Verträge
+Vertragssicherheit
+Villa
 KPgM
 KO
 Krbm
@@ -1112,6 +1119,8 @@ Kriese
 Konkurenz
 Kostenfakto
 Kapitalakkumulation
+Kernversprechen
+Konzepte
 EG
 ER
 Ek
@@ -1352,6 +1361,9 @@ Einwirkung
 Eigentümer
 Eigentumsstatus
 Eigentums
+Erzieher
+Eigentümergesellschaft
+Existenznot
 cj
 cK
 cz
@@ -2376,6 +2388,7 @@ Zahnbürsten
 Zusammengefasst
 Zahnbürste
 Zugriffsmacht
+Zwang
 Nn
 Nk
 No
@@ -2703,6 +2716,7 @@ unmöglich
 unterbewusst
 unwichtiger
 umgegangen
+untrennbar
 WGN
 Wm
 Wl
@@ -2924,6 +2938,8 @@ Wohnen
 Wem
 Wohlstand
 Wohnung
+Willkür
+Wohltäter
 Cbc
 Cr
 Ck
@@ -3281,6 +3297,7 @@ Luxusgüter
 Laden
 Liberale
 Lebendsmittel
+Leistung
 qV
 qT
 qH
@@ -3802,6 +3819,9 @@ Sache
 Schlussfolgern
 Störenfried
 Störer
+Säulen
+Schiedsrichter
+Sicherstellen
 zS
 zX
 zR
@@ -4005,6 +4025,7 @@ Ordnername
 OpenGL
 Ordners
 Orientung
+Oeconomicus
 am
 ad
 afj
@@ -4493,6 +4514,8 @@ ausleist
 anzueignen
 abschaffung
 aneignung
+ausgeblendet
+aufzeigen
 JV
 Jv
 JN
@@ -4544,6 +4567,7 @@ Judinnen
 Jahrhundert
 Judenverfolgungen
 Jene
+Justiz
 FzF
 FK
 FG
@@ -4745,6 +4769,8 @@ Fabriken
 Fundament
 Fabrik
 Fremden
+Formale
+Formal
 vHwc
 vE
 vA
@@ -5004,6 +5030,9 @@ verschenken
 voraus
 verspricht
 verteilen
+verbirgt
+vernunftbegabtes
+verhungern
 Aw
 ArX
 Ar
@@ -5324,6 +5353,9 @@ Arbeitgeber
 Akkumulation
 Arbeitenden
 ARbeit
+Abhängigkeiten
+Arbeitslosen
+Abkommen
 MV
 MM
 Ms
@@ -5576,6 +5608,10 @@ Miete
 Mieter
 Mitteln
 Monopol
+Menschenbild
+Multimilliardär
+Markt
+Machtverhältnisse
 hv
 hz
 have
@@ -5812,6 +5848,8 @@ heißen
 herauschält
 harten
 herzustellen
+höchste
+hungernden
 lI
 lt
 ls
@@ -6069,6 +6107,11 @@ liegenden
 löste
 leistet
 lösen
+lateinischen
+liber
+liberalen
+liberale
+leeres
 bM
 bS
 bs
@@ -7173,6 +7216,7 @@ daneben
 dritter
 durchgesetzten
 drastisch
+definiert
 QS
 Qn
 QGu
@@ -8059,6 +8103,9 @@ soweit
 schlussendlich
 staatliche
 staates
+strebt
+sorgt
+stützt
 XZ
 Xs
 XI
@@ -8710,6 +8757,8 @@ geregelt
 gerechtere
 gerechter
 geselleschaftliche
+geholfen
+gestalten
 nf
 nnvi
 nC
@@ -8896,6 +8945,7 @@ naturgesetzliche
 netten
 nutze
 niemand
+notwendiges
 jt
 jW
 jz
@@ -9237,6 +9287,8 @@ irrational
 ideales
 ihrere
 irgendwas
+isoliertes
+individueller
 Gn
 Go
 Gs
@@ -9467,6 +9519,8 @@ Grundmuster
 Gerichte
 Gegenstandes
 Geltung
+Gut
+Gemeinschaftsstrukturen
 fW
 fvB
 fnrA
@@ -9759,6 +9813,8 @@ falschen
 fehlt
 fallen
 fremde
+freiwillige
+formal
 Hn
 HnZ
 HV
@@ -9938,6 +9994,8 @@ Himmel
 Handelns
 Herrschaftsverhältnis
 Handy
+Homo
+Hülle
 xe
 xJ
 xys
@@ -10260,6 +10318,7 @@ technisches
 theoretisch
 trennt
 tuen
+tiefste
 UU
 Uo
 Uc
@@ -10581,6 +10640,7 @@ Denkfehler
 Dessen
 Denkens
 Dritte
+Dienstleister
 eC
 eD
 eL
@@ -11066,6 +11126,11 @@ erzielt
 eigentum
 eigetntum
 eigentums
+einflussreichste
+edlen
+exklusiv
+eingehalten
+einschränken
 BP
 Bz
 BVb
@@ -11298,6 +11363,10 @@ BGB
 Besitzt
 Bibliothek
 Boden
+Bereitstellung
+Bürger
+Bettler
+Bankier
 TN
 Tn
 TV
@@ -11741,6 +11810,9 @@ Realismus
 Rechtsform
 REchtsmacht
 Rechtsmachten
+Rahmenbedingungen
+Reale
+Rechtsgleichheit
 Überblick
 Überlieferung
 Übersicht
@@ -11762,6 +11834,7 @@ Rechtsmachten
 Überschuss
 Überredung
 Überfluss
+Übel
 Äußere
 Ähnlich
 Äquivalent

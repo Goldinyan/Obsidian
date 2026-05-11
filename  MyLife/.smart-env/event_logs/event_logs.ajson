@@ -1111,3 +1111,4 @@
 "event_logs:sources:modified": {"key":"sources:modified","ct":22276,"first_at":1777995246136,"last_at":1778405212112,"class_name":"EventLog","event_sources":{"obsidian:workspace.editor-change":20121,"obsidian:vault.modify":2155}},
 "event_logs:sources:imported": {"key":"sources:imported","ct":23033,"first_at":1770117476463,"last_at":1778405221102,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":5520,"first_at":1770117482194,"last_at":1778405221208,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":44,"first_at":1775753805685,"last_at":1778430239035,"class_name":"EventLog"},
