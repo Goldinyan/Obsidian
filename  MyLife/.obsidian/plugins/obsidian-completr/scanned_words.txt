@@ -897,6 +897,9 @@ Vertragsfreiheit
 Verträge
 Vertragssicherheit
 Villa
+Verdeutlichung
+Verstöße
+Verteilung
 KPgM
 KO
 Krbm
@@ -1121,6 +1124,7 @@ Kostenfakto
 Kapitalakkumulation
 Kernversprechen
 Konzepte
+Klarstellung
 EG
 ER
 Ek
@@ -1364,6 +1368,9 @@ Eigentums
 Erzieher
 Eigentümergesellschaft
 Existenznot
+Eigentumsrecht
+Existenzbedingung
+Eigentumsform
 cj
 cK
 cz
@@ -2287,6 +2294,7 @@ kapitalistechn
 kontrolliert
 klaust
 kommunismus
+kommunistische
 Zw
 Zy
 ZL
@@ -2717,6 +2725,7 @@ unterbewusst
 unwichtiger
 umgegangen
 untrennbar
+unterzuordnen
 WGN
 Wm
 Wl
@@ -3298,6 +3307,8 @@ Laden
 Liberale
 Lebendsmittel
 Leistung
+Luxus
+Leihst
 qV
 qT
 qH
@@ -3822,6 +3833,8 @@ Störer
 Säulen
 Schiedsrichter
 Sicherstellen
+Steuern
+Setzung
 zS
 zX
 zR
@@ -3928,6 +3941,7 @@ zwangsläufig
 zusammenfallen
 ziemlich
 ziel
+zielt
 OU
 OL
 Oq
@@ -4516,6 +4530,9 @@ abschaffung
 aneignung
 ausgeblendet
 aufzeigen
+anwesend
+ahndet
+auszubeuten
 JV
 Jv
 JN
@@ -5033,6 +5050,12 @@ verteilen
 verbirgt
 vernunftbegabtes
 verhungern
+verstaatlichen
+vornimmt
+verweigert
+verbleibt
+verfügt
+voneinander
 Aw
 ArX
 Ar
@@ -5356,6 +5379,8 @@ ARbeit
 Abhängigkeiten
 Arbeitslosen
 Abkommen
+Aneignung
+Arbeitsmitteln
 MV
 MM
 Ms
@@ -5612,6 +5637,8 @@ Menschenbild
 Multimilliardär
 Markt
 Machtverhältnisse
+Mietwohnung
+Machtverhältnis
 hv
 hz
 have
@@ -5850,6 +5877,7 @@ harten
 herzustellen
 höchste
 hungernden
+hältst
 lI
 lt
 ls
@@ -6112,6 +6140,8 @@ liber
 liberalen
 liberale
 leeres
+lebst
+lebensnotwendigen
 bM
 bS
 bs
@@ -6485,6 +6515,9 @@ besuchst
 bestitz
 besitzer
 besitz
+begegnen
+beruhen
+bloß
 mm
 ms
 mO
@@ -6822,6 +6855,7 @@ maßstab
 mein
 monopol
 meht
+marxistisch
 do
 dK
 dQ
@@ -7217,6 +7251,7 @@ dritter
 durchgesetzten
 drastisch
 definiert
+durchsetzt
 QS
 Qn
 QGu
@@ -8106,6 +8141,8 @@ staates
 strebt
 sorgt
 stützt
+synonym
+staatliches
 XZ
 Xs
 XI
@@ -8401,6 +8438,8 @@ wenige
 wegnehmen
 wohnt
 wohnst
+widerrechtlichen
+wegzunehmen
 gv
 gu
 gP
@@ -8759,6 +8798,9 @@ gerechter
 geselleschaftliche
 geholfen
 gestalten
+grundlegenden
+gesellschaftliches
+gezwungen
 nf
 nnvi
 nC
@@ -9521,6 +9563,8 @@ Gegenstandes
 Geltung
 Gut
 Gemeinschaftsstrukturen
+Gewaltmonopol
+Gebrauchsgegenstände
 fW
 fvB
 fnrA
@@ -9815,6 +9859,7 @@ fallen
 fremde
 freiwillige
 formal
+fremden
 Hn
 HnZ
 HV
@@ -10641,6 +10686,7 @@ Dessen
 Denkens
 Dritte
 Dienstleister
+Definitionen
 eC
 eD
 eL
@@ -11131,6 +11177,9 @@ edlen
 exklusiv
 eingehalten
 einschränken
+entscheidender
+erlangt
+exklusivem
 BP
 Bz
 BVb
@@ -11367,6 +11416,7 @@ Bereitstellung
 Bürger
 Bettler
 Bankier
+Besitzer
 TN
 Tn
 TV
@@ -11813,6 +11863,10 @@ Rechtsmachten
 Rahmenbedingungen
 Reale
 Rechtsgleichheit
+Rechtssystem
+Räume
+Rechtstitel
+Rechtsmacht
 Überblick
 Überlieferung
 Übersicht
@@ -11841,6 +11895,7 @@ Rechtsgleichheit
 Äußerlich
 Änderungen
 Ämter
+Ängste
 ökonomische
 öffnen
 östlichen
