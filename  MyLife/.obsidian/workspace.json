@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "a54bd457233a825a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kommunismus ist keine Utopie!.md",
+                "file": "Marxistische Analyse des Absolutismus & Aufklärung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kommunismus ist keine Utopie!"
+              "title": "Marxistische Analyse des Absolutismus & Aufklärung"
             }
           },
           {
-            "id": "d8e7c8f6cadf8675",
+            "id": "d419681f93dffccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materiell.md",
+                "file": "Der marxistische Materialismus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,83 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Materiell"
-            }
-          },
-          {
-            "id": "bd92faefb5159553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Besitz und Eigentum im Kommunismus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Besitz und Eigentum im Kommunismus"
-            }
-          },
-          {
-            "id": "9cce739462655946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liberalismus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Liberalismus"
-            }
-          },
-          {
-            "id": "b378abb677cd7cc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kommunismus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kommunismus"
+              "title": "Der marxistische Materialismus"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -306,10 +233,14 @@
       "random-note:Open random note": true
     }
   },
-  "active": "bd92faefb5159553",
+  "active": "a54bd457233a825a",
   "lastOpenFiles": [
-    "Liberalismus.md",
+    "Der marxistische Materialismus.md",
+    "Marxistische Analyse des Absolutismus & Aufklärung.md",
+    "Marxistische Analyse der Französischen Revolution.md",
     "Besitz und Eigentum im Kommunismus.md",
+    "Besitz und Eigentum im Kommunismus 2.md",
+    "Liberalismus.md",
     "Kommunismus.md",
     "Materiell.md",
     "Kommunismus ist keine Utopie!.md",
@@ -330,10 +261,6 @@
     "000 - CS/080 - Configs & Setups/NVIM/Transparency in NVIM.md",
     "000 - CS/080 - Configs & Setups/NVIM/Disabling Copilot in Nvim.md",
     "create github repo in terminal.md",
-    "3d plotter.md",
-    "300 - School/330 - Philosophie/Analysieren Philosophischer Texte.md",
-    "Linux commands.md",
-    "200 - Wisdom/250 - Debate/Logic fails in arguments.md",
     "000 - CS/070 - Linux",
     "copilot/copilot-conversations",
     "copilot",

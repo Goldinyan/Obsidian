@@ -9,7 +9,7 @@ Date:
 Updated:
 Source:
 ---
-## Besitz und Eigentum im Kommunismus: Eine Klarstellung
+## Besitz und Eigentum im Kommunismus
 
 In politischen Debatten begegnen uns oft die gleichen Phrasen: „Ihr wollt mir mein Handy wegnehmen!“, „Ihr wollt meine Zahnbürste verstaatlichen!“ oder „Im Kommunismus gibt es keinen Luxus mehr“. 
 Diese Ängste beruhen meist auf einem grundlegenden Missverständnis. Im Alltag verwenden wir **Besitz** und **Eigentum** synonym, rechtlich und marxistisch betrachtet sind es jedoch zwei völlig verschiedene Kategorien.
