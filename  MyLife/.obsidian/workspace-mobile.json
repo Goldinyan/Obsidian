@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kommunismus ist keine Utopie!.md",
+                "file": "leaks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kommunismus ist keine Utopie!"
+              "title": "leaks"
             }
           }
         ]
@@ -175,16 +175,22 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "eccd39326575024f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Liberalismus.md",
-    "Besitz und Eigentum im Kommunismus.md",
+    "H-Methode.md",
     "Kommunismus.md",
+    "Besitz und Eigentum im Kommunismus 2.md",
+    "Besitz und Eigentum im Kommunismus.md",
+    "3d plotter.md",
+    "Symmetrie ganzrationaler Funktionen.md",
+    "v.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
+    "Marxistische Analyse des Absolutismus & Aufklärung.md",
     "Kommunismus ist keine Utopie!.md",
+    "Liberalismus.md",
     "300 - School/330 - Philosophie/Warum wir nie lügen sollten.md",
     "000 - CS/IP.md",
     "auslesen von queries.md",
@@ -198,12 +204,6 @@
     "Untitled",
     "400 History/Untitled.md",
     "300 School/Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
-    "Running Web without npm.md",
-    "300 School/German/Die Physiker - Buch Analyse/Zusammenfassung - \"Die Physiker\" - Dürrenmatt.md",
-    "300 School/English/REMEMBMER.md",
-    "300 School/English/Short Story Analysis – Compact Summary.md",
-    "600 Debate/Veganism/Veganismus Contra.md",
-    "200 CS/Languages/C/Structs - C/Accessing & Updating Structs.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",
