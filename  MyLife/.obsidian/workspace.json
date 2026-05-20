@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f4d1ec24dbc56bff",
         "type": "tabs",
         "children": [
           {
-            "id": "a54bd457233a825a",
+            "id": "7df5bb431b0735c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der marxistische Materialismus.md",
+                "file": "no idea/cpp komilieren und raylib.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Der marxistische Materialismus"
-            }
-          },
-          {
-            "id": "d419681f93dffccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Der marxistische Materialismus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Der marxistische Materialismus"
+              "title": "cpp komilieren und raylib"
             }
           }
         ]
@@ -67,7 +43,7 @@
       {
         "id": "90f2efb3405eef97",
         "type": "tabs",
-        "dimension": 73.66020524515393,
+        "dimension": 71.30559540889527,
         "children": [
           {
             "id": "7ff640d71c0bd486",
@@ -97,7 +73,7 @@
       {
         "id": "1e8e174aae067a25",
         "type": "tabs",
-        "dimension": 26.339794754846068,
+        "dimension": 28.694404591104735,
         "children": [
           {
             "id": "23551fd757c41ab1",
@@ -113,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -225,52 +200,52 @@
       "command-palette:Open command palette": true,
       "bases:Create new base": true,
       "templater-obsidian:Templater": true,
-      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": true,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": true,
       "smart-connections:Smart Connections: Open random connection": true,
-      "random-note:Open random note": true
+      "random-note:Open random note": true,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "a54bd457233a825a",
+  "active": "7df5bb431b0735c0",
   "lastOpenFiles": [
-    "Marxistische Analyse des Absolutismus & Aufklärung.md",
-    "Marxistische Analyse der Französischen Revolution.md",
-    "Der marxistische Materialismus.md",
-    "Besitz und Eigentum im Kommunismus.md",
-    "Besitz und Eigentum im Kommunismus 2.md",
-    "Liberalismus.md",
-    "Kommunismus.md",
-    "Materiell.md",
-    "Kommunismus ist keine Utopie!.md",
-    "900 - Other/910 - Index/Homepage.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Github CLI Sheet.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Commands.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal extensions.md",
-    "900 - Other/930 - Cheatsheet/NVCHAD & Vim Keybinds.md",
-    "000 - CS/Protocol.md",
-    "000 - CS/NVIM.md",
-    "000 - CS/Network Connection.md",
-    "000 - CS/IP.md",
-    "000 - CS/Github für Kids.md",
-    "000 - CS/080 - Configs & Setups/yabai & skhd/Keybinds.md",
-    "000 - CS/080 - Configs & Setups/Terminal/Terminal Monitoring (macOS).md",
-    "000 - CS/080 - Configs & Setups/NVIM/Vim Keybinds.md",
-    "000 - CS/080 - Configs & Setups/NVIM/Transparency in NVIM.md",
-    "000 - CS/080 - Configs & Setups/NVIM/Disabling Copilot in Nvim.md",
-    "create github repo in terminal.md",
-    "000 - CS/070 - Linux",
-    "copilot/copilot-conversations",
-    "copilot",
-    "ta+",
-    "000 - CS/030 - Topics/036 - Visual Applications",
-    "000 - CS/030 - Topics/033 - Hardware/Heap",
-    "Untitled",
-    "000 - CS/030 - Topics/031 - Cyber Security/DDoS",
-    "000 - CS/030 - Topics/031 - Cyber Security",
-    "900 - Other/940 - Listen",
+    "Makefile",
+    "development/active/Coding Kids/Coding Kids/Coding Kids.base",
+    "development/active/Coding Kids/Coding Kids/Tasks/Write documentation.md",
+    "development/active/Coding Kids/Coding Kids/Tasks/Fix onboarding bug.md",
+    "development/active/Coding Kids/Coding Kids.base",
+    "development/active/Coding Kids/Coding Kids/Tasks/Build first feature.md",
+    "development/active/Coding Kids/Coding Kids/Tasks/Research and discovery.md",
+    "development/active/Coding Kids/Coding Kids/Tasks/Plan project.md",
+    "development/active/Coding Kids/Coding Kids/Tasks",
+    "development/active/Coding Kids/Coding Kids",
+    "development/active/Coding Kids/Tasks/Untitled.md",
+    "development/active/Coding Kids/Tasks/Write documentation.md",
+    "development/active/Coding Kids/Tasks/Untitled 2.md",
+    "development/active/Coding Kids/Tasks/Untitled 1.md",
+    "development/active/Coding Kids/Tasks/Research and discovery.md",
+    "development/active/Coding Kids/Tasks/Fix onboarding bug with permissions.md",
+    "development/active/Coding Kids/Tasks/Coding Kids.md",
+    "development/active/Coding Kids/Tasks/Build first feature.md",
+    "development/active/Coding Kids/Tasks/Finish User Interface.md",
+    "development/active/Coding Kids/Tasks",
+    "development/active/Coding Kids",
+    "development/active/Coding Kids/Tasks/finish minimal UI.md",
+    "development/active/Coding Kids.md",
+    "development/active/Coding Kids/Tasks/Fix onboarding bug.md",
+    "development/active/Coding Kids/Tasks/add settings for UI and Notifications.md",
+    "development/active/Coding Kids/Tasks",
+    "development/active/Coding Kids",
+    "development/active/Kanban-1779132321363.md",
+    "Undadsadtitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban 2.md",
+    "media/books/upcoming.base",
+    "media/books/done.base",
+    "media/books/done/Das Kapital (1867).md",
+    "media/wiki/entries/Nihilism.md",
+    "media/books/upcoming/Atheism (2003).md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",

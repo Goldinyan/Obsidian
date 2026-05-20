@@ -1,14 +1,11 @@
 [
   "templater-obsidian",
-  "file-explorer-note-count",
   "code-styler",
-  "omnisearch",
-  "cmdr",
   "obsidian-latex-suite",
-  "obsidian-completr",
   "obsidian-git",
-  "obsidian-linter",
   "smart-connections",
-  "ninja-cursor",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-media-db-plugin",
+  "vimium"
 ]

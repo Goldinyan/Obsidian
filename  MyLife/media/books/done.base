@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "media/books/done"
+    order:
+      - file.name
+      - author
+    cardSize: 150
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.65

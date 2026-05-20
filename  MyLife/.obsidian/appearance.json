@@ -1,13 +1,14 @@
 {
   "theme": "obsidian",
-  "accentColor": "#f5f5f5",
-  "cssTheme": "Transparent",
+  "accentColor": "#929090",
+  "cssTheme": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 22,
+  "baseFontSize": 24,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "translucency": false,
   "showViewHeader": false,
   "showRibbon": true,
-  "monospaceFontFamily": "JetBrainsMono Nerd Font"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": []
 }

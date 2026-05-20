@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "media/books/upcoming"
+    order:
+      - title
+      - author
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 1.65
+    cardSize: 150
