@@ -5,11 +5,13 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "livePreview": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "foldHeading": false,
-  "foldIndent": false,
+  "foldIndent": true,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "smartIndentList": false,
-  "useTab": false
+  "smartIndentList": true,
+  "useTab": true,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "hidden"
 }

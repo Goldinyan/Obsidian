@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f4d1ec24dbc56bff",
+        "id": "3886ed796fc57652",
         "type": "tabs",
         "children": [
           {
-            "id": "7df5bb431b0735c0",
+            "id": "864c9a7e85325b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no idea/cpp komilieren und raylib.md",
+                "file": "education/school/physics/Hawking - Strahlung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp komilieren und raylib"
+              "title": "Hawking - Strahlung"
             }
           }
         ]
@@ -56,16 +56,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "c2b0c40c7e69c190",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - CS/IP.md",
+                "file": "education/school/physics/Hawking - Strahlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,41 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IP"
-            }
-          },
-          {
-            "id": "f5647a7b513f54c3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "000 - CS/IP.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from IP"
-            }
-          },
-          {
-            "id": "669c60dc1360b96f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
-            }
-          },
-          {
-            "id": "06f10abaa1123644",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "title": "Backlinks for Hawking - Strahlung"
             }
           },
           {
@@ -181,13 +137,26 @@
               "icon": "lucide-list",
               "title": "Outline of IP"
             }
+          },
+          {
+            "id": "90ae54dce299f6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "education/school/physics/Hawking - Strahlung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hawking - Strahlung"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 491.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,31 +164,43 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
+      "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "templater-obsidian:Templater": true,
-      "obsidian-git:Open Git source control": true,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": true,
-      "smart-connections:Smart Connections: Open random connection": true,
-      "random-note:Open random note": true,
+      "obsidian-git:Open Git source control": false,
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "7df5bb431b0735c0",
+  "active": "864c9a7e85325b17",
   "lastOpenFiles": [
-    "Makefile",
-    "development/active/Coding Kids/Coding Kids/Coding Kids.base",
+    "downloads/engels-entwickl-des-soz copy.pdf",
+    "education/computer science/020 - Frameworks/raylib/Compiling Raylib (C++).md",
+    "downloads/The Ethnic Cleansing of Palestine -- Ilan Pappé, Luis Noriega, Ilan Papeh -- 50718th, PS, 2006 -- Oneworld Publications -- 9781435686298 -- 5f7fafd0c1776c25131e4d4a73982d85 -- Anna’s Archive copy.pdf",
+    "downloads",
+    "education/computer science/020 - Frameworks/raylib",
+    "education/computer science/020 - Frameworks/git",
+    "education/politics/Materiell.md",
+    "media/books/upcoming.base",
+    "education/politics",
+    "gold",
+    "education",
+    "media/books/done.base",
+    "education/computer science/SSH.md",
+    "education/computer science/080 - Configs & Setups/Obsidian/Obsidian Keybinds.md",
+    "education/computer science/languages/011 - C/Memory Managment - C/Checking for Memory Leaks in C.md",
+    "no idea/v.md",
+    "education/school/history/War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
+    "education/computer science/080 - Configs & Setups/Obsidian/Syntax-Highlighting Obsidian.md",
+    "education/school/philosphy/Quotes/Quotes Overall.md",
+    "education/computer science/020 - Frameworks/021 - SDL/Locking surface - SDL.md",
+    "education/computer science/070 - Linux/Linux commands.md",
+    "education/politics/Der marxistische Materialismus.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Write documentation.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Fix onboarding bug.md",
-    "development/active/Coding Kids/Coding Kids.base",
     "development/active/Coding Kids/Coding Kids/Tasks/Build first feature.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Research and discovery.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Plan project.md",
-    "development/active/Coding Kids/Coding Kids/Tasks",
-    "development/active/Coding Kids/Coding Kids",
     "development/active/Coding Kids/Tasks/Untitled.md",
     "development/active/Coding Kids/Tasks/Write documentation.md",
     "development/active/Coding Kids/Tasks/Untitled 2.md",
@@ -228,24 +209,6 @@
     "development/active/Coding Kids/Tasks/Fix onboarding bug with permissions.md",
     "development/active/Coding Kids/Tasks/Coding Kids.md",
     "development/active/Coding Kids/Tasks/Build first feature.md",
-    "development/active/Coding Kids/Tasks/Finish User Interface.md",
-    "development/active/Coding Kids/Tasks",
-    "development/active/Coding Kids",
-    "development/active/Coding Kids/Tasks/finish minimal UI.md",
-    "development/active/Coding Kids.md",
-    "development/active/Coding Kids/Tasks/Fix onboarding bug.md",
-    "development/active/Coding Kids/Tasks/add settings for UI and Notifications.md",
-    "development/active/Coding Kids/Tasks",
-    "development/active/Coding Kids",
-    "development/active/Kanban-1779132321363.md",
-    "Undadsadtitled Kanban.md",
-    "Untitled Kanban 1.md",
-    "Untitled Kanban 2.md",
-    "media/books/upcoming.base",
-    "media/books/done.base",
-    "media/books/done/Das Kapital (1867).md",
-    "media/wiki/entries/Nihilism.md",
-    "media/books/upcoming/Atheism (2003).md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
