@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "864c9a7e85325b17",
+            "id": "a5701d89b243a4bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/school/physics/Hawking - Strahlung.md",
+                "file": "gold/900 - Other/930 - Cheatsheet/LAtex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hawking - Strahlung"
+              "title": "LAtex"
+            }
+          },
+          {
+            "id": "1f99d77c1fc4b1fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exponential Trick.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exponential Trick"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +197,16 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "864c9a7e85325b17",
+  "active": "1f99d77c1fc4b1fc",
   "lastOpenFiles": [
+    "gold/900 - Other/930 - Cheatsheet/LAtex.md",
+    "Exponential Trick.md",
+    "Common Misconceptions of Communism.md",
+    "The government.md",
+    "education/school/philosphy/Quotes/Quotes Overall.md",
+    "The Idea of Creation in Capitalism.md",
+    "spotatui (Spotify in Terminal).md",
+    "education/school/physics/Hawking - Strahlung.md",
     "downloads/engels-entwickl-des-soz copy.pdf",
     "education/computer science/020 - Frameworks/raylib/Compiling Raylib (C++).md",
     "downloads/The Ethnic Cleansing of Palestine -- Ilan Pappé, Luis Noriega, Ilan Papeh -- 50718th, PS, 2006 -- Oneworld Publications -- 9781435686298 -- 5f7fafd0c1776c25131e4d4a73982d85 -- Anna’s Archive copy.pdf",
@@ -192,7 +225,6 @@
     "no idea/v.md",
     "education/school/history/War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
     "education/computer science/080 - Configs & Setups/Obsidian/Syntax-Highlighting Obsidian.md",
-    "education/school/philosphy/Quotes/Quotes Overall.md",
     "education/computer science/020 - Frameworks/021 - SDL/Locking surface - SDL.md",
     "education/computer science/070 - Linux/Linux commands.md",
     "education/politics/Der marxistische Materialismus.md",
@@ -203,12 +235,6 @@
     "development/active/Coding Kids/Coding Kids/Tasks/Plan project.md",
     "development/active/Coding Kids/Tasks/Untitled.md",
     "development/active/Coding Kids/Tasks/Write documentation.md",
-    "development/active/Coding Kids/Tasks/Untitled 2.md",
-    "development/active/Coding Kids/Tasks/Untitled 1.md",
-    "development/active/Coding Kids/Tasks/Research and discovery.md",
-    "development/active/Coding Kids/Tasks/Fix onboarding bug with permissions.md",
-    "development/active/Coding Kids/Tasks/Coding Kids.md",
-    "development/active/Coding Kids/Tasks/Build first feature.md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",

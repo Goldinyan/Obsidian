@@ -29,5 +29,5 @@
   "underlineExternal": true,
   "folding": false,
   "lineNumbers": true,
-  "readableLineLength": true
+  "readableLineLength": false
 }

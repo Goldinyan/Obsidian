@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "no idea/Kommunismus ist keine Utopie!.md",
+                "file": "education/school/physics/Hawking - Strahlung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kommunismus ist keine Utopie!"
+              "title": "Hawking - Strahlung"
+            }
+          },
+          {
+            "id": "0eb356a5df5579a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "education/school/physics/Hawking - Strahlung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hawking - Strahlung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,8 +116,8 @@
         "state": {
           "type": "bookmarks",
           "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "icon": "lucide-ghost",
+          "title": "bookmarks"
         }
       }
     ],
@@ -108,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "no idea/Kommunismus ist keine Utopie!.md",
+            "file": "education/school/physics/Hawking - Strahlung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,15 +193,15 @@
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graph-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "random-note:Zufällige Notiz öffnen": false,
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0eb356a5df5579a5",
   "lastOpenFiles": [
+    "Fun facts idn.md",
+    "education/school/physics/Hawking - Strahlung.md",
     "H-Methode.md",
     "Kommunismus.md",
     "Besitz und Eigentum im Kommunismus 2.md",
@@ -202,8 +227,6 @@
     "100 - School/500 Philosophie/Mierschs Kritik auf die Position Singers.md",
     "Kampf der Kulturen.md",
     "Untitled",
-    "400 History/Untitled.md",
-    "300 School/Physik/Kreisbewegungen/Formelsammlung Kreisbewegungen.md",
     "001 Raw Material/Conversation",
     "001 Raw Material/Skadi",
     "001 Raw Material/Videos",
