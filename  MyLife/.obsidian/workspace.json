@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exponential Trick.md",
+                "file": "education/computer science/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exponential Trick"
+              "title": "Kitty Commands"
+            }
+          },
+          {
+            "id": "addc341fa434c4eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "education/computer science/020 - Frameworks/git/create github repo in terminal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "create github repo in terminal"
+            }
+          },
+          {
+            "id": "09091cf6931d196e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,10 +245,14 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "1f99d77c1fc4b1fc",
+  "active": "09091cf6931d196e",
   "lastOpenFiles": [
-    "gold/900 - Other/930 - Cheatsheet/LAtex.md",
+    "education/computer science/020 - Frameworks/git/create github repo in terminal.md",
+    "Untitled.md",
+    "ffmpeg.md",
+    "education/computer science/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
     "Exponential Trick.md",
+    "gold/900 - Other/930 - Cheatsheet/LAtex.md",
     "Common Misconceptions of Communism.md",
     "The government.md",
     "education/school/philosphy/Quotes/Quotes Overall.md",
@@ -231,10 +283,6 @@
     "development/active/Coding Kids/Coding Kids/Tasks/Write documentation.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Fix onboarding bug.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Build first feature.md",
-    "development/active/Coding Kids/Coding Kids/Tasks/Research and discovery.md",
-    "development/active/Coding Kids/Coding Kids/Tasks/Plan project.md",
-    "development/active/Coding Kids/Tasks/Untitled.md",
-    "development/active/Coding Kids/Tasks/Write documentation.md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",

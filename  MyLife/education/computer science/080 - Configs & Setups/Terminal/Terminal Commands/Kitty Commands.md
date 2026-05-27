@@ -1,4 +1,83 @@
+To visualize a **JPEG image** directly in the **Kitty terminal**, you can use the built-in **image display protocol** that Kitty supports. This allows you to render images directly in the terminal without needing an external image viewer.
 
+---
+
+### **Steps to Display a JPEG in Kitty Terminal**
+1. **Ensure Kitty Supports Image Display**:
+   - Kitty has built-in support for displaying images using the `kitty +kitten icat` command. This is part of Kitty's "kittens" (small utilities bundled with Kitty).
+
+2. **Use the `icat` Kitten**:
+   - The `icat` kitten is designed to display images in the terminal. You can use it to render a JPEG image.
+
+3. **Command to Display a JPEG**:
+   Run the following command in your terminal:
+   ```bash
+   kitty +kitten icat /path/to/your/image.jpg
+   ```
+   Replace `/path/to/your/image.jpg` with the actual path to your JPEG file.
+
+---
+
+### **Example**
+If your image is named `example.jpg` and is in your current directory, run:
+```bash
+kitty +kitten icat example.jpg
+```
+
+---
+
+### **Additional Options**
+1. **Resize the Image**:
+   You can resize the image to fit the terminal window using the `--scale-up` or `--scale-down` flags:
+   ```bash
+   kitty +kitten icat --scale-up example.jpg
+   ```
+
+2. **Display Image in a Specific Position**:
+   Use the `--place` flag to specify the position and size of the image:
+   ```bash
+   kitty +kitten icat --place="100x50@100x20" example.jpg
+   ```
+   - `100x50` sets the width and height.
+   - `100x20` sets the position (x,y).
+
+3. **Display Image in the Background**:
+   If you want to display the image in the background (e.g., for a wallpaper effect), you can use:
+   ```bash
+   kitty +kitten icat --stdin=no --place="100%x100%@0x0" example.jpg < /dev/null &
+   ```
+   - This renders the image in the background and continues using the terminal.
+
+---
+
+### **Notes**
+- **Kitty Must Be Running**: The image will only display if Kitty is already running. If you're using another terminal, you won't see the image.
+- **Supported Formats**: Kitty supports JPEG, PNG, GIF, and other common image formats.
+- **Performance**: Large images may take a moment to render, especially if your terminal is not optimized for image display.
+
+---
+
+### **Alternative: Use `viu` for Terminal Image Display**
+If you prefer a more interactive experience, you can use the `viu` tool, which is designed to display images in the terminal:
+1. Install `viu`:
+   ```bash
+   cargo install viu
+   ```
+   (Requires [Rust](https://www.rust-lang.org/) to be installed.)
+
+2. Display the image:
+   ```bash
+   viu example.jpg
+   ```
+
+---
+### **Summary**
+| Method             | Command                                                  | Description                                             |
+| ------------------ | -------------------------------------------------------- | ------------------------------------------------------- |
+| **Kitty `icat`**   | `kitty +kitten icat /path/to/image.jpg`                  | Display image directly in Kitty terminal.               |
+| **Resize Image**   | `kitty +kitten icat --scale-up example.jpg`              | Scale the image to fit the terminal.                    |
+| **Position Image** | `kitty +kitten icat --place="100x50@100x20" example.jpg` | Set position and size of the image.                     |
+| **`viu` Tool**     | `viu example.jpg`                                        | Alternative tool for displaying images in the terminal. |
 
 
 
