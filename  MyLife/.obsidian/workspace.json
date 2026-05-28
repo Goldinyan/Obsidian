@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "2be1ab232ea19c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analyse pragmatischer Texte.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Analyse pragmatischer Texte"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -245,10 +270,11 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "09091cf6931d196e",
+  "active": "2be1ab232ea19c6e",
   "lastOpenFiles": [
-    "education/computer science/020 - Frameworks/git/create github repo in terminal.md",
     "Untitled.md",
+    "Analyse pragmatischer Texte.md",
+    "education/computer science/020 - Frameworks/git/create github repo in terminal.md",
     "ffmpeg.md",
     "education/computer science/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
     "Exponential Trick.md",
@@ -282,7 +308,6 @@
     "education/politics/Der marxistische Materialismus.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Write documentation.md",
     "development/active/Coding Kids/Coding Kids/Tasks/Fix onboarding bug.md",
-    "development/active/Coding Kids/Coding Kids/Tasks/Build first feature.md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
