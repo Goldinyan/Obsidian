@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "education/school/physics/Hawking - Strahlung.md",
+                "file": "Analyse pragmatischer Texte.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hawking - Strahlung"
+              "title": "Analyse pragmatischer Texte"
             }
           }
         ],
@@ -133,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "education/school/physics/Hawking - Strahlung.md",
+            "file": "Analyse pragmatischer Texte.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,8 +200,8 @@
   },
   "active": "0eb356a5df5579a5",
   "lastOpenFiles": [
-    "Fun facts idn.md",
     "education/school/physics/Hawking - Strahlung.md",
+    "Fun facts idn.md",
     "H-Methode.md",
     "Kommunismus.md",
     "Besitz und Eigentum im Kommunismus 2.md",
