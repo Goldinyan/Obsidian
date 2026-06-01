@@ -150,9 +150,57 @@
               "icon": "lucide-file",
               "title": "w3m - Browser in Terminal"
             }
+          },
+          {
+            "id": "d2d8ba7498f50867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freiheit und ihre Beschränkung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Freiheit und ihre Beschränkung"
+            }
+          },
+          {
+            "id": "32e8cf0bc41fc642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String to int in C.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "String to int in C"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -200,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -293,10 +342,12 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "486d6b03888f2a2b",
+  "active": "32e8cf0bc41fc642",
   "lastOpenFiles": [
-    "Analyse pragmatischer Texte.md",
+    "Freiheit und ihre Beschränkung.md",
+    "String to int in C.md",
     "w3m - Browser in Terminal.md",
+    "Analyse pragmatischer Texte.md",
     "Mentos & Coca Cola.md",
     "Untitled.md",
     "education/computer science/020 - Frameworks/git/create github repo in terminal.md",
@@ -329,8 +380,6 @@
     "education/school/history/War \"Al Almandus\" ein tolerantes Miteinander - Mini Essay.md",
     "education/computer science/080 - Configs & Setups/Obsidian/Syntax-Highlighting Obsidian.md",
     "education/computer science/020 - Frameworks/021 - SDL/Locking surface - SDL.md",
-    "education/computer science/070 - Linux/Linux commands.md",
-    "education/politics/Der marxistische Materialismus.md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
