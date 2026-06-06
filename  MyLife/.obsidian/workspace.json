@@ -270,9 +270,57 @@
               "icon": "lucide-file",
               "title": "web 1"
             }
+          },
+          {
+            "id": "45c3d26752bf72e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyber.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cyber"
+            }
+          },
+          {
+            "id": "d281207e335d52c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "For loops in Cpp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "For loops in Cpp"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -414,10 +462,13 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "ed0ca5ca93fb0d10",
+  "active": "d281207e335d52c0",
   "lastOpenFiles": [
-    "lines of code in a project.md",
+    "cyber.md",
+    "For loops in Cpp.md",
+    "education/politics/Marxistische Analyse des Absolutismus & Aufklärung 2.md",
     "web 1.md",
+    "lines of code in a project.md",
     "hosting.md",
     "String to int in C.md",
     "Freiheit und ihre Beschränkung.md",
@@ -449,9 +500,6 @@
     "education",
     "media/books/done.base",
     "education/computer science/SSH.md",
-    "education/computer science/080 - Configs & Setups/Obsidian/Obsidian Keybinds.md",
-    "education/computer science/languages/011 - C/Memory Managment - C/Checking for Memory Leaks in C.md",
-    "no idea/v.md",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",
