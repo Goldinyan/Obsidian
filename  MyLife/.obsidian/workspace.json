@@ -318,9 +318,33 @@
               "icon": "lucide-file",
               "title": "For loops in Cpp"
             }
+          },
+          {
+            "id": "583939a5996ebd6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die Geschichte der Filmmusik - kurz im Überblick.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Die Geschichte der Filmmusik - kurz im Überblick"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -462,11 +486,12 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "d281207e335d52c0",
+  "active": "583939a5996ebd6a",
   "lastOpenFiles": [
+    "For loops in Cpp.md",
+    "Die Geschichte der Filmmusik - kurz im Überblick.md",
     "gold/900 - Other/920 - Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2 2.md",
     "cyber.md",
-    "For loops in Cpp.md",
     "education/politics/Marxistische Analyse des Absolutismus & Aufklärung 2.md",
     "web 1.md",
     "lines of code in a project.md",
@@ -494,7 +519,6 @@
     "downloads",
     "education/computer science/020 - Frameworks/raylib",
     "education/computer science/020 - Frameworks/git",
-    "education/politics/Materiell.md",
     "media/books/upcoming.base",
     "education/politics",
     "gold",
