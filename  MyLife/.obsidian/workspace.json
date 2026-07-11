@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb6e867f2b35b293",
+        "id": "1feb1acebb1824e1",
         "type": "tabs",
         "children": [
           {
-            "id": "071a9aea74b3e3c8",
+            "id": "fd0f7334d7fbedd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber.md",
+                "file": "gold/900 - Other/920 - Raw Material/Surrounded/1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cyber"
-            }
-          },
-          {
-            "id": "d3516923f9d5f83d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "education/computer science/020 - Frameworks/git/create github repo in terminal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "create github repo in terminal"
-            }
-          },
-          {
-            "id": "9deac0b7501fa868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 359.50390243530273
   },
   "right": {
     "id": "9afd9f5eac9b497f",
@@ -145,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "education/school/physics/Hawking - Strahlung.md",
+                "file": "gold/900 - Other/920 - Raw Material/Surrounded/1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hawking - Strahlung"
+              "title": "Backlinks for 1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded"
             }
           },
           {
@@ -194,20 +144,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "education/school/physics/Hawking - Strahlung.md",
+                "file": "gold/900 - Other/920 - Raw Material/Surrounded/1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hawking - Strahlung"
+              "title": "Outgoing links from 1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,44 +172,44 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "9deac0b7501fa868",
+  "active": "fd0f7334d7fbedd0",
   "lastOpenFiles": [
-    "education/computer science/020 - Frameworks/git/create github repo in terminal.md",
-    "Untitled 1.md",
-    "Sensory game.md",
-    "cyber.md",
-    "Exponential Trick.md",
-    "react doctor coding kids.md",
-    "React Doctor.md",
-    "Die Geschichte der Filmmusik - kurz im Überblick.md",
-    "For loops in Cpp.md",
-    "web 1.md",
-    "lines of code in a project.md",
-    "hosting.md",
-    "String to int in C.md",
-    "Freiheit und ihre Beschränkung.md",
-    "w3m - Browser in Terminal.md",
-    "Analyse pragmatischer Texte.md",
-    "Untitled.md",
-    "education/computer science/080 - Configs & Setups/Terminal/Terminal Commands/Kitty Commands.md",
-    "gold/900 - Other/930 - Cheatsheet/LAtex.md",
+    "gold/900 - Other/920 - Raw Material/Videos/The Irony of the Dunning-Kruger Effect.md",
+    "gold/900 - Other/920 - Raw Material/Videos/TIKTOK RICH.md",
+    "gold/900 - Other/920 - Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2 3.md",
     "gold/900 - Other/920 - Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2 2.md",
-    "education/politics/Marxistische Analyse des Absolutismus & Aufklärung 2.md",
-    "Mentos & Coca Cola.md",
-    "ffmpeg.md",
-    "Common Misconceptions of Communism.md",
-    "The government.md",
-    "education/school/philosphy/Quotes/Quotes Overall.md",
+    "gold/900 - Other/920 - Raw Material/Videos/marcatn video \"Auslöschung der Deutschen2.md",
+    "gold/Performative Cyber Security Loadout.md",
+    "gold/900 - Other/910 - Index/Homepage.md",
+    "gold/Fun Facts.md",
+    "gold/900 - Other/910 - Index/Current Status Tag.md",
+    "gold/templates/new Note.md",
+    "Untitled.md",
+    "education/wisdom/270 - Art/274 - Movies/Katniss Everdenn's Fragmentation after Everything.md",
+    "education/wisdom/220 - Mini Essays/Zero-Knowledge Proof.md",
+    "education/wisdom/220 - Mini Essays/Stop Coding like a Junior.md",
+    "education/wisdom/220 - Mini Essays/Speech about biodiversity.md",
+    "education/computer science/For loops in Cpp.md",
+    "education/computer science/Github für Kids.md",
+    "education/computer science/Network Connection.md",
+    "education/computer science/Iterator Invalidation & Delayed Effects.md",
+    "education/computer science/030 - Topics/031 - Cyber Security/Exploiting Websites.md",
+    "gold/templates",
+    "education/computer science/080 - Configs & Setups/Terminal/w3m - Browser in Terminal.md",
+    "education/politics/The Idea of Creation in Capitalism.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "education/politics/The government.md",
+    "education/computer science/languages/String to int in C.md",
+    "development/inactive",
+    "education/math",
+    "education/school/music",
+    "education/school/physics/Mechanische Schwingungen",
+    "education/computer science/C++ Game Dev Lecture",
     "downloads/engels-entwickl-des-soz copy.pdf",
     "downloads/The Ethnic Cleansing of Palestine -- Ilan Pappé, Luis Noriega, Ilan Papeh -- 50718th, PS, 2006 -- Oneworld Publications -- 9781435686298 -- 5f7fafd0c1776c25131e4d4a73982d85 -- Anna’s Archive copy.pdf",
     "downloads",
     "education/computer science/020 - Frameworks/raylib",
-    "education/computer science/020 - Frameworks/git",
-    "media/books/upcoming.base",
-    "education/politics",
-    "gold",
-    "education",
-    "media/books/done.base",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",
     "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
     "obsidian-iconize/docs/assets/individual-icon-color.png",

@@ -214,6 +214,27 @@ Wenn große Schwarze Löcher kälter als die Hintergrundstrahlung sind, wachsen 
 
 
 
+
+
+Guten Abend, 
+leider werde ich morgen aufgrund gesundheitlicher Probleme nicht kommen können. 
+Da ich allerdings sehr viel Mühe in die Physik-Präsentation gesteckt habe, wäre es eine Schande wenn ich sie nicht mit vorstellen dürfte. 
+Wäre es möglich, dass wir sie am Freitag vorstellen dürfen? 
+Wenn dies eine negativen Einfluss auf die Note der Präsentation mitführen würde, würde ich diesen in Kauf nehmen.
+
+Ich habe noch ein zweites Anliegen, nämlich haben Sie, so habe ich zumindest gesagt bekommen, einem Jungen die Coder Dojos empfohlen. 
+Ich habe das Gefühl, dass er echt perfekt da rein passt, also war das schonmal ein sehr gute Idee. :) 
+Allerdings wäre es sehr gut wenn ich in per Nachricht erreichen könnte, da ich leider extrem schlecht mit Namen bin, wollte ich fragen ob Sie, mir seinem Namen verraten könnten, damit ich ihn per Teams erreichen kann.
+
+Liebe Grüße und einen schönen Rest Feiertag, 
+Ansgar
+
+
+
+
+
+
+
 ### Warum sind kleine Schwarze Löcher heißer?
 
 Das ist eine der überraschendsten Eigenschaften der Hawking-Strahlung.

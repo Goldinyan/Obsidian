@@ -1,0 +1,9 @@
+/* Für den Editor-Modus (Live Preview) */
+.cm-strong {
+  color: #ff6b6b; /* Hier deine Wunschfarbe einfügen */
+}
+
+/* Für die Leseansicht (Reading View) */
+.markdown-rendered strong {
+  color: #ff6b6b; /* Hier deine Wunschfarbe einfügen */
+}

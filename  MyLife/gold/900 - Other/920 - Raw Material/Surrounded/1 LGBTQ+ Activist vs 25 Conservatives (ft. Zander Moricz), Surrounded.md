@@ -1,6 +1,10 @@
 
-Tags: #W 
-
+Date: **2025-06-15** : **15:37**
+Tags: {
+#status/done 
+[[%Politik]]
+[[%Capitalism]]
+}
 
 # Trump and Musk are grooming more young Americans than the LGBTQ+ Community
 

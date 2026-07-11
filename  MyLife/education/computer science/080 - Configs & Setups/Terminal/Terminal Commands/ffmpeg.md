@@ -1,4 +1,4 @@
-onvert it to PPM using tools like:
+Convert it to PPM using tools like:
 
 ### **Using `ffmpeg` (Command Line)**
 

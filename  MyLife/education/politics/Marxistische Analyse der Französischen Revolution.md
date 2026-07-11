@@ -1,49 +1,62 @@
 ---
-id: "Marxistische Analyse der Französischen Revolution"
+id: Marxistische Analyse des Absolutismus & Aufklärung
 aliases:
 Topic:
 Related:
 Tags:
   - w
-Date:
+Date: 2026-05-16T10:22:00
 Updated:
 Source:
 ---
-# Marxistische Analyse der Französischen Revolution
-
-was an country with increasingly hated despotic regime 
-extreme inequality and misery for the vast majority
-enourmus debt crisis for the state, by waging wars they couldnt addford 
-
-1789
-
-in a span of few years every vestage of feudal oprression had been thhrown into the fires of revoulution genau wie alle anderen hated forces in society
-aristocracy 
-church
-rotten court clerk aroung Louis V 16th had seemed to be invincible
-
-the history had been buried beneath lies, even becasue the average western capitals is a part of the bogrursie who were the main benifted from the revoultion (descendats of the bougruosei)
-the actual event fill them with dread 
+# Marxistische Analyse des Absolutismus & Aufklärung
 
 
+### Absolutismus
 
-the task of the revoulution was to pave the way for the development of capitalist interset and property and to enable the exploatition of the productive technology 
+Normalerweise wird der Absolutismus als Drei-Stände-Modell erklärt, welche aufgeteilt sind in:
+1. Klerus
+2. Adel 
+3. Bauern und Bürgertum
+Die Ungerechtigkeit ist hier ein herrschendes Mittel, weswegen Bauern und Bürger die gesamte Steuerlast tragen, während die oberen 10% im Luxus leben.
+Darauf folgte die Krise von 1789, welche als Finanzkrise des Staates (Kriege und Hofhaltung) und Naturkatastrophe (Missernten) dargestellt wird.
 
-they achieved this, but not the bg did, they led it. 
-it was led by the most revoultuionary elemnts the middle class the petit bg
-but it was carried out by the masses
-the big part of the revo was the movement of the most oprresed sections of society 
+Allerdings ist der Absolutimus in keinster Wise ein ungerechtes System eines Königs, sondern eine Übergangsphase im Klassenkampf zwischen Feudalismus und Kapitalismus.
 
+Der Feudaladel war sich seinem Untergang bewusst und der Absolutimus war der letzt Versuch seine Macht gegen das wirtschaftlich immer stärkender werdende Bürgertum (Bourgeoisie) zu verteidigen.
 
-they are terrified of the masses because they know which methods they used and this is why theyre terrified of the working class today.
+Die notwendige Marxistische Analyse erklärt, dass sich der Adel und die Bourgeoisie im Spätabsolutimus fast die Waage hielten.
+Allerdings konnte sich der König nur als "absoluter" Herrscher inszenieren, durch das ausspielen beider Klassen gegeneinander.
+Er schützte die Privilegien des Adels, brauchte aber das Geld und die Verwaltungskompetenz des Bürgertums.
 
-It was a bourgusier revo 
-
-it wasnt achieved by one stroker rather over a series of revolutions and counter revolutions (6 years)
-
-two distinct phases, these phases are distinct to every revo 
-momevent of the oppressed 
-they come out of the darkness and belive the ideological shit they learned and thinking they could overcom
-
+### Aufklärung
 
 
+Die Aufklärung wird immer als eine Epoche des Geistes gelernt, eine Epoche geprägt von Vernunft, gegen den Kirchenglauben und Willkür.
+
+Die größten Denker offenbarten Weisheiten und Vernunft, wie Montesquieu (Gewalteinteilung), Rousseau (Volkssouveränität) oder Voltaire (Toleranz).
+
+Die offenbarten Ideen der Aufklärung rüttelten die Menschen wach. Das Volk erkannte seine Unmündigkeit, und diese neuen Ideen von Freiheit, Gleichheit und Brüderlichkeit führten direkt zur Revolution.
+
+Dieses Verhältnis wird von Marxist:innen gedreht:
+
+>"Es ist nicht das Bewusstsein der Menschen, das ihr Sein, sondern umgekehrt ihr gesellschaftliches Sein, das ihr Bewusstsein bestimmt"
+
+Die Ideen der Aufklärung fielen nicht vom Himmel. Sie waren der theoretische Ausdruck der wirtschaftlichen Interessen der Bourgeoisie.
+
+**„Freiheit“** bedeutete für die Aufklärer vor allem die Freiheit des Eigentums, die Handelsfreiheit und die Freiheit, Arbeitskräfte einzustellen (Befreiung der Bauern aus der Leibeigenschaft, damit sie zu lohnarbeitenden Proletariern werden konnten).
+    
+**„Gleichheit“** bedeutete die rechtliche Gleichheit vor dem Gesetz (Abschaffung der Adelsprivilegien), explizit nicht die ökonomische Gleichheit.
+
+Marxisten schätzen Jean-Jacques Rousseau oft besonders, weil er in seinem Diskurs über die Ungleichheit das Privateigentum als Wurzel allen gesellschaftlichen Übels benannte. 
+Er bildet eine Brücke zu späteren sozialistischen Ideen.
+(Löwe)
+
+
+
+### Marxistische Perspektive
+
+Auch wenn viele Marxisten den Kapitalismus kritisieren, sehen sie die Französische Revolution als einen gigantischen Fortschritt für die Menschheit. Sie hat die Produktivkräfte befreit und überhaupt erst die Arbeiterklasse (das Proletariat) geschaffen, die laut Marx nun die nächste, die sozialistische Revolution anführen wird.
+
+Die Parole „Liberté, Égalité, Fraternité“ offenbarte schnell ihren Klassencharakter. 
+Als die Arbeiter und Armen nach der Revolution soziale Gleichheit (Brotpreise, Löhne) einforderten, wurden sie vom siegreichen Bürgertum brutal zusammengeschlagen (z. B. das Verbot von Gewerkschaften durch das Gesetz Le Chapelier 1791).

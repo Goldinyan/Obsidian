@@ -10,5 +10,7 @@
   "showViewHeader": true,
   "showRibbon": true,
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "bold-color"
+  ]
 }
