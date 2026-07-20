@@ -1,0 +1,88 @@
+/* 
+   Koda Minimalist Hack: Total Corner Flattening & Monolithic Tab-Bar
+*/
+
+/* 1. Farben aus deiner Lua-Config injizieren */
+.theme-dark {
+    --bg-dark: #090909;      /* koda-dark bg */
+    --line-dark: #1a1a1a;    /* koda-dark line */
+    --bg-moss: #090d0e;      /* koda-moss bg */
+    --line-moss: #151d1e;    /* koda-moss line */
+
+    /* Wir nutzen standardmäßig koda-dark für ein monolithisches Interface */
+    --background-primary: var(--bg-dark);
+    --background-primary-alt: var(--bg-dark);
+    --background-secondary: var(--bg-dark);
+    --background-secondary-alt: var(--bg-dark);
+    
+    /* Obsidian Tab-spezifische Variablen überschreiben */
+    --bg-opacity: 1;
+    --tab-background-active: var(--bg-dark);
+    --tab-background-inactive: var(--bg-dark);
+    --titlebar-background: var(--bg-dark);
+    --titlebar-background-focused: var(--bg-dark);
+    
+    --border-width: 1px;
+    --border-color: var(--line-dark);
+}
+
+/* 2. DIE GRAUE TAB-BAR OBEN RESTLOS SCHWARZ FÄRBEN */
+.titlebar,
+.titlebar-inner,
+.workspace-tab-header-container,
+.workspace-tab-header,
+.workspace-tab-container,
+.view-header {
+    background-color: var(--bg-dark) !important;
+    background: var(--bg-dark) !important;
+    border-bottom: 1px solid var(--line-dark) !important;
+}
+
+/* Inaktive Tabs dezent halten, aktive Tabs hervorheben (über deine Line-Farbe) */
+.workspace-tab-header {
+    border-right: 1px solid var(--line-dark) !important;
+}
+
+.workspace-tab-header.is-active {
+    background-color: var(--bg-dark) !important;
+    border-bottom: 2px solid #f2f2f2 !important; /* Minimaler weißer Akzent für den aktiven Tab */
+}
+
+/* 3. RADIKALES DEAKTIVIEREN ALLER ROUNDED CORNERS */
+*, 
+*::before, 
+*::after,
+.app-container,
+.workspace,
+.workspace-split,
+.workspace-leaf,
+.workspace-leaf-content,
+.view-header,
+.view-content,
+.titlebar,
+.status-bar,
+.menu,
+.dropdown,
+.modal,
+.notice,
+.input,
+.button,
+.nav-file,
+.nav-folder,
+.side-dock-ribbon,
+.cm-content,
+.workspace-tab-header,
+.workspace-tab-header-container {
+    border-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    box-shadow: none !important;
+}
+
+/* Verhindert, dass die native macOS-Fenster-Maske das Electron-Fenster beschneidet */
+html, body {
+    background-color: var(--background-primary) !important;
+    border-radius: 0px !important;
+}

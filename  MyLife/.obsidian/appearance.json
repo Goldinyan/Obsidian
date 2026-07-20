@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "accentColor": "#929090",
-  "cssTheme": "Transparent",
+  "cssTheme": "",
   "baseFontSizeAction": false,
   "baseFontSize": 24,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
@@ -11,6 +11,8 @@
   "showRibbon": true,
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
-    "bold-color"
-  ]
+    "bold-color",
+    "koda-theme"
+  ],
+  "nativeMenus": false
 }

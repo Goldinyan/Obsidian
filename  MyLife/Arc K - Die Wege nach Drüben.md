@@ -24,6 +24,8 @@ collapse: open
   "~={yellow}Ich wusste nicht, dass ihr so viele seid!=~"
 ```
 
+
+
 Nach einer Weile sind sie hoch genug, um einen Blick auf Hüben und den Nebel zu haben, auf den sie zusteuern. Ganz entfernt, ganz weit und fern, sehen sie sogar die Grenzen vom Palast.
 
 ```ad-narrative
