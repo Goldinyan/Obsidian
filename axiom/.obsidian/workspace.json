@@ -35,14 +35,52 @@
             "id": "4a6293f7e2c2c553",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "firefox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "firefox"
+            }
+          },
+          {
+            "id": "2278d501e2dd4546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "serve.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "serve"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,12 +216,16 @@
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "bases:Create new base": true
+      "bases:Create new base": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "4a6293f7e2c2c553",
+  "active": "2278d501e2dd4546",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "firefox.md",
+    "serve.md",
     "Arc K - Die Wege nach Drüben.md",
     "Hexenlicht.md",
     "gold/900 - Other/920 - Raw Material/Surrounded/1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded.md",
@@ -209,7 +251,6 @@
     "education/computer science/030 - Topics/031 - Cyber Security/Exploiting Websites.md",
     "gold/templates",
     "education/computer science/080 - Configs & Setups/Terminal/w3m - Browser in Terminal.md",
-    "education/politics/The Idea of Creation in Capitalism.md",
     "development/inactive",
     "education/math",
     "education/school/music",
