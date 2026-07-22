@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "serve"
             }
+          },
+          {
+            "id": "2d442969ac37373b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FDP vs Linke - Vermögenssteuer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "FDP vs Linke - Vermögenssteuer"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,10 +246,11 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "2278d501e2dd4546",
+  "active": "2d442969ac37373b",
   "lastOpenFiles": [
-    "firefox.md",
+    "FDP vs Linke - Vermögenssteuer.md",
     "serve.md",
+    "firefox.md",
     "Arc K - Die Wege nach Drüben.md",
     "Hexenlicht.md",
     "gold/900 - Other/920 - Raw Material/Surrounded/1 LGBTQ+ Activist vs 25 Conservatives (ft. Zander Moricz), Surrounded.md",
@@ -250,7 +275,6 @@
     "education/computer science/Iterator Invalidation & Delayed Effects.md",
     "education/computer science/030 - Topics/031 - Cyber Security/Exploiting Websites.md",
     "gold/templates",
-    "education/computer science/080 - Configs & Setups/Terminal/w3m - Browser in Terminal.md",
     "development/inactive",
     "education/math",
     "education/school/music",
